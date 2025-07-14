@@ -5,7 +5,7 @@ The purpose of this repo is to download and mirror the transcriptions of talks f
 
 ## Talk Storage Structure
 
-The 'live' directory is the live talks, and 'video' are the other videos.
+The 'streams' directory is the live talks, and 'videos' are the other videos.
 
 ## Script usage
 
@@ -13,7 +13,16 @@ This script downloads video transcripts from a YouTube channel, processes them w
 
 ### Basic Usage
 
+Start the python enviroment:
 ```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+Run the script:
+```bash
+ python -m venv .venv
 GEMINI_API_KEY=your_api_key python download.py <channel_url> <output_dir>
 ```
 
