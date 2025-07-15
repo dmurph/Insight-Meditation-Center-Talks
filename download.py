@@ -22,7 +22,7 @@ def sanitize_filename(title):
     Removes characters that are illegal in file names across different OS.
     """
     # Change / to - for some ok structure.
-    sanitized = re.sub(r'[\\/]', '-', title);
+    sanitized = re.sub(r"[\\/]", "-", title)
     # Remove illegal characters
     sanitized = re.sub(r'[\\/*?:"<>|]', "", sanitized)
     # Replace sequences of whitespace with a single space
@@ -134,7 +134,7 @@ def download_video_urls(channel_url, output_filename, redownload_video_urls=Fals
         logging.info(f"Created directory: {output_dir}")
 
     video_cache_path = os.path.join(output_dir, f"{output_filename}.json")
-    logging.info(f"Saving to {video_cache_path}");
+    logging.info(f"Saving to {video_cache_path}")
 
     if not redownload_video_urls and os.path.exists(video_cache_path):
         logging.info(f"Found video list cache at: {video_cache_path}")
