@@ -1,10 +1,12 @@
 import os
+import random
 import re
 import argparse
 import scrapetube
 import yt_dlp
 import logging
 import json
+from enum import Enum
 import subprocess
 from youtube_transcript_api import (
     YouTubeTranscriptApi,
@@ -112,12 +114,16 @@ def process_and_save_transcript_with_ai(
         logging.error(f"  -> An unexpected error occurred during AI processing: {e}")
         return False
 
+class UrlType(Enum):
+    CHANNEL = 1
+    PLAYLIST = 2
 
-def download_video_urls(channel_url, output_filename, redownload_video_urls=False):
+def download_video_urls(url_or_id, type : UrlType = UrlType.CHANNEL, redownload_video_urls=False):
     """
     Ensures the videos.json file is downloaded.
     """
     output_dir = "videos"
+    output_filename = sanitize_filename(url_or_id);
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
         logging.info(f"Created directory: {output_dir}")
@@ -127,31 +133,48 @@ def download_video_urls(channel_url, output_filename, redownload_video_urls=Fals
 
     if not redownload_video_urls and os.path.exists(video_cache_path):
         logging.info(f"Found video list cache at: {video_cache_path}")
-        with open(video_cache_path, "r", encoding="utf-8") as f:
-            videos = json.load(f)
-        logging.info(f"Loaded {len(videos)} video details from cache.")
-        # Prune the video data to only include videoId
-        return [{"videoId": video["videoId"]} for video in videos]
+        try:
+            with open(video_cache_path, "r", encoding="utf-8") as f:
+                videos = json.load(f)
+            
+            logging.info(f"Loaded {len(videos)} video details from cache.")
+            # Prune the video data to only include videoId
+            return [{"videoId": video["videoId"]} for video in videos]
+        except json.JSONDecodeError as e:
+            logging.error(f"Error: Could not decode json: {e}")
 
-    logging.info(f"Connecting to channel: {channel_url}")
     try:
-        videos_full = list(scrapetube.get_channel(channel_url=channel_url))
+        
+        videos_full = []
+        match type:
+            case UrlType.CHANNEL:
+                logging.info(f"Connecting to channel: {url_or_id}")
+                videos_full = list(scrapetube.get_channel(channel_url=url_or_id))
+            case UrlType.PLAYLIST:
+                logging.info(f"Connecting to playlist: https://www.youtube.com/playlist?list={url_or_id}")
+                # Choose a random sleep time between 0 and 5 seconds
+                sleep_time = random.random() * 5
+                output = scrapetube.get_playlist(playlist_id=url_or_id, sleep=sleep_time)
+                videos_full = list(output)
         if not videos_full:
             logging.error(
-                "Error: Could not find any videos for this channel. Please check the URL."
+                "Error: Could not find any videos for this channel or playlist. Please check the argument."
             )
             return None
+        logging.info(f"Found videos");
 
-        logging.info(f"Found {len(videos_full)} videos. Saving video list to cache...")
+
         with open(video_cache_path, "w", encoding="utf-8") as f:
             json.dump(videos_full, f, indent=4)
         logging.info(f"Video list saved to {video_cache_path}")
 
+        minified = [{"videoId": video["videoId"]} for video in videos_full]
+        logging.info(f"Found {len(minified)} videos.")
         # Prune the video data to only include videoId
-        return [{"videoId": video["videoId"]} for video in videos_full]
+        return minified
     except Exception as e:
         logging.error(f"Error: Could not connect to the channel using scrapetube.")
-        logging.error(f"Details: {e}")
+        logging.exception(f"Details: {e}")
         return None
 
 
@@ -310,13 +333,22 @@ def main():
 
     channel_url_source = sources.add_parser("channel-url", help="Use a channel url")
     channel_url_source.add_argument(
-        "url", help="The URL of the YouTube channel.", type=str
+        "url", help="The URL of the YouTube channel. Defaults to the IMC live stream channel", type=str, default="https://www.youtube.com/@InsightMeditationCenter/streams"
     )
     channel_url_source.add_argument(
         "--redownload-video-urls",
         action="store_true",
         help="Force redownload of video URLs list.",
     )
+
+    playlist_url_source = sources.add_parser("playlist-id", help="Use a playlist url")
+    playlist_url_source.add_argument(
+        "playlist_id", help="The id of a YouTube playlist. Defaults to all videos on the IMC channel.", type=str, default="UUGliqsod-tQoGiHahxS9Wig"
+    )
+    playlist_url_source.add_argument(
+        '--redownload-playlist-urls',
+        action='store_true',
+        help='Force redownload of video URLs list.')
 
     parser.add_argument(
         "--limit",
@@ -346,9 +378,15 @@ def main():
         videos = [{"videoId": args.id}]
     elif args.fetch_source == "channel-url":
         videos = download_video_urls(
-            args.url,
-            sanitize_filename(args.url),
-            args.redownload_video_urls,
+            url_or_id=args.url,
+            type=UrlType.CHANNEL,
+            redownload_video_urls=args.redownload_video_urls,
+        )
+    elif args.fetch_source == "playlist-id":
+        videos = download_video_urls(
+            url_or_id=args.playlist_id,
+            type=UrlType.PLAYLIST,
+            redownload_video_urls=args.redownload_playlist_urls,
         )
     else:
         parser.print_help()

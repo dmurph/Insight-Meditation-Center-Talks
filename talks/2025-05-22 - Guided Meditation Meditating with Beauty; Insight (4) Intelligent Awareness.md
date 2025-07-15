@@ -1,0 +1,91 @@
+*This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Meditating with Beauty; Insight (4) Intelligent Awareness](https://www.youtube.com/watch?v=kyAUiSV5arE). It likely contains inaccuracies.*
+
+# Guided Meditation: Meditating with Beauty; Insight (4) Intelligent Awareness
+
+The following talk was given by Gil Fronsdal at the Insight Meditation Center in Redwood City, California. Please visit website [www.audiodharma.org](https://www.audiodharma.org) to find the authoritative record of this talk.
+
+## Guided Meditation: Meditating with Beauty
+
+Hello from Insight Meditation Center in Redwood City. I'm delighted that this meditation hall has become so large and encompassing to include all of you in all the different places you are, and for us to have come together this morning to meditate.
+
+One of the emphases I've been giving lately is that I'm defining awareness as the coordinated coming together, the working together, of all the different attentional faculties that we have. When they're all working in an unself-conscious way, but we're quite present for them all, they come together to a sense or feeling of a spacious, open, receptive field of awareness. Our capacity for spatial awareness and spatial reconstruction contributes to a sense of space that awareness can have for some people. So it's not essentializing awareness into something, but rather seeing it as a composite of many things operating together.
+
+This is a minor point I want to make, but the more important one is that we have all these different attentional faculties. This week I've been emphasizing knowing, sensing, and then yesterday, observing and clear comprehension. There is one more that ordinarily is not considered an attentional faculty, but it can be engaged and recruited for the purposes of greater present-moment awareness, and that is our intelligence: our capacity to understand, to figure out, to question, to explore, to consider new options.
+
+If someone is engaged in finding their way in the wilderness, all their senses might be open. One of the things that keeps them even more right there in the present moment is the intelligent scanning of the environment, trying to understand where they are, what direction to go, and what the wise way to go is. There's a lot of engagement. It might seem like that's tiring to apply to meditation, but there is a natural way of using intelligence to figure out: How can I be here in the present moment in a valuable way that is relaxed? How can I be here in such a way that there's a deep settling and a relaxing?
+
+If we don't ask that question, don't engage our intelligence with present-moment awareness and how to do it in a nice way, many of us will use our intelligence to fantasize better, to catastrophize better, to resent better as we review and think about the past. We're using our intelligence sometimes for things that keep us trapped in the world of suffering. In the dharma, we want to use our intelligence to bring ourselves into freedom in the present moment.
+
+The reference point I'd like you to use today as a guide is this: I could just reach out for my cup here, kind of grab it, bring it up, and drink from it without thinking about it. Maybe I'm just greedy; it doesn't matter how I grab it or how I drink from it. Or, I can make the act of drinking from the cup a satisfying, meaningful, beautiful act in itself, kind of like a Tai Chi movement, or maybe in the way that a dancer might move their arm, where the whole expression of art is in the movements of the hand. Or someone who practices the Japanese way of tea, the way they would pick up the cup with two hands, holding it, bringing it to their lips, and drinking—the whole way they're doing it has a quality of beauty in it. Sometimes I think that the way of tea can be called the way of beauty.
+
+So, how can you use your intelligence to activate awareness of breathing, of the present moment, of the body, of what's happening, of the mind wandering off? How can you engage awareness and attention so the very use of it is beautiful? That's what we have intelligence for. And that's an intelligence which brings us into the present moment to be aware beautifully.
+
+So, assuming a meditation posture, but not being in a hurry to do so. Assuming a posture almost as if it is an art form itself, or a Tai Chi movement, or perhaps in a way that would express to others that you're really present for them, for the activity you're doing. Assume a posture that is beautifully attentive. There's an intentionality, the intention to be here with the whole body. And maybe that means to sit a little bit straighter, a little bit more intentionally. Not a posture of completely no intentional muscles operating at all so you can relax as deeply as possible, but a posture that allows for some kind of expression of beautiful intentionality to be here, around which the body can relax.
+
+And then to gently close the eyes in a way that is graceful, elegant, or has a deep pleasure to it, just at the right speed for you.
+
+Take a few long, slow, full breaths. Maybe the inhale has the beauty of a sunrise in the way it appears, or of a flower opening. How would you breathe in? Can you look and orient yourself towards breathing in, and breathe in a way that is beautiful?
+
+And exhale, maybe like a bird that stops flapping its wings and now glides down to an elegant landing. An elegant exhale.
+
+And as you breathe in deeply and exhale as if you have all the time in the world, on the exhale, gently relax your body.
+
+And then letting your breathing return to normal, be with your breathing. With the exhale, relax the thinking mind, any tightness and pressure in the face or head, shoulders, or belly associated with thinking.
+
+And then, how would you have your awareness, your attention, come together with your breathing so there's something beautiful, graceful with how you're aware? The simple knowing of breathing in, breathing out. Maybe you say the word "in," "out," but the way the mind says it is like a ceremony, saying something beautifully.
+
+To allow yourself to sense and feel the body breathing, the sensations. Is there a way to give a lot of time and space and presence to the act of feeling, so that there's pleasure in being available to feel, or there's beauty, or there is gracefulness? No hurry. Just like a dancer who moves an arm, is really in the arm as it moves, as if it's the only thing in the world. To be there sensing the inhale, exhale in the body as if it's the only thing.
+
+With your intelligence, recognizing what's happening in the mind with strain or pushing or being in a hurry, maybe even being anxious. How there's a way that that is not so beautiful. And for these minutes of meditation, orient yourself intelligently, carefully, lovingly to the beauty of attention, the beauty of being aware of breathing, of meditation, being mindful in a beautiful way of the present moment, so that your intelligence, your creativity supports your absorption in the present moment, just here, now.
+
+For the activity of the mind to be beautiful, it helps to know the quality of mental activity, what the mind is involved in. And how? Can there be a generous consideration of how to change the mind so that its activity of attention is beautiful, is satisfying, is peaceful in the simple, ordinary acts of attending to the present moment?
+
+And then as we come to the end of the sitting, to consider with some degree of intelligence, consideration, reflection, curiosity: is your inner life a little bit more satisfying than it was before meditation? Did you learn something about beautiful attention? Or did you learn something about a way of being with your inner life that's not so beautiful, that maybe you don't want to invest so much time and attention to perpetuate?
+
+And as we come to the end here, you might consider ways in which you live your life with attitudes, with mental activity, with emotional states that are not so beautiful, that don't bring greater beauty and peace and calm to yourself or to others. And maybe some of those you go along with automatically and perhaps unnecessarily. And maybe instead of doing what's not beautiful, you can come into the world feeling empowered, feeling that it's okay for you to enter your activities of the day with a beautiful attitude, a beautiful mindset, a beautiful orientation, not hijacked by being in a hurry.
+
+May it be that by entering this world in a beautiful way—with beautiful attention, beautiful consideration—that we contribute to the peace and happiness for others. May it be that we make this world a more beautiful place spiritually, ethically, attentionally, with our awareness, our presence, and our care.
+
+May all beings be happy.
+May all beings be safe.
+May all beings be peaceful.
+May all beings be free, so they can live in beauty.
+
+Thank you.
+
+## Dharmette: Insight (4) Intelligent Awareness
+
+So good morning and welcome to this, the fourth talk introducing the very important topic of insight for insight meditation practice. This week, in introducing it, I'm laying out the foundation of awareness practices that are used for having insight. Insight is a byproduct of careful, present-moment attention to our experience here and now, and so knowing how to do that is important. For insight meditation, we're using and engaging a wider range of our attentional faculties than we do when we're practicing samadhi[^1]. There's a lot of big overlap.
+
+One of the important ones that some people would beg to differ with me on, is that there's a greater usage of curiosity and intelligence for insight meditation. The stance of insight meditation is the question, "What is this?" Sometimes I've just used the word "what" in sitting meditation. And the "what," the question "what," the stance of "what," is not looking for an answer, but it's more like—as I occasionally would say to myself, "What is this?"—it's as if my whole attentional system is opening its arms wide and stepping forward to be more connected, more present for whatever experience I'm having.
+
+Using this question, "What is it?" and a sense of receptivity that can follow from that, and getting closer, letting it be more intimate, is making a choice about how it's useful to be present. And to track that choice, to see: Is this forward-leading? Does this help me be more present? Does it help me be more centered here? Does it help me to be more connected and to develop greater clarity of attention and clarity of knowing what's happening in the moment? All these kinds of questions can be done somewhat without a lot of thought, but they are an expression of intelligence.
+
+One of the attentional faculties we have, meaning one of the mental capacities that are operating that can help support present-moment attention, and that's actually maybe an integral part of it, is our intelligence. Our ability to figure things out, understand things better, question what's going on, experiment with how we're practicing. Many people associate that kind of use of intelligence with the mind getting busy and distracted, and that it's too coarse, too much is going on in meditation. But that's how we use our intelligence: to know how we're using our intelligence so it doesn't make the mind busy and activated. We use our intelligence to know how the mind can be more peaceful, more quiet, more centered, more here.
+
+I found that asking the question in meditation, "What is this?" with this attitude of opening up and being with the experience, was actually quite useful for me and helped settle me, helped me become quiet. I learned that. The intelligent consideration of, "How am I being aware here? What's the quality of the awareness, of the attention? Can that be more satisfying, more peace-producing? Can it be more beautiful?"
+
+I did a lot of mental noting in my practice, and I learned to pay attention to how I did the mental noting, so the mental noting itself was deeply satisfying, was calming, was settling, was supportive of a deepening of the practice. I've done a lot of sensing, a lot of being in my body, sensing my experience. And there too, using your intelligence and considering, "How am I sensing? Is this the best way? Is there another way of doing it? What's the quality of that sensing?" Sometimes I could feel that in my sensing, I didn't want to sense something, and I could feel the contraction of pulling away. I could sometimes feel like I was straining, I was pushing too much, trying to make something happen, pushing forward. Sometimes there was a sense of being in a hurry. And so I learned to look at that and see that and ask myself, "Are there other ways of doing this? Can I do it without straining? What would that look like? Can I give it more time? Can I somehow find a way to have it be more beautiful?"
+
+So the knowing, the sensing, the more generic, open kind of idea of awareness itself—what's the quality of that? One of the reference points for this intelligent consideration is, does it support the meditation? Does it support us to be more calm, more peaceful? Does it support an inner beauty, a deep kind of pleasure or joy for being engaged in the practice?
+
+The word "intelligence" in English might be a triggering word for some people, maybe because we think, "I'm not intelligent enough." Everyone has enough intelligence for meditation practice. Everyone has enough intelligence to find their way to freedom from suffering. You only need as much intelligence to get out of suffering as you use to get into it. And so if you don't have such great intelligence, then maybe it's not so sophisticated the way you got into suffering, and so it's easier to find your way out. So everyone has plenty of intelligence enough to do this.
+
+But sometimes in meditation circles, we get the message that we're not supposed to use it in meditation because it seems like it's too much mental activity, maybe too much thinking. And so people leave their intelligence at the door when they sit down to meditate. Intelligence is a very important part, especially when we engage in both samadhi and insight practice, but maybe even more so with insight practice. But then we have to learn to use the intelligence we have to support us, not to go in the opposite direction.
+
+One of the ways that can help with this proper use of intelligence is to consider that if we're spending a lot of time in the hindrances, a lot of time distracted, chances are our intelligence has been hijacked so that we can better fantasize; so we can think out scenarios of fear and danger and dread for the future; so we can creatively review and try to figure out what happened in the past, or write the great American novel as we're meditating. Our intelligence is operating, and we don't want to let it get hijacked and be used for purposes in meditation that are not useful for us. And so, to intelligently understand where our intelligence is going and to figure out how to use our capacity to think well, to consider, to explore, to experiment, and to adjust what we're doing so that it supports the whole process of being absorbed in the present moment, just here.
+
+I'm sure some of you will feel like this sounds like a lot of work, but as soon as it feels like tiring work, intelligence isn't doing its job. The job of intelligence is to help you feel like it's not difficult work, it's not strain; it's actually really pleasant, really wonderful. The reference point I used in the guided meditation was something like an elegant dancer moving an arm. In moving that arm, they are completely there. It's elegant, it's beautiful. The whole world of the dancer's expression, purpose in life, meaning in life, everything is in that movement of the arm. And part of the reason why it's so wonderful to watch a really skilled, expressive dancer is we can feel that there's so much there, in the grace of that arm moving.
+
+For someone who does Tai Chi or Qigong[^2], there's a beauty there in how things are moving. And a reference point in the Japanese way of tea, the path of tea, Chado[^3]—sometimes called tea ceremony in English—is to do things as ceremony, meaning to do things with an elegance, a beauty, a care, where you're fully in every gesture. That has an intentionality, a purpose, a beauty, a presence, a generosity, a care that goes into it.
+
+And so, to use our intelligence to figure out: How can I be attentive to my breathing, to the present moment, as ceremony, as a dance, as a place to express something profound within us? The primary reference point I'd like to suggest is the idea of beauty. To use our intelligence to understand how to be mindful in a beautiful way, so that wherever we go with mindfulness, we bring beauty with us. We live in beauty because how we're aware of the world is beautiful. And since that's the only way to be aware of the world, you bring beauty with you everywhere with how you're aware.
+
+And to challenge you a little bit, I'd like to suggest that being aware in an un-beautiful way is not a good alternative. The best alternative in the moment is probably to do it beautifully. Choose the best choice, the best way of doing it. Don't choose something that's lesser and undermines you and debilitates you. Don't keep sacrificing, giving up on yourself by doing something which is not so beautiful. Choose beauty, and use your intelligence for that purpose.
+
+So all these attentional faculties, including intelligence, are coming together now so we can begin to have deep insight. And we'll continue with this topic tomorrow. Thank you.
+
+---
+[^1]: **Samadhi:** A Pali word for a state of meditative concentration or absorption.
+[^2]: Original transcript said 'chiang', corrected to 'Qigong' based on the context of Chinese meditative movement practices like Tai Chi.
+[^3]: **Chado (茶道):** The Japanese "Way of Tea," a traditional cultural activity involving the ceremonial preparation and presentation of matcha (powdered green tea).
