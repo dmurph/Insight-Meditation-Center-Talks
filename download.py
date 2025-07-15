@@ -14,7 +14,7 @@ from youtube_transcript_api import (
 
 logging.basicConfig(level=logging.INFO)
 
-PROMPT_TEMPLATE = "prompt_template.md"
+PROMPT_TEMPLATE = "prompt_template.mdt"
 
 
 def sanitize_filename(title):
