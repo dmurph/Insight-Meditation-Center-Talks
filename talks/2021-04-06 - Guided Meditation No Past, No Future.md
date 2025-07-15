@@ -1,0 +1,31 @@
+This is an AI generated transcript of the video ["Guided Meditation: No Past, No Future"](https://www.youtube.com/watch?v=Fg5HX0L4zns). It may contain inaccuracies.
+
+### No Past, No Future
+
+Hello everyone, and welcome to this meditation session. One of the ways of maybe getting a little more feeling for the potential of meditation is to have a very clear bracketing, a putting aside of the past and the future when you meditate. Now, the past and the future certainly have their importance in human life. In fact, it's a bit of a problem if you don't remember anything of your past and future. But there's also something very valuable about putting it aside so that you can have a very different experience of yourself, an experience of life without that reference of the past and the future, to understand and to really experience something qualitatively valuable about the present.
+
+And so, we're not forgetting about the past, but we're putting it aside for the duration of a meditation session. Thoughts will come about the past and the future, but in mindfulness meditation, we're not interested in those thoughts. We are interested in recognizing them as present moment phenomena. Here is a mind that's thinking about the past; here's a mind concerned with the future. Here it's like this. For the duration of the meditation, you're forgiven for whatever happened in the past. Whatever you did in the past, you don't have to be blamed for anything when you're meditating. It's kind of a time-out zone, a neutral zone.
+
+It's like in the old days, people would go into a church for sanctuary, and the legal authorities couldn't go and pull a person out who was in the sanctuary of a church.[^1] So you are in the sanctuary of your meditation, and you're safe here now from the past. Everything is forgiven for now. You don't have to think about the future. For the time of the meditation, you're not responsible for the future and what will happen, and you don't need to plan.
+
+So that just here, just this experience, it's kind of like here is a door, and you walk through that door to a deeper intimacy, a deeper connection to the lived experience of the moment. So, entering into this door through your body and entering into a meditation posture. Part of the value of being intentional with the meditation posture is beginning this process of entering into the present more fully, and doing so through your body.
+
+And also, stepping through this door of the present moment, into the present, stepping out of the past and stepping out of the future to just here. Take a few long, slow, deep breaths. Breathing in deeply and relaxing the body as you exhale. A long exhale. If you take a long exhale, it's a long ride into the present. Let there be a momentary pause at the end of the exhale, a fuller acknowledgment here. Maybe a silent acknowledgment, feeling "here."
+
+Letting your breathing return to normal. Because the body is such a wonderful vehicle for sliding into now, as you exhale, relax your belly. Sometimes if you relax the belly, all kinds of other things throughout the body will relax as well. As you exhale, relaxing the shoulders and softening the face, and perhaps also calming the mind, cooling the thinking activity, quieting your thoughts.
+
+As part of the present moment experience, there is awareness of the present. Awareness is always a present moment event. If you are aware, the awareness is occurring here and now.
+
+For these minutes, you are allowed, you have permission to put aside the past and the future and to enter through the door of the present moment. Not to attain anything or get anything or make anything happen, but to abide, aware, mindful of your experience as you are here. Let the comings and goings of breathing support you to be here, as breathing is also a present-moment phenomenon. Riding the breath, riding the sensations of the body breathing, like riding on the present moment.
+
+Putting aside the past, putting aside the future for now, so you can be here. Whatever the "now" is for you now, it'll never be exactly this way again. It's worthwhile resting awareness, grounding awareness in this unique, lived experience of now. Letting the thinking mind take a break. Just aware, just mindful.
+
+And then, as we come to the end of this sitting, from time to time when you consider other people, or even more so when you're together with them, it's useful to put aside the past and put aside thoughts of the future so that you can really see the person in the present. Certainly, there's a time and place for the past and the future to be considered, but there's also a time and place to put those aside and to meet someone in the fullness of how they are in the present, with whatever fullness you are in the present. To connect to the humanity of another person as they are in the present moment, with a beating heart, breathing lungs, with blood coursing through their body. With their vulnerability and their strength, with their good qualities and not-so-good qualities, to just be there, feel and sense and be with a person.
+
+Having that capacity can be a vehicle or a means for greater respect for the other, for greater care and friendliness, a greater goodwill, well-wishing, greater empathy, maybe even a sense of shared humanity, sharing in the difficulties and the joys of this life. From time to time, to put aside the past and the future so that we may have greater goodwill and compassion and love, kindness for the people we're with in the simplicity of the moment.
+
+May it be that this meditation practice we do supports us to be present with others in a fuller, deeper, richer way. And that we bring a heart that is inspired by the welfare and happiness of others. May we live contributing to the happiness, the safety, the peacefulness, and the freedom that others can have. May the benefits of this practice spread from us for the welfare and happiness of all beings everywhere.
+
+May all beings be happy.
+
+[^1]: The original transcript said "pull a personality," which is likely a transcription error for "pull a person out." The historical concept being referenced is the Right of Sanctuary.

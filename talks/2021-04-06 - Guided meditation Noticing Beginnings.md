@@ -1,0 +1,1 @@
+Please provide the raw transcript data in JSON format. I am ready to process it according to your instructions.
