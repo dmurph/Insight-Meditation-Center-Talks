@@ -14,7 +14,6 @@ from youtube_transcript_api import (
 
 logging.basicConfig(level=logging.INFO)
 
-RAW_EXTENSION = "rawtranscript"
 PROMPT_TEMPLATE = "prompt_template.md"
 
 
@@ -173,7 +172,7 @@ def download_or_use_transcript(
     safe_filename = sanitize_filename(f"{upload_date} - {video_title}")
     srt_path = os.path.join(raw_transcripts_dir, f"{safe_filename}.srt")
     raw_output_path = os.path.join(
-        raw_transcripts_dir, f"{safe_filename}.{RAW_EXTENSION}"
+        raw_transcripts_dir, f"{safe_filename}.json"
     )
 
     if os.path.exists(srt_path) and not force_redownload_transcripts:
@@ -186,7 +185,9 @@ def download_or_use_transcript(
 
     try:
         logging.info(f"  -> Downloading raw transcript for: {video_title}")
-        transcript_list = YouTubeTranscriptApi.get_transcript(video_id)
+        transcript_list = YouTubeTranscriptApi.get_transcript(
+            video_id, languages=["en"]
+        )
 
         with open(raw_output_path, "w", encoding="utf-8") as f:
             json.dump(transcript_list, f, indent=2)
