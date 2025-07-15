@@ -254,6 +254,9 @@ def download_video_transcripts_from_urls(
             video_title = metadata["title"]
             upload_date = metadata["upload_date"]
 
+            with open(metadata_cache_path, "w", encoding="utf-8") as f:
+                json.dump(metadata_cache, f, indent=4)
+
             logging.info(f"\n[{i+1}/{len(videos)}] Processing: {video_title}")
 
             raw_transcript_path = download_or_use_transcript(
@@ -279,9 +282,6 @@ def download_video_transcripts_from_urls(
 
         except Exception as e:
             logging.error(f"  -> An unexpected error occurred in the main loop: {e}")
-
-    with open(metadata_cache_path, "w", encoding="utf-8") as f:
-        json.dump(metadata_cache, f, indent=4)
 
     logging.info("\n--------------------")
     logging.info("Download process finished.")

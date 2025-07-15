@@ -16,12 +16,12 @@ Output Requirements
 * Disclaimer:
     * Begin the article with the following disclaimer, exactly as written:
 
-*This is an AI-generated transcript of auto-generated subtitles for the video [{video_title}]({video_url}). It may contain inaccuracies.*
+*This is an AI-generated transcript from auto-generated subtitles for the video [{video_title}]({video_url}). It likely contains inaccuracies.*
 
 * Title and Author:
     * Use the video title "{video_title}" as the title for the article.
-    * Identify the speaker. The name is often in the video title. If not, try to deduce it from the content. Otherwise use "an unknown speaker".
-    * Cite the speaker in the following format, including the author's name or "an unknown author" if the author was not determined:
+    * Identify the speaker. The name is often in the video title. If the speaker is not obvious from title or the talk contents, use "an unknown speaker".
+    * Cite the speaker in the following format, including the speaker's name or "an unknown speaker" if the speaker was not determined:
         The following talk was given by {speaker} at the Insight Meditation Center in Redwood City, California. Please visit website [www.audiodharma.org](https://www.audiodharma.org) to find the authoritative record of this talk.
 
 * Content Sections (if applicable):
@@ -39,11 +39,12 @@ Output Requirements
     * Organize sentences into logical paragraphs.
     * Remove conversational fillers (e.g., 'uh', 'um', 'you know') unless they are essential for the meaning.
     * Ensure the final text flows naturally.
+    * The guided meditation section does not need to be as gramatically correct, as that is a much more freeform kind of talk.
 
 * Transcription Accuracy:
     * Correct obvious transcription errors. Pay special attention to specialized Buddhist and Pali terms.
-    * Be vigilant for these commonly mis-transcribed words: Satipatthana Sutta, Dukkha, Pali, Anicca, Kalyana, Samadhi, Jhāna.
-    * If a word or phrase is unintelligible, mark it clearly (e.g., [unintelligible] or [word?]).
+    * Be vigilant for commonly mis-transcribed words, like: Satipatthana Sutta, Dukkha, Pali, Anicca, Kalyana, Samadhi, Jhāna.
+    * If a word or phrase is unintelligible in the transcription, mark it clearly (e.g., [unintelligible] or [word?]).
 
 * Contextual Footnotes:
     * Use markdown footnotes (e.g., [^1]) to provide additional context. Place the definitions at the end of the article.
