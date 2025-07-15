@@ -1,0 +1,1619 @@
+1
+00:06:00,479 --> 00:06:03,020
+ah
+
+2
+00:06:12,780 --> 00:06:20,478
+good evening so a warm welcome to everyone
+
+3
+00:06:21,479 --> 00:06:28,220
+so as you know sit in silence for 45 minutes
+
+4
+00:06:28,500 --> 00:06:37,259
+and then I'll offer a brief talk so we'll ring the bell at 8 15.
+
+5
+00:06:37,259 --> 00:06:39,740
+thanks
+
+6
+00:51:45,559 --> 00:51:52,819
+good evening welcome welcome nice to see you all
+
+7
+00:51:56,819 --> 00:52:03,920
+so I um you know these days there's this talk about artificial intelligence AI
+
+8
+00:52:03,960 --> 00:52:09,119
+and this some maybe not directly but maybe it is
+
+9
+00:52:09,119 --> 00:52:15,540
+directly I don't know I haven't I'm not so up to date on whatever he's talking about but there's this question of like
+
+10
+00:52:15,540 --> 00:52:21,260
+what is real what is real
+
+11
+00:52:21,780 --> 00:52:26,819
+and if we were anything that we feel like it must be real
+
+12
+00:52:26,819 --> 00:52:35,220
+it must be like you or me right this like I'm real you're real you're
+
+13
+00:52:35,220 --> 00:52:41,900
+real right so this idea like okay well you know I'm real
+
+14
+00:52:43,079 --> 00:52:49,079
+but there's a you know the the Buddhist uh the Buddhist teachings
+
+15
+00:52:49,079 --> 00:52:57,059
+include this idea of not-self and so what does that mean really
+
+16
+00:52:57,059 --> 00:53:02,640
+with that whole idea of not self so I'd like to explore this a little bit
+
+17
+00:53:02,640 --> 00:53:07,859
+and I'm influenced by a contemporary philosopher Julian bikini
+
+18
+00:53:07,859 --> 00:53:13,200
+not a Buddhist or maybe is I don't know but he writes
+
+19
+00:53:13,200 --> 00:53:18,780
+as a philosopher and
+
+20
+00:53:18,780 --> 00:53:24,180
+he he gave a talk a Ted talked every 10 years ago
+
+21
+00:53:24,180 --> 00:53:29,579
+that I heard and I thought oh okay so there's pointing to this same idea of
+
+22
+00:53:29,579 --> 00:53:34,819
+not self but from a really different angle that I found interesting and
+
+23
+00:53:34,819 --> 00:53:39,839
+interesting to think about but
+
+24
+00:53:39,839 --> 00:53:46,260
+before I go into that I want to talk a little bit about some of these initial reactions we might have to not
+
+25
+00:53:46,260 --> 00:53:52,920
+self-teachings or even hearing about this maybe for the first time or over and over again
+
+26
+00:53:52,920 --> 00:53:58,079
+we might have this ideas of what I don't get it
+
+27
+00:53:58,079 --> 00:54:03,960
+not self like that's just what of course there's a self this is ridiculous
+
+28
+00:54:03,960 --> 00:54:10,020
+and so we might have this idea of like we want to be a little bit dismissive of it because it's so different than our
+
+29
+00:54:10,020 --> 00:54:15,240
+actual experience of course there's a self there's a real
+
+30
+00:54:15,240 --> 00:54:21,119
+self what are they talking about so there's a way in that this teaching runs counter
+
+31
+00:54:21,119 --> 00:54:28,020
+to our experience and our ideas and certainly the way that like society and
+
+32
+00:54:28,020 --> 00:54:36,059
+our culture suggests that there's a self I'll talk a little bit more about that but so our initial reactions and
+
+33
+00:54:36,059 --> 00:54:41,819
+certainly this was mine a little bit of puzzlement or disbelief
+
+34
+00:54:41,819 --> 00:54:48,300
+and I remember hearing some teachings that they really touched me and I felt
+
+35
+00:54:48,300 --> 00:54:54,960
+like wow this is like so great so Buddhist thing I felt like oh okay I
+
+36
+00:54:54,960 --> 00:55:01,380
+found a home here it makes sense to me except for that not self stuff so I kind
+
+37
+00:55:01,380 --> 00:55:09,119
+of thought that idea okay well I'll be a Buddhist whatever that means I didn't even know at that time but I'm just gonna be a self I'll let them kind of
+
+38
+00:55:09,119 --> 00:55:15,119
+keep all that not self stuff and I'm gonna keep myself here and it's not uncommon right to have
+
+39
+00:55:15,119 --> 00:55:20,520
+these ideas you was like oh okay well Maybe
+
+40
+00:55:20,520 --> 00:55:26,880
+if it true I don't know but to feel a little bit uncomfortable with it and have maybe this
+
+41
+00:55:26,880 --> 00:55:33,180
+attempted to dismiss it just as um I did and that's perfectly fine you can do
+
+42
+00:55:33,180 --> 00:55:39,180
+that you don't have to believe anything that I'm saying there's the last thing we want to do it's like
+
+43
+00:55:39,180 --> 00:55:45,839
+here's a collection of beliefs that you have to adopt or some views you have to adopt that's not the direction we're
+
+44
+00:55:45,839 --> 00:55:52,500
+going it's this tradition we're really pointing to experiences then I'll be pointing to that in a
+
+45
+00:55:52,500 --> 00:55:58,020
+moment but maybe one last thing that I'll say about some of our initial reactions when
+
+46
+00:55:58,020 --> 00:56:05,339
+we hear about this even the concept or the idea of not self after maybe some puzzlement or some disbelief or wanting
+
+47
+00:56:05,339 --> 00:56:13,140
+to dismiss it is this recognition that this path of practice part of what I think makes it
+
+48
+00:56:13,140 --> 00:56:23,220
+so powerful and attractive is that it requires or
+
+49
+00:56:23,220 --> 00:56:28,440
+I don't know if I like this word requires but maybe that it asks for some
+
+50
+00:56:28,440 --> 00:56:35,220
+open-mindedness and some humility oh this path is about right we hear
+
+51
+00:56:35,220 --> 00:56:41,220
+about beginner's mind this idea of like okay what is there to learn what is
+
+52
+00:56:41,220 --> 00:56:46,440
+there to see how can I learn and how can I see
+
+53
+00:56:46,440 --> 00:56:51,720
+right if we thought that we already knew everything or had everything we
+
+54
+00:56:51,720 --> 00:56:58,500
+would have no need for meditation practice we would have no need for a spiritual practice we'd have no need for
+
+55
+00:56:58,500 --> 00:57:05,880
+coming to IMC on Monday nights right if we already had everything
+
+56
+00:57:05,880 --> 00:57:10,980
+so this path asks us for to engage with our experience
+
+57
+00:57:10,980 --> 00:57:16,380
+to be present for our experience with a certain amount of open-mindedness and
+
+58
+00:57:16,380 --> 00:57:25,440
+humility and maybe I'll even add on that that this isn't just a nice thing to say
+
+59
+00:57:25,440 --> 00:57:30,960
+but investigation this quality of open-mindedness and humility and asking
+
+60
+00:57:30,960 --> 00:57:38,400
+like what's really here what's really here what are my ideas about what's here what
+
+61
+00:57:38,400 --> 00:57:43,440
+are the experiences I'm having like what's happening what's my relationship
+
+62
+00:57:43,440 --> 00:57:50,040
+to happening this whole idea of Investigation this whole practice of Investigation
+
+63
+00:57:50,040 --> 00:57:55,559
+is one of the factors of Awakening this is part of what leads to Awakening is a
+
+64
+00:57:55,559 --> 00:58:02,220
+support for awakening so it's more than just saying oh it's nice to have this open-mindedness and
+
+65
+00:58:02,220 --> 00:58:07,819
+this humility I would say it's an integral part of this path of practice
+
+66
+00:58:08,339 --> 00:58:15,440
+so let's getting back to this idea of a non-self
+
+67
+00:58:15,839 --> 00:58:22,079
+so there's this sense of self it just kind of like makes common sense if you
+
+68
+00:58:22,079 --> 00:58:28,800
+were to ask people maybe if I were to ask some of you or prove to ask somebody walking down the street like what is
+
+69
+00:58:28,800 --> 00:58:35,400
+what does it mean to have a self and then kind of look at you a little bit oddly perhaps we don't think about
+
+70
+00:58:35,400 --> 00:58:41,160
+this so much but there's this idea often that we have a a
+
+71
+00:58:41,160 --> 00:58:47,880
+core or an essence and some people rather than self might
+
+72
+00:58:47,880 --> 00:58:54,480
+even use this word ego which maybe feels like part of itself or some people might use the word soul
+
+73
+00:58:54,480 --> 00:58:59,720
+so this like inner entity
+
+74
+00:58:59,720 --> 00:59:06,359
+that stays with us like through our life as we grow and
+
+75
+00:59:06,359 --> 00:59:15,000
+go through our lives and there's lots of things in our culture that really reinforce this idea
+
+76
+00:59:15,000 --> 00:59:21,059
+and uh kind of a funny what I mean not funny but in one that I hadn't thought
+
+77
+00:59:21,059 --> 00:59:28,079
+of before was this even this whole idea of horoscopes if you're born on this month or this
+
+78
+00:59:28,079 --> 00:59:36,180
+time frame you have this uh or astrological sign and therefore it
+
+79
+00:59:36,180 --> 00:59:44,160
+means something about you and often you know I still hear you know people talking about even Buddhist practitioners well I'm a Gemini and that
+
+80
+00:59:44,160 --> 00:59:49,380
+means that blah blah blah or in true Aries fashion I did blah blah blah you
+
+81
+00:59:49,380 --> 00:59:56,700
+know there's this idea that even that a person could have a horoscope that says something about how they this integral
+
+82
+00:59:56,700 --> 01:00:03,299
+to their essence or something like this and maybe if you don't believe in the
+
+83
+01:00:03,299 --> 01:00:09,240
+horoscopes or astrological signs we still have like in a professional world
+
+84
+01:00:09,240 --> 01:00:15,380
+and in career development all these types of things we have these personality tests
+
+85
+01:00:15,380 --> 01:00:20,880
+Myers-Briggs type indicator mbti maybe some of you have done this taken
+
+86
+01:00:20,880 --> 01:00:28,380
+these tests and you get these four letter designations that like the type that you are
+
+87
+01:00:28,380 --> 01:00:34,020
+and then they suggest you know what the best way that you work or the best way that you learn or how to be a good
+
+88
+01:00:34,020 --> 01:00:40,619
+manager a good employee or something like that right so here's another way in society's kind of suggesting that you have this
+
+89
+01:00:40,619 --> 01:00:45,720
+Core Essence and not only that that it can be uh
+
+90
+01:00:45,720 --> 01:00:53,780
+assigned a type and that this type is going to be with you as you progress through life
+
+91
+01:00:54,180 --> 01:01:00,000
+of course it's it's we have these official uh type indicators but you know there's
+
+92
+01:01:00,000 --> 01:01:06,059
+plenty of websites and magazines there's a lot of stuff take these answer these five questions
+
+93
+01:01:06,059 --> 01:01:12,240
+and we'll tell you what can I have a learner you are what type of a what type of exercise is best for you the best
+
+94
+01:01:12,240 --> 01:01:20,579
+diet you know everything right anything you can imagine so this idea that we even have like one
+
+95
+01:01:20,579 --> 01:01:28,319
+distinct style or type or something is part of what kind of society in our
+
+96
+01:01:28,319 --> 01:01:35,660
+culture believes and many of us kind of accept this makes sense
+
+97
+01:01:37,380 --> 01:01:43,619
+and so if we believe that there's this core or this essence
+
+98
+01:01:43,619 --> 01:01:49,799
+then we have this idea that this core this Essence as experiences
+
+99
+01:01:49,799 --> 01:01:55,319
+but then just get like tacked on like here to the to the outside of this core
+
+100
+01:01:55,319 --> 01:02:00,980
+or this Essence there's this thing in the middle and now it has these other things hanging on to it
+
+101
+01:02:00,980 --> 01:02:07,680
+experiences memories things that we learn Sensations all
+
+102
+01:02:07,680 --> 01:02:14,339
+these types of things sense of there's something here and everything else is somehow attached to
+
+103
+01:02:14,339 --> 01:02:19,740
+it but there's this thing here or type our style or
+
+104
+01:02:19,740 --> 01:02:25,760
+ego Soul self all these types of things
+
+105
+01:02:27,299 --> 01:02:33,780
+to be sure I mean we certainly we have desires we have beliefs we have knowledge we have Sensations we have
+
+106
+01:02:33,780 --> 01:02:40,339
+experiences all these things that maybe we believe are been
+
+107
+01:02:40,339 --> 01:02:45,420
+distinct from this core but somehow attached to it
+
+108
+01:02:45,420 --> 01:02:51,119
+and then what the Buddha is pointing to and even modern day neuroscience and
+
+109
+01:02:51,119 --> 01:02:56,819
+some schools of philosophy that there actually isn't this
+
+110
+01:02:56,819 --> 01:03:02,940
+core there isn't a you uh I me
+
+111
+01:03:02,940 --> 01:03:07,640
+at the center of all experiences
+
+112
+01:03:07,980 --> 01:03:12,380
+well then you might ask well what is fair then
+
+113
+01:03:13,740 --> 01:03:20,420
+so clearly we have these memories and desires and beliefs and knowledge and Sensations
+
+114
+01:03:20,460 --> 01:03:28,740
+so these things exist and and they're all integrate it in some way and they overlap in some way
+
+115
+01:03:28,740 --> 01:03:35,040
+or in our beliefs are related to the experiences we have
+
+116
+01:03:35,040 --> 01:03:42,119
+Sensations that we've had and our memories the things that we think are important are also associated with our
+
+117
+01:03:42,119 --> 01:03:48,960
+beliefs and maybe the knowledge that we have Sensations are associated with what we
+
+118
+01:03:48,960 --> 01:03:54,839
+do in the world or how we're experiencing the world and that's also associated with
+
+119
+01:03:54,839 --> 01:04:01,619
+thoughts that we might have or so there's a way in which all these things are interrelated they're not completely
+
+120
+01:04:01,619 --> 01:04:08,220
+distinct so that there's an overlap and related
+
+121
+01:04:08,220 --> 01:04:17,040
+but maybe the emphasis here is on the way that these things are connected
+
+122
+01:04:17,099 --> 01:04:24,420
+so components are of our lives are connected because certainly they all belong to one
+
+123
+01:04:24,420 --> 01:04:31,200
+body and brain right they're not happening my Sensations aren't happening to any of you I'm not having any of your
+
+124
+01:04:31,200 --> 01:04:37,020
+sensations of course so they're connected in that way
+
+125
+01:04:37,020 --> 01:04:43,740
+but they're also connected because there's a narrative that's
+
+126
+01:04:43,740 --> 01:04:51,420
+getting created this sensation means X
+
+127
+01:04:51,420 --> 01:04:58,619
+and whatever the x is is based on our beliefs based on our values based on
+
+128
+01:04:58,619 --> 01:05:04,440
+knowledge we have based on other experiences we have
+
+129
+01:05:04,440 --> 01:05:10,920
+so there's experiences Sensations thoughts beliefs
+
+130
+01:05:10,920 --> 01:05:16,079
+and then there is a narrative that's like knitting them together and making a
+
+131
+01:05:16,079 --> 01:05:25,220
+story we're adding meaning to them the story that we tell about ourselves
+
+132
+01:05:26,099 --> 01:05:34,440
+the story that highlights that oh yeah that memory
+
+133
+01:05:34,440 --> 01:05:39,599
+was me and I'm different now
+
+134
+01:05:39,599 --> 01:05:45,119
+even though the memories actually happening in the present moment
+
+135
+01:05:45,119 --> 01:05:51,780
+and the fact that we're remembering it is a indicator of something that maybe a
+
+136
+01:05:51,780 --> 01:05:56,420
+experience or a sensation we had right now
+
+137
+01:05:57,000 --> 01:06:04,740
+and so there's this way there's this maybe invisible or unseen story that's knitting all our
+
+138
+01:06:04,740 --> 01:06:10,559
+experiences together to make sense nobody else nobody likes things to not
+
+139
+01:06:10,559 --> 01:06:17,339
+make sense we all kind of want to have our life make sense our experiences make sense so there's this narrative that
+
+140
+01:06:17,339 --> 01:06:26,819
+we're layering on top so what does this mean exactly
+
+141
+01:06:26,819 --> 01:06:33,440
+we might say that the these connected things I can use this word things
+
+142
+01:06:33,440 --> 01:06:40,500
+beliefs values knowledge Sensations experiences
+
+143
+01:06:40,559 --> 01:06:47,339
+are what you is a me is collection
+
+144
+01:06:47,339 --> 01:06:53,819
+of connected things I'm using this word things
+
+145
+01:06:53,819 --> 01:07:00,780
+beliefs Sensations values thoughts
+
+146
+01:07:01,799 --> 01:07:07,279
+in some ways we're like the the sum of the parts
+
+147
+01:07:08,640 --> 01:07:14,460
+so maybe to I like this example
+
+148
+01:07:14,460 --> 01:07:21,119
+and this is from Julian bikini the philosopher part of it I like it because uh some of
+
+149
+01:07:21,119 --> 01:07:26,819
+you may know I'm trained as a scientist and this is a little bit of science tiny little bit of science
+
+150
+01:07:26,819 --> 01:07:32,400
+makes me happy so there's we could take something like
+
+151
+01:07:32,400 --> 01:07:37,799
+water H2O we all know this H2O
+
+152
+01:07:37,799 --> 01:07:45,359
+two hydrogen atoms one oxygen atom put them together you get water
+
+153
+01:07:45,359 --> 01:07:50,400
+it's real kind of like know this there's I think too complicated about it
+
+154
+01:07:50,400 --> 01:07:57,960
+but what you guys probably didn't think is that there's this essence of water and
+
+155
+01:07:57,960 --> 01:08:03,420
+then we stick a hydrogen on it over here another hydrogen ion over here and an oxygen over here
+
+156
+01:08:03,420 --> 01:08:10,799
+no you understand that it's two hydrogens and an oxygen together and that's the water
+
+157
+01:08:10,799 --> 01:08:17,359
+there isn't this core that we call water that then we stick things on
+
+158
+01:08:18,540 --> 01:08:24,719
+or maybe we might even say that microphones
+
+159
+01:08:24,719 --> 01:08:30,060
+there's a I don't know how microphones work exactly I think there's sound waves
+
+160
+01:08:30,060 --> 01:08:37,560
+that come in there's a diaphragm that vibrates and it is connected to a doohickey which is
+
+161
+01:08:37,560 --> 01:08:43,679
+connected to a thingamajig which is connected you know I don't know what exactly how microphones work
+
+162
+01:08:43,679 --> 01:08:49,620
+there's a wire it's the same thing right there isn't
+
+163
+01:08:49,620 --> 01:08:56,100
+this core that's called microphone that we stick the diaphragm the coil I think there's a coil I think I'm a jig on and
+
+164
+01:08:56,100 --> 01:09:03,420
+the doohickey on right no it's a collection of things microphone is you know all
+
+165
+01:09:03,420 --> 01:09:08,460
+these things in a particular configuration
+
+166
+01:09:08,460 --> 01:09:18,500
+and they're working together they're doing something they're amplifying my voice in this case
+
+167
+01:09:18,960 --> 01:09:25,380
+Mickey Mouse in cartoons the same type of thing right it's a character
+
+168
+01:09:25,380 --> 01:09:32,940
+it's on TV or on the computer which was drawn by somebody
+
+169
+01:09:32,940 --> 01:09:38,160
+has and there's stories about it but
+
+170
+01:09:38,160 --> 01:09:43,318
+is it real is Mickey Mouse real
+
+171
+01:09:43,319 --> 01:09:48,600
+it's a collection of things that were created and I don't actually know how
+
+172
+01:09:48,600 --> 01:09:55,320
+they make cartoons but Mickey Mouse right it's important for some children as a rule that it
+
+173
+01:09:55,320 --> 01:10:02,400
+teaches and stories but so it's not not real because it has
+
+174
+01:10:02,400 --> 01:10:09,420
+an impact on people water is real microphones are real
+
+175
+01:10:09,420 --> 01:10:15,000
+they don't have a core though they're just a collection of things and
+
+176
+01:10:15,000 --> 01:10:20,660
+we are assigning a label to this collection
+
+177
+01:10:21,360 --> 01:10:26,880
+or rainbows right these are just when the conditions
+
+178
+01:10:26,880 --> 01:10:33,840
+are present Etc right water in the atmosphere and sunlight and
+
+179
+01:10:33,840 --> 01:10:38,880
+I guess there needs to be like a human being or some entity that has can
+
+180
+01:10:38,880 --> 01:10:47,219
+visualize a rainbow see in that color spectrum but Rainbows are real
+
+181
+01:10:47,219 --> 01:10:52,860
+but they're not substantial like we love rainbows we can take photos
+
+182
+01:10:52,860 --> 01:10:59,640
+of them but they're just a collection of certain conditions came together and made a
+
+183
+01:10:59,640 --> 01:11:05,820
+rainbow about you they're not I mean they're real but right there have
+
+184
+01:11:05,820 --> 01:11:10,340
+this insubstantiality to them also
+
+185
+01:11:11,580 --> 01:11:19,260
+so there's a few ideas that I'm pointing to you here that all of these things Mickey Mouse
+
+186
+01:11:19,260 --> 01:11:25,920
+rainbows microphones water everything actually
+
+187
+01:11:25,920 --> 01:11:32,340
+everything doesn't have like a core that we then
+
+188
+01:11:32,340 --> 01:11:38,120
+stick attached to that has other things attached to it
+
+189
+01:11:39,600 --> 01:11:46,260
+so why should the self be different why should this idea of a self be
+
+190
+01:11:46,260 --> 01:11:51,140
+different than everything else in our experience
+
+191
+01:11:51,780 --> 01:11:58,020
+why do we think that uh that we're not just a collection of all our parts we'll
+
+192
+01:11:58,020 --> 01:12:03,600
+use that word parts but instead we have this idea that there's a core and other things get
+
+193
+01:12:03,600 --> 01:12:10,320
+attached to it but there's nothing like that that exists that we can point to
+
+194
+01:12:10,320 --> 01:12:15,020
+that scientists can point to at all
+
+195
+01:12:17,340 --> 01:12:24,840
+so I want to highlight that I'm not saying anything like this doesn't exist that selves don't exist or
+
+196
+01:12:24,840 --> 01:12:31,940
+that's silly of course I exist and of course you exist
+
+197
+01:12:32,940 --> 01:12:37,980
+we're just saying that often when we say that there's a self we're assuming that
+
+198
+01:12:37,980 --> 01:12:44,219
+it has certain qualities that has this core and that everything else happens to it
+
+199
+01:12:44,219 --> 01:12:50,760
+and I'm saying no it's just a collection of parts in the same way that a waterfall
+
+200
+01:12:50,760 --> 01:12:58,260
+is you know water falling the waterfall is always changing
+
+201
+01:12:58,260 --> 01:13:05,100
+it's different droplets of water that are going over Landing in different places and the
+
+202
+01:13:05,100 --> 01:13:12,840
+water has a history before it gets to the waterfalls and it goes over the waterfall so a self is kind of like that
+
+203
+01:13:12,840 --> 01:13:18,659
+too all these parts are changing they're
+
+204
+01:13:18,659 --> 01:13:24,420
+interrelated they're changing but it's they're moving in some kind of way we
+
+205
+01:13:24,420 --> 01:13:30,960
+might imagine that doesn't mean waterfalls don't exist Niagara Falls if you ever take pictures
+
+206
+01:13:30,960 --> 01:13:38,640
+of them they're beautiful they even make rainbows but there isn't like a solid core
+
+207
+01:13:38,640 --> 01:13:45,440
+substance to them so the self is like this
+
+208
+01:13:46,800 --> 01:13:51,900
+and there's actually something quite fantastic about this because
+
+209
+01:13:51,900 --> 01:13:57,300
+the fact that for a collection of parts
+
+210
+01:13:57,300 --> 01:14:02,520
+or processes instead of like this
+
+211
+01:14:02,520 --> 01:14:07,620
+stable core that's in the middle not changing
+
+212
+01:14:07,620 --> 01:14:13,500
+it means that we can develop and cultivate
+
+213
+01:14:13,500 --> 01:14:20,460
+grow change otherwise if there was this stable thing that just gets us experiences attached
+
+214
+01:14:20,460 --> 01:14:27,659
+to we'd be trapped so this is kind of like the freedom
+
+215
+01:14:27,659 --> 01:14:34,020
+that's available to humans and there's even more freedom when we
+
+216
+01:14:34,020 --> 01:14:40,380
+really start to understand this deeply because as long as we think that we have
+
+217
+01:14:40,380 --> 01:14:46,080
+this core then we have to protect it
+
+218
+01:14:46,080 --> 01:14:53,219
+we have to Shield it we have to pretend it looks a particular way to everybody else
+
+219
+01:14:53,219 --> 01:15:00,300
+there's a reason why we often aren't sharing our inner thoughts with other people because we often there's a feeling like
+
+220
+01:15:00,300 --> 01:15:05,940
+oh this inner cores somehow not quite right
+
+221
+01:15:05,940 --> 01:15:13,080
+this is a pervasive feeling that humans have not everybody but a lot of people have
+
+222
+01:15:13,080 --> 01:15:20,100
+so we're trying to hide it so we're creating these narratives these stories
+
+223
+01:15:20,100 --> 01:15:25,320
+that trying to convince everybody yeah I'm fine everything's under control
+
+224
+01:15:25,320 --> 01:15:32,159
+I got it no problem when we might actually be desperately confused or
+
+225
+01:15:32,159 --> 01:15:38,760
+feeling not like their life is going the way we want it to or something like this Meanwhile
+
+226
+01:15:38,760 --> 01:15:43,460
+we're trying to convince yeah no problem I got it
+
+227
+01:15:45,659 --> 01:15:52,380
+so we're trying to protect it we're trying to bolster it make sure that it looks good we feel vulnerable if we have
+
+228
+01:15:52,380 --> 01:15:59,219
+this core like we don't want people to maybe even know about it or
+
+229
+01:15:59,219 --> 01:16:07,320
+to injure it in some kind of way we build walls around it so we don't get
+
+230
+01:16:07,320 --> 01:16:14,100
+close to other people this idea of this Center a central core
+
+231
+01:16:14,100 --> 01:16:19,920
+or Essence source of a lot of duka
+
+232
+01:16:19,920 --> 01:16:25,159
+a lot of Duke a lot of dukkha
+
+233
+01:16:26,640 --> 01:16:33,480
+and as this starts to maybe loosen up and that's maybe we don't feel like we
+
+234
+01:16:33,480 --> 01:16:40,440
+have a core but we only do at certain times and then maybe we can loosen up and feel like there's
+
+235
+01:16:40,440 --> 01:16:48,140
+just a flow of experiences and the more ease we have in our life
+
+236
+01:16:48,360 --> 01:16:56,000
+chances are if you were to think about the best moments of your life it doesn't involve being like
+
+237
+01:16:56,000 --> 01:17:02,219
+contracted and feeling separate from everybody else and feeling like you have to protect yourself or something like
+
+238
+01:17:02,219 --> 01:17:09,239
+that instead probably the best moments of your life or when there's a sense of flow and connection
+
+239
+01:17:09,239 --> 01:17:13,940
+with others with nature or whatever it might be
+
+240
+01:17:15,239 --> 01:17:22,760
+so the Buddha is pointing to this that there's the self is just a collection
+
+241
+01:17:24,360 --> 01:17:30,659
+I'm not going to go into the details of what this collection is maybe maybe I will in a subsequent talk but
+
+242
+01:17:30,659 --> 01:17:36,480
+I wanted to talk about a little bit how can we go about
+
+243
+01:17:36,480 --> 01:17:42,920
+loosening up or even seeing how it's part of a collection
+
+244
+01:17:43,020 --> 01:17:49,860
+maybe one thing I'll say is that it's often meditative experiences that can
+
+245
+01:17:49,860 --> 01:17:55,199
+really cause a giant shift but there's lots of
+
+246
+01:17:55,199 --> 01:18:02,460
+small shifts along the way that we can be doing and practicing with
+
+247
+01:18:02,460 --> 01:18:08,580
+and this is um from Joseph Goldstein who shares some practices to do in daily
+
+248
+01:18:08,580 --> 01:18:14,699
+life to kind of like support this idea if they're not being a solid core or
+
+249
+01:18:14,699 --> 01:18:20,640
+Essence and one is and uh I appreciate that Joseph is
+
+250
+01:18:20,640 --> 01:18:27,300
+saying okay this is for daily life so he says for three minutes so somebody only had to do for three minutes
+
+251
+01:18:27,300 --> 01:18:32,780
+is just to listen to The Sounds
+
+252
+01:18:37,860 --> 01:18:43,920
+in this building sometimes we hear traffic it's from the year my voice we hear
+
+253
+01:18:43,920 --> 01:18:49,980
+people shuffling a little bit maybe your breath it absolutely doesn't matter if you want
+
+254
+01:18:49,980 --> 01:18:55,920
+to do this exercise I'm not going to point to whether it's in a quiet place noisy place it doesn't matter
+
+255
+01:18:55,920 --> 01:19:02,300
+just listen can I open up the awareness
+
+256
+01:19:03,480 --> 01:19:08,880
+hear a sound and then drop in the question
+
+257
+01:19:08,880 --> 01:19:13,698
+what's knowing these sounds
+
+258
+01:19:14,699 --> 01:19:24,440
+knowing is happening there's sounds and we know that there's sounds but what's what's knowing that sounds
+
+259
+01:19:25,500 --> 01:19:32,219
+let me just do a little investigation is there something inside that knows
+
+260
+01:19:32,219 --> 01:19:37,460
+is there a nowhere this feels like an odd
+
+261
+01:19:37,460 --> 01:19:44,940
+expression or odd question but we can just look
+
+262
+01:19:44,940 --> 01:19:50,940
+maybe we'll just do this now what is there a nowhere
+
+263
+01:19:50,940 --> 01:19:58,460
+inside that can like hear these sounds or even know the meaning of these words
+
+264
+01:20:10,800 --> 01:20:15,920
+like what wouldn't how would we even know when nowhere
+
+265
+01:20:16,500 --> 01:20:23,040
+like what is a nowhere so
+
+266
+01:20:23,040 --> 01:20:29,658
+when we investigate we see that there's actually really nothing to find
+
+267
+01:20:31,560 --> 01:20:39,060
+and the trick is to look again and again and again
+
+268
+01:20:39,060 --> 01:20:46,380
+and again and again to do this exercise when you hear sounds
+
+269
+01:20:46,380 --> 01:20:52,260
+just a turn what's the knower do it when the mind is quiet when the
+
+270
+01:20:52,260 --> 01:20:58,020
+mind's agitated and just to investigate
+
+271
+01:20:58,020 --> 01:21:04,800
+it's not it won't be sufficient to do it you know 10 times and say okay there's nothing there I get it now what's next
+
+272
+01:21:04,800 --> 01:21:10,739
+there's something about the looking and not finding repeatedly that has an
+
+273
+01:21:10,739 --> 01:21:17,100
+impact so that's one thing we can do it's so
+
+274
+01:21:17,100 --> 01:21:23,480
+this recognition that all that's going on is hearing
+
+275
+01:21:24,360 --> 01:21:32,840
+and the knowing of the sounds there isn't uh this nowhere it's just
+
+276
+01:21:32,840 --> 01:21:38,760
+sounds be known there's no self
+
+277
+01:21:38,760 --> 01:21:44,640
+there's no core there's no essence a second
+
+278
+01:21:44,640 --> 01:21:49,980
+practice that Joseph talks about and he also says you could just do this
+
+279
+01:21:49,980 --> 01:21:55,980
+for three minutes to do this like in daily life and Joseph gives a story
+
+280
+01:21:55,980 --> 01:22:01,980
+about doing some walking meditation while on retreat
+
+281
+01:22:01,980 --> 01:22:07,980
+and he recognized that when he was walking there's a whole collection of
+
+282
+01:22:07,980 --> 01:22:14,100
+Sensations pressure on the bottom of the feet maybe the feeling of air going
+
+283
+01:22:14,100 --> 01:22:20,719
+across the body or maybe the sense of motion or maybe there's a sense of
+
+284
+01:22:20,719 --> 01:22:25,860
+lightness like we're not stuck and heavy but we're kind of like have this
+
+285
+01:22:25,860 --> 01:22:32,000
+lightness mobility of it can move so there's a collection of Sensations
+
+286
+01:22:32,940 --> 01:22:40,199
+and then to notice that that they're simply experiencing
+
+287
+01:22:40,199 --> 01:22:45,020
+Sensations in space
+
+288
+01:22:45,420 --> 01:22:50,580
+the sensations are down there on the bottom of the feet
+
+289
+01:22:50,580 --> 01:22:56,900
+but there's also maybe Sensations feeling the breeze on the face for the hands
+
+290
+01:22:56,940 --> 01:23:02,820
+there's also maybe a sensation in the leg as or the legs as the material of
+
+291
+01:23:02,820 --> 01:23:09,659
+the clues moves against the body so it's a collection of Sensations
+
+292
+01:23:09,659 --> 01:23:16,500
+there's the mind that creates a narrative and creates the self oh there's a body that's doing this motion
+
+293
+01:23:16,500 --> 01:23:23,719
+that's walking that's true but that actual
+
+294
+01:23:23,719 --> 01:23:31,620
+experience different than the narrative the actual experience like really the
+
+295
+01:23:31,620 --> 01:23:38,460
+actual Sensations maybe I should use that word it's at the bottom of the feet
+
+296
+01:23:38,460 --> 01:23:43,980
+maybe on the upper legs maybe on the face
+
+297
+01:23:43,980 --> 01:23:50,719
+but that's not a body that's a collection of Sensations
+
+298
+01:23:51,060 --> 01:23:57,659
+so Joseph Joseph recommends for three minutes do some walking and feel how
+
+299
+01:23:57,659 --> 01:24:03,300
+there's oh yeah there's just this collection of Sensations as we move
+
+300
+01:24:03,300 --> 01:24:10,140
+it's a little bit extra it's not a little bit it's a lot it's a lot extra but we're so used to doing it we don't
+
+301
+01:24:10,140 --> 01:24:16,140
+notice but it's extra to impute the whole body
+
+302
+01:24:16,140 --> 01:24:22,320
+that's walking so Joseph highlights to see that
+
+303
+01:24:22,320 --> 01:24:27,960
+actually the body is he has this expression he was um
+
+304
+01:24:27,960 --> 01:24:34,620
+he was called like this fluid energy field I don't know if that resonates for you
+
+305
+01:24:34,620 --> 01:24:41,100
+it might a fluid energy field but that's different than this
+
+306
+01:24:41,100 --> 01:24:46,620
+anatomical body that you could see on an X-ray for example or CAT scan or
+
+307
+01:24:46,620 --> 01:24:51,780
+something like that this just this collection of Sensations
+
+308
+01:24:51,780 --> 01:24:57,900
+so we might have this idea of the solidity of the body and maybe in some way we might think
+
+309
+01:24:57,900 --> 01:25:04,500
+that oh this is core or the essence because this feels pretty solid
+
+310
+01:25:04,500 --> 01:25:11,719
+but when we move we can start to see it's a collection of Sensations
+
+311
+01:25:13,080 --> 01:25:19,280
+and I maybe want to emphasize that this not self-teaching is really about
+
+312
+01:25:19,280 --> 01:25:26,580
+Sensations phenomena it's so much not about the mind it's
+
+313
+01:25:26,580 --> 01:25:35,100
+pointing to actually how the mind creates Concepts like the idea of water like we think water but it's not a core
+
+314
+01:25:35,100 --> 01:25:42,840
+which we attach things water is concept a word that gets assigned to a
+
+315
+01:25:42,840 --> 01:25:51,320
+collection and the body is the same way the body's the same way and the self is the same way
+
+316
+01:25:52,440 --> 01:25:59,159
+and maybe for the and Joseph gives this last uh recommendation for something that we can
+
+317
+01:25:59,159 --> 01:26:04,560
+do to help us see through this idea that we might have that there's a solid core
+
+318
+01:26:04,560 --> 01:26:10,679
+or Essence is that too this often Works a little
+
+319
+01:26:10,679 --> 01:26:18,239
+bit better when the mind is a little bit quiet but it's not uncommon for us to identify
+
+320
+01:26:18,239 --> 01:26:27,900
+with the thoughts okay maybe I'm not my body okay well maybe I'm not um
+
+321
+01:26:27,900 --> 01:26:34,199
+I'm I'm not uh the nowhere I'm not even sure where that
+
+322
+01:26:34,199 --> 01:26:41,539
+is but my thoughts clearly what this inner narrative is that's must be me
+
+323
+01:26:42,300 --> 01:26:49,560
+but when you look the actual experiences again I'm talking
+
+324
+01:26:49,560 --> 01:26:56,340
+really subtle but that what actually is happening
+
+325
+01:26:56,340 --> 01:27:01,860
+is a lot of thoughts thoughts that come and go come and go
+
+326
+01:27:01,860 --> 01:27:10,320
+come and go come go come and go all day long it's just a collection of thoughts
+
+327
+01:27:10,320 --> 01:27:17,340
+some thoughts we believe some other thoughts we don't believe some are wispy some get repeated a bazillion times they
+
+328
+01:27:17,340 --> 01:27:23,280
+are all thoughts and so Joseph talks about just for a
+
+329
+01:27:23,280 --> 01:27:28,679
+while if you can just notice wow wow how many thoughts
+
+330
+01:27:28,679 --> 01:27:34,860
+we have in a three-minute period can you notice this is so easy often we just get
+
+331
+01:27:34,860 --> 01:27:40,139
+lost in them but to notice how thoughts are arising and passing thoughts even the thoughts
+
+332
+01:27:40,139 --> 01:27:46,139
+like this is silly why am I doing this you know they're all just thoughts
+
+333
+01:27:46,139 --> 01:27:51,800
+and they're coming and going so if we think that we are like our internal World well
+
+334
+01:27:51,800 --> 01:27:56,000
+which thought would we be
+
+335
+01:27:57,239 --> 01:28:02,820
+like we're like only these thoughts but not those thoughts the ones that we like or maybe we're only the thoughts that we
+
+336
+01:28:02,820 --> 01:28:10,460
+don't like and there isn't a core there isn't an Essence there
+
+337
+01:28:11,159 --> 01:28:17,040
+so this idea of not self is just pointing to
+
+338
+01:28:17,040 --> 01:28:23,040
+how it's completely appropriate that we use Concepts and labels that we assign
+
+339
+01:28:23,040 --> 01:28:28,080
+to collections of things
+
+340
+01:28:28,080 --> 01:28:34,260
+and this idea of scent the self is a label we use to assign to a collection
+
+341
+01:28:34,260 --> 01:28:40,860
+of things there isn't this core
+
+342
+01:28:40,860 --> 01:28:46,380
+always will be with us forever and who knows like next life past life these
+
+343
+01:28:46,380 --> 01:28:52,320
+types of things and I know somebody's going to ask well wait if there isn't itself what gets
+
+344
+01:28:52,320 --> 01:28:58,980
+reborn this is right right I'm not going to answer that right now it's the you know that it's a perfectly
+
+345
+01:28:58,980 --> 01:29:04,320
+legitimate question it's a good question right I'm just going to say for here
+
+346
+01:29:04,320 --> 01:29:12,920
+that uh there isn't a self and the way that we think there is
+
+347
+01:29:14,940 --> 01:29:20,100
+there isn't like the ego with the way we think there's there isn't a soul the way we think there is
+
+348
+01:29:20,100 --> 01:29:27,780
+of course there's a self right I'm a self you guys are a self I don't want us to get too tripped up on language so it
+
+349
+01:29:27,780 --> 01:29:36,000
+would be better if we had another word than self ego or Soul maybe it's a better word
+
+350
+01:29:36,000 --> 01:29:44,119
+even though that doesn't quite match but uh maybe points to the same thing
+
+351
+01:29:46,139 --> 01:29:52,679
+so this idea of not self when we think about it
+
+352
+01:29:52,679 --> 01:29:58,800
+like I said might be a little bit puzzlement or we might want to dismiss it or it might even bring up some fear
+
+353
+01:29:58,800 --> 01:30:05,100
+or a lot of uncomfortableness I often don't like to teach about this
+
+354
+01:30:05,100 --> 01:30:12,440
+topic because it causes a lot of uncomfortableness I'll just say this
+
+355
+01:30:12,540 --> 01:30:17,940
+but it's one of those teachings that the idea of it seems really weird or
+
+356
+01:30:17,940 --> 01:30:25,760
+uncomfortable the experience of it which usually happens in a meditative State some deep
+
+357
+01:30:25,760 --> 01:30:31,739
+this deep recognition is beautiful
+
+358
+01:30:31,739 --> 01:30:37,320
+and it turns out to be like one of the biggest relief
+
+359
+01:30:37,320 --> 01:30:44,340
+oh I didn't even know that I was like carrying this burden this idea of a self
+
+360
+01:30:44,340 --> 01:30:49,800
+that I have to protect and make everybody like and you know all
+
+361
+01:30:49,800 --> 01:30:55,739
+this stuff so the experience is different than our
+
+362
+01:30:55,739 --> 01:31:01,460
+ideas about it maybe that's a fundamental teaching here
+
+363
+01:31:02,400 --> 01:31:10,040
+so with that I'll uh open it up for some questions or comments are there some
+
+364
+01:31:10,860 --> 01:31:13,638
+questions
+
+365
+01:31:29,880 --> 01:31:36,440
+all right nobody has a self we don't have questions
+
+366
+01:31:37,980 --> 01:31:45,739
+that's fine with nobody has you don't have to ask questions assistant provide an opportunity
+
+367
+01:31:49,260 --> 01:31:57,300
+there's a way of been thinking about this um can you hold this a little bit closer so we can and to go like this yeah there
+
+368
+01:31:57,300 --> 01:32:03,179
+you go thank you I am uh I'm a craniosacral practitioner which is
+
+369
+01:32:03,179 --> 01:32:10,940
+a very subtle gentle type of Bodywork and I notice
+
+370
+01:32:10,980 --> 01:32:17,760
+when practitioners talk about what happens in the physiology and the
+
+371
+01:32:17,760 --> 01:32:24,239
+it comes out of osteopathy so it's got its whole has a particular Paradigm in languaging
+
+372
+01:32:24,239 --> 01:32:29,460
+around it but I notice when practitioners are
+
+373
+01:32:29,460 --> 01:32:37,080
+talking about what happens in the physiology and what we're doing and the issue of self as a practitioner
+
+374
+01:32:37,080 --> 01:32:42,239
+really becomes a problem because it's really it's a type of work that's like a
+
+375
+01:32:42,239 --> 01:32:47,580
+non-doing it's being very present with somebody and you're not you're not doing
+
+376
+01:32:47,580 --> 01:32:53,880
+something you're attending to um you're tracking you have awareness
+
+377
+01:32:53,880 --> 01:33:00,659
+but it's very important that it's a non-m manipulative intent it's not an intent to alter somebody
+
+378
+01:33:00,659 --> 01:33:07,080
+and so I have been noticing how practitioners have a real challenge around how to
+
+379
+01:33:07,080 --> 01:33:12,540
+language that and I really feel like it's that self no I always think oh this
+
+380
+01:33:12,540 --> 01:33:18,480
+is so very Buddhist and it's I mean it's real it's how it is it's just the truth that
+
+381
+01:33:18,480 --> 01:33:25,800
+they're trying to get at and they often end up going towards a spiritual language and then it becomes like a God
+
+382
+01:33:25,800 --> 01:33:33,780
+thing right so um it's just something I've been rolling around in my mind about this in terms of
+
+383
+01:33:33,780 --> 01:33:40,679
+actually the experience that they're pointing to is not self that there is physiology there is
+
+384
+01:33:40,679 --> 01:33:46,040
+phenomena there is awareness there is a tending to
+
+385
+01:33:46,040 --> 01:33:52,980
+there is not manipulating there is not controlling there's not fixing there is not
+
+386
+01:33:52,980 --> 01:33:58,139
+remediating you know so um
+
+387
+01:33:58,139 --> 01:34:05,340
+just for myself as a practitioner has been sort of playing with you know like oh I wonder how that could be
+
+388
+01:34:05,340 --> 01:34:11,880
+you know it could be articulated it really to me it really comes to what we talk about in Buddhism as not self
+
+389
+01:34:11,880 --> 01:34:17,340
+but that's outside of the paradigm that it's operating in right you know they're
+
+390
+01:34:17,340 --> 01:34:23,100
+trying to they're trying to quantify that experience which is real you know
+
+391
+01:34:23,100 --> 01:34:29,520
+um they're getting into that essential experience but they lack the language because it's not Buddhist actually you
+
+392
+01:34:29,520 --> 01:34:37,380
+know so this is so they also have the idea that there isn't this core or that's what that's what I feel is trying
+
+393
+01:34:37,380 --> 01:34:42,780
+to be articulated because that's a real and true experience when you get into
+
+394
+01:34:42,780 --> 01:34:48,540
+that that actually there's nothing there's not a self there's just being present with there's attending there's
+
+395
+01:34:48,540 --> 01:34:55,199
+experience there's phenomenal um and I think you're pointing to something that's when we when there is
+
+396
+01:34:55,199 --> 01:35:00,719
+like a Core Essence then we often feel like we have to fix it or we have to
+
+397
+01:35:00,719 --> 01:35:07,920
+manipulate it or to people I don't know it gets yeah there's definitely this sense comes in yes thank you thank you
+
+398
+01:35:07,920 --> 01:35:14,639
+yes but then when you relinquish all that to just attend to in fact how do you describe it right
+
+399
+01:35:14,639 --> 01:35:20,820
+what are you doing yeah you know so
+
+400
+01:35:20,820 --> 01:35:27,120
+um yeah it's something I've been rolling around like huh how could this be articulated and in Buddhism we know how
+
+401
+01:35:27,120 --> 01:35:32,699
+to articulate that we recognize that as not self but that's outside of the
+
+402
+01:35:32,699 --> 01:35:37,760
+Paradigm of this thank you thank you
+
+403
+01:35:38,760 --> 01:35:46,139
+okay Okay so thank you all for your attention
+
+404
+01:35:46,139 --> 01:35:52,099
+and I wish you all a wonderful rest of the evening thank you
+
+405
+01:35:54,659 --> 01:36:01,880
+and if you'd like you can come up and talk to me afterwards otherwise I wish you a safe travels home

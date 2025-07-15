@@ -1,0 +1,2831 @@
+1
+00:00:03,199 --> 00:00:04,640
+so a
+
+2
+00:00:04,640 --> 00:00:08,000
+couple of announcements before i
+
+3
+00:00:08,000 --> 00:00:13,360
+begin the talk first is that um
+
+4
+00:00:13,360 --> 00:00:16,000
+i'll have a community meeting on zoom
+
+5
+00:00:16,000 --> 00:00:17,600
+tomorrow morning after the
+
+6
+00:00:17,600 --> 00:00:21,439
+7 am sitting in dharma talks it'll be at
+
+7
+00:00:21,439 --> 00:00:21,760
+7
+
+8
+00:00:21,760 --> 00:00:26,400
+45 or so and it's partly to commemorate
+
+9
+00:00:26,400 --> 00:00:30,080
+the one year anniversary of of
+
+10
+00:00:30,080 --> 00:00:33,600
+starting the 7am sittings
+
+11
+00:00:33,600 --> 00:00:36,399
+and it's also for many of us marx
+
+12
+00:00:36,399 --> 00:00:38,399
+commemorates also the
+
+13
+00:00:38,399 --> 00:00:42,559
+one-year anniversary of
+
+14
+00:00:42,559 --> 00:00:45,760
+sheltering in place where our life has
+
+15
+00:00:45,760 --> 00:00:48,800
+changed dramatically
+
+16
+00:00:49,360 --> 00:00:52,399
+a year ago and different places of
+
+17
+00:00:52,399 --> 00:00:54,000
+course went into shelter at different
+
+18
+00:00:54,000 --> 00:00:56,719
+times but at least here in california
+
+19
+00:00:56,719 --> 00:01:00,800
+to a year ago it's been a big year and
+
+20
+00:01:00,800 --> 00:01:02,559
+i almost was going to give a talk today
+
+21
+00:01:02,559 --> 00:01:03,840
+about grief
+
+22
+00:01:03,840 --> 00:01:05,280
+and maybe i'll do that in a couple of
+
+23
+00:01:05,280 --> 00:01:07,760
+weeks but
+
+24
+00:01:07,840 --> 00:01:11,520
+i wasn't quite ready for that
+
+25
+00:01:11,520 --> 00:01:14,720
+and um and then next week i won't be
+
+26
+00:01:14,720 --> 00:01:15,280
+here
+
+27
+00:01:15,280 --> 00:01:19,680
+next week a wonderful teacher uh
+
+28
+00:01:19,680 --> 00:01:23,200
+amanda johnson is going to speak she is
+
+29
+00:01:23,200 --> 00:01:23,600
+um
+
+30
+00:01:23,600 --> 00:01:25,439
+she graduated a year and a half ago from
+
+31
+00:01:25,439 --> 00:01:27,119
+the teacher training
+
+32
+00:01:27,119 --> 00:01:29,840
+for at spirit rock so she's a local
+
+33
+00:01:29,840 --> 00:01:31,200
+dharma teacher
+
+34
+00:01:31,200 --> 00:01:35,040
+and and very happy to have her come
+
+35
+00:01:35,040 --> 00:01:41,840
+and and spend sunday morning with you
+
+36
+00:01:42,560 --> 00:01:45,280
+some
+
+37
+00:01:52,479 --> 00:01:55,840
+so imagine
+
+38
+00:01:57,600 --> 00:02:00,880
+that uh you're in a beautiful place in
+
+39
+00:02:00,880 --> 00:02:03,119
+nature that maybe some place you've been
+
+40
+00:02:03,119 --> 00:02:03,840
+and
+
+41
+00:02:03,840 --> 00:02:07,680
+found inspiring and maybe far away from
+
+42
+00:02:07,680 --> 00:02:10,879
+buildings and roads and a lot of people
+
+43
+00:02:10,879 --> 00:02:14,000
+and it's just an expanse of
+
+44
+00:02:14,000 --> 00:02:17,920
+a natural setting beautiful comfortable
+
+45
+00:02:17,920 --> 00:02:22,480
+safe inspiring place to be
+
+46
+00:02:22,480 --> 00:02:25,200
+and maybe it's so inspiring maybe you
+
+47
+00:02:25,200 --> 00:02:27,120
+visit regularly to appreciate
+
+48
+00:02:27,120 --> 00:02:29,360
+and feel the freedom of just roaming
+
+49
+00:02:29,360 --> 00:02:30,879
+around and
+
+50
+00:02:30,879 --> 00:02:34,319
+the trees and the skies and
+
+51
+00:02:34,319 --> 00:02:36,640
+the hills and the rivers and the lakes
+
+52
+00:02:36,640 --> 00:02:38,879
+whatever it might be just a vast space
+
+53
+00:02:38,879 --> 00:02:39,360
+that's
+
+54
+00:02:39,360 --> 00:02:42,239
+wonderful to be in
+
+55
+00:02:42,480 --> 00:02:45,840
+and so after visiting many times you
+
+56
+00:02:45,840 --> 00:02:47,519
+think this is special and you want to
+
+57
+00:02:47,519 --> 00:02:48,640
+kind of
+
+58
+00:02:48,640 --> 00:02:51,040
+mark the specialness of some some nice
+
+59
+00:02:51,040 --> 00:02:51,840
+way and
+
+60
+00:02:51,840 --> 00:02:55,440
+creative way and so uh
+
+61
+00:02:55,440 --> 00:02:58,800
+you bring a um with you into the
+
+62
+00:02:58,800 --> 00:03:00,080
+wilderness
+
+63
+00:03:00,080 --> 00:03:04,239
+a glass door with a frame it's a
+
+64
+00:03:04,239 --> 00:03:06,560
+bit of an effort to bring it in there
+
+65
+00:03:06,560 --> 00:03:07,280
+and you
+
+66
+00:03:07,280 --> 00:03:09,760
+install that door right in the middle of
+
+67
+00:03:09,760 --> 00:03:11,840
+the wilderness this glass door
+
+68
+00:03:11,840 --> 00:03:15,040
+swings open very nicely at its frame and
+
+69
+00:03:15,040 --> 00:03:17,760
+and there it is this door middle of the
+
+70
+00:03:17,760 --> 00:03:18,560
+wilderness
+
+71
+00:03:18,560 --> 00:03:20,080
+some people might think it's an art
+
+72
+00:03:20,080 --> 00:03:22,640
+installation
+
+73
+00:03:22,640 --> 00:03:26,560
+and but it's your door and uh
+
+74
+00:03:26,560 --> 00:03:28,560
+kind of marks that this space this place
+
+75
+00:03:28,560 --> 00:03:30,080
+is so special for you it's kind of like
+
+76
+00:03:30,080 --> 00:03:30,720
+marking it
+
+77
+00:03:30,720 --> 00:03:34,000
+as being special and and that
+
+78
+00:03:34,000 --> 00:03:36,080
+you know symbolically it's a door into a
+
+79
+00:03:36,080 --> 00:03:37,360
+different landscape
+
+80
+00:03:37,360 --> 00:03:39,920
+and different place and but now when you
+
+81
+00:03:39,920 --> 00:03:40,560
+go visit
+
+82
+00:03:40,560 --> 00:03:43,680
+in this big vast open space
+
+83
+00:03:43,680 --> 00:03:46,879
+there in the middle there's a door
+
+84
+00:03:46,879 --> 00:03:49,840
+and and you put happen to put it right
+
+85
+00:03:49,840 --> 00:03:51,680
+in the middle of a trail
+
+86
+00:03:51,680 --> 00:03:53,519
+so that when you go in the trail you
+
+87
+00:03:53,519 --> 00:03:56,799
+have to open the door and step through
+
+88
+00:03:56,799 --> 00:04:00,239
+and so the door is there and
+
+89
+00:04:00,239 --> 00:04:03,519
+you like this door and sometimes it gets
+
+90
+00:04:03,519 --> 00:04:05,040
+locked by mistake and you have to go
+
+91
+00:04:05,040 --> 00:04:08,239
+home and get the key to unlock it and
+
+92
+00:04:08,239 --> 00:04:10,000
+sometimes it gets rusty being in the
+
+93
+00:04:10,000 --> 00:04:11,680
+weather and you have to oil it so that
+
+94
+00:04:11,680 --> 00:04:12,879
+it can open and close
+
+95
+00:04:12,879 --> 00:04:15,280
+and some being a glass door sometimes it
+
+96
+00:04:15,280 --> 00:04:16,479
+gets dirty and you
+
+97
+00:04:16,479 --> 00:04:19,120
+have to clean it and you care for the
+
+98
+00:04:19,120 --> 00:04:20,320
+store
+
+99
+00:04:20,320 --> 00:04:22,240
+and after a while you think of this door
+
+100
+00:04:22,240 --> 00:04:24,160
+as your door
+
+101
+00:04:24,160 --> 00:04:26,560
+and and you want to protect your door
+
+102
+00:04:26,560 --> 00:04:27,759
+and so
+
+103
+00:04:27,759 --> 00:04:30,800
+you because the door represents this
+
+104
+00:04:30,800 --> 00:04:33,199
+openness to into this wilderness and
+
+105
+00:04:33,199 --> 00:04:35,440
+this freedom that's there
+
+106
+00:04:35,440 --> 00:04:37,040
+and so you decide that the thing to do
+
+107
+00:04:37,040 --> 00:04:38,639
+is to put a fence around the door to
+
+108
+00:04:38,639 --> 00:04:40,320
+really protect it so the moose doesn't
+
+109
+00:04:40,320 --> 00:04:43,120
+come along and knock it down and
+
+110
+00:04:43,120 --> 00:04:45,680
+and break the glass so you put the fence
+
+111
+00:04:45,680 --> 00:04:46,240
+around it
+
+112
+00:04:46,240 --> 00:04:47,919
+and you come out there and you feel my
+
+113
+00:04:47,919 --> 00:04:50,000
+door is protected and
+
+114
+00:04:50,000 --> 00:04:53,440
+after a while the um you start peeling
+
+115
+00:04:53,440 --> 00:04:54,800
+you look around say well
+
+116
+00:04:54,800 --> 00:04:56,960
+this incl this place where i enclosed
+
+117
+00:04:56,960 --> 00:04:58,639
+the feds it's not really big enough for
+
+118
+00:04:58,639 --> 00:04:59,360
+me it's
+
+119
+00:04:59,360 --> 00:05:01,520
+it's you know really you know i'd like
+
+120
+00:05:01,520 --> 00:05:02,479
+more space to
+
+121
+00:05:02,479 --> 00:05:05,280
+be able to come in and and just kind of
+
+122
+00:05:05,280 --> 00:05:07,440
+be spacious and open and
+
+123
+00:05:07,440 --> 00:05:09,120
+and so you expand the fence make it
+
+124
+00:05:09,120 --> 00:05:11,120
+bigger and bigger
+
+125
+00:05:11,120 --> 00:05:12,400
+and after a while you don't want to
+
+126
+00:05:12,400 --> 00:05:14,320
+really see the fence you make the fence
+
+127
+00:05:14,320 --> 00:05:15,120
+really big
+
+128
+00:05:15,120 --> 00:05:17,280
+and goes around the hills and outside of
+
+129
+00:05:17,280 --> 00:05:19,039
+you and
+
+130
+00:05:19,039 --> 00:05:21,039
+so you go inside you know just you and
+
+131
+00:05:21,039 --> 00:05:24,080
+the door and
+
+132
+00:05:24,080 --> 00:05:27,120
+the doors kind of maybe sometimes gets
+
+133
+00:05:27,120 --> 00:05:29,280
+branches fall on it and break it and you
+
+134
+00:05:29,280 --> 00:05:30,960
+fix it and
+
+135
+00:05:30,960 --> 00:05:34,400
+all kinds of things happen to the door
+
+136
+00:05:34,400 --> 00:05:37,199
+and um eventually you'd wonder about the
+
+137
+00:05:37,199 --> 00:05:39,600
+door
+
+138
+00:05:39,600 --> 00:05:44,160
+and then you remove the door
+
+139
+00:05:44,160 --> 00:05:47,039
+and then there's vast open space again
+
+140
+00:05:47,039 --> 00:05:49,120
+then you remove the fence
+
+141
+00:05:49,120 --> 00:05:51,919
+and it's just like it was before it's
+
+142
+00:05:51,919 --> 00:05:52,320
+still
+
+143
+00:05:52,320 --> 00:05:55,440
+beautiful beautiful location inspiring
+
+144
+00:05:55,440 --> 00:05:57,840
+and peaceful wonder wonder wonderful to
+
+145
+00:05:57,840 --> 00:06:00,880
+roam around in and then you think what
+
+146
+00:06:00,880 --> 00:06:02,479
+was i doing with the door
+
+147
+00:06:02,479 --> 00:06:06,880
+what was i doing with a fence
+
+148
+00:06:06,880 --> 00:06:09,919
+so this may be a little silly story
+
+149
+00:06:09,919 --> 00:06:15,039
+uh is um introduction to the topic today
+
+150
+00:06:15,039 --> 00:06:18,160
+which is uh the buddha's teachings
+
+151
+00:06:18,160 --> 00:06:21,360
+on selfishness
+
+152
+00:06:21,360 --> 00:06:23,680
+the earliest teachings of the buddha as
+
+153
+00:06:23,680 --> 00:06:25,360
+best we know
+
+154
+00:06:25,360 --> 00:06:28,080
+he did not teach anything about not-self
+
+155
+00:06:28,080 --> 00:06:29,199
+this
+
+156
+00:06:29,199 --> 00:06:32,240
+you know famous teachings of
+
+157
+00:06:32,240 --> 00:06:35,919
+of the buddha it wasn't his focus but
+
+158
+00:06:35,919 --> 00:06:36,639
+rather he
+
+159
+00:06:36,639 --> 00:06:39,600
+was focused on
+
+160
+00:06:40,240 --> 00:06:41,759
+talking about the problems and the
+
+161
+00:06:41,759 --> 00:06:44,080
+suffering around being selfish
+
+162
+00:06:44,080 --> 00:06:47,759
+and how a wise person let go selfishness
+
+163
+00:06:47,759 --> 00:06:51,039
+and as he developed his teaching he
+
+164
+00:06:51,039 --> 00:06:53,919
+described three different ways of being
+
+165
+00:06:53,919 --> 00:06:55,880
+selfish or self-focused or
+
+166
+00:06:55,880 --> 00:06:58,800
+self-preoccupied in some way
+
+167
+00:06:58,800 --> 00:07:02,000
+and one was through craving
+
+168
+00:07:02,000 --> 00:07:05,440
+one was through conceit and the other is
+
+169
+00:07:05,440 --> 00:07:07,759
+through
+
+170
+00:07:07,840 --> 00:07:10,720
+metaphysical opinions and views beliefs
+
+171
+00:07:10,720 --> 00:07:13,680
+that we hold onto
+
+172
+00:07:13,919 --> 00:07:18,240
+so the craving uh idea of selfishness
+
+173
+00:07:18,240 --> 00:07:22,319
+he associates with possessiveness
+
+174
+00:07:22,319 --> 00:07:24,639
+possessing things these are mine this is
+
+175
+00:07:24,639 --> 00:07:26,319
+mine
+
+176
+00:07:26,319 --> 00:07:29,520
+the conceit
+
+177
+00:07:29,520 --> 00:07:32,560
+is associated with the idea of i am
+
+178
+00:07:32,560 --> 00:07:36,479
+um you know that i am something
+
+179
+00:07:36,479 --> 00:07:39,759
+that i am this i am that so it's a role
+
+180
+00:07:39,759 --> 00:07:42,840
+identities that we take on and hold on
+
+181
+00:07:42,840 --> 00:07:45,199
+to and
+
+182
+00:07:45,199 --> 00:07:49,120
+and the third is um
+
+183
+00:07:50,879 --> 00:07:54,639
+this is myself that this is the true
+
+184
+00:07:54,639 --> 00:07:55,280
+self
+
+185
+00:07:55,280 --> 00:07:57,199
+now i know what the self is and this is
+
+186
+00:07:57,199 --> 00:07:59,759
+what the self is what my true self is my
+
+187
+00:07:59,759 --> 00:08:01,360
+essence is
+
+188
+00:08:01,360 --> 00:08:03,520
+and in pali these little expressions
+
+189
+00:08:03,520 --> 00:08:07,039
+appear a lot in asus it's
+
+190
+00:08:11,450 --> 00:08:14,480
+[Music]
+
+191
+00:08:20,800 --> 00:08:22,800
+and it's kind of close to what we say in
+
+192
+00:08:22,800 --> 00:08:26,400
+english of me myself and mine mind
+
+193
+00:08:26,400 --> 00:08:29,360
+he kind of says it in reverse this is
+
+194
+00:08:29,360 --> 00:08:30,960
+mine
+
+195
+00:08:30,960 --> 00:08:34,800
+this i am and this is myself
+
+196
+00:08:34,800 --> 00:08:38,240
+this is the self so
+
+197
+00:08:38,240 --> 00:08:41,760
+um and the reason to
+
+198
+00:08:41,760 --> 00:08:44,080
+notice this and pay attention to it it's
+
+199
+00:08:44,080 --> 00:08:44,959
+the domain
+
+200
+00:08:44,959 --> 00:08:47,600
+that the qualities of selfishness are
+
+201
+00:08:47,600 --> 00:08:49,040
+being caught up in
+
+202
+00:08:49,040 --> 00:08:51,360
+excessive excessive preoccupation with
+
+203
+00:08:51,360 --> 00:08:52,480
+oneself
+
+204
+00:08:52,480 --> 00:08:55,279
+a strong attachment clinging
+
+205
+00:08:55,279 --> 00:08:56,560
+self-centeredness
+
+206
+00:08:56,560 --> 00:08:59,760
+that can happen and
+
+207
+00:08:59,760 --> 00:09:01,839
+and this movement towards selfing and
+
+208
+00:09:01,839 --> 00:09:04,080
+getting holding on to self
+
+209
+00:09:04,080 --> 00:09:08,720
+is uh is limits our freedom
+
+210
+00:09:08,720 --> 00:09:11,279
+it does something which is not really
+
+211
+00:09:11,279 --> 00:09:12,320
+necessary
+
+212
+00:09:12,320 --> 00:09:14,880
+to cling to the self that is a
+
+213
+00:09:14,880 --> 00:09:17,040
+comparable to this idea if you will if
+
+214
+00:09:17,040 --> 00:09:17,440
+you
+
+215
+00:09:17,440 --> 00:09:20,080
+allow me of putting this door right in
+
+216
+00:09:20,080 --> 00:09:22,000
+the middle of the wilderness
+
+217
+00:09:22,000 --> 00:09:23,600
+the wilderness was beautiful and
+
+218
+00:09:23,600 --> 00:09:25,040
+wonderful by itself
+
+219
+00:09:25,040 --> 00:09:26,720
+and it was a wonderful place to visit
+
+220
+00:09:26,720 --> 00:09:28,800
+and peaceful and relaxing
+
+221
+00:09:28,800 --> 00:09:31,279
+and it was so much more less complicated
+
+222
+00:09:31,279 --> 00:09:32,160
+to be there
+
+223
+00:09:32,160 --> 00:09:33,600
+when you didn't have to take care of the
+
+224
+00:09:33,600 --> 00:09:36,800
+door and protect the door and
+
+225
+00:09:36,800 --> 00:09:39,760
+repair the door and build fences around
+
+226
+00:09:39,760 --> 00:09:41,760
+the door
+
+227
+00:09:41,760 --> 00:09:44,959
+and so the same thing the natural
+
+228
+00:09:44,959 --> 00:09:48,160
+kind of a natural state of being
+
+229
+00:09:48,160 --> 00:09:51,760
+that can be quite open and peaceful
+
+230
+00:09:51,760 --> 00:09:56,000
+and inspiring to experience for oneself
+
+231
+00:09:56,000 --> 00:10:00,080
+that it doesn't require placing
+
+232
+00:10:00,080 --> 00:10:02,959
+something in the middle this is mine
+
+233
+00:10:02,959 --> 00:10:03,360
+this
+
+234
+00:10:03,360 --> 00:10:07,040
+is who i am this is myself
+
+235
+00:10:07,040 --> 00:10:09,279
+that movement is kind of an extra
+
+236
+00:10:09,279 --> 00:10:10,880
+movement that
+
+237
+00:10:10,880 --> 00:10:13,279
+that places something in the natural
+
+238
+00:10:13,279 --> 00:10:14,160
+setting
+
+239
+00:10:14,160 --> 00:10:16,800
+which more often than not does not need
+
+240
+00:10:16,800 --> 00:10:18,399
+it especially if what we're doing is
+
+241
+00:10:18,399 --> 00:10:19,519
+clinging
+
+242
+00:10:19,519 --> 00:10:23,040
+and holding on to uh to these things
+
+243
+00:10:23,040 --> 00:10:25,360
+so conventionally we might say things
+
+244
+00:10:25,360 --> 00:10:26,800
+are mine
+
+245
+00:10:26,800 --> 00:10:30,880
+and and you know it's a lot we say
+
+246
+00:10:30,880 --> 00:10:33,760
+it's you know things are mine things are
+
+247
+00:10:33,760 --> 00:10:34,800
+legally mined
+
+248
+00:10:34,800 --> 00:10:36,320
+there's ownership there's things which
+
+249
+00:10:36,320 --> 00:10:39,279
+we allow each other to have
+
+250
+00:10:39,279 --> 00:10:43,920
+but but the selfishness around that
+
+251
+00:10:43,920 --> 00:10:46,079
+is when we cling to mind we hold on to
+
+252
+00:10:46,079 --> 00:10:48,000
+it for dear life like it has to be this
+
+253
+00:10:48,000 --> 00:10:49,200
+way
+
+254
+00:10:49,200 --> 00:10:51,360
+and this movement towards possessiveness
+
+255
+00:10:51,360 --> 00:10:53,600
+and claiming things as mine
+
+256
+00:10:53,600 --> 00:10:56,880
+this belongs to me is a recipe for
+
+257
+00:10:56,880 --> 00:10:58,880
+suffering
+
+258
+00:10:58,880 --> 00:11:02,079
+the uh one famous kind of uh
+
+259
+00:11:02,079 --> 00:11:04,880
+origin story in buddhism that um the
+
+260
+00:11:04,880 --> 00:11:05,839
+beginning of the
+
+261
+00:11:05,839 --> 00:11:07,680
+one of the beginnings of the downturn of
+
+262
+00:11:07,680 --> 00:11:09,760
+the of society
+
+263
+00:11:09,760 --> 00:11:12,320
+was private property and then people
+
+264
+00:11:12,320 --> 00:11:12,800
+started
+
+265
+00:11:12,800 --> 00:11:15,040
+uh
+
+266
+00:11:16,800 --> 00:11:20,560
+hoarding in their private property and
+
+267
+00:11:20,560 --> 00:11:22,720
+stealing and things got out of hand in
+
+268
+00:11:22,720 --> 00:11:25,680
+this mythic story
+
+269
+00:11:25,680 --> 00:11:28,320
+so the idea of it's mine and holding
+
+270
+00:11:28,320 --> 00:11:30,000
+holding it tight
+
+271
+00:11:30,000 --> 00:11:32,320
+not realizing that possession
+
+272
+00:11:32,320 --> 00:11:33,839
+possessions of all kinds
+
+273
+00:11:33,839 --> 00:11:36,959
+anything we can say is mine is fragile
+
+274
+00:11:36,959 --> 00:11:39,600
+it's temporary is uh there's no
+
+275
+00:11:39,600 --> 00:11:42,399
+guarantee that it's going to stay around
+
+276
+00:11:42,399 --> 00:11:47,120
+that um i read recently about a
+
+277
+00:11:47,120 --> 00:11:48,800
+meteorite or asteroid that kind of
+
+278
+00:11:48,800 --> 00:11:50,560
+landed in the driveway of someone in i
+
+279
+00:11:50,560 --> 00:11:52,560
+think in scotland i think it was
+
+280
+00:11:52,560 --> 00:11:58,240
+or somewhere and the rare rare
+
+281
+00:11:58,399 --> 00:12:01,440
+mineral that came in this asteroid
+
+282
+00:12:01,440 --> 00:12:03,519
+and um but there's no you know guarantee
+
+283
+00:12:03,519 --> 00:12:06,079
+that lighting's not going to strike us
+
+284
+00:12:06,079 --> 00:12:08,399
+or strike our things like our car or
+
+285
+00:12:08,399 --> 00:12:09,360
+bicycle
+
+286
+00:12:09,360 --> 00:12:10,880
+and asteroid's not going to fall and
+
+287
+00:12:10,880 --> 00:12:12,720
+something we own
+
+288
+00:12:12,720 --> 00:12:14,320
+and then we don't own it anymore it's
+
+289
+00:12:14,320 --> 00:12:16,480
+gone you know it just becomes a squash
+
+290
+00:12:16,480 --> 00:12:17,760
+piece of
+
+291
+00:12:17,760 --> 00:12:20,959
+burnt stuff and
+
+292
+00:12:20,959 --> 00:12:23,360
+the idea that it is me myself and that
+
+293
+00:12:23,360 --> 00:12:24,639
+it's mine
+
+294
+00:12:24,639 --> 00:12:27,600
+has disappeared
+
+295
+00:12:27,920 --> 00:12:32,639
+the um you know i've
+
+296
+00:12:32,639 --> 00:12:36,000
+recently i broke a
+
+297
+00:12:36,000 --> 00:12:38,880
+bowl ceramic bowl that my son had made
+
+298
+00:12:38,880 --> 00:12:40,639
+and beautiful bowl and i broke it in the
+
+299
+00:12:40,639 --> 00:12:41,440
+kitchen and
+
+300
+00:12:41,440 --> 00:12:43,920
+it was ours belonged to our family but
+
+301
+00:12:43,920 --> 00:12:45,519
+soon as it was broken
+
+302
+00:12:45,519 --> 00:12:47,120
+i didn't really think about think of it
+
+303
+00:12:47,120 --> 00:12:48,800
+anymore as mine or
+
+304
+00:12:48,800 --> 00:12:50,160
+i didn't think of it as belonging to my
+
+305
+00:12:50,160 --> 00:12:52,079
+family i
+
+306
+00:12:52,079 --> 00:12:54,399
+rather unser ceremoniously just kind of
+
+307
+00:12:54,399 --> 00:12:56,079
+put it in the trash and
+
+308
+00:12:56,079 --> 00:13:01,279
+off it went and um
+
+309
+00:13:02,160 --> 00:13:07,279
+the the um
+
+310
+00:13:07,279 --> 00:13:11,920
+um so mine
+
+311
+00:13:11,920 --> 00:13:14,399
+as i love the story that's suzuki roshi
+
+312
+00:13:14,399 --> 00:13:16,079
+i've told it many times of
+
+313
+00:13:16,079 --> 00:13:19,440
+suzuki roshi is um
+
+314
+00:13:19,600 --> 00:13:21,120
+there's a photograph of him actually
+
+315
+00:13:21,120 --> 00:13:23,200
+saying this that taken just as he was
+
+316
+00:13:23,200 --> 00:13:24,320
+saying it so it's kind of
+
+317
+00:13:24,320 --> 00:13:26,560
+more poignant he was photographing him
+
+318
+00:13:26,560 --> 00:13:28,639
+holding up his glasses like this
+
+319
+00:13:28,639 --> 00:13:32,480
+and he says these are not my glasses
+
+320
+00:13:32,480 --> 00:13:35,360
+but you know about my old tired eyes so
+
+321
+00:13:35,360 --> 00:13:37,200
+you let me use them
+
+322
+00:13:37,200 --> 00:13:38,800
+so that's a very different relationship
+
+323
+00:13:38,800 --> 00:13:41,199
+to my glasses
+
+324
+00:13:41,199 --> 00:13:44,720
+and so
+
+325
+00:13:44,720 --> 00:13:46,639
+certainly it's convenient to have things
+
+326
+00:13:46,639 --> 00:13:49,040
+that we use and know they're there and
+
+327
+00:13:49,040 --> 00:13:50,639
+they're reliably going to be there next
+
+328
+00:13:50,639 --> 00:13:52,240
+day when we find them and so we're
+
+329
+00:13:52,240 --> 00:13:53,760
+seeing their mind
+
+330
+00:13:53,760 --> 00:13:56,240
+but you might reflect a little bit about
+
+331
+00:13:56,240 --> 00:13:58,000
+how much extra
+
+332
+00:13:58,000 --> 00:14:00,000
+attachment there might be possesses in
+
+333
+00:14:00,000 --> 00:14:02,399
+this fear fear of safety
+
+334
+00:14:02,399 --> 00:14:06,399
+fear of not being safe attachment to
+
+335
+00:14:06,399 --> 00:14:09,360
+to status attachment to all kinds of
+
+336
+00:14:09,360 --> 00:14:10,639
+things that come
+
+337
+00:14:10,639 --> 00:14:13,519
+we say something is mine it gets more
+
+338
+00:14:13,519 --> 00:14:15,279
+kind of interesting when you look at
+
+339
+00:14:15,279 --> 00:14:19,120
+that we take as mine of traits of our
+
+340
+00:14:19,120 --> 00:14:20,800
+personality or
+
+341
+00:14:20,800 --> 00:14:22,959
+qualities of our physique and our body
+
+342
+00:14:22,959 --> 00:14:24,240
+and
+
+343
+00:14:24,240 --> 00:14:27,279
+ways that we are in the world opinions
+
+344
+00:14:27,279 --> 00:14:31,120
+my opinions and
+
+345
+00:14:31,120 --> 00:14:33,120
+and if we hold on to those and cling to
+
+346
+00:14:33,120 --> 00:14:35,120
+those and think they're unchanging
+
+347
+00:14:35,120 --> 00:14:38,000
+will suffer so they're suffering of
+
+348
+00:14:38,000 --> 00:14:38,800
+taking things
+
+349
+00:14:38,800 --> 00:14:41,839
+as mine and for the buddha it's very
+
+350
+00:14:41,839 --> 00:14:45,519
+explicit even taking this body as mine
+
+351
+00:14:45,519 --> 00:14:49,360
+is a recipe for more suffering and
+
+352
+00:14:49,360 --> 00:14:51,760
+and so you know isn't it natural and
+
+353
+00:14:51,760 --> 00:14:54,240
+normal take this body as mine
+
+354
+00:14:54,240 --> 00:14:55,920
+i think it's a natural normal
+
+355
+00:14:55,920 --> 00:14:58,399
+conventionally to take it as mine my
+
+356
+00:14:58,399 --> 00:14:59,519
+body
+
+357
+00:14:59,519 --> 00:15:03,279
+but uh but to do so with an open hand
+
+358
+00:15:03,279 --> 00:15:03,600
+not
+
+359
+00:15:03,600 --> 00:15:06,240
+clinging to it just lightly
+
+360
+00:15:06,240 --> 00:15:07,519
+provisionally
+
+361
+00:15:07,519 --> 00:15:10,480
+but as soon as you say my body that i
+
+362
+00:15:10,480 --> 00:15:11,360
+you know them
+
+363
+00:15:11,360 --> 00:15:13,760
+then i have to be in charge of it and it
+
+364
+00:15:13,760 --> 00:15:15,040
+can't change and
+
+365
+00:15:15,040 --> 00:15:18,320
+it has to always stay the same
+
+366
+00:15:18,320 --> 00:15:22,079
+maybe the second uh form of selfishness
+
+367
+00:15:22,079 --> 00:15:27,279
+is conceit and um this is um
+
+368
+00:15:27,279 --> 00:15:30,959
+the idea of over evaluating oneself it
+
+369
+00:15:30,959 --> 00:15:31,839
+has to do with
+
+370
+00:15:31,839 --> 00:15:34,639
+how we value ourselves in relationship
+
+371
+00:15:34,639 --> 00:15:35,600
+to other people
+
+372
+00:15:35,600 --> 00:15:37,680
+and the common way in english the word
+
+373
+00:15:37,680 --> 00:15:39,759
+conceit refers to
+
+374
+00:15:39,759 --> 00:15:41,839
+thinking that we're somehow have a
+
+375
+00:15:41,839 --> 00:15:43,279
+higher value than others
+
+376
+00:15:43,279 --> 00:15:45,759
+we are better than others in some ways
+
+377
+00:15:45,759 --> 00:15:46,959
+and
+
+378
+00:15:46,959 --> 00:15:48,720
+and so it's a form of comparative
+
+379
+00:15:48,720 --> 00:15:50,000
+thinking
+
+380
+00:15:50,000 --> 00:15:51,600
+and as soon as we get involved in
+
+381
+00:15:51,600 --> 00:15:53,680
+comparative thinking with other people
+
+382
+00:15:53,680 --> 00:15:56,959
+this is really a amazing uh source of
+
+383
+00:15:56,959 --> 00:15:58,480
+suffering
+
+384
+00:15:58,480 --> 00:16:01,600
+comparative thinking um uh you know
+
+385
+00:16:01,600 --> 00:16:03,120
+things are constantly shifting in the
+
+386
+00:16:03,120 --> 00:16:05,120
+social world and between us and our
+
+387
+00:16:05,120 --> 00:16:06,320
+abilities and
+
+388
+00:16:06,320 --> 00:16:08,959
+other people's abilities and so um you
+
+389
+00:16:08,959 --> 00:16:11,040
+know if we expect to always
+
+390
+00:16:11,040 --> 00:16:13,360
+have a higher evaluation other people
+
+391
+00:16:13,360 --> 00:16:14,800
+will meet someone else who's going to be
+
+392
+00:16:14,800 --> 00:16:16,320
+better if
+
+393
+00:16:16,320 --> 00:16:18,079
+you know i'm pretty good at basketball
+
+394
+00:16:18,079 --> 00:16:20,320
+for someone who you know compared to
+
+395
+00:16:20,320 --> 00:16:23,759
+the six-year-old next door but
+
+396
+00:16:23,759 --> 00:16:26,000
+not compared to most adult men at this
+
+397
+00:16:26,000 --> 00:16:27,120
+point
+
+398
+00:16:27,120 --> 00:16:30,079
+and so do i hold on to that do i have a
+
+399
+00:16:30,079 --> 00:16:31,040
+conceit around
+
+400
+00:16:31,040 --> 00:16:33,920
+i'm a good basketball player better than
+
+401
+00:16:33,920 --> 00:16:36,000
+everyone else
+
+402
+00:16:36,000 --> 00:16:37,600
+you know i'll probably just suffer
+
+403
+00:16:37,600 --> 00:16:40,160
+around that kind of idea
+
+404
+00:16:40,160 --> 00:16:44,079
+and so this comparative thinking
+
+405
+00:16:44,079 --> 00:16:47,279
+is an unnecessary glass door
+
+406
+00:16:47,279 --> 00:16:50,000
+in the wilderness in the natural setting
+
+407
+00:16:50,000 --> 00:16:50,800
+it uh
+
+408
+00:16:50,800 --> 00:16:53,839
+it mars the situation it limits it it
+
+409
+00:16:53,839 --> 00:16:55,279
+becomes something then that we need to
+
+410
+00:16:55,279 --> 00:16:57,360
+protect we put fences around it
+
+411
+00:16:57,360 --> 00:16:59,759
+we want more and more fences and control
+
+412
+00:16:59,759 --> 00:17:00,720
+for it
+
+413
+00:17:00,720 --> 00:17:04,240
+and now it actually is a form of
+
+414
+00:17:04,240 --> 00:17:07,038
+of limiting ourselves rather than
+
+415
+00:17:07,039 --> 00:17:08,720
+freeing ourselves
+
+416
+00:17:08,720 --> 00:17:10,640
+there's a wonderful cartoon from calvin
+
+417
+00:17:10,640 --> 00:17:12,640
+and hobbes
+
+418
+00:17:12,640 --> 00:17:15,918
+where calvin is in the snow building a
+
+419
+00:17:15,919 --> 00:17:17,038
+fort
+
+420
+00:17:17,039 --> 00:17:19,438
+and to make him feel safe in this fort
+
+421
+00:17:19,439 --> 00:17:21,360
+and he's building up the wall so it just
+
+422
+00:17:21,360 --> 00:17:23,199
+goes above his head
+
+423
+00:17:23,199 --> 00:17:25,520
+and he's making it really tight and
+
+424
+00:17:25,520 --> 00:17:26,959
+compact and
+
+425
+00:17:26,959 --> 00:17:28,960
+and he surrounds himself with all the
+
+426
+00:17:28,960 --> 00:17:30,320
+snow to make a good
+
+427
+00:17:30,320 --> 00:17:33,120
+safe fort for himself but it's uh
+
+428
+00:17:33,120 --> 00:17:34,240
+basically he's
+
+429
+00:17:34,240 --> 00:17:37,360
+made a round little cone around himself
+
+430
+00:17:37,360 --> 00:17:39,520
+and once it's all finished he's trapped
+
+431
+00:17:39,520 --> 00:17:40,559
+inside
+
+432
+00:17:40,559 --> 00:17:42,960
+and he says help help because he can't
+
+433
+00:17:42,960 --> 00:17:45,440
+get out anymore
+
+434
+00:17:45,440 --> 00:17:48,640
+so um so this idea of conceit
+
+435
+00:17:48,640 --> 00:17:50,880
+is uh can become a trap we've kind of
+
+436
+00:17:50,880 --> 00:17:52,799
+protected too much and we kind of can't
+
+437
+00:17:52,799 --> 00:17:54,320
+breathe even
+
+438
+00:17:54,320 --> 00:17:57,600
+me myself and mine the conceit of being
+
+439
+00:17:57,600 --> 00:17:59,200
+better than
+
+440
+00:17:59,200 --> 00:18:01,600
+and in the ancient buddhist language
+
+441
+00:18:01,600 --> 00:18:03,280
+buddhist teachings
+
+442
+00:18:03,280 --> 00:18:07,840
+a word which was closely related to
+
+443
+00:18:08,480 --> 00:18:11,679
+mano mana the word for conceit
+
+444
+00:18:11,679 --> 00:18:15,200
+is the word mada and the
+
+445
+00:18:15,200 --> 00:18:18,720
+means to be intoxicated totally confused
+
+446
+00:18:18,720 --> 00:18:20,720
+and wrapped up in things
+
+447
+00:18:20,720 --> 00:18:23,679
+and sometimes it's translated as pride
+
+448
+00:18:23,679 --> 00:18:25,520
+but the english word pride maybe has a
+
+449
+00:18:25,520 --> 00:18:27,200
+variety of different
+
+450
+00:18:27,200 --> 00:18:29,039
+meanings these days and sometimes
+
+451
+00:18:29,039 --> 00:18:30,559
+they're positive
+
+452
+00:18:30,559 --> 00:18:32,559
+but since the original meaning of in
+
+453
+00:18:32,559 --> 00:18:35,360
+talks of this word mada is
+
+454
+00:18:35,360 --> 00:18:38,640
+pride is intoxication
+
+455
+00:18:38,640 --> 00:18:41,440
+one translation of ancient abhidhamma
+
+456
+00:18:41,440 --> 00:18:42,240
+text
+
+457
+00:18:42,240 --> 00:18:45,280
+is um to list all kinds of things people
+
+458
+00:18:45,280 --> 00:18:46,240
+are intoxicated
+
+459
+00:18:46,240 --> 00:18:50,720
+intoxicated by so in intoxicated by
+
+460
+00:18:50,720 --> 00:18:53,840
+their birth by their caste basically
+
+461
+00:18:53,840 --> 00:18:57,840
+intoxicated by their clan
+
+462
+00:18:58,400 --> 00:19:01,760
+intoxicated by their health
+
+463
+00:19:01,760 --> 00:19:05,679
+by youth intoxicated with life
+
+464
+00:19:05,679 --> 00:19:08,799
+itself intoxicated with gain
+
+465
+00:19:08,799 --> 00:19:13,760
+and acquisitions intoxicated with honor
+
+466
+00:19:13,760 --> 00:19:16,799
+with being respected with fame
+
+467
+00:19:16,799 --> 00:19:20,240
+with having followers with wealth
+
+468
+00:19:20,240 --> 00:19:23,679
+with skin color with learning with
+
+469
+00:19:23,679 --> 00:19:25,120
+intelligence
+
+470
+00:19:25,120 --> 00:19:28,160
+with not being despised
+
+471
+00:19:28,160 --> 00:19:31,280
+accomplishments popularity
+
+472
+00:19:31,280 --> 00:19:34,720
+with being ethical with meditation
+
+473
+00:19:34,720 --> 00:19:36,000
+attainments
+
+474
+00:19:36,000 --> 00:19:38,799
+and the list goes on and on but each of
+
+475
+00:19:38,799 --> 00:19:39,200
+these
+
+476
+00:19:39,200 --> 00:19:40,960
+is seen as a kind of pride they kind of
+
+477
+00:19:40,960 --> 00:19:42,240
+conceit
+
+478
+00:19:42,240 --> 00:19:44,559
+and conceit that we get intoxicated by
+
+479
+00:19:44,559 --> 00:19:45,360
+or get
+
+480
+00:19:45,360 --> 00:19:49,760
+caught by and it's so much easier
+
+481
+00:19:49,760 --> 00:19:54,000
+to be in life in the world without
+
+482
+00:19:54,000 --> 00:19:56,480
+getting caught by these comparative
+
+483
+00:19:56,480 --> 00:19:57,520
+thinking
+
+484
+00:19:57,520 --> 00:19:59,919
+with others one form of comparative
+
+485
+00:19:59,919 --> 00:20:00,640
+thinking that
+
+486
+00:20:00,640 --> 00:20:03,360
+in the buddhist idea of conceit is also
+
+487
+00:20:03,360 --> 00:20:04,960
+the idea of thinking that we're less
+
+488
+00:20:04,960 --> 00:20:06,240
+than other people
+
+489
+00:20:06,240 --> 00:20:08,080
+that we have less value than others in
+
+490
+00:20:08,080 --> 00:20:09,280
+some way
+
+491
+00:20:09,280 --> 00:20:10,960
+and that's also conceit because it's
+
+492
+00:20:10,960 --> 00:20:13,760
+also an attachment to an idea of self
+
+493
+00:20:13,760 --> 00:20:15,520
+attachment to a comparative way of
+
+494
+00:20:15,520 --> 00:20:17,039
+thinking
+
+495
+00:20:17,039 --> 00:20:19,760
+and and the solution is not to figure
+
+496
+00:20:19,760 --> 00:20:22,000
+out a better way to compare
+
+497
+00:20:22,000 --> 00:20:23,600
+um and even the idea of comparing
+
+498
+00:20:23,600 --> 00:20:25,600
+ourselves as equals to others
+
+499
+00:20:25,600 --> 00:20:27,760
+and buddhism is considered to be partly
+
+500
+00:20:27,760 --> 00:20:30,320
+still playing the comparison game
+
+501
+00:20:30,320 --> 00:20:32,880
+but rather freedom is found by not
+
+502
+00:20:32,880 --> 00:20:34,960
+comparing
+
+503
+00:20:34,960 --> 00:20:37,679
+by allowing ourselves and others to be
+
+504
+00:20:37,679 --> 00:20:39,120
+just as they are
+
+505
+00:20:39,120 --> 00:20:42,000
+and much more and so removing the door
+
+506
+00:20:42,000 --> 00:20:43,360
+and the fences in the middle of the
+
+507
+00:20:43,360 --> 00:20:45,039
+wilderness and letting that
+
+508
+00:20:45,039 --> 00:20:48,720
+natural setting be itself the third kind
+
+509
+00:20:48,720 --> 00:20:50,640
+of conceit
+
+510
+00:20:50,640 --> 00:20:54,240
+is um the conceit of views
+
+511
+00:20:54,240 --> 00:20:56,480
+of philosophical opinions beliefs about
+
+512
+00:20:56,480 --> 00:20:59,760
+what is the true self the essential self
+
+513
+00:20:59,760 --> 00:21:01,919
+and the buddha said there's he he knew
+
+514
+00:21:01,919 --> 00:21:03,039
+of his time
+
+515
+00:21:03,039 --> 00:21:06,159
+no belief in an essential self a true
+
+516
+00:21:06,159 --> 00:21:07,120
+self
+
+517
+00:21:07,120 --> 00:21:09,840
+that doesn't bring suffering and i don't
+
+518
+00:21:09,840 --> 00:21:11,760
+haven't done the analysis myself to see
+
+519
+00:21:11,760 --> 00:21:13,440
+if that's really the case
+
+520
+00:21:13,440 --> 00:21:15,919
+but it's certainly a provocative idea
+
+521
+00:21:15,919 --> 00:21:17,280
+that
+
+522
+00:21:17,280 --> 00:21:19,280
+and certainly we can say that anytime we
+
+523
+00:21:19,280 --> 00:21:21,600
+crave or cling to something
+
+524
+00:21:21,600 --> 00:21:23,919
+we will suffer and so if we're clinging
+
+525
+00:21:23,919 --> 00:21:24,720
+and claiming
+
+526
+00:21:24,720 --> 00:21:27,840
+craving clinging or craving to a view an
+
+527
+00:21:27,840 --> 00:21:28,880
+idea
+
+528
+00:21:28,880 --> 00:21:31,440
+my true self is my soul my true self is
+
+529
+00:21:31,440 --> 00:21:32,240
+my
+
+530
+00:21:32,240 --> 00:21:35,120
+is my you know inner goodness my true
+
+531
+00:21:35,120 --> 00:21:36,720
+self is my
+
+532
+00:21:36,720 --> 00:21:39,840
+is my um you know whatever it might be
+
+533
+00:21:39,840 --> 00:21:43,760
+my consciousness um
+
+534
+00:21:43,760 --> 00:21:47,039
+is that going to give birth to suffering
+
+535
+00:21:47,039 --> 00:21:49,120
+does it bring suffering when we're not
+
+536
+00:21:49,120 --> 00:21:50,880
+in touch with that true self when it's
+
+537
+00:21:50,880 --> 00:21:51,360
+not
+
+538
+00:21:51,360 --> 00:21:54,159
+evident and present does it just remain
+
+539
+00:21:54,159 --> 00:21:55,600
+an idea
+
+540
+00:21:55,600 --> 00:21:58,159
+that we have and so the idea needs to be
+
+541
+00:21:58,159 --> 00:21:59,039
+reinforced
+
+542
+00:21:59,039 --> 00:22:02,159
+needs to be reasserted in order to keep
+
+543
+00:22:02,159 --> 00:22:04,960
+staying in touch with it because
+
+544
+00:22:04,960 --> 00:22:07,440
+maybe it can't be really feel and felt
+
+545
+00:22:07,440 --> 00:22:09,120
+and experienced
+
+546
+00:22:09,120 --> 00:22:11,039
+or what about deep meditation when
+
+547
+00:22:11,039 --> 00:22:13,360
+whatever we feel or experience as
+
+548
+00:22:13,360 --> 00:22:16,799
+the essence of who we are falls away
+
+549
+00:22:16,799 --> 00:22:19,360
+then some people get really frightened
+
+550
+00:22:19,360 --> 00:22:20,720
+by this
+
+551
+00:22:20,720 --> 00:22:23,840
+um because the deep deep piece of
+
+552
+00:22:23,840 --> 00:22:25,679
+meditation where things just let go we
+
+553
+00:22:25,679 --> 00:22:27,679
+let go of all clinging
+
+554
+00:22:27,679 --> 00:22:30,799
+it's remarkable how wonderful that
+
+555
+00:22:30,799 --> 00:22:33,280
+that piece is i want remarkable how
+
+556
+00:22:33,280 --> 00:22:34,880
+liberating it can be
+
+557
+00:22:34,880 --> 00:22:37,760
+and how ordinary reference points for
+
+558
+00:22:37,760 --> 00:22:39,520
+anything we have as we experience as
+
+559
+00:22:39,520 --> 00:22:40,880
+myself
+
+560
+00:22:40,880 --> 00:22:43,440
+dissolve you know and then if but some
+
+561
+00:22:43,440 --> 00:22:44,880
+people get really frightened because
+
+562
+00:22:44,880 --> 00:22:46,480
+that's who they think they are
+
+563
+00:22:46,480 --> 00:22:50,240
+i am this and i have to be this
+
+564
+00:22:50,720 --> 00:22:55,840
+so so selfishness
+
+565
+00:22:55,840 --> 00:22:59,360
+and the antidote
+
+566
+00:22:59,360 --> 00:23:02,159
+to selfishness in buddhism is certainly
+
+567
+00:23:02,159 --> 00:23:03,200
+is to see
+
+568
+00:23:03,200 --> 00:23:05,919
+the suffering of it and sometimes it's
+
+569
+00:23:05,919 --> 00:23:08,720
+only by seeing how painful it is and how
+
+570
+00:23:08,720 --> 00:23:11,600
+fragile it is and how much energy goes
+
+571
+00:23:11,600 --> 00:23:13,280
+into being selfish
+
+572
+00:23:13,280 --> 00:23:15,919
+that uh people begin to loosen up and
+
+573
+00:23:15,919 --> 00:23:17,280
+let go
+
+574
+00:23:17,280 --> 00:23:22,240
+but the other um the other antidote
+
+575
+00:23:22,240 --> 00:23:26,000
+is happiness is uh
+
+576
+00:23:26,000 --> 00:23:28,720
+to experience deep abiding sense of
+
+577
+00:23:28,720 --> 00:23:30,240
+happiness well-being
+
+578
+00:23:30,240 --> 00:23:33,280
+contentment that doesn't require
+
+579
+00:23:33,280 --> 00:23:36,480
+being selfish and so to
+
+580
+00:23:36,480 --> 00:23:37,760
+that's one of the functions of
+
+581
+00:23:37,760 --> 00:23:40,240
+meditation practice is not only to
+
+582
+00:23:40,240 --> 00:23:41,200
+become calm
+
+583
+00:23:41,200 --> 00:23:44,240
+not only be mindful but to acquire a
+
+584
+00:23:44,240 --> 00:23:44,960
+sense of
+
+585
+00:23:44,960 --> 00:23:49,600
+deeper contentment satisfaction ease
+
+586
+00:23:49,600 --> 00:23:52,320
+to be able to breathe easily freely
+
+587
+00:23:52,320 --> 00:23:52,960
+without
+
+588
+00:23:52,960 --> 00:23:55,200
+any clinging to selfishness any kind of
+
+589
+00:23:55,200 --> 00:23:56,000
+idea of me
+
+590
+00:23:56,000 --> 00:23:58,559
+myself and mine at least to give
+
+591
+00:23:58,559 --> 00:24:01,760
+ourselves a radical break from it
+
+592
+00:24:01,760 --> 00:24:04,080
+so we don't come into meditation and
+
+593
+00:24:04,080 --> 00:24:06,400
+hold on to these ideas of me myself and
+
+594
+00:24:06,400 --> 00:24:07,679
+mine
+
+595
+00:24:07,679 --> 00:24:11,919
+often the the the source the fuel
+
+596
+00:24:11,919 --> 00:24:14,080
+for a lot of our preoccupied thinking is
+
+597
+00:24:14,080 --> 00:24:16,080
+me myself and mine
+
+598
+00:24:16,080 --> 00:24:18,720
+and to let go of that so we can
+
+599
+00:24:18,720 --> 00:24:21,760
+experience something really wonderful
+
+600
+00:24:21,760 --> 00:24:25,200
+and to value this wonderful beautiful
+
+601
+00:24:25,200 --> 00:24:27,200
+natural setting that we have
+
+602
+00:24:27,200 --> 00:24:30,080
+the natural capacity for ease and
+
+603
+00:24:30,080 --> 00:24:33,200
+freedom and peace and to learn how to
+
+604
+00:24:33,200 --> 00:24:36,640
+wander freely openly in our own hearts
+
+605
+00:24:36,640 --> 00:24:39,919
+and our own minds and our own life
+
+606
+00:24:39,919 --> 00:24:42,559
+without the glass door in the middle of
+
+607
+00:24:42,559 --> 00:24:43,600
+it all
+
+608
+00:24:43,600 --> 00:24:47,039
+without the fences all around it
+
+609
+00:24:47,039 --> 00:24:50,240
+so it's unobstructed by it all
+
+610
+00:24:50,240 --> 00:24:51,760
+where we don't need to advertise
+
+611
+00:24:51,760 --> 00:24:54,400
+ourselves or promote ourselves or
+
+612
+00:24:54,400 --> 00:24:58,400
+deficit explain to people who we are and
+
+613
+00:24:58,400 --> 00:25:01,840
+and assert ourselves on people
+
+614
+00:25:01,840 --> 00:25:05,120
+as a form of clinging
+
+615
+00:25:06,320 --> 00:25:10,559
+and a sense of well-being
+
+616
+00:25:10,559 --> 00:25:14,240
+and one of the benefits of discovering
+
+617
+00:25:14,240 --> 00:25:16,159
+such kind of well-being and peace
+
+618
+00:25:16,159 --> 00:25:19,039
+and ease and letting go of all this is
+
+619
+00:25:19,039 --> 00:25:19,440
+that
+
+620
+00:25:19,440 --> 00:25:24,559
+then it also might be easier to
+
+621
+00:25:25,440 --> 00:25:28,480
+to stand up for oneself
+
+622
+00:25:28,480 --> 00:25:32,000
+when society around you
+
+623
+00:25:32,000 --> 00:25:35,279
+defines you when society around you says
+
+624
+00:25:35,279 --> 00:25:38,159
+you can't be that how you how you are
+
+625
+00:25:38,159 --> 00:25:39,919
+you have to be different or you are
+
+626
+00:25:39,919 --> 00:25:43,360
+in this kind of way if we don't get
+
+627
+00:25:43,360 --> 00:25:46,080
+if we have our own stability inside and
+
+628
+00:25:46,080 --> 00:25:47,440
+peace inside
+
+629
+00:25:47,440 --> 00:25:50,400
+that we know and we're not wrapped up
+
+630
+00:25:50,400 --> 00:25:52,480
+around our identity issues
+
+631
+00:25:52,480 --> 00:25:54,960
+and then in the way that this clinging
+
+632
+00:25:54,960 --> 00:25:56,960
+is involves clinging
+
+633
+00:25:56,960 --> 00:26:00,080
+then it can be quite powerful to stand
+
+634
+00:26:00,080 --> 00:26:01,679
+up for ourselves
+
+635
+00:26:01,679 --> 00:26:04,559
+and say no to people not not go along
+
+636
+00:26:04,559 --> 00:26:06,159
+with what people are how people are
+
+637
+00:26:06,159 --> 00:26:07,760
+defining us
+
+638
+00:26:07,760 --> 00:26:12,000
+how other peoples me myself and mine
+
+639
+00:26:12,000 --> 00:26:16,640
+you yourself and and yours
+
+640
+00:26:16,640 --> 00:26:19,760
+is really oppressive for many people
+
+641
+00:26:19,760 --> 00:26:23,039
+and and so the idea of
+
+642
+00:26:23,039 --> 00:26:26,320
+really looking deeply at selfishness
+
+643
+00:26:26,320 --> 00:26:29,360
+and how it works with me myself and mine
+
+644
+00:26:29,360 --> 00:26:32,559
+is also a gift so that we don't
+
+645
+00:26:32,559 --> 00:26:35,679
+project you yourself
+
+646
+00:26:35,679 --> 00:26:39,440
+and yours onto others in ways that makes
+
+647
+00:26:39,440 --> 00:26:42,559
+makes them oppressed
+
+648
+00:26:42,559 --> 00:26:45,679
+imagine if we can live in a world where
+
+649
+00:26:45,679 --> 00:26:48,480
+we don't put any fences around anyone
+
+650
+00:26:48,480 --> 00:26:50,720
+we don't put any glass doors that block
+
+651
+00:26:50,720 --> 00:26:53,279
+anyone's path
+
+652
+00:26:53,279 --> 00:26:57,440
+where we allow the the people to be how
+
+653
+00:26:57,440 --> 00:26:58,320
+they are
+
+654
+00:26:58,320 --> 00:27:01,440
+we allow the natural world to unfold in
+
+655
+00:27:01,440 --> 00:27:02,960
+a beautiful way
+
+656
+00:27:02,960 --> 00:27:07,200
+without the limitations
+
+657
+00:27:07,200 --> 00:27:10,240
+and the problems of our clinging
+
+658
+00:27:10,240 --> 00:27:13,679
+especially the clinging to selfishness
+
+659
+00:27:13,679 --> 00:27:16,640
+may it be that this meditation practice
+
+660
+00:27:16,640 --> 00:27:18,720
+shows us the limitations
+
+661
+00:27:18,720 --> 00:27:20,240
+shows us the suffering of our
+
+662
+00:27:20,240 --> 00:27:22,159
+selfishness
+
+663
+00:27:22,159 --> 00:27:25,360
+so that we become
+
+664
+00:27:25,360 --> 00:27:28,240
+more open more free more generous more
+
+665
+00:27:28,240 --> 00:27:28,799
+kind
+
+666
+00:27:28,799 --> 00:27:31,679
+more forgiving
+
+667
+00:27:32,840 --> 00:27:36,320
+and more
+
+668
+00:27:36,320 --> 00:27:38,640
+in a certain kind of way natural the
+
+669
+00:27:38,640 --> 00:27:40,080
+kind of naturalness is there when
+
+670
+00:27:40,080 --> 00:27:42,799
+there's no clinging
+
+671
+00:27:43,520 --> 00:27:44,880
+so i hope that gives you something to
+
+672
+00:27:44,880 --> 00:27:48,240
+think about and to reflect on and
+
+673
+00:27:48,240 --> 00:27:50,080
+and hopefully you're forgiving of
+
+674
+00:27:50,080 --> 00:27:51,679
+yourself if you
+
+675
+00:27:51,679 --> 00:27:54,000
+happen to have some conceit or some me
+
+676
+00:27:54,000 --> 00:27:56,240
+myself in mind
+
+677
+00:27:56,240 --> 00:27:57,919
+but you might want to take a deeper look
+
+678
+00:27:57,919 --> 00:28:00,480
+at this this topic and make it a study
+
+679
+00:28:00,480 --> 00:28:02,159
+for the week and
+
+680
+00:28:02,159 --> 00:28:05,600
+and it's this is uh this
+
+681
+00:28:05,600 --> 00:28:07,679
+list that i read from the ancient texts
+
+682
+00:28:07,679 --> 00:28:09,360
+about intoxicated
+
+683
+00:28:09,360 --> 00:28:12,080
+toxicated when i saw this list i was
+
+684
+00:28:12,080 --> 00:28:14,320
+kind of delighted
+
+685
+00:28:14,320 --> 00:28:16,960
+that they being intoxicated preoccupied
+
+686
+00:28:16,960 --> 00:28:18,240
+caught up in
+
+687
+00:28:18,240 --> 00:28:21,440
+things like health and youth and
+
+688
+00:28:21,440 --> 00:28:24,720
+gain honor being respected fame
+
+689
+00:28:24,720 --> 00:28:28,799
+having followers our learning
+
+690
+00:28:28,799 --> 00:28:30,880
+accomplishments popularity all kinds of
+
+691
+00:28:30,880 --> 00:28:32,320
+things
+
+692
+00:28:32,320 --> 00:28:34,320
+it's been going on for thousands of
+
+693
+00:28:34,320 --> 00:28:36,480
+years
+
+694
+00:28:36,480 --> 00:28:39,120
+this is kind of what humans tend to do
+
+695
+00:28:39,120 --> 00:28:41,600
+especially when they come together
+
+696
+00:28:41,600 --> 00:28:43,279
+so if you have if you're involved in
+
+697
+00:28:43,279 --> 00:28:45,039
+some of it as well
+
+698
+00:28:45,039 --> 00:28:48,640
+you have a lot of company and you have
+
+699
+00:28:48,640 --> 00:28:49,840
+the company
+
+700
+00:28:49,840 --> 00:28:52,720
+of the buddha the freedom you have the
+
+701
+00:28:52,720 --> 00:28:54,559
+company of yourself perhaps in
+
+702
+00:28:54,559 --> 00:28:56,000
+meditation
+
+703
+00:28:56,000 --> 00:28:57,760
+where you're beginning to loosen up and
+
+704
+00:28:57,760 --> 00:28:59,520
+unstick yourselves
+
+705
+00:28:59,520 --> 00:29:04,000
+from all forms of selfishness
+
+706
+00:29:04,000 --> 00:29:10,000
+may you be may you let go of selfishness
+
+707
+00:29:10,399 --> 00:29:13,679
+and find out how to be really happy
+
+708
+00:29:13,679 --> 00:29:22,559
+in this life thank you

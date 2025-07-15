@@ -1,0 +1,1815 @@
+1
+00:00:00,359 --> 00:00:05,940
+oh good morning everyone and welcome to IMC
+
+2
+00:00:05,940 --> 00:00:12,420
+and um the only announcement I have before beginning the talk is that
+
+3
+00:00:12,420 --> 00:00:17,820
+um in two weeks and on April 12th we'll have
+
+4
+00:00:17,820 --> 00:00:23,760
+um a community meeting here at IMC in person it will have been just about
+
+5
+00:00:23,760 --> 00:00:28,859
+three years since we closed with the beginning of the pandemic and it seems
+
+6
+00:00:28,859 --> 00:00:34,260
+like a nice time to Mark where we're at and where we're going and kind of the
+
+7
+00:00:34,260 --> 00:00:41,280
+vision of things and the needs how they changed and anything else and um so anyway so it'll
+
+8
+00:00:41,280 --> 00:00:47,520
+happen after the sitting so I think maybe at 11 o'clock or so yeah
+
+9
+00:00:47,520 --> 00:00:53,640
+March 12th what did I say April sorry yes thank you very much so
+
+10
+00:00:53,640 --> 00:01:00,300
+March 12th in two weeks um and then in April somewhere around April that maybe April 12th or no end
+
+11
+00:01:00,300 --> 00:01:06,119
+sometime in April we'll have a online community meeting like that as well for
+
+12
+00:01:06,119 --> 00:01:12,659
+the online community which is quite large but it feels important also for the people who are local who come here to
+
+13
+00:01:12,659 --> 00:01:20,479
+have a meeting to talk about kind of the in-person dimensions of our community
+
+14
+00:01:20,580 --> 00:01:27,720
+and so please come and anybody's welcome to come I think for
+
+15
+00:01:27,720 --> 00:01:33,780
+March we're still following the protocol for covid that we're doing with people to sign up for Sunday morning but it
+
+16
+00:01:33,780 --> 00:01:40,439
+will um but for the 11 o'clock community meeting I think that's going to be open to anyone so maybe we'll have more
+
+17
+00:01:40,439 --> 00:01:47,400
+people uh we'll wear with masks inside but I think that we're getting into a period of time now I think they're also
+
+18
+00:01:47,400 --> 00:01:53,100
+seriously considering how to change our kind of covid protocol is it time to
+
+19
+00:01:53,100 --> 00:01:58,380
+change it and how to change it and then maybe I was thinking the beginning of
+
+20
+00:01:58,380 --> 00:02:04,040
+April but probably we'll do some kind of change and exactly what that change will be I don't know
+
+21
+00:02:04,040 --> 00:02:11,879
+I just came back from teaching in New Zealand and I was asked and uh and both to teach
+
+22
+00:02:11,879 --> 00:02:18,959
+a retreat there but also to teach for a evening sitting group and it was kind of fascinating to go from here
+
+23
+00:02:18,959 --> 00:02:25,560
+to there where just by no one was wearing masks and to sit in a big room like this you know
+
+24
+00:02:25,560 --> 00:02:32,160
+with no one almost nowhere again there were two people there game wearing masks it was quite different and so I don't
+
+25
+00:02:32,160 --> 00:02:37,500
+know if that marks anything for us in terms of our changes but I think that um
+
+26
+00:02:37,500 --> 00:02:43,440
+it's certainly time to discuss it and consider what you know step by step what we're going to do that's going to be
+
+27
+00:02:43,440 --> 00:02:49,680
+different and I thank you for all of you for wearing your masks here and some of you
+
+28
+00:02:49,680 --> 00:02:55,080
+probably don't see the need for it and I know that things have changed quite a bit but I appreciate very much that
+
+29
+00:02:55,080 --> 00:02:59,959
+we're still doing it and I think it does make a difference
+
+30
+00:03:01,200 --> 00:03:04,400
+so um
+
+31
+00:03:07,140 --> 00:03:12,959
+for this talk I would like to begin with a story that's attributed to the
+
+32
+00:03:12,959 --> 00:03:20,640
+Cherokee People and it's a story that circulated quite a bit right after nine at 9 11 and 9 11
+
+33
+00:03:20,640 --> 00:03:26,640
+you know September 11 2001 was a big deal and the impact and the
+
+34
+00:03:26,640 --> 00:03:32,280
+on this country and on the world was quite huge and the emotions were quite strong and
+
+35
+00:03:32,280 --> 00:03:38,819
+so the story circulated and had to do with a Cherokee grandfather and talking to his
+
+36
+00:03:38,819 --> 00:03:44,959
+grandson and he says there are two wolves
+
+37
+00:03:44,959 --> 00:03:50,060
+battling inside of us all one wolf
+
+38
+00:03:50,060 --> 00:03:56,280
+is angry and greedy and wants to destroy and has envy and conceit and all these
+
+39
+00:03:56,280 --> 00:04:02,580
+kinds of powerful negative forces that we can have inside of ourselves
+
+40
+00:04:02,580 --> 00:04:08,519
+and the other wolf has love care and generosity and
+
+41
+00:04:08,519 --> 00:04:15,540
+nurturing and all these positive forces that we can have so the grandson sits there quietly for a
+
+42
+00:04:15,540 --> 00:04:23,160
+couple of minutes taking this in and then says to the grandfather which one will win the battle
+
+43
+00:04:23,160 --> 00:04:28,259
+and the Grands and the grandfather says whichever one we feed
+
+44
+00:04:28,259 --> 00:04:33,720
+so that's the kind of strong message of this of the story whichever one we feed
+
+45
+00:04:33,720 --> 00:04:40,080
+that if we don't pay attention to what we're feeding that who knows what we're feeding we
+
+46
+00:04:40,080 --> 00:04:45,600
+might be inadvertently feeding the wrong wolf inside of us we might be doing
+
+47
+00:04:45,600 --> 00:04:52,320
+things that support to anger support greed support conceit rather than supporting being nurturing
+
+48
+00:04:52,320 --> 00:04:58,099
+and loving and generous and all these other kind of ways of being
+
+49
+00:04:58,380 --> 00:05:03,840
+and um so what's fascinating a little bit in comparison to Buddhism the story
+
+50
+00:05:03,840 --> 00:05:10,320
+that Buddhism kind of says the same thing but um but in the story there are two
+
+51
+00:05:10,320 --> 00:05:16,440
+kind of equal forces two wolves that are there and in Buddhism the similar kind of
+
+52
+00:05:16,440 --> 00:05:23,639
+processes in play within us I maybe not called it a battle but certainly a balancing act and of what has what gets
+
+53
+00:05:23,639 --> 00:05:29,280
+prominence for us but there are considered to be two radically different systems so then it
+
+54
+00:05:29,280 --> 00:05:35,520
+wouldn't be like two wolves I don't know what it would be um the the Buddha sometimes gives his
+
+55
+00:05:35,520 --> 00:05:42,139
+Lions Roar so I don't know if the difference between a lion and that hyena
+
+56
+00:05:42,139 --> 00:05:47,639
+within us I was trying to think of something a little bit nicer than that because lions are a little bit you know
+
+57
+00:05:47,639 --> 00:05:52,919
+carnivorous and so what is there so I was thinking
+
+58
+00:05:52,919 --> 00:05:58,020
+about maybe a whale I love whales the biggest mammals you know that are you
+
+59
+00:05:58,020 --> 00:06:03,919
+know and uh and a hyena so these two two different kind of animals within us
+
+60
+00:06:03,919 --> 00:06:09,060
+and uh we usually don't give prominence to our our whale you know to this
+
+61
+00:06:09,060 --> 00:06:14,820
+whatever that is and um so Buddhism also has these two different
+
+62
+00:06:14,820 --> 00:06:19,860
+forces and what's fascinating to me is that uh The Hub uh the characterizations
+
+63
+00:06:19,860 --> 00:06:25,919
+of these two different processes inside of us that the Buddha gives
+
+64
+00:06:25,919 --> 00:06:31,319
+and because it kind of speaks to how they're very different from each other
+
+65
+00:06:31,319 --> 00:06:37,020
+that um one of them the Buddha described as being artificial
+
+66
+00:06:37,020 --> 00:06:43,560
+being he used the word constructed but it's clearly constructed by the mind
+
+67
+00:06:43,560 --> 00:06:50,039
+in a way that's artificial meaning it's not part of the natural world the natural system of things
+
+68
+00:06:50,039 --> 00:06:55,080
+and we have the same kind of division in popular English between
+
+69
+00:06:55,080 --> 00:07:02,340
+um we talk about you know something that's been made artificially like artificial sugar versus what's in a
+
+70
+00:07:02,340 --> 00:07:09,000
+natural product are synthetic Plastics synthetic clothes versus you know something that's naturally made cotton
+
+71
+00:07:09,000 --> 00:07:15,360
+clothes for example and this distinguish between things that don't exist in nature on their own but
+
+72
+00:07:15,360 --> 00:07:20,400
+have but which are products of the human mind that have created and invented and
+
+73
+00:07:20,400 --> 00:07:27,060
+made something and uh you could argue that's natural as well but there's still a distinction
+
+74
+00:07:27,060 --> 00:07:33,000
+between what is um kind of uh human-made
+
+75
+00:07:33,000 --> 00:07:39,000
+and has a source that is independent of what can be found on its own in the natural world
+
+76
+00:07:39,000 --> 00:07:46,680
+and so the Buddha kind of plays up that distinction and he uh he uses the word Sankara which
+
+77
+00:07:46,680 --> 00:07:53,880
+means constructed but the the idea of being constructed is that it's constructed in a way that's unnatural
+
+78
+00:07:53,880 --> 00:08:00,060
+it's part of a man a human-made kind of kind of uh invention construct that just
+
+79
+00:08:00,060 --> 00:08:07,380
+put together and in the ancient world the word Sankara could mean a cooking soup
+
+80
+00:08:07,380 --> 00:08:13,259
+cooking a meal constructing it preparing it it could also mean uh and I think this
+
+81
+00:08:13,259 --> 00:08:21,840
+is one of the plays that the Buddha had word plays he had it could refer to the construction of a brahmanical ritual
+
+82
+00:08:21,840 --> 00:08:28,319
+something rituals were actually called sankara's and um but a way of making them was
+
+83
+00:08:28,319 --> 00:08:35,520
+constructing them which that you know in contrasting themselves to this to the brahmanas the Buddha was focusing not on
+
+84
+00:08:35,520 --> 00:08:42,120
+what can be constructed by humans but a very different process so not these rituals that are made and built he
+
+85
+00:08:42,120 --> 00:08:50,279
+didn't put emphasis on that but on something else different the the image that's used in tibetan
+
+86
+00:08:50,279 --> 00:08:57,180
+tonkas Tibetan paintings of Buddhist paintings of this Sankara is a Potter
+
+87
+00:08:57,180 --> 00:09:03,899
+making a pot and it always seemed like a very nice image but here we have a something
+
+88
+00:09:03,899 --> 00:09:10,620
+that's humanely made something fragile that's the image of Sankara and so there's a humanly made is the important
+
+89
+00:09:10,620 --> 00:09:18,360
+uh distinction being here in the suit those teachings of the Buddha one of the images that's used for
+
+90
+00:09:18,360 --> 00:09:26,279
+becoming fully awakened is um a broken pottery shards
+
+91
+00:09:26,279 --> 00:09:32,100
+resting at the bottom of a very clear lake the the Clear Lake represents the
+
+92
+00:09:32,100 --> 00:09:39,420
+enlightened mind the enlightened awareness and somehow with a light Enlightenment the human constructed
+
+93
+00:09:39,420 --> 00:09:47,940
+categories beliefs conceits that we can live by have been shattered
+
+94
+00:09:47,940 --> 00:09:53,220
+and uh and they lay there peacefully on the pottery shards lay there on the on
+
+95
+00:09:53,220 --> 00:10:01,380
+the bottom of the lake some of you know a very famous verse attributed to the Buddha where he
+
+96
+00:10:01,380 --> 00:10:07,800
+says that the point of his Enlightenment saying house Builder you have been seen
+
+97
+00:10:07,800 --> 00:10:13,740
+your rafters have been shattered have been destroyed
+
+98
+00:10:13,740 --> 00:10:19,440
+and I have attained the the destruction
+
+99
+00:10:19,440 --> 00:10:25,320
+and um and the word for Destruction is uh has again has the word Sankara in it
+
+100
+00:10:25,320 --> 00:10:31,380
+it's the destruction of the sankara's the construct the destruction of what's
+
+101
+00:10:31,380 --> 00:10:38,220
+been constructed and so it's not pointing to something which is unnatural in US
+
+102
+00:10:38,220 --> 00:10:43,440
+it's pointed to something which is an artifice that's a creation that's unnecessary
+
+103
+00:10:43,440 --> 00:10:50,180
+and some of you might go along with that that conceit for example that other people have
+
+104
+00:10:50,180 --> 00:10:56,160
+uh is uh you know kind of has an artificiality to it it's something
+
+105
+00:10:56,160 --> 00:11:01,440
+constructed and made up and you know it's it's like a little bit of oppressive and it's problematic
+
+106
+00:11:01,440 --> 00:11:07,200
+uh you could you know certainly make the argument that that's natural to it where else does it come from but you know
+
+107
+00:11:07,200 --> 00:11:14,040
+where does anything come from but the whole natural world everything's natural right but the distinction is between what is
+
+108
+00:11:14,040 --> 00:11:19,380
+an artifice just made by humans versus what comes from the natural world
+
+109
+00:11:19,380 --> 00:11:25,440
+so what is it that's part of the natural world that's this other system that the Buddha is talking about
+
+110
+00:11:25,440 --> 00:11:31,079
+and um and for that he uses very natural metaphors
+
+111
+00:11:31,079 --> 00:11:37,680
+to bring it forth or to kind of describe it and one fascinating one is
+
+112
+00:11:37,680 --> 00:11:45,300
+um is uh he has this little metaphor that's just a description of a hen
+
+113
+00:11:45,300 --> 00:11:50,940
+that has a whole bunch of eggs that she's sitting on incubating
+
+114
+00:11:50,940 --> 00:11:58,380
+and if she uh keeps them warm sits on them incubates them along then those
+
+115
+00:11:58,380 --> 00:12:03,720
+healthy eggs will certainly hatch they'll take and pick out pick their way
+
+116
+00:12:03,720 --> 00:12:08,760
+out of the shell soon enough uh and the Buddha says even if the hen
+
+117
+00:12:08,760 --> 00:12:13,920
+does not want them to hatch they will hatch
+
+118
+00:12:13,920 --> 00:12:21,779
+and so this idea that there's a natural process that doesn't require even the hens desire or mental you know wishes or
+
+119
+00:12:21,779 --> 00:12:27,000
+constructs it's just happening on its own and he said in the same way people
+
+120
+00:12:27,000 --> 00:12:33,000
+who practice well in the Dharma they don't have to even want to be enlightened
+
+121
+00:12:33,000 --> 00:12:39,779
+they will be they'll and he says they'll they will break through the shell or whatever that might be that
+
+122
+00:12:39,779 --> 00:12:46,860
+keeps us in so that's kind of a remarkable teaching about this practice that it's a natural
+
+123
+00:12:46,860 --> 00:12:53,519
+process like you're incubating something so um and uh and the Buddha says the same
+
+124
+00:12:53,519 --> 00:12:58,700
+thing and uh in a number of places and one of the places he says that um
+
+125
+00:12:58,700 --> 00:13:05,639
+if you really have uh endowed with or living in harmony with
+
+126
+00:13:05,639 --> 00:13:12,839
+or living out of the Eightfold Path you know fully then even if you don't
+
+127
+00:13:12,839 --> 00:13:18,240
+want to be enlightened you will become it's a powerful message about there's
+
+128
+00:13:18,240 --> 00:13:25,019
+something inside of us a natural process that's set in motion by certain conditions certain incubate incubating
+
+129
+00:13:25,019 --> 00:13:31,380
+support that's hears it's not something we have to huff and puff to get Enlightenment but it's something we
+
+130
+00:13:31,380 --> 00:13:39,480
+nurture we nourish it's a part of our nature that we nourish nurturing our nature to
+
+131
+00:13:39,480 --> 00:13:46,680
+allow something to grow and develop to unfold and but uses a lot of words from the
+
+132
+00:13:46,680 --> 00:13:52,560
+natural natural world to describe this process of Buddhist practice he talks
+
+133
+00:13:52,560 --> 00:13:59,160
+about it being a process of growth approx a process of development and he
+
+134
+00:13:59,160 --> 00:14:04,860
+the word is used sometimes is translated as cultivating
+
+135
+00:14:04,860 --> 00:14:11,459
+and developing and I think of it like cultivating a plant you don't engineer the plant you don't
+
+136
+00:14:11,459 --> 00:14:17,279
+tug on it so it grows faster you nourish it nurture it protect it so
+
+137
+00:14:17,279 --> 00:14:22,740
+the natural process of the plant can grow and so the natural process that leads to
+
+138
+00:14:22,740 --> 00:14:28,740
+Awakening is the languages it's called it brings it goes to fruition
+
+139
+00:14:28,740 --> 00:14:35,399
+the someone is enlightened has attained the fruit but in order to have a fruit grow the
+
+140
+00:14:35,399 --> 00:14:40,500
+tree has to be protected and supported and allowed to grow
+
+141
+00:14:40,500 --> 00:14:45,899
+so there was that egg analogy which I don't know how you feel about that but
+
+142
+00:14:45,899 --> 00:14:52,440
+one of the most common reference points the Buddha uses for the kind of care
+
+143
+00:14:52,440 --> 00:14:59,579
+kind of attention the kind of inner life that we need to have to bring about
+
+144
+00:14:59,579 --> 00:15:06,779
+Awakening full Awakening he uses them as a metaphor a word in
+
+145
+00:15:06,779 --> 00:15:12,959
+Pali Sanskrit which is Yoni and exactly what Yoni means is not you know it's a
+
+146
+00:15:12,959 --> 00:15:18,480
+little bit variable it depends on how it's but uh in the most literal meaning for
+
+147
+00:15:18,480 --> 00:15:24,240
+humans it means the womb it could also mean the the fundamental
+
+148
+00:15:24,240 --> 00:15:31,980
+source for something the poly English dictionary gives Matrix as one of the meanings of it and Matrix
+
+149
+00:15:31,980 --> 00:15:37,920
+it comes from the Latin word mother and uh Matrix is a place where this
+
+150
+00:15:37,920 --> 00:15:45,120
+Matrix of things that allows things to develop and to grow so by the study of a womb I think is one
+
+151
+00:15:45,120 --> 00:15:51,180
+of the most primary representations of what is a natural process that we're
+
+152
+00:15:51,180 --> 00:15:56,220
+part of as human beings what could be more natural than producing children and
+
+153
+00:15:56,220 --> 00:16:02,220
+growing children and developing having them develop Within certainly a person might want to have
+
+154
+00:16:02,220 --> 00:16:07,440
+children and desire children and tend to have them but at some point you have to
+
+155
+00:16:07,440 --> 00:16:13,079
+you know once you're pregnant you let this natural process unfold and you have
+
+156
+00:16:13,079 --> 00:16:19,620
+to kind of support it to nourish and protect it that natural process the best you can I mean eventually I guess we'll
+
+157
+00:16:19,620 --> 00:16:26,459
+start doing genetic engineering but I don't know if we're quite there yet for the embryo are we starting to do
+
+158
+00:16:26,459 --> 00:16:31,620
+it anyway traditionally you know it's a completely natural process that is not
+
+159
+00:16:31,620 --> 00:16:36,660
+part of the you know human artifice and and Engineering that we do
+
+160
+00:16:36,660 --> 00:16:43,259
+and so it's representative of this natural process and um and so the word the phrase that's
+
+161
+00:16:43,259 --> 00:16:50,639
+very important in the Buddha's teachings is yoniso manisikara and I translate it the manisikara means
+
+162
+00:16:50,639 --> 00:16:56,699
+the doing the activities of the of the intellect of the mental activities so
+
+163
+00:16:56,699 --> 00:17:04,020
+that somehow our inner mental life our inner spiritual life is something that yoniso means it comes
+
+164
+00:17:04,020 --> 00:17:12,120
+from the womb comes from a deep Source Within the sankara's these uh mental formations
+
+165
+00:17:12,120 --> 00:17:18,780
+and constructs that the Buddha wants to shatter and be an end with are products
+
+166
+00:17:18,780 --> 00:17:23,880
+of clinging in the mind and the mind becomes free of the
+
+167
+00:17:23,880 --> 00:17:29,820
+clinging when the constructs are shattered that doesn't mean that we stop thinking
+
+168
+00:17:29,820 --> 00:17:36,179
+and working and having Concepts we live by but we're no longer living by the artifice that constructs the
+
+169
+00:17:36,179 --> 00:17:42,360
+artificiality that the mind can create and instead the source for where our
+
+170
+00:17:42,360 --> 00:17:49,160
+life comes from is not the clinging of the mind but rather the the the the the
+
+171
+00:17:49,160 --> 00:17:55,559
+supportive flow of inequalities that come from this deep
+
+172
+00:17:55,559 --> 00:18:00,900
+Source within so this is why I wanted to say this this the analogy of the two
+
+173
+00:18:00,900 --> 00:18:06,299
+wolves doesn't quite work for Buddhism because wolves are two equal things as
+
+174
+00:18:06,299 --> 00:18:14,460
+opposed to um you know the attachments of the Mind versus the the natural growth that can
+
+175
+00:18:14,460 --> 00:18:20,340
+come from a womb-like source Within and so uh I sometimes I've tried calling
+
+176
+00:18:20,340 --> 00:18:25,440
+this the gestational forces within us this is the gestational energies or
+
+177
+00:18:25,440 --> 00:18:31,500
+impulses because the idea that we're gestating something we're incubating something in practice
+
+178
+00:18:31,500 --> 00:18:38,520
+and we're allowing something to unfold and to grow and to move through us as opposed to being the engineer for our
+
+179
+00:18:38,520 --> 00:18:44,640
+practice not a few people have entered practice with full of conceit I'm going
+
+180
+00:18:44,640 --> 00:18:51,120
+to be the first one on my block to be enlightened you know I'm just going to go through this I'm going to go to this Retreat I'm going to huff and puff I'm
+
+181
+00:18:51,120 --> 00:18:56,340
+capable I'm smart I'm energetic I've been successful in whatever I do in my
+
+182
+00:18:56,340 --> 00:19:03,360
+life you have a PhD from Stanford and I can certainly do this and boom you know there they go you know
+
+183
+00:19:03,360 --> 00:19:08,760
+and and uh generally it's understood if you have that kind of attitude it'll take you about 10 times longer to get
+
+184
+00:19:08,760 --> 00:19:15,600
+enlightened partly because you're not allowing for this natural incubation to happen
+
+185
+00:19:15,600 --> 00:19:22,980
+making room and space for this natural growth that needs to occur and what we do as practitioners and we
+
+186
+00:19:22,980 --> 00:19:29,280
+can do a lot it can take a lot of effort to practice but we understand what we're doing is develop is providing the
+
+187
+00:19:29,280 --> 00:19:35,340
+conditions the nurturing supportive conditions for this natural process to
+
+188
+00:19:35,340 --> 00:19:42,539
+unfold we're nurturing nature and um so
+
+189
+00:19:42,539 --> 00:19:48,480
+um so how do we do this and there's many ways of doing it but I
+
+190
+00:19:48,480 --> 00:19:54,120
+want to offer you the middle way Buddhism is famous for them calling the middle way
+
+191
+00:19:54,120 --> 00:20:00,299
+and uh and one technique the first time being I'll call it that it doesn't have
+
+192
+00:20:00,299 --> 00:20:07,100
+to be considered that is the practice of doing nothing
+
+193
+00:20:07,500 --> 00:20:13,940
+and but doing nothing while either literally or metaphorically
+
+194
+00:20:13,940 --> 00:20:19,500
+sitting in meditation in an upright still posture
+
+195
+00:20:19,500 --> 00:20:26,400
+it can be other postures it can be done lying down this way but it's a clear posture of negative Dignity of nobility
+
+196
+00:20:26,400 --> 00:20:33,840
+of uprightness of balance and we sit there in a good posture and in Zen practice
+
+197
+00:20:33,840 --> 00:20:39,120
+they put us a lot of care into sitting in this really good upright posture that
+
+198
+00:20:39,120 --> 00:20:45,539
+actually takes a lot of sometimes physical effort to kind of keep the posture going and stay stay alert
+
+199
+00:20:45,539 --> 00:20:52,860
+but you stay there and you and then the practice is to have this Middle Way posture
+
+200
+00:20:53,220 --> 00:20:58,820
+and don't move and on the surface of it initially
+
+201
+00:20:58,820 --> 00:21:04,799
+all the impatience all the reactivity that's expressed through the body moving
+
+202
+00:21:04,799 --> 00:21:10,200
+is not expressed and so you have an itch you're not
+
+203
+00:21:10,200 --> 00:21:17,039
+supposed to scratch yourself I mean you're allowed if you want to it's not like no one's preventing you in our tradition in Zen you're kind of
+
+204
+00:21:17,039 --> 00:21:23,160
+prevented [Laughter] and um but uh you know you know but we
+
+205
+00:21:23,160 --> 00:21:30,840
+don't you don't you don't give in to the the reactive impulses uh you feel impatient and you want to
+
+206
+00:21:30,840 --> 00:21:36,900
+look at your phone like you know I must have gotten it in five minutes I must have gotten a new text message
+
+207
+00:21:36,900 --> 00:21:43,020
+and so you know what can be wrong with checking my text right but what's wrong about it is what what
+
+208
+00:21:43,020 --> 00:21:49,500
+we're doing now injecting the text more likely is reinforcing the reactivity of
+
+209
+00:21:49,500 --> 00:21:56,640
+the Mind and the the constructs of the mind this this sankara's uh are belong to the
+
+210
+00:21:56,640 --> 00:22:03,840
+world of reactivity the world of reactivity belongs to this world of attachments and clinging that
+
+211
+00:22:03,840 --> 00:22:10,740
+belong to this place in the mind this place that is artificial or superficial doesn't really come from the depths so
+
+212
+00:22:10,740 --> 00:22:17,820
+we sit there and we don't give in to the impulse to check the phone we don't give in to sometimes in
+
+213
+00:22:17,820 --> 00:22:23,039
+meditation even if our body feels uncomfortable we don't give in to
+
+214
+00:22:23,039 --> 00:22:30,260
+changing and reacting and moving but learn to stay still in the discomfort when we sit
+
+215
+00:22:30,260 --> 00:22:35,520
+so a number of things happen then this way physically if we don't move and sit
+
+216
+00:22:35,520 --> 00:22:41,880
+still some of the layers of tension We Carry in our body which are born which
+
+217
+00:22:41,880 --> 00:22:47,100
+arise from the reactivity of in the mind this world of sankara's world of
+
+218
+00:22:47,100 --> 00:22:52,140
+constructs is what contributes to physical tension in our body
+
+219
+00:22:52,140 --> 00:22:59,640
+so as we're sitting and not moving some of it for some of us some of the daily tension that's built up begins to
+
+220
+00:22:59,640 --> 00:23:06,120
+relax and you know it's important the first for some people is the shoulder I mean it's still to this day sometimes when I
+
+221
+00:23:06,120 --> 00:23:11,220
+sit down to meditate my shoulders give it give a give me oh yeah you know give
+
+222
+00:23:11,220 --> 00:23:17,220
+give away a little bit and settle to this day still when I sit down my stomach will relax a little bit just
+
+223
+00:23:17,220 --> 00:23:22,980
+sitting there just the ordinary tension of daily life kind of have a chance to settle
+
+224
+00:23:22,980 --> 00:23:28,020
+as I keep sitting in meditation my breathing begins to change because I'm
+
+225
+00:23:28,020 --> 00:23:34,919
+busy running around doing things before I come to sit and it affects my breathing and and so then my breathing
+
+226
+00:23:34,919 --> 00:23:40,400
+begins to relax and this relaxing is beginning to uh
+
+227
+00:23:40,400 --> 00:23:48,240
+settle the reactive constructing kind of uh force in the mind this artifice this
+
+228
+00:23:48,240 --> 00:23:54,480
+construct this humanly created things that go on all the tension that you care in your
+
+229
+00:23:54,480 --> 00:24:00,299
+body don't blame the world for it don't blame others for it don't blame
+
+230
+00:24:00,299 --> 00:24:05,820
+your don't blame your boss all the tension you have is a product of
+
+231
+00:24:05,820 --> 00:24:11,039
+your own mind somehow the processing of your own mind the processes of the world
+
+232
+00:24:11,039 --> 00:24:17,700
+the conditions for your attention might definitely be out there and sometimes it's appropriate to address those
+
+233
+00:24:17,700 --> 00:24:22,799
+conditions out there but uh but in Buddhism the primary kind
+
+234
+00:24:22,799 --> 00:24:30,960
+of understanding of how tension occur builds up inside of us is goes through this constructive reactive qualities of
+
+235
+00:24:30,960 --> 00:24:37,799
+the mind that are based on clinging of something something or other and so we sit in this middle way and sit
+
+236
+00:24:37,799 --> 00:24:44,880
+still and and we start seeing our reactivity we don't give in to it and
+
+237
+00:24:44,880 --> 00:24:50,220
+within some with some some degree maybe there's some relaxing that goes unsettling
+
+238
+00:24:50,220 --> 00:24:57,419
+as we do this we also start seeing sooner or later that we have a reactive mind
+
+239
+00:24:57,419 --> 00:25:04,320
+and so we're sitting there sitting there sitting quietly minding your own business and we're
+
+240
+00:25:04,320 --> 00:25:12,059
+starting feeling impatient the meditation is not over and so the logical thing to do is to be
+
+241
+00:25:12,059 --> 00:25:17,580
+angry at the bell ringer you know you know it's not we can't it
+
+242
+00:25:17,580 --> 00:25:23,039
+can't be this long and um and so I'll look at my watch
+
+243
+00:25:23,039 --> 00:25:28,860
+no I'm supposed not supposed to look at my watch don't give in to the reactivity I'll keep I'll just look and see I'll
+
+244
+00:25:28,860 --> 00:25:34,320
+stare at the bell ringer no no I'm not supposed to do that I'm supposed to stay still that's the middle
+
+245
+00:25:34,320 --> 00:25:41,940
+way just still with the eyes closed stay still and um and so then we see that the mind
+
+246
+00:25:41,940 --> 00:25:49,400
+what the mind is doing more oh I'm starting to write letters to the president of IMC
+
+247
+00:25:49,400 --> 00:25:55,080
+that is that the sittings are too long and if this Buddhism is really up to
+
+248
+00:25:55,080 --> 00:26:00,740
+snuff like you know the com app 10 minutes should be enough
+
+249
+00:26:00,740 --> 00:26:06,000
+and this 45 you know 35 minutes for Sunday morning is just I have to you
+
+250
+00:26:06,000 --> 00:26:13,020
+know this is like old-fashioned you know if we have our meditation Technologies really up to Snuff you know
+
+251
+00:26:13,020 --> 00:26:18,659
+10 minutes should be plenty and you guys get you know old-fashioned and not really up to date with
+
+252
+00:26:18,659 --> 00:26:24,840
+so you start seeing the Mind writing letters in reacting it's like reacting and and then you're reciting the letters
+
+253
+00:26:24,840 --> 00:26:30,799
+you know you know with the exclamation point thanks or good luck or something
+
+254
+00:26:30,799 --> 00:26:35,880
+and you start seeing that the Ang the mind is angry the mind is upset the mind
+
+255
+00:26:35,880 --> 00:26:42,960
+it gets goes carried away and these trains of thoughts and it does that's not the middle way
+
+256
+00:26:42,960 --> 00:26:48,539
+the middle way is to stay still in the mind there's and then next time it happens
+
+257
+00:26:48,539 --> 00:26:53,580
+you start writing these letters he said no I don't know how to do that let's not get involved in that let that act let's
+
+258
+00:26:53,580 --> 00:26:59,220
+not get into that activation of the Mind and lo and behold over time you start
+
+259
+00:26:59,220 --> 00:27:04,440
+seeing more and more how the mind gets caught in thoughts and reactivity and emotions
+
+260
+00:27:04,440 --> 00:27:09,539
+and you learn the difference between being involved in those and staying on
+
+261
+00:27:09,539 --> 00:27:17,100
+the middle path staying in that middle way so it's not just the body that stays still it's also the Mind begins to stay
+
+262
+00:27:17,100 --> 00:27:25,860
+still but it's not a frozen Stillness it's the Stillness of a hen sitting on
+
+263
+00:27:25,860 --> 00:27:32,159
+our eggs it's the nurturing Stillness that allows
+
+264
+00:27:32,159 --> 00:27:40,020
+for something that needs supportive conditions to come forth to grow
+
+265
+00:27:40,020 --> 00:27:46,980
+something inside of us wants to be born the Dharma that's in you wants to be
+
+266
+00:27:46,980 --> 00:27:54,240
+born the path to Liberation wants to be born the what wants to be born is these
+
+267
+00:27:54,240 --> 00:28:01,620
+beautiful qualities that arise out of non-clinging and the primary this there's lots of
+
+268
+00:28:01,620 --> 00:28:07,440
+things like this but in the in Buddhism there's seven qualities that it most
+
+269
+00:28:07,440 --> 00:28:14,400
+emphasizes that are supported by this yoniso money sikara this um
+
+270
+00:28:14,400 --> 00:28:20,880
+inner life that arises out of this deep profound Source within us
+
+271
+00:28:20,880 --> 00:28:26,220
+and these are the seven factors of Awakening and what's interesting about these is
+
+272
+00:28:26,220 --> 00:28:31,559
+that in this form as the unit is coming out of the out of the womb what's going
+
+273
+00:28:31,559 --> 00:28:38,159
+to be born they are not practices we do but qualities that flower inside of us
+
+274
+00:28:38,159 --> 00:28:43,740
+that come to fruition so they are so first is mindfulness and
+
+275
+00:28:43,740 --> 00:28:49,679
+in popular Society these days mindfulness is a technique in Buddhism mindfulness is not a
+
+276
+00:28:49,679 --> 00:28:57,299
+technique but it's more like a state that we become endowed with that grows and develops
+
+277
+00:28:57,299 --> 00:29:03,240
+there is the capacity to see clearly usually called investigation
+
+278
+00:29:03,240 --> 00:29:09,179
+there's no investigating going on it's a natural capacity to start seeing what's
+
+279
+00:29:09,179 --> 00:29:14,700
+happening clearly when the mind the reactive mind has gotten still
+
+280
+00:29:14,700 --> 00:29:20,039
+there is uh engagement a natural kind of you can see it's
+
+281
+00:29:20,039 --> 00:29:25,200
+beautiful to feel that in the Stillness of this middle way of sitting upright
+
+282
+00:29:25,200 --> 00:29:32,399
+and being present there's a certain Vitality animation in being really
+
+283
+00:29:32,399 --> 00:29:37,799
+embodied in here this is not a passive thing but the
+
+284
+00:29:37,799 --> 00:29:43,140
+embodiment the animation is from an inner source that keeps us kind of
+
+285
+00:29:43,140 --> 00:29:48,299
+engaged that doesn't it's not the mind applying effort
+
+286
+00:29:48,299 --> 00:29:54,240
+but rather we're receiving than this animated animation from inside that's
+
+287
+00:29:54,240 --> 00:30:00,240
+flowing and it's not automatic but it's beautiful to feel in meditation the flow
+
+288
+00:30:00,240 --> 00:30:07,140
+of being alive the flow of being being energized the flow that's being energized that's
+
+289
+00:30:07,140 --> 00:30:14,580
+intelligent and the intelligence of this effort that the the Buddhism emphasizes is the
+
+290
+00:30:14,580 --> 00:30:21,299
+intelligence that flows into what is wholesome that's a healthy that's nourishing and
+
+291
+00:30:21,299 --> 00:30:26,580
+stays away from what's unhealthy unwholesome reactive
+
+292
+00:30:26,580 --> 00:30:33,659
+and then the fourth of these seven factors of Awakening is joy Joy is not a technique Joy is a
+
+293
+00:30:33,659 --> 00:30:41,220
+byproduct of this what wants to be born coming out of this it's part of the gestational forces that we have inside
+
+294
+00:30:41,220 --> 00:30:47,159
+Tranquility a deep abiding feeling of oceanic tranquility
+
+295
+00:30:47,159 --> 00:30:53,760
+that can come and then the the sixth one which is where there's a lot of reactivity a lot
+
+296
+00:30:53,760 --> 00:30:59,880
+of constructing and trying to make happen around this is samadhi and concentration
+
+297
+00:30:59,880 --> 00:31:07,980
+but here again at samadhi is not something we construct and make happen but we create the nurturing conditions
+
+298
+00:31:07,980 --> 00:31:15,240
+that allows for this deep stability deep unification of mind to come together
+
+299
+00:31:15,240 --> 00:31:21,299
+it's not something we have to do but something we allow for and that's in the seventh of these
+
+300
+00:31:21,299 --> 00:31:29,460
+factors is a deep profound sense of equanimity that is a sweet and feels sweet and
+
+301
+00:31:29,460 --> 00:31:35,880
+freeing and feels like a phenomenal gift Equanimity being a mind which is
+
+302
+00:31:35,880 --> 00:31:43,380
+non-reactive the reactivity of the mind has stopped but our lit life force is fully alive
+
+303
+00:31:43,380 --> 00:31:50,460
+and flowing so that's why it feels so good to have this flowing flowingness and aliveness
+
+304
+00:31:50,460 --> 00:31:55,919
+and presence without the the the static
+
+305
+00:31:55,919 --> 00:32:02,220
+of reactivity in the mind so in Buddhism then the teachings of the
+
+306
+00:32:02,220 --> 00:32:07,740
+Buddha there are these two different systems processes within us
+
+307
+00:32:07,740 --> 00:32:14,720
+one which is um synthetic
+
+308
+00:32:14,720 --> 00:32:22,260
+Greek word for constructed put together and the other which is natural
+
+309
+00:32:22,260 --> 00:32:28,320
+which is just if you allow me to try this out gestational
+
+310
+00:32:28,320 --> 00:32:34,919
+and the what we're trying to do in Buddhist practice is support the gestational
+
+311
+00:32:34,919 --> 00:32:40,500
+processes the natural processes that exist inside of us
+
+312
+00:32:40,500 --> 00:32:46,740
+and so we see a phenomenal celebration I call it a phenomenal
+
+313
+00:32:46,740 --> 00:32:52,380
+appreciation or valuing of a natural process that we all that exists in all
+
+314
+00:32:52,380 --> 00:32:58,200
+of us that often get submerged or cut out or rejected
+
+315
+00:32:58,200 --> 00:33:05,880
+in when we're too much in the mind or too much in our constructs and our beliefs in our reactivity
+
+316
+00:33:05,880 --> 00:33:11,279
+but to but to but be able to calm down the reactivity enough
+
+317
+00:33:11,279 --> 00:33:19,440
+to start feeling the flow the warmth the the the the the the generosity of it can
+
+318
+00:33:19,440 --> 00:33:26,159
+flow from inside from inside out that the Buddha is a little bit Likens to in a different in a certain analogy
+
+319
+00:33:26,159 --> 00:33:32,580
+to a underwater spring that flows a spring of water where water flows up
+
+320
+00:33:32,580 --> 00:33:38,760
+inside the spring and flows out and spreads out in a nourishing way throughout the spring throughout the
+
+321
+00:33:38,760 --> 00:33:46,820
+lake so in the same way there's this nourishing flow that can happen
+
+322
+00:33:47,039 --> 00:33:55,260
+for people who've never practiced generally is to somehow live in that middle way
+
+323
+00:33:55,260 --> 00:34:02,760
+follow the middle path of being still enough that we're not giving into our reactive forces
+
+324
+00:34:02,760 --> 00:34:08,580
+so they have a chance to relax that we have a chance to see them clearly
+
+325
+00:34:08,580 --> 00:34:14,760
+and in seeing them clearly especially the ones of the mind of not feeding them
+
+326
+00:34:14,760 --> 00:34:20,099
+not nourishing them because where they were nourishing the wrong thing
+
+327
+00:34:20,099 --> 00:34:25,800
+our capacity to nourish to support to feed
+
+328
+00:34:25,800 --> 00:34:33,138
+to um is one of the primary
+
+329
+00:34:35,960 --> 00:34:44,099
+wealths that we have the richness of human life is our human capacity that our attention
+
+330
+00:34:44,099 --> 00:34:51,720
+what we bring attention to and how we bring attention is you know is where the
+
+331
+00:34:51,720 --> 00:34:57,599
+where we have the opportunity to give birth to what is most healthy
+
+332
+00:34:57,599 --> 00:35:03,599
+so what is it in you that wants to be born
+
+333
+00:35:03,599 --> 00:35:08,760
+not what in you that you want to acquire
+
+334
+00:35:08,760 --> 00:35:13,920
+not in you what you want to accomplish
+
+335
+00:35:13,920 --> 00:35:19,740
+in the world but what is it that deep inside that in
+
+336
+00:35:19,740 --> 00:35:24,920
+the deepest place you have what wants to be born
+
+337
+00:35:25,200 --> 00:35:31,560
+how would you know that how would you have discovered that and one of the ways is to become quiet
+
+338
+00:35:31,560 --> 00:35:37,500
+and still enough to distilling of the reactive mind
+
+339
+00:35:37,500 --> 00:35:45,359
+and when there's enough stilling and attention I think you start you'll start feeling or sensing that yes in
+
+340
+00:35:45,359 --> 00:35:52,320
+fact something wants to be born and and then to nourish that to support
+
+341
+00:35:52,320 --> 00:35:58,680
+it to make room for it which you can't do you cannot do if
+
+342
+00:35:58,680 --> 00:36:05,700
+you're too busy if you're running around trying to accomplish all the things that's possible to accomplish in Silicon Valley
+
+343
+00:36:05,700 --> 00:36:12,060
+yeah you probably won't have room in a time
+
+344
+00:36:12,060 --> 00:36:17,880
+that is needed for such deeper Wellspring to come forth
+
+345
+00:36:17,880 --> 00:36:23,460
+and for in the in the Buddhist tradition part of that deeper Wellspring of what
+
+346
+00:36:23,460 --> 00:36:30,359
+wants to come forth is liberation is freedom from these reactivities
+
+347
+00:36:30,359 --> 00:36:36,000
+freedom from construct freedom from attachment it's a biological Force
+
+348
+00:36:36,000 --> 00:36:41,220
+biological imperative almost that exists within us
+
+349
+00:36:41,220 --> 00:36:45,680
+it won't Liberation wants to be born
+
+350
+00:36:47,160 --> 00:36:54,720
+so um two forces within us which will you feed
+
+351
+00:36:54,720 --> 00:37:00,780
+whichever one you feed to a win but I think the world loses
+
+352
+00:37:00,780 --> 00:37:07,680
+if reactivity wins maybe you'll become a billionaire
+
+353
+00:37:07,680 --> 00:37:14,579
+with your reactive mind but the world will lose because the world benefits from people
+
+354
+00:37:14,579 --> 00:37:20,099
+when the best inner qualities of who we are have a chance to flower and develop
+
+355
+00:37:20,099 --> 00:37:25,619
+and grow and and then we become a gift for the world Who We Are
+
+356
+00:37:25,619 --> 00:37:32,760
+and which is one of the greatest things to do in human life so in this way also with this kind of
+
+357
+00:37:32,760 --> 00:37:39,960
+way of understanding this early Buddhist teachings naturalistic quality of it
+
+358
+00:37:39,960 --> 00:37:47,099
+um it's uh it's kind of uh it's I wouldn't call it World affirming but
+
+359
+00:37:47,099 --> 00:37:53,040
+it's it's nature affirming it's affirming something very powerful and meaningful in our life
+
+360
+00:37:53,040 --> 00:37:59,460
+that sometimes we don't understand in Buddhism if we if teachers like me talk
+
+361
+00:37:59,460 --> 00:38:06,420
+too much about letting go just let go let go let go but now if teachers like me to talk too
+
+362
+00:38:06,420 --> 00:38:14,400
+much about letting go just reinterpret it as being let go so this natural process can can flower in
+
+363
+00:38:14,400 --> 00:38:22,260
+you so thank you and we have about five six minutes if
+
+364
+00:38:22,260 --> 00:38:30,200
+any of you would like to have questions or comments or clarification you're welcome to do it
+
+365
+00:38:39,300 --> 00:38:48,900
+ah thank you it's uh it was very enlightening yeah probably not a good word to use here but uh I mean yeah
+
+366
+00:38:48,900 --> 00:38:54,000
+a practical question I have you mentioned um resisting to look at the
+
+367
+00:38:54,000 --> 00:39:01,920
+phone or the watch watch actually specifically yeah resisting uh desire to look at the watch
+
+368
+00:39:01,920 --> 00:39:08,099
+or the oh yes yes yes so is it better to not bring a device whether it's watch or
+
+369
+00:39:08,099 --> 00:39:14,300
+phone again at all or is it better to resist the desire
+
+370
+00:39:16,079 --> 00:39:21,119
+well there is um kind of a
+
+371
+00:39:21,119 --> 00:39:27,420
+without any other context for the question the generic answer is
+
+372
+00:39:27,420 --> 00:39:33,720
+um don't bring the watch and that's you know that's kind of a standard kind of thing but uh I prefer
+
+373
+00:39:33,720 --> 00:39:39,900
+the contextual answer and that is what would be most interesting for you what would be useful
+
+374
+00:39:39,900 --> 00:39:45,300
+for you if you're so compulsive that uh that you
+
+375
+00:39:45,300 --> 00:39:51,599
+you can't even meditate because you're always looking at your watch maybe leave it behind for a while
+
+376
+00:39:51,599 --> 00:39:57,240
+until you've settled down enough that you can keep it on that is not an issue
+
+377
+00:39:57,240 --> 00:40:03,480
+or or maybe it's an issue but it's not that terrible but it's still an issue
+
+378
+00:40:03,480 --> 00:40:09,660
+anything you know I need to deal with my reactivity so this is an opportunity I'm going to
+
+379
+00:40:09,660 --> 00:40:16,339
+definitely wear my watch but I'm not going to look at it and I even if I have to break out in the sweat
+
+380
+00:40:16,339 --> 00:40:23,099
+you know just like hold on to my knees you know or just cross my arms so I don't look or something I'm gonna not
+
+381
+00:40:23,099 --> 00:40:30,839
+look at it because I want to deal with it I want to get to the bottom of it so I prefer my second answer
+
+382
+00:40:30,839 --> 00:40:37,880
+because whatever is useful for you whatever helps you find your way is that okay
+
+383
+00:40:46,200 --> 00:40:51,660
+thank you um I am very curious about the middle
+
+384
+00:40:51,660 --> 00:40:58,280
+path and one of the ways that I come to understand something more deeply is to understand what's around it
+
+385
+00:40:58,280 --> 00:41:05,160
+can you describe because where there's a middle path there's usually a high and a low also or a left and a right can you
+
+386
+00:41:05,160 --> 00:41:10,200
+describe the other two because I think that'll help me understand how to maintain the middle
+
+387
+00:41:10,200 --> 00:41:16,859
+path right good that's very good question the language of the middle path the
+
+388
+00:41:16,859 --> 00:41:23,640
+middle way is used in so many different ways for so many different contrasts you know to sides of it what it might be
+
+389
+00:41:23,640 --> 00:41:29,180
+today I think I was using it with the idea the difference between
+
+390
+00:41:29,180 --> 00:41:34,380
+being reactive and doing absolutely nothing kind of
+
+391
+00:41:34,380 --> 00:41:39,660
+giving up collapsing into the situation and so because some people just give up and
+
+392
+00:41:39,660 --> 00:41:48,320
+just like this hopeless and just kind of like you know just spend the day in bed or something it's fascinating this idea of I think
+
+393
+00:41:48,320 --> 00:41:54,660
+of a middle way of kind of not doing in conventional ways not doing anything but
+
+394
+00:41:54,660 --> 00:41:59,880
+in unconventional way you're really staying alert and present and still
+
+395
+00:41:59,880 --> 00:42:05,940
+so it means that we're not actively going out to do something but we're also not collapsing
+
+396
+00:42:05,940 --> 00:42:12,900
+for is this fascinating to do very helpful to do for example if there's a lot of sadness or grief
+
+397
+00:42:12,900 --> 00:42:18,960
+we don't want to block or resist sadness and grief but we also don't want to collapse in it
+
+398
+00:42:18,960 --> 00:42:25,140
+and so uh and so to be able to sit upright this way and just let the tears flow
+
+399
+00:42:25,140 --> 00:42:32,040
+uh without going oh no poor me you know just don't go oh you might feel that way but you're going to keep you're not
+
+400
+00:42:32,040 --> 00:42:39,540
+going to resist it or block it or judge the sadness okay you're allowed to be sad here let it flow but let me just
+
+401
+00:42:39,540 --> 00:42:45,720
+kind of stay this way and the advantage of that is that is that then this deeper
+
+402
+00:42:45,720 --> 00:42:52,560
+natural process that can support or process our sadness has a chance
+
+403
+00:42:52,560 --> 00:42:57,660
+if we collapse to it then we're actually reinforcing the reactivity around it
+
+404
+00:42:57,660 --> 00:43:04,020
+that is often a big can be a big component part of some people's sadness and grief that we don't see
+
+405
+00:43:04,020 --> 00:43:10,440
+so that's the kind of the contrast I was setting up in the most classic uh idea in Buddhism
+
+406
+00:43:10,440 --> 00:43:16,400
+the middle way is that the middleweight between the
+
+407
+00:43:16,400 --> 00:43:22,980
+essential desires pursuing all kinds of sensual desires and essential denial
+
+408
+00:43:22,980 --> 00:43:29,300
+asceticism so somehow the middle way between that another middle way that Buddhism
+
+409
+00:43:29,300 --> 00:43:35,460
+Composites is the middle way between the idea that anything really exists
+
+410
+00:43:35,460 --> 00:43:40,040
+or the idea that nothing really exists
+
+411
+00:43:40,980 --> 00:43:47,640
+so that's a little bit more philosophical but that's that's also profound thank you that actually helped me a lot
+
+412
+00:43:47,640 --> 00:43:54,119
+getting it for just this context so what explaining as you did for just this
+
+413
+00:43:54,119 --> 00:43:59,760
+example today yeah great seeing the two sides that helps me a lot wonderful thanks yeah thanks for asking the
+
+414
+00:43:59,760 --> 00:44:04,220
+question so maybe one more and then
+
+415
+00:44:07,440 --> 00:44:13,920
+point is it reacting to your emotions versus
+
+416
+00:44:13,920 --> 00:44:19,260
+um self-soothing as an act of self-compassion
+
+417
+00:44:19,260 --> 00:44:25,920
+well you know this is where uh you know giving these kinds of talks
+
+418
+00:44:25,920 --> 00:44:32,040
+lends itself to a certain kind of reductionalism it's a little bit too much at times I can't really explain everything
+
+419
+00:44:32,040 --> 00:44:37,680
+so I like I appreciate your question a lot sometimes reactivity
+
+420
+00:44:37,680 --> 00:44:43,020
+is uh is wise sometimes reactivity we react in a way
+
+421
+00:44:43,020 --> 00:44:52,079
+to care for our worst regular activity so maybe uh uh you know
+
+422
+00:44:52,079 --> 00:44:57,900
+our anger is so strong and we feel so much challenged by it and we want it to
+
+423
+00:44:57,900 --> 00:45:03,720
+go away and and we so we want to get making go away in a reactive way but we
+
+424
+00:45:03,720 --> 00:45:09,599
+don't reject it we bring a soothing compassion to it
+
+425
+00:45:09,599 --> 00:45:15,119
+and that's compassion may be as close to being this gestational Force within us
+
+426
+00:45:15,119 --> 00:45:21,060
+but we're initiating it in a reactive way because we really don't want to be angry
+
+427
+00:45:21,060 --> 00:45:28,800
+but it's successful maybe the anger calms down enough that way so we're using a wiser reactivity
+
+428
+00:45:28,800 --> 00:45:34,440
+to address a reactivity which is worse
+
+429
+00:45:34,440 --> 00:45:40,920
+so we don't want to be too black and white or blue you know absolute between these two different worlds that one is
+
+430
+00:45:40,920 --> 00:45:46,200
+all bad and one is all good or something so sometimes reactivity can support us
+
+431
+00:45:46,200 --> 00:45:51,319
+from settling you know stronger reactivity
+
+432
+00:45:51,319 --> 00:45:56,819
+but when when but when is but when is bringing compassion to the anger not a
+
+433
+00:45:56,819 --> 00:46:03,000
+reactivity but a source of wisdom I think that's also a good question there's not that doesn't have to have
+
+434
+00:46:03,000 --> 00:46:08,099
+any reactivity to it that has just like some deeper knowing inside knows to
+
+435
+00:46:08,099 --> 00:46:13,920
+bring this compassion and hold it kindly and supportively uh nurturingly like a
+
+436
+00:46:13,920 --> 00:46:19,319
+mother would hold an angry little child um you know just love and care it's part
+
+437
+00:46:19,319 --> 00:46:24,660
+of the nurturing and loving um and and how to know the difference
+
+438
+00:46:24,660 --> 00:46:31,920
+between this um I think that over time you start being able to identifying the difference
+
+439
+00:46:31,920 --> 00:46:37,200
+and one of the differences is that reactivity always has some quality of
+
+440
+00:46:37,200 --> 00:46:43,680
+tension with it whereas the nurturing qualities have no tension with it
+
+441
+00:46:43,680 --> 00:46:50,160
+but to be able to identify that in subtle ways it takes a lot of practice and sensitivity
+
+442
+00:46:50,160 --> 00:46:55,859
+what do you think of my answer I liked your question
+
+443
+00:46:55,859 --> 00:47:01,940
+um what I heard when you said that is that there's a difference between reaction and responding to something
+
+444
+00:47:01,940 --> 00:47:07,619
+when we choose the reaction or we allow the reaction we might be responding to
+
+445
+00:47:07,619 --> 00:47:13,500
+it um I've learned sometimes to just let go of that reaction and allowing myself to
+
+446
+00:47:13,500 --> 00:47:20,040
+Despair and making room for it it makes it last for a lot shorter period of time
+
+447
+00:47:20,040 --> 00:47:25,920
+and I can see it and I can almost get tired of it or laugh at myself for
+
+448
+00:47:25,920 --> 00:47:32,040
+it and then it disappears but the more I fight it it's uh it does not work very
+
+449
+00:47:32,040 --> 00:47:39,780
+nice so a very dramatic person I am so I need that but yeah great lovely
+
+450
+00:47:39,780 --> 00:47:44,819
+so thank you all so I it's kind of wonderful I think that people are coming
+
+451
+00:47:44,819 --> 00:47:50,579
+together in such a you know Community I wonder if you'd be willing to just give give a couple of minutes more just say
+
+452
+00:47:50,579 --> 00:47:56,400
+hello to someone near you and even if it's your first time here you can welcome them and if you want to say a
+
+453
+00:47:56,400 --> 00:48:02,520
+couple of words about what we talked this Dharma talk and the impact it had on you you're welcome to do that too and
+
+454
+00:48:02,520 --> 00:48:05,540
+um thank you for being here

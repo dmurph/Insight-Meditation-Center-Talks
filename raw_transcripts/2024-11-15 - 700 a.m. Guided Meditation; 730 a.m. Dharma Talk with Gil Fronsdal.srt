@@ -1,0 +1,723 @@
+1
+00:00:00,080 --> 00:00:04,120
+so my friends I think that uh we
+
+2
+00:00:04,120 --> 00:00:06,359
+have
+
+3
+00:00:06,359 --> 00:00:10,480
+sound and we
+
+4
+00:00:11,320 --> 00:00:14,320
+have
+
+5
+00:00:15,880 --> 00:00:19,840
+um so you have sound and you have a
+
+6
+00:00:19,840 --> 00:00:23,519
+picture and yeah so that took
+
+7
+00:00:23,519 --> 00:00:26,320
+uh a long time to figure it out so we
+
+8
+00:00:26,320 --> 00:00:29,039
+had various problems here there was uh
+
+9
+00:00:29,039 --> 00:00:31,640
+the LA turned out out that the laptop oh
+
+10
+00:00:31,640 --> 00:00:32,920
+I'm
+
+11
+00:00:32,920 --> 00:00:35,360
+echoing
+
+12
+00:00:35,360 --> 00:00:38,559
+um yeah so the problems were that
+
+13
+00:00:38,559 --> 00:00:42,000
+somehow someone was here yesterday and
+
+14
+00:00:42,000 --> 00:00:43,680
+disconnected the
+
+15
+00:00:43,680 --> 00:00:46,360
+laptop and so all kinds of things were
+
+16
+00:00:46,360 --> 00:00:49,120
+disconnected and then somehow the all
+
+17
+00:00:49,120 --> 00:00:53,280
+the settings for the broadcast uh
+
+18
+00:00:53,280 --> 00:00:56,800
+platform we have Were Somehow scrambled
+
+19
+00:00:56,800 --> 00:01:00,280
+and so to understand the broadcast
+
+20
+00:01:00,280 --> 00:01:03,839
+system and uh a new
+
+21
+00:01:03,839 --> 00:01:06,960
+was uh you know I haven't gone that
+
+22
+00:01:06,960 --> 00:01:08,479
+deeply into it
+
+23
+00:01:08,479 --> 00:01:13,600
+before so um so here we
+
+24
+00:01:13,600 --> 00:01:17,118
+are and
+
+25
+00:01:17,159 --> 00:01:19,759
+uh U was trying to figure out what how
+
+26
+00:01:19,759 --> 00:01:21,799
+Gil got to choose an
+
+27
+00:01:21,799 --> 00:01:24,840
+osprey the Osprey is a
+
+28
+00:01:24,840 --> 00:01:27,000
+um is
+
+29
+00:01:27,000 --> 00:01:30,560
+a a bridge device
+
+30
+00:01:30,560 --> 00:01:33,280
+that connects the video camera from the
+
+31
+00:01:33,280 --> 00:01:36,320
+video camera to the
+
+32
+00:01:36,320 --> 00:01:40,600
+computer and um and
+
+33
+00:01:40,640 --> 00:01:42,110
+so
+
+34
+00:01:42,110 --> 00:01:45,269
+[Music]
+
+35
+00:01:45,799 --> 00:01:47,439
+so
+
+36
+00:01:47,439 --> 00:01:50,159
+so I don't think now in these next few
+
+37
+00:01:50,159 --> 00:01:53,759
+minutes I want to try to start up again
+
+38
+00:01:53,759 --> 00:01:57,759
+in the theme that I did last uh but I
+
+39
+00:01:57,759 --> 00:02:01,240
+think what I'll do is um finish this
+
+40
+00:02:01,240 --> 00:02:03,320
+five-part series on
+
+41
+00:02:03,320 --> 00:02:07,240
+Monday uh with the fourth Noble Truth
+
+42
+00:02:07,240 --> 00:02:10,239
+and then uh next week I was going to do
+
+43
+00:02:10,239 --> 00:02:13,959
+um the four the noble truths of
+
+44
+00:02:13,959 --> 00:02:15,879
+Happiness this is what we did this
+
+45
+00:02:15,879 --> 00:02:17,840
+week's the noble truths of
+
+46
+00:02:17,840 --> 00:02:19,800
+suffering and maybe that works really
+
+47
+00:02:19,800 --> 00:02:22,040
+well because then I don't won't won't do
+
+48
+00:02:22,040 --> 00:02:24,879
+an introductory uh Monday I would just
+
+49
+00:02:24,879 --> 00:02:28,000
+start on Tuesday with uh the
+
+50
+00:02:28,000 --> 00:02:31,519
+four noble truths of happiness which is
+
+51
+00:02:31,519 --> 00:02:36,720
+not a not a tech a um Buddhist concept I
+
+52
+00:02:36,720 --> 00:02:39,159
+just made it up but it's a building on
+
+53
+00:02:39,159 --> 00:02:42,000
+Buddhist teachings to offer the other
+
+54
+00:02:42,000 --> 00:02:45,280
+side of uh the four noble
+
+55
+00:02:45,280 --> 00:02:48,800
+truths because in fact as much as it's
+
+56
+00:02:48,800 --> 00:02:52,920
+important in Buddhism to study suffering
+
+57
+00:02:52,920 --> 00:02:55,239
+understand suffering enter through go
+
+58
+00:02:55,239 --> 00:02:58,239
+through suffering it's also it's equally
+
+59
+00:02:58,239 --> 00:03:00,840
+important to understand happiness
+
+60
+00:03:00,840 --> 00:03:03,440
+and to enter into happiness and even in
+
+61
+00:03:03,440 --> 00:03:05,760
+a certain way go through to the other
+
+62
+00:03:05,760 --> 00:03:08,319
+side of happiness and what would that be
+
+63
+00:03:08,319 --> 00:03:10,560
+the other side of Happiness it's not
+
+64
+00:03:10,560 --> 00:03:13,000
+suffering it's something even better
+
+65
+00:03:13,000 --> 00:03:15,799
+than suffering than than even happiness
+
+66
+00:03:15,799 --> 00:03:17,360
+so we'll do that next
+
+67
+00:03:17,360 --> 00:03:21,560
+week and uh and I'm very aware that uh
+
+68
+00:03:21,560 --> 00:03:22,480
+we
+
+69
+00:03:22,480 --> 00:03:24,159
+have
+
+70
+00:03:24,159 --> 00:03:28,159
+um the
+
+71
+00:03:30,000 --> 00:03:32,680
+international national and maybe local
+
+72
+00:03:32,680 --> 00:03:34,799
+challenges of all kinds and some of them
+
+73
+00:03:34,799 --> 00:03:38,000
+are very local to individual people of
+
+74
+00:03:38,000 --> 00:03:38,959
+you
+
+75
+00:03:38,959 --> 00:03:43,760
+all and um and uh in my own way I'm
+
+76
+00:03:43,760 --> 00:03:44,879
+trying
+
+77
+00:03:44,879 --> 00:03:48,560
+to uh address these things for all of us
+
+78
+00:03:48,560 --> 00:03:50,640
+offer support through these teachings
+
+79
+00:03:50,640 --> 00:03:54,239
+and it maybe not not uh in a direct way
+
+80
+00:03:54,239 --> 00:03:55,760
+but in an indirect
+
+81
+00:03:55,760 --> 00:03:59,040
+way and uh I'll continue to do that for
+
+82
+00:03:59,040 --> 00:04:01,599
+a while problem
+
+83
+00:04:01,599 --> 00:04:06,159
+so um thank you very much and I see that
+
+84
+00:04:06,159 --> 00:04:08,079
+there are you know I can read the chats
+
+85
+00:04:08,079 --> 00:04:12,000
+and you know maybe if there's a a single
+
+86
+00:04:12,000 --> 00:04:14,000
+question that someone wants to ask about
+
+87
+00:04:14,000 --> 00:04:16,880
+the the topic of this week or something
+
+88
+00:04:16,880 --> 00:04:21,160
+um I can try to uh say a few words for
+
+89
+00:04:21,160 --> 00:04:24,639
+you uh before we stop at
+
+90
+00:04:24,639 --> 00:04:28,120
+7:45 and
+
+91
+00:04:28,320 --> 00:04:32,039
+um so it was very nice to be with you in
+
+92
+00:04:32,039 --> 00:04:35,880
+this few minutes to finally get it
+
+93
+00:04:35,880 --> 00:04:39,360
+working and
+
+94
+00:04:39,600 --> 00:04:42,600
+um
+
+95
+00:04:46,240 --> 00:04:50,479
+so it's very nice to see your names
+
+96
+00:04:50,479 --> 00:04:53,520
+and I saw earlier I saw on the other
+
+97
+00:04:53,520 --> 00:04:56,120
+laptop I did see that the people were on
+
+98
+00:04:56,120 --> 00:04:57,800
+even though the camera wasn't working
+
+99
+00:04:57,800 --> 00:05:00,120
+and that's I was glad to see that the
+
+100
+00:05:00,120 --> 00:05:05,199
+YouTube channel at least was on and
+
+101
+00:05:05,919 --> 00:05:08,919
+um
+
+102
+00:05:09,600 --> 00:05:12,160
+so well what's the fourth the fourth
+
+103
+00:05:12,160 --> 00:05:15,000
+Noble Truth is the Noble Truth to the
+
+104
+00:05:15,000 --> 00:05:19,319
+end of suffering and it's a it's the U
+
+105
+00:05:19,319 --> 00:05:22,919
+it's the path of practice that uh has
+
+106
+00:05:22,919 --> 00:05:26,039
+this wonderful dual nature that it's
+
+107
+00:05:26,039 --> 00:05:30,199
+both the uh the path that uh that uh
+
+108
+00:05:30,199 --> 00:05:32,720
+leads to the end of suffering but it's
+
+109
+00:05:32,720 --> 00:05:37,199
+also the path that uh emerges with the
+
+110
+00:05:37,199 --> 00:05:38,600
+end of
+
+111
+00:05:38,600 --> 00:05:41,039
+suffering and so that this dual nature
+
+112
+00:05:41,039 --> 00:05:44,240
+is quite quite fascinating and uh so
+
+113
+00:05:44,240 --> 00:05:46,720
+I'll talk a little bit about that next
+
+114
+00:05:46,720 --> 00:05:49,759
+week and
+
+115
+00:05:49,759 --> 00:05:52,120
+uh some teachers say suffering is
+
+116
+00:05:52,120 --> 00:05:54,000
+unavoidable and sometimes they can be
+
+117
+00:05:54,000 --> 00:05:56,759
+ended are these two different types of
+
+118
+00:05:56,759 --> 00:06:00,560
+suffering that's a good question uh um
+
+119
+00:06:00,560 --> 00:06:01,840
+the
+
+120
+00:06:01,840 --> 00:06:05,360
+uh uh I think that in ordinary human
+
+121
+00:06:05,360 --> 00:06:09,199
+life um uh one way or the other people
+
+122
+00:06:09,199 --> 00:06:11,280
+are going to suffer and that it doesn't
+
+123
+00:06:11,280 --> 00:06:14,360
+mean non-stop but sooner or later we
+
+124
+00:06:14,360 --> 00:06:17,560
+have all kinds of things and the is the
+
+125
+00:06:17,560 --> 00:06:19,840
+the art of it or the the challenge of it
+
+126
+00:06:19,840 --> 00:06:23,400
+is uh to understand what is optional
+
+127
+00:06:23,400 --> 00:06:26,319
+suffering and what is the emotional pain
+
+128
+00:06:26,319 --> 00:06:28,960
+that just comes with being human being
+
+129
+00:06:28,960 --> 00:06:31,720
+that we can learn to not send any second
+
+130
+00:06:31,720 --> 00:06:32,720
+arrows
+
+131
+00:06:32,720 --> 00:06:38,479
+to that we can uh just uh see as um part
+
+132
+00:06:38,479 --> 00:06:43,160
+of human life that we have to accept um
+
+133
+00:06:43,160 --> 00:06:46,680
+sickness old age and death is inevitable
+
+134
+00:06:46,680 --> 00:06:49,720
+part of the world and it is a kind of
+
+135
+00:06:49,720 --> 00:06:54,280
+suffering uh perhaps or but um but it's
+
+136
+00:06:54,280 --> 00:06:57,160
+not uh the suffering that arises from
+
+137
+00:06:57,160 --> 00:07:00,120
+clinging and craving and so really the
+
+138
+00:07:00,120 --> 00:07:01,759
+formable truths is
+
+139
+00:07:01,759 --> 00:07:04,479
+addressing uh the optional Suffering The
+
+140
+00:07:04,479 --> 00:07:07,000
+Suffering that we contribute to the
+
+141
+00:07:07,000 --> 00:07:09,759
+second third fourth 100th arrows we add
+
+142
+00:07:09,759 --> 00:07:11,160
+to our
+
+143
+00:07:11,160 --> 00:07:14,840
+life and uh and so you have to always
+
+144
+00:07:14,840 --> 00:07:16,840
+kind of uh and and the idea that's this
+
+145
+00:07:16,840 --> 00:07:20,080
+word Dua suffering is uh means different
+
+146
+00:07:20,080 --> 00:07:22,840
+things in different contexts is uh goes
+
+147
+00:07:22,840 --> 00:07:26,000
+back to the time of the Buddha and uh so
+
+148
+00:07:26,000 --> 00:07:29,840
+we have to uh appreciate that that um
+
+149
+00:07:29,840 --> 00:07:32,039
+and they have that you know you know
+
+150
+00:07:32,039 --> 00:07:34,319
+which type of suffering are Dharma
+
+151
+00:07:34,319 --> 00:07:36,400
+teachers talking about when they say
+
+152
+00:07:36,400 --> 00:07:37,240
+that it's
+
+153
+00:07:37,240 --> 00:07:39,720
+unavoidable and which kind of suffering
+
+154
+00:07:39,720 --> 00:07:41,840
+are they talking about that is avoidable
+
+155
+00:07:41,840 --> 00:07:46,280
+that that can come to an end and um and
+
+156
+00:07:46,280 --> 00:07:48,479
+in the classic teachings and maybe I'll
+
+157
+00:07:48,479 --> 00:07:51,520
+talk about this next week uh in fact all
+
+158
+00:07:51,520 --> 00:07:54,599
+suffering can come to a phenomenal end
+
+159
+00:07:54,599 --> 00:07:59,599
+um uh with a uh um but that even that is
+
+160
+00:07:59,599 --> 00:08:01,039
+temporary because some of the
+
+161
+00:08:01,039 --> 00:08:03,680
+unavoidable sufferings of Being Human
+
+162
+00:08:03,680 --> 00:08:07,520
+will return later uh as our bodies get
+
+163
+00:08:07,520 --> 00:08:10,000
+older and creakier and
+
+164
+00:08:10,000 --> 00:08:12,440
+achier it's possible to go into these
+
+165
+00:08:12,440 --> 00:08:15,159
+deep states of meditation and have that
+
+166
+00:08:15,159 --> 00:08:18,000
+disappear and then returns when we come
+
+167
+00:08:18,000 --> 00:08:19,159
+out of those
+
+168
+00:08:19,159 --> 00:08:22,879
+States so but uh the emotional suffering
+
+169
+00:08:22,879 --> 00:08:26,560
+the emotional the optional emotional
+
+170
+00:08:26,560 --> 00:08:30,720
+pain that we are responsible for that
+
+171
+00:08:30,720 --> 00:08:32,839
+can come to a complete end and that
+
+172
+00:08:32,839 --> 00:08:37,279
+doesn't have to return um and so that's
+
+173
+00:08:37,279 --> 00:08:40,279
+why it's possible to go through life's
+
+174
+00:08:40,279 --> 00:08:43,800
+challenges with much more ease and peace
+
+175
+00:08:43,800 --> 00:08:47,000
+when our contributions to it don't cause
+
+176
+00:08:47,000 --> 00:08:49,519
+us to be
+
+177
+00:08:49,600 --> 00:08:54,279
+agitated uh so um thank you
+
+178
+00:08:54,279 --> 00:08:58,720
+for showing up today and for hopefully
+
+179
+00:08:58,720 --> 00:09:01,279
+being patient with the challenges here
+
+180
+00:09:01,279 --> 00:09:04,519
+and uh so I'll plan to pick this up on
+
+181
+00:09:04,519 --> 00:09:09,120
+Monday thank you very much

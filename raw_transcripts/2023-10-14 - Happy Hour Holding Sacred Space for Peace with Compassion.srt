@@ -1,0 +1,1479 @@
+1
+00:00:00,440 --> 00:00:10,480
+hi Audrey you're testing all of you are testing my my uh voice my um uh voice
+
+2
+00:00:10,480 --> 00:00:16,680
+recognition my speaker recognition so I'm GNA stop guessing your names you can just say your
+
+3
+00:00:16,680 --> 00:00:25,519
+name Peter in the [Music] Mid-Atlantic in Dallas
+
+4
+00:00:25,519 --> 00:00:31,840
+hello Amy across the ocean in aahu
+
+5
+00:00:31,840 --> 00:00:35,640
+iy this is this is
+
+6
+00:00:37,040 --> 00:00:41,160
+fun across the freeway in
+
+7
+00:00:44,079 --> 00:00:53,620
+Fairfield this is William just on the other side of the high school in Redwood [Laughter]
+
+8
+00:00:54,399 --> 00:01:01,600
+City oh uh audio is
+
+9
+00:01:01,600 --> 00:01:10,680
+hi podma is this PMA or Claudia I wasn't quite sure who was speaking just now Claudia Claudia hi Claudia great yeah hi
+
+10
+00:01:10,680 --> 00:01:17,840
+this is Padma from Belmont in on the peninsula hi PMA hi Jerry from Toronto
+
+11
+00:01:17,840 --> 00:01:22,880
+hi Jer and Neil says D geography go great
+
+12
+00:01:22,880 --> 00:01:31,280
+together that's funny hi sir from Toronto hi Karen from pet s Washington
+
+13
+00:01:31,280 --> 00:01:38,240
+Hina from oh who says hello from way across the ocean in Japan Hina good
+
+14
+00:01:38,240 --> 00:01:43,840
+morning too loveely you can join and bill says the audio is garbled is my
+
+15
+00:01:43,840 --> 00:01:52,159
+audio garbled or not yes it is garble a little bit really yes a little
+
+16
+00:01:52,159 --> 00:01:59,360
+bit still having trouble with with we're still taking names I'm
+
+17
+00:01:59,360 --> 00:02:04,880
+CLA New York I was getting my earphones out so I
+
+18
+00:02:04,880 --> 00:02:09,920
+could hear you that's great anybody else who wants
+
+19
+00:02:09,920 --> 00:02:16,720
+to share their hello and and geographical location before
+
+20
+00:02:19,239 --> 00:02:28,120
+the oh we have we have YouTube friends who join you say hi B in Australia SC
+
+21
+00:02:28,120 --> 00:02:33,400
+from Missouri I'm so very
+
+22
+00:02:42,080 --> 00:02:48,599
+[Music] cool let's [Music]
+
+23
+00:02:48,599 --> 00:02:55,480
+see I just checked my audio settings there the usual so we
+
+24
+00:02:55,480 --> 00:03:01,760
+just could oh
+
+25
+00:03:03,360 --> 00:03:09,040
+let me check something that's
+
+26
+00:03:09,040 --> 00:03:14,319
+[Music] curious oh that's funny it's not picking
+
+27
+00:03:14,319 --> 00:03:22,840
+up something hold on it's not [Music] Pi let's try that
+
+28
+00:03:25,560 --> 00:03:31,040
+again okay let's try that again right is
+
+29
+00:03:31,040 --> 00:03:38,760
+that any better that is better it was okay it wasn't picking up my uh
+
+30
+00:03:38,760 --> 00:03:46,560
+um my microphone and and it was picking up the laptop mic which is pretty far
+
+31
+00:03:46,560 --> 00:03:52,159
+away so amazing that you could hear me at all thank you all this is thanks for
+
+32
+00:03:52,159 --> 00:03:58,560
+the community support to debug this great okay so audios I always do the
+
+33
+00:03:58,560 --> 00:04:05,439
+check at the beginning if the audio is okay give me thumbs up you guys gave me the thumbs up it's not my fault just
+
+34
+00:04:05,439 --> 00:04:13,319
+kidding it's all good great okay so so thank you all let's begin my heart is
+
+35
+00:04:13,319 --> 00:04:22,160
+warmed up um now we have more hellos Lynn from Belmont and and Rosa gives a
+
+36
+00:04:22,160 --> 00:04:29,639
+warm Autumn greetings so thank you Neil for posting information uh about happy hour Google
+
+37
+00:04:29,639 --> 00:04:36,400
+groups if you're new to happy hour we invite you to join the um mailing list
+
+38
+00:04:36,400 --> 00:04:43,199
+it's a low traffic mailing list and there's also a um little document we
+
+39
+00:04:43,199 --> 00:04:49,280
+have uh for later when you join the small groups breakout groups how to uh
+
+40
+00:04:49,280 --> 00:04:55,840
+offer yourself and others care so with the preliminaries out of the way
+
+41
+00:04:55,840 --> 00:05:00,960
+actually well couple more preliminaries going to change the settings
+
+42
+00:05:00,960 --> 00:05:08,280
+so that we keep the zoom room quiet and also chats will only come to me but I
+
+43
+00:05:08,280 --> 00:05:15,840
+ask that you you keep those U keep that channel quiet and last but not least I'm
+
+44
+00:05:15,840 --> 00:05:21,639
+going to turn recording on for the sake of Audio
+
+45
+00:05:21,639 --> 00:05:28,840
+Dharma here we go great okay so hello hello hello
+
+46
+00:05:28,840 --> 00:05:37,919
+everyone it's lovely to be with you lovely to see you and um and I really enjoyed our
+
+47
+00:05:37,919 --> 00:05:44,440
+hello saying at the beginning um with the different geographical locations and
+
+48
+00:05:44,440 --> 00:05:50,440
+with relation to one another that was that was fun and and and I truly feel
+
+49
+00:05:50,440 --> 00:05:56,039
+that when we do that when we say hello and just share our voices or Goodwill
+
+50
+00:05:56,039 --> 00:06:03,639
+our meta it it brings me more present a sense of community a sense of shared
+
+51
+00:06:03,639 --> 00:06:08,800
+community that here we are from different places in the world we're
+
+52
+00:06:08,800 --> 00:06:15,080
+coming together to do this cultivation of kindness goodness
+
+53
+00:06:15,080 --> 00:06:22,199
+practice together and it's in this light in this
+
+54
+00:06:22,199 --> 00:06:29,600
+spirit that for today's practice I would like to offer uh
+
+55
+00:06:29,600 --> 00:06:35,639
+[Music] um really two practices that are related
+
+56
+00:06:35,639 --> 00:06:42,280
+together and the first one is as we come together as all of us come together from
+
+57
+00:06:42,280 --> 00:06:51,160
+different places in the world as you creatively mentioned shared them at the beginning um coming together to hold
+
+58
+00:06:51,160 --> 00:06:58,000
+Sacred Space together to hold Sacred Space together it's quite a doing for
+
+59
+00:06:58,000 --> 00:07:03,199
+it's um you know it's it's lovely that we especially because we're not in the
+
+60
+00:07:03,199 --> 00:07:10,720
+same room but we can hold Global space Sacred Space together
+
+61
+00:07:10,720 --> 00:07:16,720
+across the ocean many oceans and to hold
+
+62
+00:07:16,720 --> 00:07:25,120
+this Sacred Space for for both grief for sadness for whatever might be arising
+
+63
+00:07:25,120 --> 00:07:31,599
+right now for each of us individually and and also for us
+
+64
+00:07:31,599 --> 00:07:37,400
+collectively with what is happening in the world
+
+65
+00:07:37,400 --> 00:07:45,400
+geopolitically and I know that there is for many people there is grief sadness
+
+66
+00:07:45,400 --> 00:07:54,759
+anger arising and um and to hold a space of is it just a
+
+67
+00:07:54,759 --> 00:08:01,440
+simple Sacred Space to hold it all not turning our Hearts away but when we hold
+
+68
+00:08:01,440 --> 00:08:09,280
+it together it it becomes lighter to hold not that the situation is light at
+
+69
+00:08:09,280 --> 00:08:16,440
+all it's it's egregious it's Grievous and it's getting worse um the
+
+70
+00:08:16,440 --> 00:08:21,840
+humanitarian crisis worsening and and to
+
+71
+00:08:21,840 --> 00:08:27,879
+meet it in our hearts with this with stability of care and
+
+72
+00:08:27,879 --> 00:08:33,039
+compassion and I know that for me as I've been listening to the news I've
+
+73
+00:08:33,039 --> 00:08:39,159
+been finding myself crying um there human beings who are suffering
+
+74
+00:08:39,159 --> 00:08:44,720
+regardless of their belief and religions and and
+
+75
+00:08:44,720 --> 00:08:52,040
+background um and maybe also personally I I share with you that you know I've
+
+76
+00:08:52,040 --> 00:08:59,200
+identified myself jokingly with friends as a Muju you might have heard of a juu
+
+77
+00:08:59,200 --> 00:09:05,600
+people who are who've been Jewish and and practiced Buddhism and I've also been raised
+
+78
+00:09:05,600 --> 00:09:12,839
+Muslim I went to a um Jewish grade school for five years in in back in Iran
+
+79
+00:09:12,839 --> 00:09:18,320
+and and um um and now I'm a Buddhist
+
+80
+00:09:18,320 --> 00:09:26,560
+teacher so there is this sense of um really so many people I know and care
+
+81
+00:09:26,560 --> 00:09:31,880
+about being being affected and so many people I don't know uh being being
+
+82
+00:09:31,880 --> 00:09:38,600
+impacted and maybe I'll share one one other thing which is um today I was
+
+83
+00:09:38,600 --> 00:09:43,839
+listening to a a rabbi and an Imam on
+
+84
+00:09:43,839 --> 00:09:51,839
+the radio on NPR and they were talking about um how they're supporting how
+
+85
+00:09:51,839 --> 00:09:59,680
+they're supporting uh various you various practitioners and and um
+
+86
+00:09:59,680 --> 00:10:06,160
+the rabbi said something very profound that the Imam loved and and re re-echoed
+
+87
+00:10:06,160 --> 00:10:12,200
+at the end which was that there is not a dividing line
+
+88
+00:10:12,200 --> 00:10:20,160
+there's not so much of a dividing line between different people of different religion
+
+89
+00:10:20,160 --> 00:10:28,360
+uh in this scenario what's happening in the world but it's really a dividing line between people who believe that
+
+90
+00:10:28,360 --> 00:10:34,040
+violence is the only solution and people who do not believe violence is the only
+
+91
+00:10:34,040 --> 00:10:42,000
+solution and that is so profound so let us count ourselves count ourselves add
+
+92
+00:10:42,000 --> 00:10:48,279
+our name as signaries to not believing that the violence is the only solution
+
+93
+00:10:48,279 --> 00:10:54,800
+to the world's problems but actually compassion understanding dialogue and
+
+94
+00:10:54,800 --> 00:11:03,320
+care and let us be a part of um at least least as we engage with our own heart
+
+95
+00:11:03,320 --> 00:11:10,519
+and practice and the way that our actions in the world re reverberate um to
+
+96
+00:11:10,519 --> 00:11:17,720
+be voices for for love for care for compassion for
+
+97
+00:11:17,720 --> 00:11:24,839
+dialogue for understanding and not for hatred and violence
+
+98
+00:11:24,839 --> 00:11:31,320
+so so with that I'd like to share practice of
+
+99
+00:11:31,320 --> 00:11:36,839
+um of both settling into a Sacred Space and
+
+100
+00:11:36,839 --> 00:11:42,399
+then opening our hearts for holding whatever is arising with compassion for
+
+101
+00:11:42,399 --> 00:11:47,920
+ourselves and and other beings in this world who are just like us they're not
+
+102
+00:11:47,920 --> 00:11:55,200
+different from us at all and just caught in this Tangled mess
+
+103
+00:11:55,200 --> 00:12:04,079
+because of where they're they're born so so let us arrive let us
+
+104
+00:12:04,079 --> 00:12:07,600
+arrive in our
+
+105
+00:12:09,959 --> 00:12:15,839
+bodies and In This Moment feeling our feet on the
+
+106
+00:12:16,360 --> 00:12:21,600
+earth and this Earth that houses so many
+
+107
+00:12:21,600 --> 00:12:27,880
+of us is the only
+
+108
+00:12:27,880 --> 00:12:34,760
+home to us so many of us beings
+
+109
+00:12:34,760 --> 00:12:39,480
+humans nonhumans
+
+110
+00:12:41,480 --> 00:12:47,320
+animals letting this body rest letting our heart
+
+111
+00:12:51,040 --> 00:12:56,240
+rest feeling a shared space
+
+112
+00:12:56,240 --> 00:13:01,880
+of care and wishes for
+
+113
+00:13:01,880 --> 00:13:07,720
+peace that soothe calm hold
+
+114
+00:13:08,880 --> 00:13:15,040
+us as well as everyone else on this
+
+115
+00:13:15,440 --> 00:13:19,320
+planet a Sacred
+
+116
+00:13:21,120 --> 00:13:25,639
+Space that holds
+
+117
+00:13:26,880 --> 00:13:34,519
+wishes her peace can also hold sadness and grief if it's
+
+118
+00:13:52,959 --> 00:14:01,240
+present and letting our presence our bodies Our Living bre breathing
+
+119
+00:14:02,399 --> 00:14:10,920
+bodies be a signatory to a prayer for peace in the
+
+120
+00:14:10,920 --> 00:14:14,959
+world and with each
+
+121
+00:14:19,320 --> 00:14:23,399
+breath deepening our
+
+122
+00:14:27,680 --> 00:14:34,360
+commitment to peace to Inner Peace first inner
+
+123
+00:14:34,360 --> 00:14:39,759
+peace so that we can enact outer
+
+124
+00:14:57,680 --> 00:15:00,680
+peace
+
+125
+00:15:14,160 --> 00:15:23,759
+letting the breath be supportive grounding grounding us to this present
+
+126
+00:15:27,600 --> 00:15:30,600
+moment
+
+127
+00:15:42,959 --> 00:15:49,319
+feeling both importance the gravity of our
+
+128
+00:15:49,319 --> 00:15:55,880
+practice in this moment come together in
+
+129
+00:15:56,079 --> 00:16:03,759
+peace in kindness how important this is in our troubled
+
+130
+00:16:03,759 --> 00:16:09,160
+world how important just sitting and
+
+131
+00:16:13,839 --> 00:16:19,160
+kindness not adding fuel to the fire of
+
+132
+00:16:20,160 --> 00:16:25,079
+hatred how important this is in our
+
+133
+00:16:27,519 --> 00:16:33,480
+world and connecting receiving each
+
+134
+00:16:34,360 --> 00:16:38,839
+breath as an offering as a
+
+135
+00:16:39,600 --> 00:16:44,360
+gift as a peace offering to this
+
+136
+00:16:46,160 --> 00:16:49,480
+world to
+
+137
+00:16:51,519 --> 00:17:00,480
+yourself internally and externally each breath a peace offering
+
+138
+00:18:10,559 --> 00:18:18,600
+with every out breath with every out breath breathing
+
+139
+00:18:18,600 --> 00:18:26,600
+out peace good will
+
+140
+00:18:27,320 --> 00:18:34,880
+care both onto [Music] yourself and onto
+
+141
+00:18:35,559 --> 00:18:39,399
+others internal
+
+142
+00:18:40,799 --> 00:18:46,960
+external if you're suffering in this moment if your heart is
+
+143
+00:18:46,960 --> 00:18:57,240
+breaking it's heavy let yourself receive the care The Compassion
+
+144
+00:18:57,320 --> 00:19:05,360
+first establish a sense of stability and if
+
+145
+00:19:05,360 --> 00:19:12,799
+there is groundedness let the
+
+146
+00:19:12,799 --> 00:19:19,799
+care be outwards touching those who are suffering In This Moment bringing them
+
+147
+00:19:19,799 --> 00:19:26,960
+sucker bringing them
+
+148
+00:19:27,240 --> 00:19:33,760
+e maybe just a bit of
+
+149
+00:19:35,080 --> 00:19:41,279
+lightness in a moment of darkness bit of
+
+150
+00:19:43,520 --> 00:19:48,200
+uplift spreading your wish of
+
+151
+00:19:57,240 --> 00:20:00,240
+Goodwill
+
+152
+00:21:47,720 --> 00:21:55,399
+and if might be supportive adding the phrases of of
+
+153
+00:21:55,799 --> 00:22:00,039
+compassion may I may you
+
+154
+00:22:01,679 --> 00:22:08,640
+you have ease in the midst of this sorrow this
+
+155
+00:22:08,640 --> 00:22:15,679
+pain this suffering may you be free
+
+156
+00:22:15,679 --> 00:22:18,679
+from
+
+157
+00:22:26,799 --> 00:22:31,639
+suffering May you be safe as much as
+
+158
+00:22:39,159 --> 00:22:45,400
+possible or simply I care about your sorrow your
+
+159
+00:22:45,400 --> 00:22:49,200
+pain what you're going
+
+160
+00:22:53,200 --> 00:22:59,960
+through I wish you is
+
+161
+00:23:37,559 --> 00:23:44,960
+and if you wish can either stay with yourself their
+
+162
+00:23:44,960 --> 00:23:52,360
+suffering their sorrow and pain or
+
+163
+00:23:52,360 --> 00:23:59,880
+expand externally to those who are suffering In This Moment especially
+
+164
+00:24:02,159 --> 00:24:09,240
+in the Middle East the whole region so much
+
+165
+00:24:11,159 --> 00:24:15,039
+pain so many
+
+166
+00:24:19,039 --> 00:24:25,799
+humans and sorrow and danger and grief right
+
+167
+00:24:26,799 --> 00:24:33,960
+now regardless of the borders rationalities beliefs they're
+
+168
+00:24:33,960 --> 00:24:37,440
+human beings just like
+
+169
+00:24:51,120 --> 00:25:00,398
+us just as I wish to be free from sorrow suffering I wish you ease may you have
+
+170
+00:25:03,360 --> 00:25:06,960
+ease may you be
+
+171
+00:25:12,320 --> 00:25:16,880
+free from pain from
+
+172
+00:25:26,679 --> 00:25:29,679
+sorrow
+
+173
+00:26:40,760 --> 00:26:48,799
+and if at any point your practice of compassion veers into empathic
+
+174
+00:26:48,799 --> 00:26:56,600
+distress make sure to bring compassion home
+
+175
+00:26:56,600 --> 00:27:03,799
+internally calming soothing your own aching
+
+176
+00:27:03,799 --> 00:27:10,120
+heart so that you can have stability again and be available for others
+
+177
+00:27:10,120 --> 00:27:18,640
+through your through the actions of your mind your speech the actions of your
+
+178
+00:27:19,399 --> 00:27:25,080
+body thoughts speech and physical
+
+179
+00:27:26,520 --> 00:27:29,520
+actions
+
+180
+00:27:32,120 --> 00:27:39,679
+wishing ease and freedom from sorrow suffering
+
+181
+00:27:39,679 --> 00:27:42,679
+pain
+
+182
+00:27:56,519 --> 00:27:59,519
+Danger
+
+183
+00:28:50,240 --> 00:28:55,720
+wishing e peace and goodness to all those who are
+
+184
+00:28:55,720 --> 00:29:04,440
+suffering in our world World In This Moment wherever in the world they may
+
+185
+00:29:10,760 --> 00:29:15,799
+be wishing you well for all those
+
+186
+00:29:18,159 --> 00:29:22,000
+who wish for
+
+187
+00:29:26,320 --> 00:29:33,360
+peace and wishing Clarity of
+
+188
+00:29:33,360 --> 00:29:40,840
+vision for those who think that hatred violence is the
+
+189
+00:29:40,840 --> 00:29:49,279
+solution to Humanity's problems may all beings everywhere
+
+190
+00:29:49,279 --> 00:29:56,120
+including ourselves be free from suffering
+
+191
+00:29:56,120 --> 00:30:03,720
+sorrow May may all beings everywhere be happy and have the causes
+
+192
+00:30:03,720 --> 00:30:09,080
+for happiness may all beings be
+
+193
+00:30:26,240 --> 00:30:33,640
+free thanks for your practice
+
+194
+00:30:35,399 --> 00:30:43,200
+everyone I had this sense I have this image of each of us praying or
+
+195
+00:30:43,200 --> 00:30:50,480
+practicing with each breath for for compassion for peace in the
+
+196
+00:30:50,480 --> 00:30:55,360
+world each of us is holding this
+
+197
+00:30:55,840 --> 00:31:01,559
+candle together and may may there be peace May There Be
+
+198
+00:31:01,559 --> 00:31:11,440
+Peace On Earth war is Hell war is
+
+199
+00:31:11,600 --> 00:31:17,960
+hell and saying this I um I actually
+
+200
+00:31:17,960 --> 00:31:25,519
+when I was growing up in Iran I lived through the bombing of tan
+
+201
+00:31:25,519 --> 00:31:31,600
+in the Iran Iraq war and it was nothing like what we hear
+
+202
+00:31:31,600 --> 00:31:39,039
+on the radio right now and uh just remember how painful and
+
+203
+00:31:39,039 --> 00:31:46,720
+difficult and uncertain it was
+
+204
+00:31:46,720 --> 00:31:53,480
+so may there be ease and peace for those who are in grave danger and suffering in
+
+205
+00:31:53,480 --> 00:31:58,679
+our world extending our hearts to them
+
+206
+00:31:58,679 --> 00:32:05,200
+practicing compassion one breath at a time one breath at a time and of course
+
+207
+00:32:05,200 --> 00:32:10,240
+it's so important not to lose our own stability with the practice of
+
+208
+00:32:10,240 --> 00:32:16,440
+compassion because the pain of the world sometimes can feel so
+
+209
+00:32:16,440 --> 00:32:23,279
+overwhelming that it can feel easy to Veer into empathic distress and that's
+
+210
+00:32:23,279 --> 00:32:28,440
+not helpful that doesn't help anyone and that not
+
+211
+00:32:28,440 --> 00:32:35,320
+compassion empathic distress is is what when we're falling into the waves of the
+
+212
+00:32:35,320 --> 00:32:43,760
+ocean with the people who are suffering we're bobbing up and down with them without the ability to to extend a
+
+213
+00:32:43,760 --> 00:32:50,639
+holding hand compassion has more stability has care has love and more
+
+214
+00:32:50,639 --> 00:32:59,159
+stability it's not overwhelmed it feels the pain but but holds the pain with
+
+215
+00:32:59,159 --> 00:33:04,320
+equal amounts of care and love and compassion so that it doesn't become a
+
+216
+00:33:04,320 --> 00:33:10,279
+practice in self flagellation and just feeling pain over and over again so be
+
+217
+00:33:10,279 --> 00:33:16,639
+very careful and and um and
+
+218
+00:33:16,639 --> 00:33:22,559
+clear when you're practicing compassion if it veers into empathic
+
+219
+00:33:22,559 --> 00:33:30,080
+distress it's it's wise to pull back and turn to compassion for yourself because
+
+220
+00:33:30,080 --> 00:33:35,679
+you're the one in that moment who's suffering and have lost your balance
+
+221
+00:33:35,679 --> 00:33:44,159
+you're more and the balance again really think of it compassion is a
+
+222
+00:33:44,159 --> 00:33:51,360
+balanced an action of a feeling another person suffer another
+
+223
+00:33:51,360 --> 00:33:56,960
+person's sorrow and pain could be your own as well as care and love to hold
+
+224
+00:33:56,960 --> 00:34:03,320
+hold it then if there's not enough love and it's just pain that's not compassion
+
+225
+00:34:03,320 --> 00:34:08,358
+that's empathic distress so be be clear and wise
+
+226
+00:34:08,359 --> 00:34:14,079
+about um how your practice shows up internally for
+
+227
+00:34:14,079 --> 00:34:21,919
+you and again if it veers into empathic distress it's not a sand don't self
+
+228
+00:34:21,919 --> 00:34:27,800
+flatulate it's just the practice has gotten out of balance it's fine
+
+229
+00:34:27,800 --> 00:34:37,040
+no problem it's time to to bring more balance into it turn turn more into
+
+230
+00:34:37,040 --> 00:34:42,440
+bringing more care more love and turning to yourself so that there is balance
+
+231
+00:34:42,440 --> 00:34:48,960
+till you can turn outside again outward again
+
+232
+00:34:50,440 --> 00:34:55,599
+so so so I'd like to invite us if
+
+233
+00:34:55,599 --> 00:35:01,280
+you would good to uh let this for us to
+
+234
+00:35:01,280 --> 00:35:07,280
+carry this Sacred Space that we're holding together into the small groups
+
+235
+00:35:07,280 --> 00:35:15,280
+holding Sacred Space together small groups of roughly size three and sharing
+
+236
+00:35:15,280 --> 00:35:22,680
+if you wish and you can also just hold space in silence you can just be these candles that show up and hold space
+
+237
+00:35:22,680 --> 00:35:27,839
+together for other human beings in the world maybe that's enough maybe you want
+
+238
+00:35:27,839 --> 00:35:36,760
+to just show up in silence that's perfectly fine and if you want to say a few words the invitation is just a self
+
+239
+00:35:36,760 --> 00:35:45,040
+exploration of how this practice um was for you in this evening and there's no
+
+240
+00:35:45,040 --> 00:35:52,400
+right or wrong answer you can say I fell asleep I was I I don't know what she's talking about
+
+241
+00:35:52,400 --> 00:35:57,760
+it doesn't matter just an exploration if you wish or can say past
+
+242
+00:35:57,760 --> 00:36:06,960
+um and just hold compassionate space so so I will create the small groups
+
+243
+00:36:06,960 --> 00:36:12,160
+with the invitation to take care of yourselves take care of each other each
+
+244
+00:36:12,160 --> 00:36:19,560
+person just offering one nugget and leaving space for others and let's go um
+
+245
+00:36:19,560 --> 00:36:28,880
+the order of um reverse um uh birth date order so
+
+246
+00:36:28,880 --> 00:36:35,280
+whoever whoever was born closest to December 31st will speak first so at the
+
+247
+00:36:35,280 --> 00:36:43,480
+beginning you'll just have a little bit of exchange to share what your birth date not birth year but birth date
+
+248
+00:36:43,480 --> 00:36:50,240
+is and and please turn on your cameras uh when you go into groups just to
+
+249
+00:36:50,240 --> 00:36:57,319
+create the sense of um safety for one another and uh take care of yourselves
+
+250
+00:36:57,319 --> 00:37:06,079
+and take care of each other um be kind be compassionate and be be be um be a
+
+251
+00:37:06,079 --> 00:37:11,920
+candle be a candle how can you be a candle of
+
+252
+00:37:11,920 --> 00:37:17,280
+Light Of Peace okay I'm opening the rooms now
+
+253
+00:37:17,280 --> 00:37:19,520
+take
+
+254
+00:37:25,599 --> 00:37:28,599
+care
+
+255
+00:46:56,440 --> 00:47:01,760
+okay welcome back everyone all the rooms are breakout rooms are closed
+
+256
+00:47:01,760 --> 00:47:09,079
+everybody's back and um thank you for your practice
+
+257
+00:47:09,079 --> 00:47:14,480
+tonight [Music] and would love to hear from you any
+
+258
+00:47:14,480 --> 00:47:19,800
+Reflections any comments any you discovered in the practice especially if
+
+259
+00:47:19,800 --> 00:47:26,440
+you haven't spoken in the uh large group recently um also in
+
+260
+00:47:26,440 --> 00:47:32,520
+uh the chat is open now if you like to share your Reflections if you just send
+
+261
+00:47:32,520 --> 00:47:40,160
+them to me privately I will not read your name just your reflection if you type it to everyone I'll I'll read your
+
+262
+00:47:40,160 --> 00:47:47,160
+name and the reflection as well any thoughts any discoveries with
+
+263
+00:47:47,160 --> 00:47:52,559
+this compassion practice this
+
+264
+00:47:52,559 --> 00:47:57,720
+uh In This Moment In Time
+
+265
+00:48:07,880 --> 00:48:13,200
+maybe as I take a moment they could pause to see if you have any Reflections
+
+266
+00:48:13,200 --> 00:48:20,040
+you want to share what I'll say about practicing compassion especially when
+
+267
+00:48:20,040 --> 00:48:27,400
+they challenging events in the world feels like the appro apprpriate response
+
+268
+00:48:27,400 --> 00:48:36,599
+instead of getting entangled in in anger and blame and overwhelming grief um
+
+269
+00:48:36,599 --> 00:48:42,280
+practicing compassion practicing compassion which then leads to actually
+
+270
+00:48:42,280 --> 00:48:49,040
+actions of compassion instead of being devastated or angry and inflaming
+
+271
+00:48:49,040 --> 00:48:55,920
+actually it is the appropriate response um both for ourselves and for the world
+
+272
+00:48:55,920 --> 00:49:03,240
+World wholesome actions can come out of this instead of unh wholesome actions
+
+273
+00:49:03,240 --> 00:49:09,119
+not just for our own sake but for the sake of humanity training our hearts
+
+274
+00:49:09,119 --> 00:49:16,559
+training ourselves as we are one drop in this ocean of
+
+275
+00:49:20,960 --> 00:49:27,000
+humanity yeah thanks Neil Neil says I try to remember the environmentalist
+
+276
+00:49:27,000 --> 00:49:32,079
+statement of think globally act locally
+
+277
+00:49:32,079 --> 00:49:40,079
+yeah the same is true for peace and kindness exactly and in this practice tonight we
+
+278
+00:49:40,079 --> 00:49:45,200
+definitely thought globally and acting locally
+
+279
+00:49:45,200 --> 00:49:51,880
+here each one of us Kevin I see your hand
+
+280
+00:49:52,960 --> 00:49:59,920
+please hey um yeah so last night I spoke with a friend
+
+281
+00:49:59,920 --> 00:50:07,440
+who um is Jewish and from Ukraine so has been you know profoundly in affected by
+
+282
+00:50:07,440 --> 00:50:13,520
+both of the wars going on um also had a an extremely heavy
+
+283
+00:50:13,520 --> 00:50:21,920
+meeting a work meeting uh immediately before this sitting um and so I just um
+
+284
+00:50:21,920 --> 00:50:29,799
+really really appreciate this space and to be um in community with others
+
+285
+00:50:29,799 --> 00:50:35,480
+um um I think this uh practice of
+
+286
+00:50:35,480 --> 00:50:41,838
+compassion is so important and to be able to
+
+287
+00:50:43,119 --> 00:50:50,440
+um yeah hold this Sacred Space for all of the suffering and um yeah I just
+
+288
+00:50:50,440 --> 00:50:55,640
+really want to Express gratitude um for this space and for everyone's practice
+
+289
+00:50:55,640 --> 00:51:03,720
+and that um yeah so much appreciation for it a lot of um Goodwill towards everyone for
+
+290
+00:51:03,720 --> 00:51:11,079
+that support and um yeah thank gratitude for everyone's practice um and just want
+
+291
+00:51:11,079 --> 00:51:18,640
+to remind everyone that um um yeah so much meta for all everyone
+
+292
+00:51:18,640 --> 00:51:27,200
+so thank you thank you Kevin thank you so much for your share yeah and I saw lots of
+
+293
+00:51:27,200 --> 00:51:32,920
+Hearts showing up while you were speaking Jennifer says thank you Nikki
+
+294
+00:51:32,920 --> 00:51:39,200
+for your compassion and wisdom this was a powerful met tonight thank you
+
+295
+00:51:39,200 --> 00:51:45,799
+Jennifer and na says Mr Rogers advise children in times of distress and
+
+296
+00:51:45,799 --> 00:51:51,240
+troubling news to focus on the helpers he said when I was a boy and I would see
+
+297
+00:51:51,240 --> 00:51:56,799
+scary things in the news my mother would say to me look for the helpers you will
+
+298
+00:51:56,799 --> 00:52:03,400
+always find people who are helping indeed thank you enough thank you and
+
+299
+00:52:03,400 --> 00:52:11,480
+Ellie I see your hand hi Nikki thank you thank you for
+
+300
+00:52:11,480 --> 00:52:17,559
+the teaching and bringing the the subject in the Forefront ah yeah it's it's h hard
+
+301
+00:52:17,559 --> 00:52:23,760
+actually I mean I've been getting more of the like the uh as you said the
+
+302
+00:52:23,760 --> 00:52:29,319
+uh empathy uh uh distress more so um so
+
+303
+00:52:29,319 --> 00:52:34,559
+but takes a while to have the other for me uh you know to have the other part
+
+304
+00:52:34,559 --> 00:52:42,079
+underneath it the other part of the compassion to hold it both and then as we know I mean Buddhism is full of the
+
+305
+00:52:42,079 --> 00:52:48,160
+paradoxes but just being so close uh you know originally from that part it's hard
+
+306
+00:52:48,160 --> 00:52:54,119
+to you know keep both sides hard to not to take sides or or whatnot and
+
+307
+00:52:54,119 --> 00:53:01,119
+especially when a million people people being you know displaced tomorrow have to move so it's just I know it's having
+
+308
+00:53:01,119 --> 00:53:08,960
+to hold both sides is kind of difficult when when you're uh close and then uh
+
+309
+00:53:08,960 --> 00:53:16,160
+yeah that's what comes to mind yeah thank you Alie thank you yeah it's Paradox of Buddhism I was
+
+310
+00:53:16,160 --> 00:53:21,799
+just going to ask you to maybe just like expand on that portion of it just holding this and that and everything
+
+311
+00:53:21,799 --> 00:53:31,640
+else yeah yeah Paradox well I mean we live in Paradox this is um and it that's
+
+312
+00:53:31,640 --> 00:53:38,000
+in some ways it's a paradox and in some ways it's it's um the truth of how
+
+313
+00:53:38,000 --> 00:53:44,400
+things are you know many things can be uh many things that seemingly for our
+
+314
+00:53:44,400 --> 00:53:52,280
+limited cognition seem at odds they're actually quite uh consistent with one another
+
+315
+00:53:52,280 --> 00:53:58,960
+grief sadness sorrow coexist consistent with kindness love and care it's it
+
+316
+00:53:58,960 --> 00:54:08,440
+seems like a paradox and yet it isn't at the same time it's it's the natural response of the heart and and
+
+317
+00:54:08,440 --> 00:54:15,280
+um you know it it's maybe what you sh shared um maybe I'll say a word about
+
+318
+00:54:15,280 --> 00:54:21,480
+you know sometimes the Mind wants to have a a binary or or the mind you know
+
+319
+00:54:21,480 --> 00:54:28,799
+kind of sticks to wants to have a binary like it's either this or that and and
+
+320
+00:54:28,799 --> 00:54:35,720
+like a loving parents say sweetheart it doesn't have to be binary it doesn't have to be so strictly one way or
+
+321
+00:54:35,720 --> 00:54:44,000
+another I you have much more capacity to hold multitudes to hold multitudes to to
+
+322
+00:54:44,000 --> 00:54:50,200
+feel the pain of people who are being displaced and the and feel the pain of
+
+323
+00:54:50,200 --> 00:54:55,839
+the people who were surprised and and hurting in fact you can hold pain
+
+324
+00:54:55,839 --> 00:55:02,480
+there's just pain there are human beings all around and if you want to take sides
+
+325
+00:55:02,480 --> 00:55:09,640
+Dear Heart advise your heart perhaps take the heart take sides with peace
+
+326
+00:55:09,640 --> 00:55:16,280
+take sides with nonviolence take sides with compassion take sides with humanity
+
+327
+00:55:16,280 --> 00:55:23,359
+take sides with human beings all around in that region that complicated complex
+
+328
+00:55:23,359 --> 00:55:29,799
+region of the world that I'm from as well that has just hurting so much has
+
+329
+00:55:29,799 --> 00:55:39,280
+been hurting for so long um taking and and also compassion isn't just um tender
+
+330
+00:55:39,280 --> 00:55:44,520
+it's both tender and it's also Fierce it's also protective it's also loving
+
+331
+00:55:44,520 --> 00:55:50,839
+it's also gives it's also shares of itself but it's not it doesn't include
+
+332
+00:55:50,839 --> 00:55:58,839
+hatred it doesn't have any hatred in it it it loves it it sees the suffering and
+
+333
+00:55:58,839 --> 00:56:06,400
+it sees the the ignorance of the world it sees the ignorance of of human beings
+
+334
+00:56:06,400 --> 00:56:13,319
+that that keep [Music]
+
+335
+00:56:13,319 --> 00:56:21,599
+perpetrating pain on each other and forgives loves doesn't
+
+336
+00:56:21,599 --> 00:56:27,039
+condone but but but loves as deeply and
+
+337
+00:56:27,039 --> 00:56:33,079
+as as painful as it might be as it can feel to continue to love and see under
+
+338
+00:56:33,079 --> 00:56:41,160
+the humanity that everybody's hurting everybody's hurting hurt people hurt
+
+339
+00:56:42,119 --> 00:56:46,038
+people anyway thank
+
+340
+00:56:47,680 --> 00:56:55,160
+you yeah so two one one minute left and I get get
+
+341
+00:56:55,160 --> 00:57:00,440
+this big question Jerry says are the relationships between compassion and
+
+342
+00:57:00,440 --> 00:57:07,280
+Justice and peace yes absolutely um how can I address this in
+
+343
+00:57:07,280 --> 00:57:11,079
+30 seconds
+
+344
+00:57:12,760 --> 00:57:19,160
+um yeah maybe I'll say this I trust you
+
+345
+00:57:19,160 --> 00:57:24,920
+have heard of restorative justice restorative justice is justice that
+
+346
+00:57:24,920 --> 00:57:32,720
+doesn't blame shame hate restorative justice that has compassion and wish for
+
+347
+00:57:32,720 --> 00:57:40,240
+peace as as an integral part of it and there so that's what I would say in 30
+
+348
+00:57:40,240 --> 00:57:45,920
+seconds that's how compassion and Justice and peace coexist together and
+
+349
+00:57:45,920 --> 00:57:52,119
+there are a lot of resources on on on what I just mentioned so I'll leave it
+
+350
+00:57:52,119 --> 00:57:57,480
+at that and maybe what I'll do very quickly is I will share I mentioned to
+
+351
+00:57:57,480 --> 00:58:03,559
+you that I listened to this NPR um uh
+
+352
+00:58:03,559 --> 00:58:11,240
+report yeah it was from NPR interviewing an Imam and and a rabbi and I just found
+
+353
+00:58:11,240 --> 00:58:17,839
+it beautiful so I put that in chat and if you just Google NPR Imam and and uh
+
+354
+00:58:17,839 --> 00:58:23,160
+Rabbi you you'll hear the little conversation they had
+
+355
+00:58:23,319 --> 00:58:29,799
+today so yeah last words Vicki seeing the D L cry
+
+356
+00:58:29,799 --> 00:58:36,119
+and then laugh joyously one minute later was informative years ago to hold both yes
+
+357
+00:58:36,119 --> 00:58:43,039
+exactly exactly yeah holding also joy and sorrow I think that those are other
+
+358
+00:58:43,039 --> 00:58:48,559
+and and holding pain and gladness pain and joy joy and sorrow the holding these
+
+359
+00:58:48,559 --> 00:58:54,760
+multitudes our hearts are so vast we have so much capacity all right dear one
+
+360
+00:58:54,760 --> 00:59:01,799
+on we're off time thank you so much for this very rich practice conversation
+
+361
+00:59:01,799 --> 00:59:09,240
+holding space together I am moved to go now and light a candle and I invite you to feel the same if you're moved to
+
+362
+00:59:09,240 --> 00:59:14,480
+thank you all may all beings be well may all beings be
+
+363
+00:59:18,599 --> 00:59:26,079
+free take care see you on Monday and I'm going ask you all if you
+
+364
+00:59:26,079 --> 00:59:34,200
+like on Zoom to unmute yourself and say caka this goodbye if
+
+365
+00:59:34,200 --> 00:59:39,799
+you like here we go thank you
+
+366
+00:59:42,039 --> 00:59:47,640
+all thank you everyone have a
+
+367
+00:59:48,160 --> 00:59:52,798
+Beau bye bye be well
+
+368
+00:59:53,640 --> 00:59:59,520
+bye watching events in Israel and Gaza over
+
+369
+00:59:59,520 --> 01:00:04,920
+the last week has brought grief and pain to many Jews and Muslims us Hamas
+
+370
+01:00:04,920 --> 01:00:09,280
+surprise attack last Saturday and
