@@ -15,6 +15,7 @@ from youtube_transcript_api import (
 logging.basicConfig(level=logging.INFO)
 
 RAW_EXTENSION = "rawtranscript"
+PROMPT_TEMPLATE = "prompt_template.md"
 
 
 def sanitize_filename(title):
@@ -26,7 +27,7 @@ def sanitize_filename(title):
     # Remove illegal characters
     sanitized = re.sub(r'[\\/*?:"<>|]', "", sanitized)
     # Replace sequences of whitespace with a single space
-    sanitized = re.sub(r"\s+", " ", sanitized)
+    sanitized = re.sub(r"\\s+", " ", sanitized)
     # Trim leading/trailing whitespace
     return sanitized.strip()
 
@@ -52,41 +53,30 @@ def process_and_save_transcript_with_ai(
             f"  -> Processed transcript already exists: {clean_transcript_path}. Skipping AI processing."
         )
         return
+    transcript_extension = raw_transcript_path.split(".")[-1]
+
+    try:
+        with open(PROMPT_TEMPLATE, "r", encoding="utf-8") as f:
+            prompt_template = f.read() 
+    except FileNotFoundError:
+        logging.error("  -> Could not find prompt template file!");
+        return False;
+
     try:
         with open(raw_transcript_path, "r", encoding="utf-8") as f:
             raw_transcript_data = f.read()
 
-        # Construct a detailed prompt for the AI
-        prompt = f"""
-Please format the following raw YouTube transcript into a clean, readable, and well-structured markdown-compatible text. The context is a dharma talk from the Insight Meditation Center, related to Buddhism. The title of the talk is "{video_title}", with the url "{video_url}".
-
-Your task is to transform the raw, fragmented transcript data into a polished, article-like format. Your output requirements:
--   **Include a disclaimer** The data should be prepended with a disclaimer like so: "This is an AI generated transcript of the video ["{video_title}"](<{video_url}>). It may contain inaccuracies."
--   **Add defition footnotes for Pali words or less known historical figures** If a Pali word is used, or a historical figure referenced that isn't common like the Buddha, it can be helpful to include a footnote definiting the term. 
--   **Simply output the article and nothing else** Do not use any tool to create a file. You are being called from a python script and your output is being saved directly to a markdown file, so do not include any other output other than the article.
-
-Formatting requirements:
-1.  **Combine Segments:** Merge the short text fragments into complete, grammatically correct sentences.
-2.  **Punctuation & Capitalization:** Add appropriate punctuation (periods, commas, etc.) and correct capitalization.
-3.  **Paragraphs:** Structure the text into logical paragraphs. A new paragraph should start when there is a clear shift in topic or a significant pause in the speech.
-4.  **Readability:** Ensure the final text flows naturally and is easy to read. Remove conversational filler like 'uh' and 'um' unless they are essential for meaning.
-5.  **No Timestamps:** Do not include any timestamps or metadata from the raw transcript in the final output.
-6.  **Highlight likely transcription errors** If a sentense is obviously wrong, likely due to a transcribing error (as lots of poly words / buddhism things are not common for transcribing), marking as [?], [word], or other appropriate markings. If this term is also being defined in a footnote, then this context can be included with the definition.
-7.  **Use footnotes to add context** If there is a decision made around error correction that has a reasonable chance to be wrong, add a footnote to that effect.
-8.  **Markdown syntax** The article should be in markdown syntax.
-
-Words that are likely to be mis-transcribed:
--   Satipatthana Sutta
--   Dukkha
--   Poli
--   Anicca
--   Kalyana
--   Samadhi
--   Jhāna
-
-Here is the raw transcript data in JSON format:
-{raw_transcript_data}
-"""
+        
+        # The template expects the following to be replaced:
+        # - {video_title}
+        # - {video_url}
+        # - {transcript_extension}
+        # - {raw_transcript_data}
+        prompt = prompt_template.replace("{transcript_extension}", transcript_extension);
+        prompt = prompt.replace("{video_title}", video_title);
+        prompt = prompt.replace("{video_url}", video_url);
+        prompt = prompt.replace("{raw_transcript_data}", raw_transcript_data);
+    
 
         # Pass the prompt via stdin to the gemini-cli command. This is safer and avoids
         # shell argument length limits and complex quoting.
@@ -210,11 +200,31 @@ def download_or_use_transcript(
         return None
 
 
+def get_video_metadata(video_id, video_url, ydl, metadata_cache, skip_metadata_cache):
+    if not skip_metadata_cache and video_id in metadata_cache:
+        logging.info(f"  -> Found metadata in cache for video ID: {video_id}")
+        return metadata_cache[video_id]
+
+    logging.info(f"  -> Fetching metadata from YouTube for video ID: {video_id}")
+    info_dict = ydl.extract_info(video_url, download=False)
+    video_title = info_dict.get("title", "Unknown Title")
+    upload_date = info_dict.get("upload_date", "Unknown Date")
+    # The string format here is YYYYMMDD. Format it to YYYY-MM-DD.
+    upload_date = f"{upload_date[:4]}-{upload_date[4:6]}-{upload_date[6:]}"
+    
+    metadata = {
+        "title": video_title,
+        "upload_date": upload_date,
+    }
+    metadata_cache[video_id] = metadata
+    return metadata
+
 def download_video_transcripts_from_urls(
     videos,
     limit=0,
     force_redownload_transcripts=False,
     force_ai_processing=False,
+    skip_metadata_cache=False,
 ):
     """
     Downloads and outputs the transcripts.
@@ -229,15 +239,20 @@ def download_video_transcripts_from_urls(
     ydl_opts = {"quiet": True, "no_warnings": True}
     ydl = yt_dlp.YoutubeDL(ydl_opts)
 
+    metadata_cache_path = "videos/video_metadata_cache.json"
+    if os.path.exists(metadata_cache_path):
+        with open(metadata_cache_path, "r", encoding="utf-8") as f:
+            metadata_cache = json.load(f)
+    else:
+        metadata_cache = {}
+
     for i, video in enumerate(videos):
         video_id = video["videoId"]
         video_url = f"https://www.youtube.com/watch?v={video_id}"
         try:
-            info_dict = ydl.extract_info(video_url, download=False)
-            video_title = info_dict.get("title", "Unknown Title")
-            upload_date = info_dict.get("upload_date", "Unknown Date")
-            # The string format here is YYYYMMDD. Format it to YYYY-MM-DD.
-            upload_date = f"{upload_date[:4]}-{upload_date[4:6]}-{upload_date[6:]}"
+            metadata = get_video_metadata(video_id, video_url, ydl, metadata_cache, skip_metadata_cache)
+            video_title = metadata["title"]
+            upload_date = metadata["upload_date"]
 
             logging.info(f"\n[{i+1}/{len(videos)}] Processing: {video_title}")
 
@@ -264,6 +279,9 @@ def download_video_transcripts_from_urls(
 
         except Exception as e:
             logging.error(f"  -> An unexpected error occurred in the main loop: {e}")
+
+    with open(metadata_cache_path, "w", encoding="utf-8") as f:
+        json.dump(metadata_cache, f, indent=4)
 
     logging.info("\n--------------------")
     logging.info("Download process finished.")
@@ -315,6 +333,11 @@ def main():
         action="store_true",
         help="Force AI processing even if the processed file exists.",
     )
+    parser.add_argument(
+        "--skip-metadata-cache",
+        action="store_true",
+        help="Skip using the metadata cache and force re-fetching from YouTube.",
+    )
 
     args = parser.parse_args()
 
@@ -339,6 +362,7 @@ def main():
         limit=args.limit,
         force_redownload_transcripts=args.force_redownload_transcripts,
         force_ai_processing=args.force_ai_processing,
+        skip_metadata_cache=args.skip_metadata_cache,
     )
 
 

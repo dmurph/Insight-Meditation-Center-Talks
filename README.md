@@ -7,7 +7,8 @@ The purpose of this repo is to download and mirror the transcriptions of talks f
 
 The script organizes files as follows:
 
--   `videos/<channel_name>.json`: A cache of video information. The filename is derived from the channel URL.
+-   `videos/<videos_fetch_source>.json`: A cache of video information. The filename is derived from the channel URL.
+-   `videos/video_metadata.json`: A cache of video metadata (title, upload date, URL) to avoid re-fetching from YouTube.
 -   `raw_transcripts/`: Stores the raw, unprocessed transcript files downloaded from YouTube. This includes both `.srt` files you may have locally and `.rawtranscript` files downloaded by the script.
 -   `talks/`: Stores the final, AI-cleaned and formatted markdown files.
 
@@ -56,6 +57,7 @@ These options can be used with either `channel-url` or `video-id`.
 -   `--redownload-video-urls`: (Only for `channel-url`) Force a re-download of the channel's video list, overwriting the local cache.
 -   `--force-redownload-transcripts`: Force re-downloading of the raw transcript files, even if they already exist locally.
 -   `--force-ai-processing`: Force the AI processing step to run, even if the final processed file already exists.
+-   `--skip-metadata-cache`: Skip using the metadata cache and force re-fetching from YouTube.
 
 ### Examples
 
