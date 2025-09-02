@@ -118,62 +118,104 @@ class UrlType(Enum):
     CHANNEL = 1
     PLAYLIST = 2
 
-def download_video_urls(url_or_id, type : UrlType = UrlType.CHANNEL, redownload_video_urls=False):
+def download_video_urls(
+    url_or_id,
+    type: UrlType = UrlType.CHANNEL,
+    rebuild_cache=False,
+    skip_download=False,
+):
     """
-    Ensures the videos.json file is downloaded.
+    Downloads and caches a list of video URLs from a YouTube channel or playlist.
+
+    The function supports several modes of operation:
+    - skip_download: Only use the cached list of video URLs, without making any network requests.
+    - rebuild_cache: Force a complete redownload of all video URLs, overwriting the existing cache.
+    - Default (efficient update): Download new video URLs until an already cached video is found.
+      This updates the cache with the latest videos without re-downloading the entire list.
     """
     output_dir = "videos"
-    output_filename = sanitize_filename(url_or_id);
+    output_filename = sanitize_filename(url_or_id)
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
         logging.info(f"Created directory: {output_dir}")
 
     video_cache_path = os.path.join(output_dir, f"{output_filename}.json")
-    logging.info(f"Saving to {video_cache_path}")
 
-    if not redownload_video_urls and os.path.exists(video_cache_path):
-        logging.info(f"Found video list cache at: {video_cache_path}")
+    # --- Behavior 1: Skip Download and Use Cache ---
+    if skip_download:
+        logging.info(f"Skipping download. Using cache file: {video_cache_path}")
+        if not os.path.exists(video_cache_path):
+            logging.error("  -> Error: --skip-video-url-download is set, but no cache file found.")
+            return None
         try:
             with open(video_cache_path, "r", encoding="utf-8") as f:
                 videos = json.load(f)
-            
             logging.info(f"Loaded {len(videos)} video details from cache.")
-            # Prune the video data to only include videoId
             return [{"videoId": video["videoId"]} for video in videos]
         except json.JSONDecodeError as e:
-            logging.error(f"Error: Could not decode json: {e}")
-
-    try:
-        
-        videos_full = []
-        match type:
-            case UrlType.CHANNEL:
-                logging.info(f"Connecting to channel: {url_or_id}")
-                videos_full = list(scrapetube.get_channel(channel_url=url_or_id))
-            case UrlType.PLAYLIST:
-                logging.info(f"Connecting to playlist: https://www.youtube.com/playlist?list={url_or_id}")
-                # Choose a random sleep time between 0 and 5 seconds
-                sleep_time = random.random() * 5
-                output = scrapetube.get_playlist(playlist_id=url_or_id, sleep=sleep_time)
-                videos_full = list(output)
-        if not videos_full:
-            logging.error(
-                "Error: Could not find any videos for this channel or playlist. Please check the argument."
-            )
+            logging.error(f"  -> Error: Could not decode json from cache: {e}")
             return None
-        logging.info(f"Found videos");
 
+    # --- Load Existing Cache for Update or Rebuild ---
+    existing_videos = []
+    existing_video_ids = set()
+    if not rebuild_cache and os.path.exists(video_cache_path):
+        try:
+            with open(video_cache_path, "r", encoding="utf-8") as f:
+                existing_videos = json.load(f)
+                existing_video_ids = {v["videoId"] for v in existing_videos}
+            logging.info(f"Loaded {len(existing_videos)} video details from cache for update.")
+        except json.JSONDecodeError as e:
+            logging.warning(f"Could not decode existing cache, will rebuild: {e}")
+            rebuild_cache = True # Force rebuild if cache is corrupt
+
+    # --- Behavior 2: Rebuild Cache or Perform Efficient Update ---
+    try:
+        newly_fetched_videos = []
+        stop_fetching = False
+
+        # Determine the generator based on the URL type
+        video_generator = None
+        if type == UrlType.CHANNEL:
+            logging.info(f"Connecting to channel: {url_or_id}")
+            video_generator = scrapetube.get_channel(channel_url=url_or_id)
+        elif type == UrlType.PLAYLIST:
+            logging.info(f"Connecting to playlist: https://www.youtube.com/playlist?list={url_or_id}")
+            sleep_time = random.random() * 5
+            video_generator = scrapetube.get_playlist(playlist_id=url_or_id, sleep=sleep_time)
+
+        if not video_generator:
+            logging.error("Could not create a video generator.")
+            return None
+
+        logging.info("Fetching new videos...")
+        for video in video_generator:
+            if not rebuild_cache and video["videoId"] in existing_video_ids:
+                logging.info(f"Found existing video ({video['videoId']}), stopping.")
+                stop_fetching = True
+                break
+            newly_fetched_videos.append(video)
+
+        if not newly_fetched_videos and not existing_videos:
+            logging.error("Error: Could not find any videos. Please check the argument.")
+            return None
+
+        # --- Combine and Save Cache ---
+        if rebuild_cache:
+            final_video_list = newly_fetched_videos
+            logging.info(f"Rebuilt cache with {len(final_video_list)} videos.")
+        else:
+            final_video_list = newly_fetched_videos + existing_videos
+            logging.info(f"Fetched {len(newly_fetched_videos)} new videos. Total videos: {len(final_video_list)}")
 
         with open(video_cache_path, "w", encoding="utf-8") as f:
-            json.dump(videos_full, f, indent=4)
-        logging.info(f"Video list saved to {video_cache_path}")
+            json.dump(final_video_list, f, indent=4)
+        logging.info(f"Video list cache saved to {video_cache_path}")
 
-        minified = [{"videoId": video["videoId"]} for video in videos_full]
-        logging.info(f"Found {len(minified)} videos.")
-        # Prune the video data to only include videoId
-        return minified
+        return [{"videoId": v["videoId"]} for v in final_video_list]
+
     except Exception as e:
-        logging.error(f"Error: Could not connect to the channel using scrapetube.")
+        logging.error(f"Error: Could not connect using scrapetube.")
         logging.exception(f"Details: {e}")
         return None
 
@@ -336,19 +378,29 @@ def main():
         "url", help="The URL of the YouTube channel. Defaults to the IMC live stream channel", type=str, default="https://www.youtube.com/@InsightMeditationCenter/streams"
     )
     channel_url_source.add_argument(
-        "--redownload-video-urls",
+        "--rebuild-video-url-cache",
         action="store_true",
-        help="Force redownload of video URLs list.",
+        help="Force a complete redownload of all video URLs, rebuilding the cache.",
+    )
+    channel_url_source.add_argument(
+        "--skip-video-url-download",
+        action="store_true",
+        help="Skip downloading video URLs and use the existing cache.",
     )
 
-    playlist_url_source = sources.add_parser("playlist-id", help="Use a playlist url")
+    playlist_url_source = sources.add_parser("playlist-id", help="Use a playlist id")
     playlist_url_source.add_argument(
         "playlist_id", help="The id of a YouTube playlist. Defaults to all videos on the IMC channel.", type=str, default="UUGliqsod-tQoGiHahxS9Wig"
     )
     playlist_url_source.add_argument(
-        '--redownload-playlist-urls',
+        '--rebuild-video-url-cache',
         action='store_true',
-        help='Force redownload of video URLs list.')
+        help='Force a complete redownload of all video URLs, rebuilding the cache.')
+    playlist_url_source.add_argument(
+        "--skip-video-url-download",
+        action="store_true",
+        help="Skip downloading video URLs and use the existing cache.",
+    )
 
     parser.add_argument(
         "--limit",
@@ -374,19 +426,25 @@ def main():
 
     args = parser.parse_args()
 
+    # Consolidate cache-related arguments from subparsers
+    rebuild_cache = getattr(args, 'rebuild_video_url_cache', False)
+    skip_download = getattr(args, 'skip_video_url_download', False)
+
     if args.fetch_source == "video-id":
         videos = [{"videoId": args.id}]
     elif args.fetch_source == "channel-url":
         videos = download_video_urls(
             url_or_id=args.url,
             type=UrlType.CHANNEL,
-            redownload_video_urls=args.redownload_video_urls,
+            rebuild_cache=rebuild_cache,
+            skip_download=skip_download,
         )
     elif args.fetch_source == "playlist-id":
         videos = download_video_urls(
             url_or_id=args.playlist_id,
             type=UrlType.PLAYLIST,
-            redownload_video_urls=args.redownload_playlist_urls,
+            rebuild_cache=rebuild_cache,
+            skip_download=skip_download,
         )
     else:
         parser.print_help()
