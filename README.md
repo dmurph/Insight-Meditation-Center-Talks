@@ -31,7 +31,7 @@ The script now uses sub-commands to specify the source of the videos.
 
 #### `channel-url`
 
-Download all videos from a channel URL.
+Download all videos from a channel URL. By default, this command will efficiently update the video URL cache by only downloading new videos until it finds one that is already in the cache.
 
 ```bash
 GEMINI_API_KEY=your_api_key python download.py channel-url <url> [options]
@@ -51,10 +51,11 @@ GEMINI_API_KEY=your_api_key python download.py video-id <id> [options]
 
 ### Global Options
 
-These options can be used with either `channel-url` or `video-id`.
+These options can be used with any sub-command.
 
 -   `--limit <number>`: Limit the number of videos to process. Default is 0 (no limit).
--   `--redownload-video-urls`: (Only for `channel-url`) Force a re-download of the channel's video list, overwriting the local cache.
+-   `--rebuild-video-url-cache`: (Only for `channel-url` and `playlist-id`) Force a complete re-download of the video list, overwriting the local cache.
+-   `--skip-video-url-download`: (Only for `channel-url` and `playlist-id`) Skip downloading the video list entirely and use the existing local cache.
 -   `--force-redownload-transcripts`: Force re-downloading of the raw transcript files, even if they already exist locally.
 -   `--force-ai-processing`: Force the AI processing step to run, even if the final processed file already exists.
 -   `--skip-metadata-cache`: Skip using the metadata cache and force re-fetching from YouTube.
@@ -62,7 +63,8 @@ These options can be used with either `channel-url` or `video-id`.
 ### Examples
 
 ```bash
-# Download all transcripts and do ai processing for all of the live videos from the channel
+# Download all transcripts and do ai processing for all of the live videos from the channel.
+# This will efficiently update the list of videos before processing.
 python download.py channel-url "https://www.youtube.com/@InsightMeditationCenter/streams"
 
 # Download the 5 most recent non-live videos, forcing AI processing to overwrite any already saved talks.
