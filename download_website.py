@@ -67,6 +67,11 @@ def scrape_page(page_num, existing_data, speakers_data):
         except (ValueError, IndexError):
             logging.warning(f"Could not parse speaker ID from URL: {speaker_url}")
             continue
+        try:
+            talk_id = int(talk_url.split('/')[-1])
+        except (ValueError, IndexError):
+            logging.warning(f"Could not parse talk ID from URL: {talk_url}")
+            continue
         talk_date = date_tag.text.strip().replace('.', '-')
 
         if speaker_id not in speakers_data:
@@ -75,7 +80,7 @@ def scrape_page(page_num, existing_data, speakers_data):
         parsed_url = urlparse(youtube_url)
         path_parts = [part for part in parsed_url.path.split('/') if part]
         video_id = path_parts[-1] if path_parts else None
-        
+
         query_params = parse_qs(parsed_url.query)
         timestamp = 0
         if 'start' in query_params:
@@ -88,7 +93,7 @@ def scrape_page(page_num, existing_data, speakers_data):
 
         talk_entry = {
             "title": talk_title,
-            "url": talk_url,
+            "id": talk_id,
             "date": talk_date,
             "speaker_id": speaker_id,
             "start_time_seconds": timestamp,
@@ -100,28 +105,29 @@ def scrape_page(page_num, existing_data, speakers_data):
                 "youtube_id": video_id,
                 "talks": []
             }
-        
+
         existing_talks = existing_data[video_id]["talks"]
         talk_exists = False
         for i, existing_talk in enumerate(existing_talks):
-            if existing_talk["url"] == talk_entry["url"]:
+            if ("id" in existing_talk and existing_talk["id"] == talk_id) or (
+                "url" in existing_talk and existing_talk["url"] == talk_url
+            ):
                 talk_exists = True
                 if existing_talk != talk_entry:
                     existing_talks[i] = talk_entry
                     logging.info(f"Updated talk: {talk_entry['title']}")
                     did_update = True
                 break
-        
+
         if not talk_exists:
             existing_talks.append(talk_entry)
             logging.info(f"Added talk: {talk_entry['title']}")
             did_append = True
-        
-            
+
     if not page_has_talks:
         return "end"
     if did_update or did_append:
-       return "new"
+        return "new"
     return "known"
 
 def save_talks_data(data, output_file):
