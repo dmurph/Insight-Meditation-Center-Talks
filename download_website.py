@@ -22,20 +22,26 @@ def scrape_page(page_num, existing_data, speakers_data):
         response.raise_for_status()
     except requests.exceptions.RequestException as e:
         logging.error(f"Error fetching page {page_num}: {e}")
-        return "known" # Treat errors as if we found nothing new
+        return "end"
 
     soup = BeautifulSoup(response.content, 'html.parser')
     rows = soup.find_all("tr")
     if not rows or len(rows) <= 1:
         logging.warning("No data rows found in the table.")
-        return "known"
+        return "end"
 
-    page_status = "known"
+    did_update = False
+    did_append = False
+    page_has_talks = False
     for row in rows[1:]:  # Skip header row
         title_tag = row.select_one('.playable-table-name a')
         speaker_tag = row.select_one('.playable-table-speaker a')
         date_tag = row.select_one('.playable-table-date')
         audio_tag = row.select_one('a.js-audio-select')
+
+        if not title_tag:
+            continue
+        page_has_talks = True
 
         mp3_url = None
         if audio_tag and 'data-url' in audio_tag.attrs:
@@ -52,7 +58,6 @@ def scrape_page(page_num, existing_data, speakers_data):
 
         if not all([title_tag, speaker_tag, date_tag, youtube_url]):
             continue
-
         talk_title = title_tag.text.strip()
         talk_url = "https://www.audiodharma.org" + title_tag['href']
         speaker_name = speaker_tag.text.strip()
@@ -104,16 +109,20 @@ def scrape_page(page_num, existing_data, speakers_data):
                 if existing_talk != talk_entry:
                     existing_talks[i] = talk_entry
                     logging.info(f"Updated talk: {talk_entry['title']}")
-                    if page_status != "new":
-                        page_status = "updated"
+                    did_update = True
                 break
         
         if not talk_exists:
             existing_talks.append(talk_entry)
             logging.info(f"Added talk: {talk_entry['title']}")
-            page_status = "new"
+            did_append = True
+        
             
-    return page_status
+    if not page_has_talks:
+        return "end"
+    if did_update or did_append:
+       return "new"
+    return "known"
 
 def save_talks_data(data, output_file):
     """Saves the scraped talks data to a YAML file, sorted by date."""
@@ -172,6 +181,9 @@ def main():
 
     for i in range(args.start_page, args.start_page + args.max_pages):
         page_status = scrape_page(i, all_talks_data, speakers_data)
+        if page_status == "end":
+            logging.info("No more talks found.")
+            break
         if page_status == "known" and not args.full_scrape:
             logging.info("No new or updated data found. Stopping scrape.")
             break
