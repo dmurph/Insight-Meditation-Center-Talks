@@ -138,10 +138,8 @@ def save_speakers_data(data, output_file):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    sorted_data = {k: data[k] for k in sorted(data.keys())}
-
     with open(output_file, 'w') as f:
-        yaml.dump(sorted_data, f, default_flow_style=False, sort_keys=False)
+        yaml.dump(data, f, default_flow_style=False, sort_keys=True)
 
 def main():
     """Main function to control scraping."""
