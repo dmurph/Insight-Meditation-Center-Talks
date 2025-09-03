@@ -12,8 +12,8 @@ import random
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-def scrape_page(page_num, existing_data):
-    """Scrapes a single page of audiodharma.org and returns True if new data was added."""
+def scrape_page(page_num, existing_data, speakers_data):
+    """Scrapes a single page of audiodharma.org and returns a status: 'new', 'updated', or 'known'."""
     time.sleep(random.uniform(0.05, 1.0))
     url = f"https://www.audiodharma.org/talks?page={page_num}"
     logging.info(f"Scraping {url}...")
@@ -22,20 +22,25 @@ def scrape_page(page_num, existing_data):
         response.raise_for_status()
     except requests.exceptions.RequestException as e:
         logging.error(f"Error fetching page {page_num}: {e}")
-        return False
+        return "known" # Treat errors as if we found nothing new
 
     soup = BeautifulSoup(response.content, 'html.parser')
     rows = soup.find_all("tr")
     if not rows or len(rows) <= 1:
         logging.warning("No data rows found in the table.")
-        return False
+        return "known"
 
-    new_data_added = False
+    page_status = "known"
     for row in rows[1:]:  # Skip header row
         title_tag = row.select_one('.playable-table-name a')
         speaker_tag = row.select_one('.playable-table-speaker a')
         date_tag = row.select_one('.playable-table-date')
-        
+        audio_tag = row.select_one('a.js-audio-select')
+
+        mp3_url = None
+        if audio_tag and 'data-url' in audio_tag.attrs:
+            mp3_url = audio_tag['data-url']
+
         video_link_tag = row.select_one('a.video-modal-link')
         youtube_url = None
         if video_link_tag and 'data-embed-video-url' in video_link_tag.attrs:
@@ -52,7 +57,15 @@ def scrape_page(page_num, existing_data):
         talk_url = "https://www.audiodharma.org" + title_tag['href']
         speaker_name = speaker_tag.text.strip()
         speaker_url = "https://www.audiodharma.org" + speaker_tag['href']
+        try:
+            speaker_id = int(speaker_url.split('/')[-1])
+        except (ValueError, IndexError):
+            logging.warning(f"Could not parse speaker ID from URL: {speaker_url}")
+            continue
         talk_date = date_tag.text.strip().replace('.', '-')
+
+        if speaker_id not in speakers_data:
+            speakers_data[speaker_id] = {"name": speaker_name, "url": speaker_url}
 
         parsed_url = urlparse(youtube_url)
         path_parts = [part for part in parsed_url.path.split('/') if part]
@@ -72,9 +85,9 @@ def scrape_page(page_num, existing_data):
             "title": talk_title,
             "url": talk_url,
             "date": talk_date,
-            "speaker": speaker_name,
-            "speaker_url": speaker_url,
-            "start_time_seconds": timestamp
+            "speaker_id": speaker_id,
+            "start_time_seconds": timestamp,
+            "mp3_url": mp3_url
         }
 
         if video_id not in existing_data:
@@ -91,17 +104,19 @@ def scrape_page(page_num, existing_data):
                 if existing_talk != talk_entry:
                     existing_talks[i] = talk_entry
                     logging.info(f"Updated talk: {talk_entry['title']}")
-                    new_data_added = True
+                    if page_status != "new":
+                        page_status = "updated"
                 break
         
         if not talk_exists:
             existing_talks.append(talk_entry)
             logging.info(f"Added talk: {talk_entry['title']}")
-            new_data_added = True
-    return new_data_added
+            page_status = "new"
+            
+    return page_status
 
-def save_data(data, output_file):
-    """Saves the scraped data to a YAML file, sorted by date."""
+def save_talks_data(data, output_file):
+    """Saves the scraped talks data to a YAML file, sorted by date."""
     output_dir = os.path.dirname(output_file)
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -117,36 +132,58 @@ def save_data(data, output_file):
     with open(output_file, 'w') as f:
         yaml.dump(sorted_data, f, default_flow_style=False, sort_keys=False)
 
+def save_speakers_data(data, output_file):
+    """Saves the speakers data to a YAML file, sorted by speaker ID."""
+    output_dir = os.path.dirname(output_file)
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
+    sorted_data = {k: data[k] for k in sorted(data.keys())}
+
+    with open(output_file, 'w') as f:
+        yaml.dump(sorted_data, f, default_flow_style=False, sort_keys=False)
+
 def main():
     """Main function to control scraping."""
     parser = argparse.ArgumentParser(description="Scrape talks from audiodharma.org.")
     parser.add_argument("--start_page", type=int, default=1, help="The starting page number to scrape.")
     parser.add_argument("--max_pages", type=int, default=1000, help="Maximum number of pages to scrape.")
-    parser.add_argument("--output_file", type=str, default="cache/audiodharma/talks.yaml", help="Output YAML file.")
+    parser.add_argument("--talks_output_file", type=str, default="cache/audiodharma/talks.yaml", help="Output YAML file for talks.")
+    parser.add_argument("--speakers_output_file", type=str, default="cache/audiodharma/speakers.yaml", help="Output YAML file for speakers.")
     parser.add_argument("--overwrite-existing-file", action='store_true', help="Overwrite the existing YAML file instead of updating it.")
     parser.add_argument("--full-scrape", action='store_true', default=False, help="Perform a full scrape up to max_pages, ignoring existing data.")
     args = parser.parse_args()
 
     all_talks_data = {}
+    speakers_data = {}
     
-    if not args.overwrite_existing_file and os.path.exists(args.output_file):
-        logging.info(f"Loading existing data from {args.output_file}...")
-        with open(args.output_file, 'r') as f:
-            existing_yaml = yaml.safe_load(f)
-            if existing_yaml:
-                for entry in existing_yaml:
-                    all_talks_data[entry['youtube_id']] = entry
+    if not args.overwrite_existing_file:
+        if os.path.exists(args.talks_output_file):
+            logging.info(f"Loading existing talks data from {args.talks_output_file}...")
+            with open(args.talks_output_file, 'r') as f:
+                existing_yaml = yaml.safe_load(f)
+                if existing_yaml:
+                    for entry in existing_yaml:
+                        all_talks_data[entry['youtube_id']] = entry
+        if os.path.exists(args.speakers_output_file):
+            logging.info(f"Loading existing speakers data from {args.speakers_output_file}...")
+            with open(args.speakers_output_file, 'r') as f:
+                loaded_speakers = yaml.safe_load(f)
+                if loaded_speakers:
+                    speakers_data = {int(k): v for k, v in loaded_speakers.items()}
 
     for i in range(args.start_page, args.start_page + args.max_pages):
-        new_data_scraped = scrape_page(i, all_talks_data)
-        if not new_data_scraped and not args.full_scrape:
-            logging.info("No new data found. Stopping scrape.")
+        page_status = scrape_page(i, all_talks_data, speakers_data)
+        if page_status == "known" and not args.full_scrape:
+            logging.info("No new or updated data found. Stopping scrape.")
             break
         
-        save_data(all_talks_data, args.output_file)
+        save_talks_data(all_talks_data, args.talks_output_file)
+        save_speakers_data(speakers_data, args.speakers_output_file)
 
     logging.info(f"Scraped {len(all_talks_data)} unique video entries.")
-    logging.info(f"Final data saved to {args.output_file}.")
+    logging.info(f"Final talks data saved to {args.talks_output_file}.")
+    logging.info(f"Final speakers data saved to {args.speakers_output_file}.")
     logging.info("Done.")
 
 if __name__ == "__main__":
