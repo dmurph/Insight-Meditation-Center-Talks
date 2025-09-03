@@ -22,12 +22,18 @@
 38:
   name: David Cohn
   url: https://www.audiodharma.org/speakers/38
+43:
+  name: Robert Cusick
+  url: https://www.audiodharma.org/speakers/43
 57:
   name: Ines Freedman
   url: https://www.audiodharma.org/speakers/57
 67:
   name: Kevin Griffin
   url: https://www.audiodharma.org/speakers/67
+69:
+  name: Paul Haller
+  url: https://www.audiodharma.org/speakers/69
 78:
   name: Berget Jelane
   url: https://www.audiodharma.org/speakers/78
@@ -40,6 +46,9 @@
 128:
   name: Ayya Santacitta
   url: https://www.audiodharma.org/speakers/128
+133:
+  name: Fu Nancy Schroeder
+  url: https://www.audiodharma.org/speakers/133
 135:
   name: Richard Shankman
   url: https://www.audiodharma.org/speakers/135
@@ -52,6 +61,9 @@
 197:
   name: Liz Powell
   url: https://www.audiodharma.org/speakers/197
+210:
+  name: Andrea Castillo
+  url: https://www.audiodharma.org/speakers/210
 218:
   name: Renshin Bunce
   url: https://www.audiodharma.org/speakers/218
@@ -79,6 +91,9 @@
 272:
   name: Meg Gawler
   url: https://www.audiodharma.org/speakers/272
+274:
+  name: John Martin
+  url: https://www.audiodharma.org/speakers/274
 286:
   name: Tanya Wiser
   url: https://www.audiodharma.org/speakers/286
@@ -88,33 +103,66 @@
 305:
   name: Francisco Morillo Gable
   url: https://www.audiodharma.org/speakers/305
+306:
+  name: Susie Harrington
+  url: https://www.audiodharma.org/speakers/306
+308:
+  name: Kim Moore
+  url: https://www.audiodharma.org/speakers/308
 309:
   name: David Lorey
   url: https://www.audiodharma.org/speakers/309
 320:
   name: Tenzin Chogkyi
   url: https://www.audiodharma.org/speakers/320
+321:
+  name: Tara Mulay
+  url: https://www.audiodharma.org/speakers/321
 333:
   name: "Ying Chen, \u9648\u9896"
   url: https://www.audiodharma.org/speakers/333
+342:
+  name: Amana Brembry Johnson
+  url: https://www.audiodharma.org/speakers/342
+346:
+  name: Jozen Tamori Gibson
+  url: https://www.audiodharma.org/speakers/346
 349:
   name: Rachel Lewis
   url: https://www.audiodharma.org/speakers/349
+353:
+  name: Rick Maddock
+  url: https://www.audiodharma.org/speakers/353
 359:
   name: Bhante Sujato
   url: https://www.audiodharma.org/speakers/359
+387:
+  name: Nolitha Tsengiwe
+  url: https://www.audiodharma.org/speakers/387
+388:
+  name: Tuere Sala
+  url: https://www.audiodharma.org/speakers/388
 390:
   name: Bernat Font
   url: https://www.audiodharma.org/speakers/390
+393:
+  name: Marjolein Janssen
+  url: https://www.audiodharma.org/speakers/393
 394:
   name: Mei Elliott
   url: https://www.audiodharma.org/speakers/394
 395:
   name: Kodo Conlin
   url: https://www.audiodharma.org/speakers/395
+405:
+  name: Sarah Shaw
+  url: https://www.audiodharma.org/speakers/405
 449:
   name: "Rev. Li\xEAn Shutt"
   url: https://www.audiodharma.org/speakers/449
+455:
+  name: Ajahn Brahmali
+  url: https://www.audiodharma.org/speakers/455
 456:
   name: Bhikkhu Sanathavihari
   url: https://www.audiodharma.org/speakers/456
@@ -169,6 +217,9 @@
 482:
   name: Lama Justin von Bujdoss
   url: https://www.audiodharma.org/speakers/482
+483:
+  name: Vanessa Able
+  url: https://www.audiodharma.org/speakers/483
 484:
   name: Chenxing Han
   url: https://www.audiodharma.org/speakers/484
