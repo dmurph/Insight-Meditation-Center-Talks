@@ -144,8 +144,10 @@ def save_talks_data(data, output_file):
     # Sort the videos by the date of the first talk
     sorted_data = sorted(list(data.values()), key=lambda x: x['talks'][0]['date'], reverse=True)
 
+    logging.info(f"Saving {output_file}");
     with open(output_file, 'w') as f:
         yaml.dump(sorted_data, f, default_flow_style=False, sort_keys=False)
+    logging.info(f"Saved {output_file}");
 
 def save_speakers_data(data, output_file):
     """Saves the speakers data to a YAML file, sorted by speaker ID."""
@@ -153,8 +155,10 @@ def save_speakers_data(data, output_file):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
+    logging.info(f"Saving {output_file}");
     with open(output_file, 'w') as f:
         yaml.dump(data, f, default_flow_style=False, sort_keys=True)
+    logging.info(f"Saved {output_file}");
 
 def main():
     """Main function to control scraping."""
@@ -165,11 +169,13 @@ def main():
     parser.add_argument("--speakers_output_file", type=str, default="cache/audiodharma/speakers.yaml", help="Output YAML file for speakers.")
     parser.add_argument("--overwrite-existing-file", action='store_true', help="Overwrite the existing YAML file instead of updating it.")
     parser.add_argument("--full-scrape", action='store_true', default=False, help="Perform a full scrape up to max_pages, ignoring existing data.")
+    parser.add_argument("--save-after-pages", type=int, default=10, help="The number of pages processed between saving the files")
     args = parser.parse_args()
 
     all_talks_data = {}
     speakers_data = {}
     
+    pages_till_save = args.save_after_pages
     if not args.overwrite_existing_file:
         if os.path.exists(args.talks_output_file):
             logging.info(f"Loading existing talks data from {args.talks_output_file}...")
@@ -193,9 +199,17 @@ def main():
         if page_status == "known" and not args.full_scrape:
             logging.info("No new or updated data found. Stopping scrape.")
             break
-        
+        pages_till_save -= 1
+        if pages_till_save <= 0:
+            pages_till_save = args.save_after_pages
+            save_talks_data(all_talks_data, args.talks_output_file)
+            save_speakers_data(speakers_data, args.speakers_output_file)
+    
+    # Do a final save.
+    if pages_till_save != args.save_after_pages:
         save_talks_data(all_talks_data, args.talks_output_file)
         save_speakers_data(speakers_data, args.speakers_output_file)
+
 
     logging.info(f"Scraped {len(all_talks_data)} unique video entries.")
     logging.info(f"Final talks data saved to {args.talks_output_file}.")
