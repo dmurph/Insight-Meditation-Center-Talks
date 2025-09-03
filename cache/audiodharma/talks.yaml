@@ -26458,3 +26458,35 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/8816/20180425-Gil_Fronsdal-IMC-dharmette_mindfulness_and_rafting.mp3
+- youtube_id: nay9tIEMHgc
+  talks:
+  - title: Four Interpretations of the Second Noble Truth
+    id: 8697
+    date: '2018-03-11'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/8697/20180311-Gil_Fronsdal-IMC-four_interpretations_of_the_second_noble_truth.mp3
+- youtube_id: N6kI4kLmzq8
+  talks:
+  - title: 'Dharmette: Not Carrying the Burden'
+    id: 8685
+    date: '2018-03-07'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/8685/20180307-Gil_Fronsdal-IMC-dharmette_not_carrying_the_burden.mp3
+- youtube_id: 7aHGyEo9SXw
+  talks:
+  - title: Nothing Is Worth Clinging To
+    id: 8668
+    date: '2018-03-05'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/8668/20180305-Gil_Fronsdal-IMC-nothing_is_worth_clinging_to.mp3
+- youtube_id: a67xKJGxjD0
+  talks:
+  - title: 'Buddhism: Ethics or Not'
+    id: 8596
+    date: '2018-01-29'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/8596/20180129-Gil_Fronsdal-IMC-buddhism_ethics_or_not.mp3
