@@ -133,7 +133,7 @@ def download_video_urls(
     - Default (efficient update): Download new video URLs until an already cached video is found.
       This updates the cache with the latest videos without re-downloading the entire list.
     """
-    output_dir = "videos"
+    output_dir = "cache/youtube"
     output_filename = sanitize_filename(url_or_id)
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -230,7 +230,7 @@ def download_or_use_transcript(
     Gets the path to the transcript file, downloading it if necessary.
     First, it looks for a local SRT file.
     """
-    raw_transcripts_dir = "raw_transcripts"
+    raw_transcripts_dir = "cache/raw_transcripts"
     if not os.path.exists(raw_transcripts_dir):
         os.makedirs(raw_transcripts_dir)
 
@@ -305,7 +305,7 @@ def download_video_transcripts_from_urls(
     ydl_opts = {"quiet": True, "no_warnings": True}
     ydl = yt_dlp.YoutubeDL(ydl_opts)
 
-    metadata_cache_path = "videos/video_metadata_cache.json"
+    metadata_cache_path = "cache/youtube/video_metadata_cache.json"
     if os.path.exists(metadata_cache_path):
         with open(metadata_cache_path, "r", encoding="utf-8") as f:
             metadata_cache = json.load(f)

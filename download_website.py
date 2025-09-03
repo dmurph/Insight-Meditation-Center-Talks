@@ -1,0 +1,153 @@
+import requests
+from bs4 import BeautifulSoup
+import yaml
+import argparse
+from urllib.parse import urlparse, parse_qs
+import re
+import logging
+import os
+import time
+import random
+
+# Set up logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+def scrape_page(page_num, existing_data):
+    """Scrapes a single page of audiodharma.org and returns True if new data was added."""
+    time.sleep(random.uniform(0.05, 1.0))
+    url = f"https://www.audiodharma.org/talks?page={page_num}"
+    logging.info(f"Scraping {url}...")
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+    except requests.exceptions.RequestException as e:
+        logging.error(f"Error fetching page {page_num}: {e}")
+        return False
+
+    soup = BeautifulSoup(response.content, 'html.parser')
+    rows = soup.find_all("tr")
+    if not rows or len(rows) <= 1:
+        logging.warning("No data rows found in the table.")
+        return False
+
+    new_data_added = False
+    for row in rows[1:]:  # Skip header row
+        title_tag = row.select_one('.playable-table-name a')
+        speaker_tag = row.select_one('.playable-table-speaker a')
+        date_tag = row.select_one('.playable-table-date')
+        
+        video_link_tag = row.select_one('a.video-modal-link')
+        youtube_url = None
+        if video_link_tag and 'data-embed-video-url' in video_link_tag.attrs:
+            youtube_url = video_link_tag['data-embed-video-url']
+        else:
+            mobile_video_link_tag = row.select_one('a.d-sm-inline.d-md-none[href*="youtube.com"]')
+            if mobile_video_link_tag:
+                youtube_url = mobile_video_link_tag['href']
+
+        if not all([title_tag, speaker_tag, date_tag, youtube_url]):
+            continue
+
+        talk_title = title_tag.text.strip()
+        talk_url = "https://www.audiodharma.org" + title_tag['href']
+        speaker_name = speaker_tag.text.strip()
+        speaker_url = "https://www.audiodharma.org" + speaker_tag['href']
+        talk_date = date_tag.text.strip().replace('.', '-')
+
+        parsed_url = urlparse(youtube_url)
+        path_parts = [part for part in parsed_url.path.split('/') if part]
+        video_id = path_parts[-1] if path_parts else None
+        
+        query_params = parse_qs(parsed_url.query)
+        timestamp = 0
+        if 'start' in query_params:
+            timestamp = int(re.sub(r'\D', '', query_params['start'][0]))
+        elif 't' in query_params:
+            timestamp = int(re.sub(r'\D', '', query_params['t'][0]))
+
+        if not video_id:
+            continue
+
+        talk_entry = {
+            "title": talk_title,
+            "url": talk_url,
+            "date": talk_date,
+            "speaker": speaker_name,
+            "speaker_url": speaker_url,
+            "start_time_seconds": timestamp
+        }
+
+        if video_id not in existing_data:
+            existing_data[video_id] = {
+                "youtube_id": video_id,
+                "talks": []
+            }
+        
+        existing_talks = existing_data[video_id]["talks"]
+        talk_exists = False
+        for i, existing_talk in enumerate(existing_talks):
+            if existing_talk["url"] == talk_entry["url"]:
+                talk_exists = True
+                if existing_talk != talk_entry:
+                    existing_talks[i] = talk_entry
+                    logging.info(f"Updated talk: {talk_entry['title']}")
+                    new_data_added = True
+                break
+        
+        if not talk_exists:
+            existing_talks.append(talk_entry)
+            logging.info(f"Added talk: {talk_entry['title']}")
+            new_data_added = True
+    return new_data_added
+
+def save_data(data, output_file):
+    """Saves the scraped data to a YAML file, sorted by date."""
+    output_dir = os.path.dirname(output_file)
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+        logging.info(f"Created output directory: {output_dir}")
+
+    # Sort talks within each video by start time
+    for video_id in data:
+        data[video_id]["talks"].sort(key=lambda x: x["start_time_seconds"])
+
+    # Sort the videos by the date of the first talk
+    sorted_data = sorted(list(data.values()), key=lambda x: x['talks'][0]['date'], reverse=True)
+
+    with open(output_file, 'w') as f:
+        yaml.dump(sorted_data, f, default_flow_style=False, sort_keys=False)
+
+def main():
+    """Main function to control scraping."""
+    parser = argparse.ArgumentParser(description="Scrape talks from audiodharma.org.")
+    parser.add_argument("--start_page", type=int, default=1, help="The starting page number to scrape.")
+    parser.add_argument("--max_pages", type=int, default=1000, help="Maximum number of pages to scrape.")
+    parser.add_argument("--output_file", type=str, default="cache/audiodharma/talks.yaml", help="Output YAML file.")
+    parser.add_argument("--overwrite-existing-file", action='store_true', help="Overwrite the existing YAML file instead of updating it.")
+    parser.add_argument("--full-scrape", action='store_true', default=False, help="Perform a full scrape up to max_pages, ignoring existing data.")
+    args = parser.parse_args()
+
+    all_talks_data = {}
+    
+    if not args.overwrite_existing_file and os.path.exists(args.output_file):
+        logging.info(f"Loading existing data from {args.output_file}...")
+        with open(args.output_file, 'r') as f:
+            existing_yaml = yaml.safe_load(f)
+            if existing_yaml:
+                for entry in existing_yaml:
+                    all_talks_data[entry['youtube_id']] = entry
+
+    for i in range(args.start_page, args.start_page + args.max_pages):
+        new_data_scraped = scrape_page(i, all_talks_data)
+        if not new_data_scraped and not args.full_scrape:
+            logging.info("No new data found. Stopping scrape.")
+            break
+        
+        save_data(all_talks_data, args.output_file)
+
+    logging.info(f"Scraped {len(all_talks_data)} unique video entries.")
+    logging.info(f"Final data saved to {args.output_file}.")
+    logging.info("Done.")
+
+if __name__ == "__main__":
+    main()
