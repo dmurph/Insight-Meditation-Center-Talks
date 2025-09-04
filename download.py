@@ -1,4 +1,5 @@
 import os
+import yaml
 import random
 import re
 import argparse
@@ -36,8 +37,13 @@ def sanitize_filename(title):
 def process_and_save_transcript_with_ai(
     raw_transcript_path,
     clean_transcript_path,
-    video_title,
-    video_url,
+    youtube_title,
+    youtube_url,
+    date,
+    speaker_name,
+    speaker_url,
+    audiodharma_talks,
+    talk_headers,
     force_ai_processing=False,
 ):
     """
@@ -49,6 +55,7 @@ def process_and_save_transcript_with_ai(
         logging.warning(
             "  -> Cannot perform AI processing because raw transcript is missing."
         )
+        return
     if os.path.exists(clean_transcript_path) and not force_ai_processing:
         logging.info(
             f"  -> Processed transcript already exists: {clean_transcript_path}. Skipping AI processing."
@@ -58,42 +65,65 @@ def process_and_save_transcript_with_ai(
 
     try:
         with open(PROMPT_TEMPLATE, "r", encoding="utf-8") as f:
-            prompt_template = f.read() 
+            prompt_template = f.read()
     except FileNotFoundError:
-        logging.error("  -> Could not find prompt template file!");
-        return False;
+        logging.error("  -> Could not find prompt template file!")
+        return False
 
     try:
         with open(raw_transcript_path, "r", encoding="utf-8") as f:
             raw_transcript_data = f.read()
 
-        
-        # The template expects the following to be replaced:
-        # - {video_title}
-        # - {video_url}
-        # - {transcript_extension}
-        # - {raw_transcript_data}
-        prompt = prompt_template.replace("{transcript_extension}", transcript_extension);
-        prompt = prompt.replace("{video_title}", video_title);
-        prompt = prompt.replace("{video_url}", video_url);
-        prompt = prompt.replace("{raw_transcript_data}", raw_transcript_data);
-    
+        prompt = prompt_template
+        # Replace top-level placeholders first
+        prompt = prompt.replace("{video_title}", youtube_title)
+        prompt = prompt.replace("{video_url}", youtube_url)
 
-        # Pass the prompt via stdin to the gemini-cli command. This is safer and avoids
-        # shell argument length limits and complex quoting.
+        # Replace new placeholders
+        prompt = prompt.replace("{date}", date)
+        prompt = prompt.replace("{speaker_name}", speaker_name)
+        prompt = prompt.replace("{speaker_url}", speaker_url)
+        prompt = prompt.replace("{audiodharma_talks}", audiodharma_talks)
+        prompt = prompt.replace("{talk_headers}", talk_headers)
+        prompt = prompt.replace("{transcript_extension}", transcript_extension)
+        prompt = prompt.replace("{raw_transcript_data}", raw_transcript_data)
+
+        # Pass the prompt via stdin to the gemini-cli command.
         process = subprocess.run(
             ["gemini"],
             input=prompt,
             capture_output=True,
             text=True,
-            check=True,  # Raise an exception if gemini-cli returns a non-zero exit code
+            check=True,
             encoding="utf-8",
         )
 
         clean_transcript = process.stdout.strip()
 
+        # Remove markdown block fences
+        lines = clean_transcript.split('\n')
+        if lines and lines[0].strip().startswith("```"):
+            lines = lines[1:]
+        if lines and lines[-1].strip() == "```":
+            lines = lines[:-1]
+        clean_transcript = '\n'.join(lines)
+
+        # Create frontmatter
+        frontmatter = f"""---
+title: "{youtube_title}"
+date: "{date}"
+video_url: "{youtube_url}"
+speaker: "{speaker_name}"
+speaker_url: "{speaker_url}"
+audiodharma_talks:
+{audiodharma_talks}
+---
+"""
+
+        final_content = frontmatter + clean_transcript
+
         with open(clean_transcript_path, "w", encoding="utf-8") as f:
-            f.write(clean_transcript)
+            f.write(final_content)
         logging.info(
             f"  -> Successfully saved AI-cleaned transcript to: {clean_transcript_path}"
         )
@@ -302,6 +332,23 @@ def download_video_transcripts_from_urls(
         logging.info(f"Limiting to the first {limit} videos.")
         videos = videos[:limit]
 
+    # Load audiodharma data
+    try:
+        with open("cache/audiodharma/talks.yaml", "r", encoding="utf-8") as f:
+            audiodharma_talks_data = yaml.safe_load(f)
+        with open("cache/audiodharma/speakers.yaml", "r", encoding="utf-8") as f:
+            speakers_data = yaml.safe_load(f)
+
+        # Create a mapping from youtube_id to talks
+        audiodharma_talks_map = {
+            item["youtube_id"]: item["talks"] for item in audiodharma_talks_data
+        }
+
+    except FileNotFoundError as e:
+        logging.warning(f"Could not load audiodharma data: {e}. Continuing without it.")
+        audiodharma_talks_map = {}
+        speakers_data = {}
+
     ydl_opts = {"quiet": True, "no_warnings": True}
     ydl = yt_dlp.YoutubeDL(ydl_opts)
 
@@ -316,7 +363,9 @@ def download_video_transcripts_from_urls(
         video_id = video["videoId"]
         video_url = f"https://www.youtube.com/watch?v={video_id}"
         try:
-            metadata = get_video_metadata(video_id, video_url, ydl, metadata_cache, skip_metadata_cache)
+            metadata = get_video_metadata(
+                video_id, video_url, ydl, metadata_cache, skip_metadata_cache
+            )
             video_title = metadata["title"]
             upload_date = metadata["upload_date"]
 
@@ -324,6 +373,40 @@ def download_video_transcripts_from_urls(
                 json.dump(metadata_cache, f, indent=4)
 
             logging.info(f"\n[{i+1}/{len(videos)}] Processing: {video_title}")
+
+            # Get audiodharma info
+            speaker_name = "Unknown"
+            speaker_url = ""
+            audiodharma_talks_str = ""
+            talk_headers_str = ""
+
+            if video_id in audiodharma_talks_map:
+                talks = audiodharma_talks_map[video_id]
+                if talks:
+                    # Get speaker from the first talk
+                    speaker_id = talks[0].get("speaker_id")
+                    if speaker_id and speaker_id in speakers_data:
+                        speaker_info = speakers_data[speaker_id]
+                        speaker_name = speaker_info.get("name", "Unknown")
+                        speaker_url = speaker_info.get("url", "")
+
+                    # Format talks for prompt
+                    formatted_talks = []
+                    talk_headers = []
+                    for talk in talks:
+                        talk_id = talk.get("id")
+                        talk_title = talk.get("title")
+                        if talk_id:
+                            formatted_talks.append(
+                                f"  - https://www.audiodharma.org/talks/{talk_id}"
+                            )
+                        if talk_title and talk_id:
+                            talk_headers.append(
+                                f"      `## {talk_title} ([link](https://www.audiodharma.org/talks/{talk_id}))`"
+                            )
+
+                    audiodharma_talks_str = "\n".join(formatted_talks)
+                    talk_headers_str = "\n".join(talk_headers)
 
             raw_transcript_path = download_or_use_transcript(
                 video_id,
@@ -343,6 +426,11 @@ def download_video_transcripts_from_urls(
                     processed_output_path,
                     video_title,
                     video_url,
+                    upload_date,
+                    speaker_name,
+                    speaker_url,
+                    audiodharma_talks_str,
+                    talk_headers_str,
                     force_ai_processing,
                 )
 
