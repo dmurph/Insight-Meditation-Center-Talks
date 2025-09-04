@@ -1,0 +1,96 @@
+---
+title: "Gift of Good Friendship; Sangha 2/5 - Qualities of a Good Friend - Kalyāṇa/suhadaya/upakāraka mitta"
+date: "2025-04-29"
+video_url: "https://www.youtube.com/watch?v=rkuVFb8rhXg"
+speaker: "Nikki Mirghafori"
+speaker_url: "https://www.audiodharma.org/speakers/229"
+audiodharma_talks:
+  - https://www.audiodharma.org/talks/22827
+  - https://www.audiodharma.org/talks/22832
+---
+*This is an AI-generated transcript from auto-generated subtitles for the video [Gift of Good Friendship; Sangha 2/5 - Qualities of a Good Friend - Kalyāṇa/suhadaya/upakāraka mitta](https://www.youtube.com/watch?v=rkuVFb8rhXg). It likely contains inaccuracies.*
+
+# Gift of Good Friendship; Sangha 2/5 - Qualities of a Good Friend - Kalyāṇa/suhadaya/upakāraka mitta
+The following talk was given by [Nikki Mirghafori](https://www.audiodharma.org/speakers/229) at the Insight Meditation Center in Redwood City, California. Please visit the website [www.audiodharma.org](https://www.audiodharma.org) for more information.
+
+## Guided Meditation
+Hello friends. Hello and good morning, good afternoon, good evening. Wonderful to be with you from wherever we're showing up in the world. I'm in Tuscany, in Italy. It's 4:00 p.m. here. And yeah, good afternoon, good morning, good evening, whatever time zone you're in and wherever on this earth you're in.
+
+So today we'll continue with our exploration, with our meditation, and exploring the theme of Sangha[^1]. Sangha, one of the important jewels, just as important as the other two. The triple jewel being the Buddha—the possibility of us waking up, the internal Buddha, the external Buddha; the Dharma—these beautiful teachings that we practice. Dharma with a capital D, the teachings of the Buddha; dharma with a small d, the lawful way that nature unfolds; and Sangha—community, concord, spiritual friendship. Just as important, this relationality of practice is just as important as the Buddha, the possibility of waking up, and as important as the teachings. It is said that the next Buddha is going to be the Sangha. The next entity, the next being that wakes up is the Sangha, is the community that wakes up together.
+
+This week, we're exploring this relational element of our practice, which is just as important, part of the triple jewel. So, Sangha, community, spiritual friendship, kalyāṇa[^2], concord, etc. That is the theme for this week.
+
+Yesterday's theme was the power and importance of spiritual friendship. Today, the theme is the qualities of a true friend, the qualities of a true, supportive relationship. It could be a friend or a relative. But these are the important qualities for us to foster, both in the relationships that we look for and receive, and also in ourselves as we intend to be a good friend to others. May I be a good friend to myself. May I be a good friend to others.
+
+So with that, let's settle as it's comfortable for you to settle. Arriving, settling in this moment in time, in this body, feeling your connection to the earth. Wherever on this planet you are, in this moment, I am in this moment. I belong. I am part of this human family, both the wider human family as well as this community. I belong in this community. Just for showing up, I'm a member of this community. You don't have to pay dues. There are no cards to issue. I belong. I'm a member. I belong here. I'm practicing. I belong. I'm an important part of this community. I'm part of this interconnected web.
+
+Allow your heart to feel the way you belong. You are interconnected inextricably from this community. Landing in your body, taking your place in this vast space, this vastly interconnected space. Taking your seat. If you're sitting, really feeling into your sit bones, into your bottom, landing into the cushion, the chair. Feeling your feet on the earth if you're sitting on a chair, or if you're sitting on a cushion, the underside of your legs connected to the earth. A sense of stability, connected, well-rooted. Sitting dignified, upright, taking my place for this limited time, with this flash of lightning that I'm alive. For this limited time, taking my place, feeling my presence.
+
+Sometimes it feels supportive for me to feel as if there is this uprightness, this centrality to my whole spine, as if there was a bright pole in the middle of my body. My heart is centered around this upright pole. My belly is centered. My sit bones are centered around this upright vertical pole. And I can relax around it. I can feel upright, and I can be relaxed and soft and allow the breath to move through, emptying my heart from what's not needed, nourishing it with brightness and kindness. Emptying my mind from what's not needed in this moment.
+
+It is so sweet to be alive, to have this opportunity to be here for this limited time. Can I appreciate my beingness, the miracle of my being in this moment? And settle. Just settle. Let go. Settle the body, settle the mind and heart. Just relax. Let go. Settle into my heart.
+
+Allow the sweetness of sitting with Sangha to uplift my heart in this moment. The inspiration, aspiration. Can I sit just a little more upright, a little more with heart spaciousness for the sake of my fellow practitioners, trusting that they too are rooting for me, are cheering me on? We're all cheering each other on with heart, with kindness. I allow my heart to be brightened just a little bit, even if things are hard, to know that I'm not alone in this moment. Supported in ways I cannot imagine or see, and supporting others in ways I can't imagine, just through this being, sitting, breathing. Very simple, not complicated, not heady.
+
+Now, if you like, you can stay with the breath, with the body, the feeling of interconnection, or you're welcome to drop in the invitations that I will share. And these invitations, reflections, again, like yesterday, let's drop them into the body, into our hearts, as if we're dropping pebbles into a body of water and let them resonate, reverberate. We're not dropping them into our heads, thinking about them. No, we drop in the reflection and just sit with it, breathe with it.
+
+And here is the reflection: considering qualities of a good friend. Can we bring to our hearts perhaps a friend or a benefactor or a relative or parent, any being who has been a wise counsel for us, or has been compassionate, kind, or has been loyal? Maybe there is a friend who continues to send emails and calls us, checks in on us. This good friend. Any of these qualities in this meditation is enough, not to make it challenging, but any of these qualities in a being in the recent or distant past that comes to your mind, comes to your heart space. Welcome yourself to sit with this quality.
+
+Maybe it's been a wise friend who's given us wise counsel, perhaps gently, kindly sharing with us something that we didn't want to hear, but they had our benefit in mind. Or a friend who was compassionate, kind when we were having a difficult time. Inviting this friend to your heart space, just spending time with them. Breathing in, breathing out, allowing your heart to be lit up by this particular quality of goodness, bringing some nuance to the recognition of the quality of goodness, whether it's compassion, love, loyalty, wisdom, ethical conduct. How are you fulfilled? How is your heart enriched, inspired, uplifted with gratitude?
+
+And now I would like to invite you, if you would, invite yourself to your heart space as a good friend—as a good friend both to yourself and a good friend to others. Allowing yourself to feel into this heart quality. Again, dropping this reflection into your heart, not your head. The quality of kindness, compassion, generosity of heart, generosity of spirit, wise counsel, ethical conduct that you have. You've been there for somebody else. Feeling into the goodness of this being who is you. Stepping outside of yourself and recognizing your own goodness. Let yourself be uplifted by your own goodness, the nuance of it.
+
+And if your mind is one that doesn't see your own goodness, please know that by you simply showing up, you are being a good friend to yourself and you're being a good friend to others—others in this Sangha, others in your life, simply by showing up and practicing. Please reflect on this goodness if nothing else is coming up in your heart space. Breathing in this goodness, breathing out with this goodness, letting it uplift your heart. Most of life is just showing up.
+
+The more we recognize, the more we turn towards the goodness of ourselves and others, the more we water the seed of goodness. The more we see it, the more we water it. The more we seek it, the more we become it. The more we turn towards it.
+
+And as we turn to bring this guided meditation to a close together, turning towards the goodness of ourselves, of our fellow practitioners... if any judgments are coming up that you were distracted, you were sleepy, you were XYZ, let the judgment come and go. Hear it. "Thank you for your opinion, dear judging voice. Thank you. Thank you very much for your opinion." You don't have to believe it. It's just one of many voices, many opinions on the council. And trust that you've planted wholesome seeds of goodness by your practice, by your showing up. Even if there was one moment of mindfulness, of gratitude, of turning towards goodness, your heart uplifted, bright—that's infinitely better than none.
+
+So together, may all beings everywhere be well. May all beings everywhere know their own goodness. May they be a good friend to themselves, a good friend to others. May we all be a good friend to ourselves and one another. Thank you.
+
+## Dharmette: Sangha 1/5: Power of Spiritual Friendship - Kalyāṇamittatā ([link](https://www.audiodharma.org/talks/22827))
+Hello everyone, and welcome back. Good to be with you, good to practice with you. I appreciate you so much, especially given that the series of talks are about Sangha. My heart particularly lights up seeing all the messages and all the names in chat. The Sangha really... yeah, this Sangha is its own alive... the sense of aliveness in this entity that is made up of all of us. So beautiful. It uplifts my heart.
+
+Continuing on this theme of Sangha, of this interactive aspect of our practice, it is just as important as the other two jewels I mentioned earlier: Buddha, Dharma, Sangha. The Buddha, the possibility of awakening, the Buddha inside, the Buddha outside, the historical Buddha. The Dharma, the teachings of the Buddha (Dharma with a capital D), the lawful way that things unfold (dharma with a small d). And Sangha, the community, noble friends supporting one another towards awakening, towards becoming the best versions of ourselves for the sake of all beings, for the sake of ourselves and others.
+
+The theme yesterday was about the power of spiritual friendship, Kalyāṇa-mittatā[^3]—beautiful friendship. Kalyāṇa meaning beautiful, wholesome, and mittā, friendship. A few things that I mentioned yesterday is that spiritual friendship is not just a luxury; it's the entirety of the holy life. We also talked about how these wise friendships—maybe "spiritual" sounds like a heavy word, but wise friendship, good-hearted friendship, beautiful friendships. Yeah, let's just use the Pali word the Buddha has given us. So, beautiful, virtuous friendships. There's also deep emotional attunement that we talked about. There's contagion that we talked about, both emotional contagion and also ethical contagion. People whom we spend time with, they inspire us. We become like them. It's really the soil principle. The soil of friendships, the soil of the community that we plant ourselves in, can nourish us.
+
+## Dharmette: Sangha 2/5 - Qualities of a Good Friend - Kalyāṇa/suhadaya/upakāraka mitta ([link](https://www.audiodharma.org/talks/22832))
+Today I wanted to talk a little bit about the qualities of a true friend, as the Buddha has talked about it in the different suttas. For example, the Buddha talks about a true friend as one who safeguards, counsels, and stands firm through seasons of change. In the Digha Nikaya[^4] 31, the Buddha is teaching a layperson, Sigala, about the duties of right conduct, including how to recognize and honor true friends. This is what the Buddha says: "The helper, the enduring companion in happiness and sorrow, the good counselor, and the compassionate. These are the friends to be cherished." It just uplifts my heart when I hear these qualities. I also feel inspired, aspiring to embody these as the Buddha says.
+
+So here we go: the helper, the enduring companion in happiness and sorrow, the good counselor, and the compassionate. These are the friends to be cherished. In traditional commentaries, these four types of true friends are known as the suhada[^5], the friends of the heart. These kinds of friendships don't arise just through accident, but through purposeful cultivation of goodwill, shared virtue, and trust. They don't just happen to us, these friendships, right? They take cultivation, nourishment.
+
+And again, the four types of true friends as the Buddha talks about are these four qualities: the helper, the enduring companion (this loyalty aspect), the good counselor (wise counsel), and the compassionate. The Buddha also emphasizes the reciprocity of friendship. Just as a friend protects you, you should offer protection, loyalty, and your presence in return. Friendship isn't just about receiving care, of course; it's about becoming a person who embodies it, who becomes a refuge, becomes a good friend for others.
+
+So as I'm talking about these good friendships, if your mind goes, "Oh, I want good friends," or "I don't have good friends," or "It's so hard to find good friends," pause, my dear. Pause. What if you shift it? "How can I be a good friend? How can I be a good friend to others? How can I be a kalyāṇamitta to others?" Wow, that uplifts my heart. There is no scarcity or lack. It's my heart. Can I be a noble friend?
+
+The Buddha also talks about the counterfeit friend versus the true friend, also in Digha Nikaya 31. He talks about, "Beware of the taker, the sweet-talker, the flatterer, and the reckless companion, for they abandon you when hardship comes." These descriptions, especially when framed for householders, illuminate the psychological characteristics of ego-based relationships, where friendships are based on gain, deceiving for approval, and vanishing when hardship comes. The false friendship is often propped up by mutual craving rather than mutual care. The Buddhist teachings call us to notice the subtle difference between attachment-based connection and liberation-supporting friendship. I'll say this again: this clinginess, this craving-based connection versus liberation-supporting friendship. In intending to live a wise life, a friend who flatters but does not challenge you is considered dangerous in this context. But a friend who lovingly corrects you when they see that perhaps something unethical or challenging you're doing, or perhaps you have a blind spot in your mind, and they lovingly correct and support you—that kind of a friend is considered invaluable in these teachings.
+
+Friendship is sustained by virtue and mutual support, mutual protection in this old language. So true friendship rests not only on emotional closeness but also on a shared ethical foundation. It's so interesting because in psychological research in the West, it is said that the foundation of a relationship is trust. And trust, at the most basic level, really is the ethical foundation, right? When you trust someone's word, their actions, that level of trust is based on this ethical foundation.
+
+In the Anguttara Nikaya 7.35, the Buddha says, "The good person is one who, faithful, virtuous, learned, generous, and wise, becomes a reliable companion and guide." And again, I'd like to invite you to turn everything that I say, instead of looking outside, look inside. Can I be this good person that the Buddha describes? The good person is one who has trust, having confidence in the Dharma, in these teachings; is virtuous, ethical, having ethical integrity; is learned, generous (having dāna[^6] and cāga[^7]), and wise, and becomes a reliable companion and guide. How beautiful is that for us to aspire to be for ourselves and others.
+
+A friend who keeps the precepts of non-harming, practices generosity, and reflects on impermanence is the one who uplifts not just your comfort, but your liberation. In traditional Theravada[^8] commentaries, such friends are said to be *upakāraka mitta*—assistant companions, those who point out your faults with kindness, celebrate your progress, and remind you of the Dharma in times of despair. Isn't that beautiful? I love that description. Those who point out your faults with kindness, celebrate your progress, and remind you of the Dharma in difficult times.
+
+And the last thing I want to say is how noble friendship transcends personality. It's a friendship that is supporting you not just by supporting the ego and making you feel comfortable, but is actually pointing out your faults out of compassion, out of love, out of care. A true friend sees beyond your moods and self-image but speaks from the perspective of your highest potential, not your passing preferences, but really seeing your highest potential, your true goodness and beauty.
+
+## Reflection Questions
+Here are the reflection questions for today:
+
+1.  In my life, who offers counsel that prioritizes my true welfare, even over my comfort? And how do I receive that? How can I be with that?
+2.  How might I strengthen my own practice of being a reliable, wise, and compassionate friend?
+3.  Where do I need to become more discerning between superficial and noble companions and friends?
+
+With that, my dear friends, this is our dharmette and invitations for reflections on the qualities of good friendship, how we can embody them and also see them in others.
+
+Thank you so much for joining today. May there be bells in your heart. May there be bells in all of our hearts. Thank you so much for joining. May you have a beautiful day of friendship with yourself and others. Be well, and looking forward to seeing you tomorrow. Take care.
+
+---
+[^1]: **Sangha:** A Pali word meaning "community" or "assembly." In Buddhism, it refers to the community of practitioners, and is considered one of the Three Jewels of refuge.
+[^2]: **Kalyāṇa:** A Pali word meaning "beautiful," "lovely," or "virtuous."
+[^3]: **Kalyāṇa-mittatā:** A Pali term for "spiritual friendship" or "noble friendship." It is considered a cornerstone of the Buddhist path.
+[^4]: **Digha Nikaya:** The "Collection of Long Discourses," one of the five major collections of the Buddha's teachings in the Pali Canon.
+[^5]: **Suhada:** A Pali word for a "good-hearted friend" or "friend of the heart."
+[^6]: **Dāna:** A Pali word for "generosity" or "giving." It is a foundational virtue in Buddhism.
+[^7]: **Cāga:** A Pali word that means "generosity," "liberality," and "letting go." It is closely related to dāna.
+[^8]: **Theravada:** The "School of the Elders," the oldest surviving branch of Buddhism. It is the dominant form of Buddhism in countries like Sri Lanka, Cambodia, Thailand, Laos, and Myanmar.
