@@ -24,7 +24,7 @@ Output Requirements
 * Content Sections:
     * Structure the transcript by creating `##` markdown headers for each logical section of the talk.
     * The video is composed of the talks listed below. Use these titles as headers for their respective sections.
-    * The transcript may also contain other logical sections, such as a general "Introduction" or a "Q&A" session. If you identify these, please format them with a `##` header as well.
+    * The transcript may also contain other logical sections, such as general "Introduction", "Q&A", or "Reflections" sections. If you identify these, please format them with a `##` header as well.
     * Provided Talk Headers:
 {talk_headers}
 
