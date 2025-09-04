@@ -80,10 +80,8 @@ def process_and_save_transcript_with_ai(
         prompt = prompt.replace("{video_url}", youtube_url)
 
         # Replace new placeholders
-        prompt = prompt.replace("{date}", date)
         prompt = prompt.replace("{speaker_name}", speaker_name)
         prompt = prompt.replace("{speaker_url}", speaker_url)
-        prompt = prompt.replace("{audiodharma_talks}", audiodharma_talks)
         prompt = prompt.replace("{talk_headers}", talk_headers)
         prompt = prompt.replace("{transcript_extension}", transcript_extension)
         prompt = prompt.replace("{raw_transcript_data}", raw_transcript_data)
@@ -348,7 +346,7 @@ def download_video_transcripts_from_urls(
         logging.warning(f"Could not load audiodharma data: {e}. Continuing without it.")
         audiodharma_talks_map = {}
         speakers_data = {}
-
+    
     ydl_opts = {"quiet": True, "no_warnings": True}
     ydl = yt_dlp.YoutubeDL(ydl_opts)
 
@@ -382,31 +380,36 @@ def download_video_transcripts_from_urls(
 
             if video_id in audiodharma_talks_map:
                 talks = audiodharma_talks_map[video_id]
-                if talks:
-                    # Get speaker from the first talk
-                    speaker_id = talks[0].get("speaker_id")
-                    if speaker_id and speaker_id in speakers_data:
-                        speaker_info = speakers_data[speaker_id]
-                        speaker_name = speaker_info.get("name", "Unknown")
-                        speaker_url = speaker_info.get("url", "")
+                if not talks:
+                    logging.warning(f"  -> No talks found for video ID: {video_id}")
+                    break;
+                # Get speaker from the first talk
+                speaker_id = talks[0].get("speaker_id")
+                if speaker_id and speaker_id in speakers_data:
+                    speaker_info = speakers_data[speaker_id]
+                    speaker_name = speaker_info.get("name", "Unknown")
+                    speaker_url = speaker_info.get("url", "")
+                else:
+                    logging.warning(f"  -> No speaker found for speaker ID: {speaker_id}")
 
-                    # Format talks for prompt
-                    formatted_talks = []
-                    talk_headers = []
-                    for talk in talks:
-                        talk_id = talk.get("id")
-                        talk_title = talk.get("title")
-                        if talk_id:
-                            formatted_talks.append(
-                                f"  - https://www.audiodharma.org/talks/{talk_id}"
-                            )
-                        if talk_title and talk_id:
-                            talk_headers.append(
-                                f"      `## {talk_title} ([link](https://www.audiodharma.org/talks/{talk_id}))`"
-                            )
+                # Format talks for prompt
+                formatted_talks = []
+                talk_headers = []
+                for talk in talks:
+                    talk_id = talk.get("id")
+                    talk_title = talk.get("title")
+                    if not talk_id and not talk_title:
+                        logging.warning(f"No talk on audiodharma yet for video {video_id}")
+                        break;
+                    formatted_talks.append(
+                        f"  - https://www.audiodharma.org/talks/{talk_id}"
+                    )
+                    talk_headers.append(
+                        f"      `## {talk_title} ([link](https://www.audiodharma.org/talks/{talk_id}))`"
+                    )
 
-                    audiodharma_talks_str = "\n".join(formatted_talks)
-                    talk_headers_str = "\n".join(talk_headers)
+                audiodharma_talks_str = "\n".join(formatted_talks)
+                talk_headers_str = "\n".join(talk_headers)
 
             raw_transcript_path = download_or_use_transcript(
                 video_id,
