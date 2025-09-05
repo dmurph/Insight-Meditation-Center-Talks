@@ -1,0 +1,200 @@
+---
+"date": "2025-05-23"
+"speaker": "Bhante Sujato"
+"speaker_url": "https://www.audiodharma.org/speakers/359"
+"talk_urls":
+- "https://www.audiodharma.org/talks/23013"
+"title": "Jātakas: Buddhist Storytelling (3 of 4) with Ajahn Sujato"
+"video_url": "https://www.youtube.com/watch?v=ulU5WCsVi2c"
+---
+
+*This is an AI-generated transcript from auto-generated subtitles for the video [Jātakas: Buddhist Storytelling (3 of 4) with Ajahn Sujato](https://www.youtube.com/watch?v=ulU5WCsVi2c). It likely contains inaccuracies.*
+
+# Jātakas: Buddhist Storytelling (3 of 4) with Ajahn Sujato
+
+The following talk was given by [Bhante Sujato](https://www.audiodharma.org/speakers/359) at the Insight Meditation Center in Redwood City, California. Please visit the website [www.audiodharma.org](https://www.audiodharma.org) for more information.
+
+## Introduction
+
+Hi everyone, how are you going? I'm here today in Matara, which is on the south coast of Sri Lanka, just a little bit eastward of Galle. We are currently traveling around the place, giving away our Sinhala translations of the Suttas to the Sangha in various places. It's been fun so far. They love doing a bit of pageantry, so we've had Sri Lankan dancers and drummers. At the last one, I particularly liked that they had a marching band of school kids, I think from a Navy school or something. We were led in with this marching band playing a song which I swear sounded exactly like a Tom Waits backing track. He would have loved it. [Laughter] I'm not sure if that was deliberate or not.
+
+For this week's class, we've done two so far. We started by looking at the *Apanṇaka Jātaka*[^1], the first of the Jātakas, which dealt with almost surprisingly mercantile themes of how to be a successful trader. We noticed that this reflects something of the social and cultural context in which Buddhism spread at that time. The title of that story, if you recall, was an image derived from gambling, literally meaning "a set without a fifth," a reference to the ancient Indian game of dice.
+
+The following week, we looked at the *Kaṭāhaka Jātaka*[^2], which in contrast is not so much commercial and practical, but embodies a lot of deep mythic concepts and ideas. It's one of those stories in the Jātakas which, to my mind, reflects an emergence or an echo of very old mythology and storytelling, which could be traced back even as far as the incursion of Indo-European peoples into India, perhaps even earlier.
+
+For this week, we're looking at something different again. One of the purposes of this entire course is to illustrate the variety of things we find in the Jātakas. This week we are looking at one which is less inspiring than the last couple of weeks, I'm going to admit. This one is in the chapter about women. You may already be having some red flags about that one, and I can guarantee you that whatever you think it is, it's probably going to be a lot worse.
+
+## Jātakas: Buddhist Storytelling (3 of 4) ([link](https://www.audiodharma.org/talks/23013))
+
+This is one of the stories which is represented in the Bharhut stupas.[^3] A little bit of background on that: in ancient India, in the Buddha's time, we unfortunately don't really have any archaeology that goes back as far as the Buddha. It seems that most architecture at the time was wooden. It's not until the time of Ashoka, maybe 150 years later, that we get large-scale monumental architecture. Subsequent to Ashoka, one of the earliest sites is the stupa at Bharhut, maybe begun 300 years after the Buddha and then developed over a period of time. It's one of the early sites because it features aniconic representations of the Buddha. That means the Buddha is represented not as a Buddha image but as a seat, or as a Bodhi tree,[^4] or as the feet, or some other kind of symbol.
+
+Bharhut is one of the main sources of early Indian archaeology, with a lot of really beautiful sculpture. One of the things that we find at Bharhut is a pictorial representation of a number of Jātaka stories. This would perform the same role that we still see in temples today. Just yesterday we were visiting a temple in Galle where they had a stupa and pictorial representations of various Jātaka stories around the walls. Originally this would have been for pilgrimage; either the images might remind you of the story, or they were used as an education tool. You'd go around with a teacher who would tell you the story. On the grandest scale, we find this idea in Borobudur[^5] in Indonesia.
+
+Incidentally, another temple I went to yesterday in Galle was the temple where Colonel Olcott and Madame Blavatsky[^6] took the five precepts in 1880-something. They were officially regarded as the first Westerners who took the five precepts and converted to Buddhism. This was like the foundation place for modern Buddhism. That was also the place where the first Dhamma school for kids was established, so again, the beginnings of modern Buddhist education.
+
+The story we're looking at today is depicted in an image from Bharhut. The main character is a young maiden who is dancing with her right arm outstretched. Seated to her right is the Brahman, who is the villain of the story. He's sitting there playing the *vīṇā*[^7]—not the modern guitar-like instrument, but the ancient arched harp. He has a cloth over his face because he's been blindfolded. From the girl's right shoulder, there is another arm reaching up with a clenched fist. That is the arm of the girl's lover, who is taking advantage of the situation to punch the Brahman in the face. This is a very specific representation of this story. The inscription reads, "*yaṃ brāhmaṇo avādesi jātakaṃ*," which means "the Jātaka because the Brahman played." This is, in fact, the first line of the Jātaka verse that we're going to be reading.
+
+This is historically significant. The Bharhut stupa shows that not only did these Jātaka stories exist, but the verses were already fixed, and the story behind those verses was already known. It shows they were regarded as Jātaka stories, and that they were popular and prominent enough for someone to fund the creation of such a sculpture.
+
+Now, I just want to say before going on with this story, just take a nice deep breath, because this is probably going to be very triggering. This story is obviously blatantly misogynistic, and we're going to go into that. Nonetheless, as a story, it's kind of a pretty good story. It's funny, and it's sexy, and it's dramatic, and it's unexpected. It's actually pretty good storytelling if you leave aside the whole moral of the story part.
+
+The opening line of the Jātaka commentary quotes the first line of the verse as a key for identifying it, the same line quoted in the Bharhut stupa. The story was told by the teacher while at Jetavana about a monk overcome by passion. The teacher said, "Monks, women cannot be guarded. In days gone by, the wise who kept watch over a woman from the moment she was born failed nevertheless to keep her safe." And so he told the story of the past.
+
+The word "guarded" here is *rakkhita*, which has a spectrum of meaning. It can mean to be a guardian, someone whose job is to protect you and keep you safe. But it can also have the sense of to watch over and keep guard of someone like you would a prisoner, as we shall see.
+
+In the past, when Brahmadatta was reigning in Benares, the Bodhisatta[^8] came to life as the child of the queen consort. When he grew up, he mastered every accomplishment and became a righteous king. He used to play at dice with his family priest,[^9] and as he flung the golden dice upon the silver table, he would sing this catch for luck: "It is nature's law that rivers wind, trees grow of wood; by law of kind, and given opportunity, all women work iniquity."
+
+As these lines always made the king win the game, the family priest was in a fair way to lose every penny he had. To save himself from utter ruin, he resolved to seek out a little maid that had never seen another man and to keep her under lock and key. He thought, "I must take a newborn baby girl and keep her under my thumb as she grows up, with a close guard over her so that none may come near her and she may be true to one man. Then I shall win of the king and grow rich."
+
+He was skilled in signs (*aṅgavijjā*)[^10] and, seeing a poor woman who was about to become a mother and knowing her child would be a girl, he paid the woman to be confined in his house. He sent her away after her confinement with a present. The infant was brought up entirely by women, and no men other than himself were ever allowed to set eyes on her. When the girl grew up, she was subject to him, and he was her master.
+
+While the girl was growing up, the family priest forbore to play with the king. But when she was grown up and under his own control, he challenged the king to a game. When throwing the dice, the king sang his lucky catch. The family priest added, "Always excepting my girl." And then luck changed, and it was now the family priest who won while the king lost.
+
+Thinking the matter over, the Bodhisatta suspected the family priest had a virtuous girl shut up in his house. An inquiry proved his suspicions true. Then, in order to work her fall, he sent for a clever fellow (*dūta*)[^11] and asked whether he thought he could seduce*This is an AI-generated transcript from auto-generated subtitles for the video [Jātakas: Buddhist Storytelling (3 of 4) with Ajahn Sujato](https://www.youtube.com/watch?v=ulU5WCsVi2c). It likely contains inaccuracies.*
+
+# Jātakas: Buddhist Storytelling (3 of 4) with Ajahn Sujato
+
+The following talk was given by [Bhante Sujato](https://www.audiodharma.org/speakers/359) at the Insight Meditation Center in Redwood City, California. Please visit the website [www.audiodharma.org](https://www.audiodharma.org) for more information.
+
+## Introduction
+
+Hi everyone, how are you going? I'm here today in Matara, which is on the south coast of Sri Lanka, just a little bit eastward of Galle. We are currently traveling around the place, giving away our Sinhala translations of the Sutta Pitaka to the Sangha in various places. It's been fun so far. They love doing a bit of pageantry, so we've had Sri Lankan dancers and drummers. At the last one, I particularly liked it because they had kids from a Navy school or something like that. They did a whole marching band thing, and we were led in there with this marching band of school kids playing this song which I swear sounded exactly like a Tom Waits backing track. He would have loved it. Anyway, I'm not sure if that was deliberate or not.
+
+For this week's class, we've done two classes so far. In the past two, we started out by looking at the Apaṇṇaka Jātaka[^1], the first of the Jātakas[^2], which, as we saw, dealt with almost surprisingly mercantile themes of how to be a successful trader and so on. We noticed that this reflects something of the social and cultural context in which Buddhism spread at that time. Also, the title of that story, if you recall, was an image derived from gambling. The word literally means "a set without a fifth," being a reference to the ancient Indian game of dice.
+
+The following week, we looked at the Kaṭṭhahāri Jātaka, which in contrast is not so much commercial and practical but which embodies a lot of deep mythic concepts and ideas. It's one of those stories in the Jātakas which, to my mind, reflects an emergence or an echo of very old mythology and old storytelling, which could be traced back even as far as the incursion of Indo-European peoples into India, perhaps even earlier.
+
+For this week, we're looking at something different again. One of the purposes of this entire course is to illustrate the variety of things we find in the Jātakas. This week we are looking at one which is less inspiring than the last couple of weeks, I'm going to admit. This one is in the chapter about women. You may already be having some red flags about that one, and I can guarantee you that whatever you think it is, it's probably going to be a lot worse. So anyway, let us continue and see what the Jātaka actually says.
+
+## Jātakas: Buddhist Storytelling (3 of 4) ([link](https://www.audiodharma.org/talks/23013))
+
+This is one of the stories which is represented in the Bharhut[^3] stupas. A little bit of background on that: in ancient India and in the Buddha's time, we unfortunately don't really have any archaeology that goes back as far as the Buddha. It seems that most architecture at the time was wooden. It's not until the time of Ashoka, maybe 150 years later, that we get large-scale monumental architecture. Subsequent to Ashoka, one of the earliest sites is the stupa at Bharhut, maybe begun 300 years after the Buddha and then developed over a period of time. It's one of the early sites because it features aniconic representations of the Buddha. That means the Buddha is represented not as a Buddha image but as a seat, or as a Bodhi tree, or as the feet, or some other kind of symbol for the Buddha.
+
+One of the things that we find at Bharhut is a pictorial representation of a number of Jātaka stories. This would perform the same role that we still see in temples today. Just yesterday we were visiting a temple in Galle where they had a stupa and pictorial representations of various Jātaka stories and other kinds of stories around the walls. Originally, this would have been for pilgrimage; either these images might remind you of the story, or else they were used as an education tool. You'd go around there with a teacher, and the teacher would tell you the story as you would go to each one. On the grandest scale, we find this idea in Borobudur in Indonesia.
+
+Incidentally, another temple I went to yesterday in Galle was the temple where Colonel Olcott and Madame Blavatsky[^4] took the five precepts in 1880-something. They were officially regarded as the first Westerners who took the five precepts and converted to Buddhism. I'm sure there had been Westerners who converted to Buddhism beforehand, but that's the technical idea. This was the foundation place for modern Buddhism. Also, that was the place where the first Dhamma school for kids was established. So again, the beginnings of modern Buddhist education in that place.
+
+The verse for this story is: "The Brahman who played the harp while blindfolded has raised his wife since infancy. Who would ever trust such women?" The verse is not meant to tell a full story. It's clearly encapsulating a highlight of a story, and it's meant as a mnemonic to remind us of that story and to bring out certain features of it.
+
+So let's now have a look at the story. I just want to say before going on with this story that I want you to all just take a nice deep breath, because this is probably going to be very triggering. If you feel this is very upsetting, that's okay. There's some pretty wild stuff going on here. This story is obviously blatantly misogynistic, and we're going to go into that in a minute. Nonetheless, as a story, it's kind of a pretty good story, actually. Like, it's funny and it's sexy and it's dramatic and it's unexpected. It actually is pretty good storytelling if you kind of leave aside the whole "moral of the story" part of things.
+
+The story was told by the teacher while at Jetavana about a monk overcome by passion. The teacher said, "Monk, women cannot be guarded. In days gone by, the wise who kept watch over a woman from the moment she was born failed nevertheless to keep her safe." And so saying, he told the story of the past.
+
+In the past, when Brahmadatta was reigning in Benares, the Bodhisatta came to life as the child of the queen consort. When he grew up, he mastered every accomplishment, and when at his father's death he came to be king, he proved a righteous king. Now, he used to play at dice with his family priest, and as he flung the golden dice upon the silver table, he would sing this catch for luck: "It is nature's law that rivers wind, trees grow of wood by law of kind, and given opportunity, all women work iniquity."
+
+As these lines always made the king win the game, the family priest was in a fair way to lose every penny he had in the world. In order to save himself from utter ruin, he resolved to seek out a little maid that had never seen another man, and to keep her under lock and key in his own house. He thought, "I must take a newborn baby girl and keep her under my thumb as she grows up, with a close guard over her so that none may come near her and she may be true to one man. Then I shall win of the king and grow rich."
+
+Now, he was skilled in signs, and seeing a poor woman who was about to become a mother and knowing that her child would be a girl, he paid the woman to come and be confined in his house and sent her away after her confinement with a present. The infant was brought up entirely by women, and no men other than himself were ever allowed to set eyes on her. When the girl grew up, she was subject to him, and he was her master.
+
+While the girl was growing up, the family priest forbore to play with the king. But when she was grown up and under his own control, he challenged the king to a game. The king accepted, and play began. But when throwing the dice, the king sang his lucky catch. The family priest added, "Always excepting my girl." And then luck changed, and it was now the family priest who won while the king lost.
+
+Thinking the matter over, the Bodhisatta suspected the family priest had a virtuous girl shut up in his house. An inquiry proved his suspicions true. Then, in order to work her fall, he sent for a clever fellow and asked whether he thought*This is an AI-generated transcript from auto-generated subtitles for the video [Jātakas: Buddhist Storytelling (3 of 4) with Ajahn Sujato](https://www.youtube.com/watch?v=ulU5WCsVi2c). It likely contains inaccuracies.*
+
+# Jātakas: Buddhist Storytelling (3 of 4) with Ajahn Sujato
+The following talk was given by [Bhante Sujato](https://www.audiodharma.org/speakers/359) at the Insight Meditation Center in Redwood City, California. Please visit the website [www.audiodharma.org](https://www.audiodharma.org) for more information.
+
+## Introduction
+
+Hi everyone, how are you going? I'm here today in Matara, which is on the south coast of Sri Lanka, just a little bit eastward of Galle. We are currently traveling around, giving away our SuttaCentral translations of the suttas to the Saṅgha in various places. It's been fun so far. They love doing a bit of pageantry, so we've had Sri Lankan dancers and drummers. At the last one, I particularly liked that they had a marching band of school kids, I think from a Navy school or something. We were led in with this marching band playing a song which I swear sounded exactly like a Tom Waits backing track. He would have loved it. I'm not sure if that was deliberate or not.
+
+For the past two weeks, we started by looking at the *Apaṇṇaka Jātaka*[^1], the first of the Jātakas, which dealt with almost surprisingly mercantile themes of how to be a successful trader. We noticed that this reflects something of the social and cultural context in which Buddhism spread at that time. The title of that story, if you recall, was an image derived from gambling. The following week, we looked at the *Kaṭāhaka Jātaka*, which in contrast is not so much commercial and practical, but which embodies a lot of deep mythic concepts and ideas. It's one of those stories in the Jātakas which, to my mind, reflects an echo of very old mythology and storytelling, which could be traced back even as far as the incursion of Indo-European peoples into India, perhaps even earlier.
+
+For this week, we're looking at something different again. One of the purposes of this entire course is to illustrate the variety of things we find in the Jātakas. This week we are looking at one which is less inspiring than the last couple of weeks, I'm going to admit. This one is in the chapter about women. You may already be having some red flags about that one, and I can guarantee you that whatever you think it is, it's probably going to be a lot worse.
+
+## Jātakas: Buddhist Storytelling (3 of 4) ([link](https://www.audiodharma.org/talks/23013))
+
+This is one of the stories which is represented in the Barhut stūpas[^2]. A little bit of background on that: in ancient India, in the Buddha's time, we unfortunately don't really have any archaeology that goes back as far as the Buddha. It seems that most architecture at the time was wooden. It's not until the time of Ashoka, maybe 150 years later, that we get large-scale monumental architecture. Subsequent to Ashoka, one of the earliest sites is the stūpa at Barhut, maybe begun 300 years after the Buddha and then developed over a period of time. It's one of the early sites because it features aniconic representations of the Buddha. That means the Buddha is represented not as a Buddha image but as a seat, or as a Bodhi tree, or as the feet, or some other kind of symbol. Barhut is one of the main sources of early Indian archaeology, with a lot of really beautiful sculpture.
+
+One of the things that we find at Barhut is a pictorial representation of a number of Jātaka stories. This would perform the same role that we still see in temples today. Just yesterday we were visiting a temple in Galle where they had a stūpa and pictorial representations of various Jātaka stories and other kinds of stories around the walls. Originally, this would have been for pilgrimage; either these images might remind you of the story, or else they were used as an education tool. You'd go around there with a teacher who would tell you the story. On the grandest scale, we find this idea in Borobudur in Indonesia.
+
+Incidentally, another temple I went to yesterday in Galle was the temple where Colonel Olcott[^3] and Madame Blavatsky[^4] took the five precepts in the 1880s. They were officially regarded as the first Westerners who took the five precepts and converted to Buddhism. This was the foundation place for modern Buddhism in many ways. Also, that was the place where the first Dhamma school for kids was established.
+
+The story we are looking at today is depicted in an image from Barhut. The main character is a young maiden who is dancing. Seated to her right is the Brahman, who is the villain of the story, playing the vīṇā[^5]. The ancient vīṇā would have been an arched harp. He has a cloth over his face because he's been blindfolded. From the girl's right shoulder, there is another arm reaching up with a clenched fist. That is the arm of the girl's lover, who is taking advantage of the situation to punch the Brahman in the face. This is a very specific representation of this story. The inscription below it reads, "*yam brāhmaṇo avādayi jātakaṃ*", which means "The Jātaka of the Brahman who played." This is, in fact, the first line of the Jātaka verse that we're going to be reading.
+
+This is historically significant. The Barhut stūpa shows that not only did these Jātaka stories exist, but the verses were already fixed, and the story behind those verses was already known. It shows they were regarded as Jātaka stories, and that they were popular and prominent enough for someone to fund the creation of such a sculpture.
+
+The verse itself says: "The Brahman who played the harp while blindfolded has raised his wife since infancy. Who would ever trust such women?" The verse is not meant to tell a full story; it's clearly encapsulating a highlight and is meant as a mnemonic to remind us of that story.
+
+Now, I just want to say before going on with this story, just take a nice deep breath, because this is probably going to be very triggering. This story is obviously blatantly misogynistic, and we're going to go into that. Nonetheless, as a story, it's kind of a pretty good story. It's funny and it's sexy and it's dramatic and it's unexpected. It's actually pretty good storytelling if you leave aside the whole moral of the story part.
+
+The story was told by the teacher while at Jetavana about a monk overcome by passion. The teacher said, "Monks, women cannot be guarded. In days gone by, the wise who kept watch over a woman from the moment she was born failed nevertheless to keep her safe."
+
+In the past, when Brahmadatta was reigning in Benares, the Bodhisatta[^6] came to life as the child of the queen consort. When he grew up, he became a righteous king. He used to play at dice with his family priest (purohita[^7]), and as he flung the golden dice, he would sing this catch for luck: "It is nature's law that rivers wind, trees grow of wood, by law of kind; and given opportunity, all women work iniquity."
+
+As these lines always made the king win, the family priest was in a fair way to lose every penny. To save himself from ruin, he resolved to seek out a little maid that had never seen another man and to keep her under lock and key. He thought, "I must take a newborn baby girl and keep her under my thumb as she grows up, so that she may be true to one man. Then I shall win."
+
+He was skilled in signs, and seeing a poor woman who was about to become a mother, and knowing her child would be a girl, he paid the woman to be confined in his house. He sent her away after her confinement with a present. The infant was brought up entirely by women, and no men other than himself were ever allowed to set eyes on her. When the girl grew up, she was subject to him.
+
+When she was grown up, he challenged the king to a game. When throwing the dice, the king sang his lucky catch. The family priest added, "Always excepting my girl." And then luck changed, and it was now the family priest who won.
+
+Thinking the matter over, the Bodhisatta suspected the family priest had a virtuous girl shut up in his house. An inquiry proved his suspicions true. Then, in order to work her fall, he sent for a clever fellow, a conman (dūta), and asked whether he could seduce the girl. "Certainly, Sire," said the fellow.
+
+With the king's money, the fellow bought perfumes and aromatics and opened a perfumery shop close to the family priest's house. The house was seven stories high with seven gateways, each with a guard of women only. Only the Brahman himself was allowed to enter. The girl had a single waiting woman who had money to buy flowers and perfumes. On her way, she used to pass the shop. The fellow, knowing she was the girl's attendant, watched for her coming and, rushing out, fell at her feet, clasping her knees and blubbering, "Oh, my mother, where have you been all this long time?" His confederates, who stood by, cried, "What a likeness! Hand and foot, face and figure, they are identical." The poor woman lost her head, crying that it must be her boy.
+
+The man asked, "Where are you living, mother?" "Up at the family priest's, my son. He has a young wife of peerless beauty, a very kinnari[^8] for grace, and I am her waiting woman." "And whither away now, mother?" "To buy her perfumes and flowers." "Why go elsewhere? Come to me for them in future," said the fellow. He gave her flowers and refused all payment.
+
+From that day forth, she kept the money the Brahman gave her and got her flowers free of charge at the man's shop. A few days later, he made out to be ill. When the old woman came to the shop, she was told he had been taken ill. Hastening to his side, she asked what ailed him. "Mother, my malady lies solely in this: hearing the praises of your young mistress's beauty, I have fallen in love with her. If I win her, I shall live. If not, this will be my deathbed." "Leave that to me, my boy," said the old woman cheerily.
+
+She went home and said to the Brahman's young wife, "Alas, here is my son in love with you merely because I told him how beautiful you are. What is to be done?" "If you can smuggle him in here," replied the girl, "you have my leave."
+
+Hereupon, the old woman set to work sweeping together all the dust she could find. This dust she put in a huge flower basket and tried to pass out with it. When the usual search was made, she emptied dust over the woman on guard, who fled. In like manner, she dealt with all the other watches. From that time forward, no matter what the old woman took in or out, nobody was bold enough to search her.
+
+Now was the time. The old woman smuggled the fellow into the house in a flower basket. He succeeded in wrecking the girl's virtue (breaking her sīla[^9]) and stayed a day or two. A day or two passed, and the girl said to her lover, "Sweetheart, you must be going now." "Very well. Only, I must cuff the Brahman first." "Certainly," said she, and hid the fellow.
+
+When the Brahman came in, she exclaimed, "Oh, my dear husband, I should so like to dance if you would play the vīṇā for me." "Dance away, my dear," said the family priest. "But I shall be too ashamed if you're looking. Let me hide your handsome face first with a cloth." "All right," said he. She took a thick cloth and tied it over the Brahman's face.
+
+After dancing a while, she cried, "My dear, I should so like to hit you once on the head." "Hit away," said the unsuspecting man. The girl made a sign to her lover, and he softly stole up behind the Brahman and smote him on the head. Such was the force of the blow that the Brahman's eyes were like to start out of his head. Smarting with pain, he called to the girl to give him her hand. "Ah," he said, "it's a soft hand, but it hits hard."
+
+As soon as the fellow had struck the Brahman, he hid. The girl took the bandage off the priest's eyes and rubbed his bruised head with oil. The moment the Brahman went out, the fellow was stowed away in the basket again and carried out. He made his way at once to the king and told him the whole adventure.
+
+Accordingly, when the Brahman was next in attendance, the king proposed a game. As the king made his throw, he sang his old catch, and the Brahman, ignorant of the girl's naughtiness, added his "always excepting my girl," and nonetheless he lost. Then the king said, "Why except her? Her virtue has been given away. You dreamed that by taking a girl in the hour of her birth and placing a sevenfold guard round her, you could be certain of her. Why, you couldn't be certain of a woman even if you had her inside you. No woman is ever faithful to one man alone." And so saying, the king repeated this verse: "The Brahman who with a veil that covered his face played the vīṇā, supported his wife since birth. Who could have faith in these?"
+
+The Brahman went home and taxed the girl with the wickedness. "My dear husband, who can have said such a thing about me?" she said. "Indeed, I am innocent. It was my own hand and nobody else's that struck you. If you do not believe me, I will brave the ordeal of fire to prove that no man's hand has touched me but yours."
+
+"So be it," said the Brahman, and he had a quantity of wood set alight. Before this, the girl had instructed her attendant, "Tell your son, mother, to be there and to seize my hand just as I'm about to go onto the fire." The old woman did as she was bidden. The fellow came and took his stand among the crowd.
+
+The girl, standing before the people, exclaimed with fervor, "No man's hand but thine, Brahman, has ever touched me, and by the truth of my asseveration[^10], I call on this fire to harm me not." So saying, she advanced to the burning pile, when up-dashed her lover who seized her by the hand, crying, "Shame on the Brahman, who could force so fair a maid to enter the flames."
+
+Shaking her hand free, the girl exclaimed to the Brahman that what she had asserted was now undone and she could not now brave the ordeal of fire. "Why not?" said the Brahman. "Because," she replied, "my assertion was that no man's hand but thine had ever touched me. And now here is a man who has seized hold of my hand." But the Brahman, knowing that he was tricked, drove her from him with blows.
+
+Such, we learn, is the wickedness of women. What crime will they not commit? Therefore, it has been said: "A sex composed of wickedness and guile, unknowable, uncertain as the path of fishes in the water, womankind hold truth for falsehood, falsehood for truth. As greedily as cows seek pastures new, women unsated yearn for mate on mate."
+
+"Even so, it is impossible to guard women," said the teacher. His lesson ended, he preached the truth, and the passionate monk became a stream-enterer. And in the Jātaka, he identified himself with the king of Benares.
+
+## Q&A and Reflections
+
+So, it's a delightful little story with a moral that I'm sure you're all going to be thrilled to teach to your kids. Now, just in case you were wondering, the message of the story, which is that women can't be trusted, you will be shocked to know is not actually true. Actually, women commit adultery at far lesser rates than men do. I know, shocking, right? And it's also true that women's testimony when it comes to sexual assault is generally speaking extremely reliable. The rates at which women actually lie about sexual assault is usually estimated at something like 5%. So we can just get that out of the way.
+
+One of the reasons why I wanted to bring this up is because I wanted to make it plain that we do find this kind of misogyny in the Buddhist tradition. When Dhamma is presented, especially in English-speaking environments, we tend to gloss over this kind of thing for very good reasons. But the reality is that it's there. And once we can recognize that there is, in fact, quite grotesque misogyny in the Buddhist tradition, then we have to start asking what that means. How does this happen? Where do these stories come from? Why do they get maintained? Why is there so little critical reflection on them within the Buddhist tradition?
+
+Looking at the story, the Bodhisatta is called a "righteous king," yet his behavior is not exactly righteous. He's corrupted by the dicing table. He and his family priest, who should be working together for the prosperity of the kingdom, are instead hanging around playing dice and cheating. The king is abusing the sacred idea of the "aseveration of truth" to win at gambling. The priest, in turn, abuses his sacred knowledge of "signs" to find a baby girl he can exploit. He exploits an impoverished single mother to take her baby away. These characters are not merely harming the women they're involved with, but they're also betraying their own sacred duties.
+
+The motif of a girl kept in confinement is a very common one in storytelling, like Rapunzel or Sleeping Beauty. It can reflect cultural dimensions, such as the confinement of girls during their menstruation.
+
+The story is, regardless of its moral, a very well-constructed piece of storytelling. There's foreshadowing, like the mention of the dust baskets, and clever schemes. The conman's use of confederates to support his deception is a realistic detail found in texts like the *Arthashastra*[^11]. These kinds of networks of deception are a very old technique.
+
+The plot twist where the lover insists on punching the Brahman is unexpected. The girl's request to hit her husband on the head while he's blindfolded is also abrupt and strange. It's all part of the elaborate, dramatic nature of the tale.
+
+The story ends with the girl cleverly subverting the ordeal by fire, another misuse of the "aseveration of truth" concept that runs through the whole narrative. The Brahman then drives her away with blows. One thing I will say is that while these stories are misogynistic, they never justify violence against women, which is something found in other ancient religious texts, such as the *Brihadaranyaka Upanishad*[^12].
+
+Why would this be associated with the Bodhisatta? What purpose might this association serve? It seems that in the period a few hundred years after the Buddha, there was the introduction of a movement that was much more misogynistic than what we find in early Buddhism. This story was likely not originally monastic but was adapted to that context when it was made into a Jātaka, serving as a warning to monks to watch out for women. This contrasts with the suttas, where the Buddha advises monks to treat women with respect, like their own mothers, sisters, or daughters, which is the foundation for a healthy monastic life.
+
+The story's message is that you can't ensure women will be faithful. So what do you do then? Is this a recruitment tool for the monastic life? It's a curious message. There seems to be a tension between the explicit lesson of the story—women are bad—and the actual story itself, which shows men being driven to corruption through their own proclivities. Subtext is often more important than text. The thing people take away from a story is not necessarily the moral, but the emotional feeling it gives them.
+
+It's not up to us to insist that our culture or tradition or texts be perfect. They are as they are. What is up to us is how we choose to respond to that. If people in our tradition in the past have done things that are wrong, it's okay. We can learn from that and do something better.
+
+If there's one lesson I wanted to bring across from this, it's that we should accept the reality that these kinds of things are in fact found in the Buddhist tradition. We can have a critical engagement with these things, to recognize that they have genuine effects. These are not just stories; these are things that genuinely do influence women's lives, possibilities, and opportunities. Just as today we have seen the emergence of a virulent misogynistic culture online, which is often stoked to create disharmony and pain. We've seen this since at least Gamergate, which was a specifically misogynistic attack on women speaking their truth.
+
+---
+[^1]: **Apaṇṇaka Jātaka:** The first story in the Pāli Jātaka collection. It tells a story about merchants and makes a point about making sound, "unquestionable" or "certain" judgments.
+[^2]: **Barhut stūpa:** An important early Indian Buddhist stūpa (a dome-shaped structure containing relics) from the Shunga period, dated to around 100 BCE. Its railings are famous for their reliefs depicting Jātaka tales.
+[^3]: **Colonel Henry Steel Olcott (1832-1907):** An American military officer, lawyer, and journalist who was a co-founder and first President of the Theosophical Society. He was a major figure in the modern revival of Buddhism in Sri Lanka.
+[^4]: **Madame Helena Blavatsky (1831-1891):** A Russian occultist and author who co-founded the Theosophical Society. She was a controversial but influential figure in the development of Western esotericism.
+[^5]: **Vīṇā:** A multi-stringed chordophone from the Indian subcontinent. In ancient times, it often referred to a type of arched harp.
+[^6]: **Bodhisatta:** A Pāli term for a being who is on the path to becoming a Buddha. In the Jātaka tales, the Bodhisatta is the protagonist, the Buddha in a previous life.
+[^7]: **Purohita:** An ancient Indian term for a house priest or family priest who advised a king or nobleman.
+[^8]: **Kinnari:** A mythical creature in Hindu and Buddhist mythology, half-human and half-bird, renowned for her beauty, grace, and skill in dance and music.
+[^9]: **Sīla:** A Pāli word meaning "moral conduct" or "virtue." In this context, "breaking her sīla" means wrecking her virtue or chastity.
+[^10]: **Aseveration of Truth (Saccakiriya):** An ancient Indian ritual act of making a formal declaration of a fact, through the power of which a miracle is believed to occur. The power is thought to come from the truthfulness of the statement itself.
+[^11]: **Arthashastra:** An ancient Indian Sanskrit treatise on statecraft, economic policy, and military strategy, traditionally attributed to the scholar Kautilya (also known as Chanakya), who was an advisor to Emperor Chandragupta Maurya (c. 321–297 BCE).
+[^12]: **Brihadaranyaka Upanishad:** One of the oldest and most important of the Upanishads, the philosophical texts of Hinduism. It is a key text of the Vedanta school.

@@ -1,0 +1,109 @@
+---
+"date": "2025-05-18"
+"speaker": "Ajahn Nisabho"
+"speaker_url": "https://www.audiodharma.org/speakers/468"
+"talk_urls":
+- "https://www.audiodharma.org/talks/22991"
+"title": "Heavens & Hells: Lessons of the Mind & Buddhist Cosmos (2 of 2) Ajahn Nisabho"
+"video_url": "https://www.youtube.com/watch?v=TTrnN_zwhHI"
+---
+
+*This is an AI-generated transcript from auto-generated subtitles for the video [Heavens & Hells: Lessons of the Mind & Buddhist Cosmos (2 of 2) Ajahn Nisabho](https://www.youtube.com/watch?v=TTrnN_zwhHI). It likely contains inaccuracies.*
+
+# Heavens & Hells: Lessons of the Mind & Buddhist Cosmos (2 of 2) Ajahn Nisabho
+
+The following talk was given by [Ajahn Nisabho](https://www.audiodharma.org/speakers/468) at the Insight Meditation Center in Redwood City, California. Please visit the website [www.audiodharma.org](https://www.audiodharma.org) for more information.
+
+## Introduction
+
+It's great to join everyone. Ajahn Kovilo and I have appreciated these sessions with the Sati Center and just the flavor of the teachings that Sati Center invites and cultivates, in terms of really diving deep into the texts and merging this intellectual edge with the heart.
+
+Cosmology is one of my favorite subjects, and the hells are just interesting and not spoken about a lot. So, why not dive right in? I gave a retreat about a year ago titled "All the Unpopular Buddhist Topics." I really like talking about the unpopular Buddhist topics: asuba[^1], cosmology, the hells and heavens. There's a huge amount of wisdom in these realms that I think has gone unacknowledged or unmetabolized by Western Buddhism.
+
+Last week, Ajahn Kovilo spoke about the heavens and also about the various ways we can interpret, interact with, or relate to this cosmology. Luang Por Sumedho says that we have psychology; the Buddha had cosmology.
+
+In Buddhism, the way the Buddha talked about how reality manifests and the sort of law that determines the conditioned realms arising is called *Ida paccayatā*[^2], or "this-that conditionality." This is basically: when this is, that is; when this isn't, that isn't. When this arises, that arises; when this ceases, that ceases. This is an acknowledgement that conditions and the reality we see manifest based on past and present conditions coming up. There's a temporal causality: when this arises, that arises. And there's also concurrent conditionality: when this is, that is. When you stick your hand in fire, it burns. That's immediate. Additionally, when you do something, setting a cause in motion right now, it manifests in the future. That's temporal.
+
+What that law means is that we end up with a chaotic system. One feature of chaos theory is something called scale invariance, where a pattern repeating on a small, micro level will repeat at every scale. You can see this in a fractal or a Mandelbrot set. Basically, what it implies is that whatever patterns we see operating in our mind or in the cosmos, there will be echoes or mirrors of that on every scale. The beauty of that is that the image the Buddha gives of cosmology—this vast array of beings and realms, heavens, hells, ghost realms, etc.—is a macrocosm of the same patterns that manifest in our mind day-to-day, right here. What that means is that you take this seed of the mind and you expand it out, and what you get is the cosmology. By being willing to interact with that cosmology, to look at the stories that have grown up around it about how the Buddha and the tradition spoke about these realms, you can gain some really useful insights and depictions of our own mental states.
+
+Scale invariance is a really powerful principle. It implies that whatever pattern we're manifesting in meditation is often the pattern dominating our whole life. How you're trying to control your breath is how you're trying to control your child. How you're berating yourself for not being able to stay with the meditation is how you're criticizing yourself for not being a good enough husband or wife or child or parent. As you sit with those patterns on the cushion, softening them and getting to know them, you soften them on the much wider scale of a life. What's done on the cushion has enormous implications for how your life manifests.
+
+It's useful to see that cosmology can just be looked at that way. Each of these stories can be taken as parables or similes. It's also important to note that many of the stories spoken of are later additions. A huge amount of the literature around these realms, like the Jātaka tales[^3] or the Petavatthu[^4], were incorporated or composed centuries after the Buddha. A lot of the stories are a bit out there, somewhat hard to believe in a literal sense. If one comes across a story that seems very difficult to believe, immediately believing that the Buddha said it and that one's doubt has to apply to the Buddha's teachings is not the correct inference. Most of the time, the stories that seem quite out there will be later editions, and there's often a lot of wisdom hidden in those teachings. So it's worth going into and just holding it lightly, having fun with it, and at the very least looking at them as fascinating similes of the mind with the wisdom of centuries of tradition behind them.
+
+However, the Buddha did teach these things. In the Cankī Sutta[^5], the Buddha speaks about how one protects truth. He says that if one believes something because of tradition, logical reasoning, or faith, one should say, "I believe this," but not yet come to the conclusion, "Only this is true and everything else is false." This is a Buddhist epistemological humility where we all acknowledge the limits of our knowledge and experience. This applies to someone who believes in rebirth and someone who doesn't. In the end, the Buddha says the final arrival at truth is when one contacts the deathless. That's the place where you can really put down your pillar of truth—at that final liberation of mind.
+
+The Buddha taught about two levels of right view. The first is the Four Noble Truths, which is supramundane right view. Everyone can look at experience in terms of seeing suffering, letting go of its cause (craving), realizing its cessation (Nibbāna[^6]), and developing the path to that cessation, the Noble Eightfold Path. But the Buddha also speaks about mundane right view, which effectively circles around the efficacy of kamma[^7]. It includes acknowledging what is given, the debt we owe our parents, the existence of this realm and the next, and spontaneously reborn beings. Two of the three knowledges[^8] the Buddha had on the night of his awakening were about rebirth and the disenchantment that brought on. So it is a significant part of his teaching.
+
+I think one can say, "I don't believe in these teachings completely," but where one goes too far is by saying the Buddha didn't hold these views or didn't actually teach this. If you read through the canon, it's really impossible to come away with the view that the Buddha did not actually teach these things.
+
+Ajahn Jayasaro often compares the teachings to a map. Over the years, we see the map says there's a tree, and there's a tree. The map says there's a river, and there's a river. On the map, we see in the distance these huge mountains, and we've never seen mountains before. After years of seeing the accuracy of this map, do we just say, "Okay, no, that must be completely made up," or do we say, "Huh, I've never seen mountains, but this map has been so accurate. Maybe they do exist."
+
+I would encourage people, if you practice for a long time, to consider that the Buddha really did take these things seriously. It might be worth investigating a little bit more. There's a book called *Life Before Life* by Jim B. Tucker, based on research at the University of Virginia on thousands of cases of children recollecting past lives and verifying those recollections. It behooves us as Buddhists who've gained so much from these teachings to maybe read that one, giving the Buddha enough credit to push ourselves a little bit. My experience is that it does make a difference to hold these teachings in that way. It's not necessary, but I think it's worth pushing a little bit on that.
+
+## Heavens & Hells: Lessons of the Mind & Buddhist Cosmos (2 of 2) ([link](https://www.audiodharma.org/talks/22991))
+
+The five realms that the Buddha spoke about are called the *gati*[^9]. In the Mahādukkhakkhandha Sutta[^10], the Buddha lays out these realms. He compares the hell realms to a charcoal pit, where a person experiences "exclusively painful, racking, piercing feelings." He compares the animal realm to a cesspit. The ghost realm, the *peta*[^11] realm, is compared to a tree with scanty foliage casting a dappled shadow, offering little relief to a parched person. The human realm is compared to the shade of a lush tree. The *deva*[^12] realm of heavenly beings is compared to a heavenly mansion. Finally, he compares awakening, Nibbāna, to a cool, clean pond with smooth banks, where a person dying of thirst finally finds water.
+
+What's so meaningful there is that of all the realms, the only place where that person parched with thirst finds water is Nibbāna. None of the other realms, no matter how nice they are, offer more than a brief reprieve. The mansion of the heavenly realms is cool, but there's no water there. The human realm has shade, but there's no water.
+
+Jetsunma Tenzin Palmo, the subject of the biography *Cave in the Snow*, talks about a dream she had of being in a huge prison. In the basement, people were being tortured, and in the upper penthouses, people were partying, but it was all a prison. She escaped and ran along the side of the prison, which stretched on and on. She almost gave up, but then she thought, "If I stop running, the people behind me who are depending on me will fall back in prison too." As soon as she had that thought, the prison ended. The heart of this vision is the idea that however good the prison gets, it's still a prison.
+
+As you practice, you begin to see that you're moving outside of that usual metric. Your mind can go through these deep states of hell and heaven, but something else is being cultivated that's beyond all that. It's like we usually measure our life on an XY axis, but as you practice, you open up a Z-axis. Even though the ups and downs of life continue on the XY axis, some other quality is being cultivated in the heart that's completely separate. The heart has touched some other grounding that's beyond all of that. Though the practice does lead to these brighter realms, the fact that we're also cultivating wisdom means that we're stepping out of that whole paradigm. We're stepping more and more towards that cool water. The thing about an oasis is it's not flashy. It's not the mansion of the devas. It's just a cool pond, but there's something so grounding in the fact that that's where we're stepping towards as we practice.
+
+### The Hell Realms (Niraya)
+
+The first realm I want to talk about, starting from the lowest, is the hell realms (*niraya*). The Buddha doesn't speak about these in detail too often, but he does depict them as places where people can fall if they've engaged in really negative kamma. He talks about the Avīci hell as a cube of fire where beings are burned, run for a door that closes just as they reach it, and are reborn again and again over a huge amount of time. There are other hells of darkness, dirty water where insects bore into the body, freezing hells, and realms of heat, dirt, and piercing feelings—all different variations on suffering.
+
+A few reflections are relevant. First, in Buddhism, no realm is forever. Even those beings brought to the lowest realms can eventually emerge. Because saṃsāra is without a discernible beginning, we've all been in the hell realms. The Buddha says it is impossible that you find a being who has not been your mother, your brother, or your sister. This can lead to a sense of disenchantment with this whole round of rebirth. We've landed in a good place now—the human realm is an extremely fortunate rebirth—but if we don't apply ourselves to practice, we don't know where we'll land next. The hells are a possibility unless you've become a stream-enterer, at which point you can't fall to those lower realms.
+
+The hell realms seem to be depicted almost psychedelically, as clear depictions of psychological states: the heat of fire, the cold of freezing realms, the claustrophobia of being packed in. The crescendo of suffering (*dukkha*[^13]) in the twelve links of dependent origination is sorrow, lamentation, pain, grief, and despair. One of the most significant things I find about practice is that after a few years, that word "despair" no longer applies to your experience. You can recall years ago when you really believed you were this body, this personality, but now there's a slight separation from experience. Things are still difficult, but despair is no longer a flavor. For me, that's a real sign that someone's mind is no longer sinking to the hell realm.
+
+### The Ghost Realm (Peta)
+
+The ghost realm is more relevant, I think, because as we practice, less and less of us spend our time in the hell realm. But the ghost realm, the *petas*, is a much more common place for us to be. They are often depicted as "hungry ghosts" with tiny pinhole mouths and big bellies, always starving but never able to take in enough sustenance. This state is characterized by obsession. The depressed mind state is the hungry ghost mind state—going over the same self-deprecating thought or the same narrative again and again, and the emptiness of it.
+
+The Buddha spoke about spreading merit. He said you should dedicate it to your relatives who have passed. A Brahman asks if all relatives can receive this merit, and the Buddha says no, not if they're in the hells or much higher realms, but if they're in the ghost realm, they can. The Brahman asks, "What if I have no relatives in the ghost realm?" The Buddha replies, "It is impossible."
+
+Dedicating merit isn't some esoteric economy. It means you do a good act and then you recollect and invite someone to rejoice in the goodness you did. It lifts their heart and invites them to identify with that act of goodness and be nourished by it. That's all dedication of merit is.
+
+Almost every culture, apart from secular American culture, has a practice of ancestor worship or recollection. We've forgotten our dead in the West. Teachers with psychic powers who have visited the West say that the streets are full of these hungry ghosts because no one dedicates merit to them.
+
+There's a profound psychological lesson hidden in the depiction of the hungry ghosts. You can't give directly to them. There's a story of a generous husband reborn as a tree deva and his stingy wife reborn as a hungry ghost. He tries to give her food and clothing, but it turns to burning metal when she touches it. A monk advises him to do good and dedicate the merit to her, and only then is she nourished. For me, the lesson here is about interacting with loved ones in the throes of addiction. Often, giving directly to them just enables them. The right way to interact with someone in that hungry ghost realm is by doing good and then inviting them into that goodness, a lateral movement of goodness.
+
+### The Asura & Animal Realms
+
+The *asuras*[^14] are equivalent to the Titans in Greek mythology. They are characterized by anger, violence, and power. Self-righteous anger feels right; it feels like heaven. But only after the fruit of that anger comes to bear and you see the damage it's done do you realize that you were actually in hell the whole time. The Dalai Lama was the only religious leader in a BBC documentary who said there's never a place for anger. In Buddhism, there is a place for acting to change things, but if you let the rage die down, the clarity often remains, but the anger is not necessary. A huge portion of the practice is having the patience to notice when we're in an asura realm and waiting until we can be in a deva realm, and then speaking and acting from there.
+
+Finally, the animal realm. One of the conditions that is said to initiate rebirth in the animal realm is scheming for food. If you find yourself proliferating around pizza or whatever, just be like, "Okay, this is my little animal mind state." Often the way out of it is just to label it as suffering. That sort of gluttonous urge, if you can slow down that animal momentum enough to bring some mindfulness—slow down your bites, put the spoon down—you become human again.
+
+## Q&A
+
+**A participant asked about the seeming contradiction of teachers saying you don't have to believe in rebirth to practice, even though it's a core teaching.**
+
+That's a great question. I've actually always been a bit unsure if one needs to believe in rebirth to attain awakening. I think likely not, but I'm not certain. The Buddha's wisdom in the Kalama Sutta is relevant here. He meets the Kalamas where they are. He doesn't say, "No, you need to accept this right now." He recognizes that what they know is cultivating the wholesome, and that's the key of the path. That's enough for a lot of us to work with for a long time. It's a gentle on-ramp.
+
+But I think people also underestimate the power of the belief. If you start to really believe that this life echoes on, that each moral action remains, and that you've been circling around rebirth for eons, the scene changes substantially. Each moral act is given immense weight in a new way, and renunciation makes more sense.
+
+We translate *saddhā* as "confidence" because "faith" is so loaded. And it's true, you can meet that word at that level. But as you practice, a sense of love and joy and real uplift at the Buddha and his teachings arises. At some point, the word "confidence" no longer does justice to the heart's experience of homecoming. That's where the word "faith" regains its relevance.
+
+**A hospice volunteer asked for comments on that kind of practice, especially after a friend ended up in their care.**
+
+Thank you for doing that work, Carl. I'm not very qualified to speak to it, as I don't have experience sitting with the dying. What I feel is often unique that we can bring is that if someone is open to the ideas of rebirth or angels, and we're willing to speak about it, that can be something they're not hearing anywhere else.
+
+Also, holding the idea that when someone's body goes, they're not totally gone right away—their *citta* (heart/mind) is hanging around for a while. You can use that knowledge. Maybe it means you sit in the room with the body for a while after it's passed and spread loving kindness. Maybe you get a picture of them and for a few weeks after they pass, you light a candle every evening and spread loving kindness, and you tell the family you're doing that. At the very least, it's a beautiful thing for them to do for themselves.
+
+---
+[^1]: **Asuba:** A Pāli word meaning "unattractiveness" or "loathsomeness." It refers to a type of meditation where one contemplates the unattractive nature of the body to counteract lust and attachment.
+[^2]: **Ida paccayatā:** A Pāli term for the principle of specific conditionality, a core part of the doctrine of Dependent Origination (*Paṭiccasamuppāda*). It's often summarized as, "When this is, that is; when this arises, that arises."
+[^3]: **Jātaka tales:** A voluminous body of literature native to India concerning the previous births of Gautama Buddha in both human and animal form.
+[^4]: **Petavatthu:** A Pāli scripture, part of the Khuddaka Nikāya, which contains stories about *petas* (ghosts) and how they came to be in their unfortunate state.
+[^5]: **Cankī Sutta (MN 95):** A discourse from the Middle Length Discourses of the Buddha where he discusses with a young Brahmin named Cankī the proper grounds for holding a belief and how to "protect the truth."
+[^6]: **Nibbāna:** (Sanskrit: *Nirvāṇa*) The ultimate goal of the Buddhist path, meaning "to extinguish" or "to blow out." It refers to the cessation of suffering and the cycle of rebirth.
+[^7]: **Kamma:** (Sanskrit: *Karma*) The Pāli word for action, which refers to intentional physical, verbal, or mental acts. These acts create results or consequences (*vipāka*) in this life and future lives.
+[^8]: **Tevijjā:** The "three knowledges" or "three sciences" attained by the Buddha on the night of his enlightenment: 1) Remembering his own past lives, 2) Seeing the passing away and rebirth of other beings according to their kamma, and 3) The knowledge of the destruction of the mental taints (*āsavas*).
+[^9]: **Gati:** A Pāli word meaning "destination" or "course," referring to the different realms of existence into which beings can be reborn. The five common *gatis* are hell-beings, animals, ghosts, humans, and heavenly beings.
+[^10]: **Mahādukkhakkhandha Sutta (MN 13):** The "Great Mass of Stress Sutta," a discourse where the Buddha analyzes the gratification, danger, and escape in relation to sensual pleasures, forms, and feelings. The user mentioned MN 12, but the content described matches MN 13.
+[^11]: **Peta:** (Sanskrit: *Preta*) A "hungry ghost," a type of being in Buddhist cosmology who suffers from intense hunger, thirst, and obsession as a result of their past actions.
+[^12]: **Deva:** A Pāli word for a celestial being, god, or deity who inhabits the heavenly realms, which are characterized by long life and great pleasure.
+[^13]: **Dukkha:** A core concept in Buddhism, a Pāli word often translated as "suffering," "stress," "unease," or "unsatisfactoriness." It is the first of the Four Noble Truths.
+[^14]: **Asura:** A type of demigod or titan in Buddhist cosmology. They are powerful beings who are often depicted as being driven by jealousy, conflict, and ambition, constantly warring with the *devas*.
