@@ -4,7 +4,6 @@ speaker: Matthew Brensilver
 speaker_url: https://www.audiodharma.org/speakers/231
 talk_urls:
 - https://www.audiodharma.org/talks/23371
-- https://www.audiodharma.org/talks/None
 title: 'Guided Meditation: Forgive all phenomena; Dharmette: Unconscious Acting-Out'
 video_url: https://www.youtube.com/watch?v=kqkm9fRRL6A
 ---

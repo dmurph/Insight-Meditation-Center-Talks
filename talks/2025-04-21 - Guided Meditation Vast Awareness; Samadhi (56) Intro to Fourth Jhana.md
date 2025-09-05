@@ -2,9 +2,7 @@
 date: '2025-04-21'
 speaker: Gil Fronsdal
 speaker_url: https://www.audiodharma.org/speakers/1
-talk_urls:
-- https://www.audiodharma.org/talks/None
-- https://www.audiodharma.org/talks/None
+talk_urls: []
 title: 'Guided Meditation: Vast Awareness; Samadhi (56) Intro to Fourth Jhana'
 video_url: https://www.youtube.com/watch?v=07lwZ_CnqEU
 ---

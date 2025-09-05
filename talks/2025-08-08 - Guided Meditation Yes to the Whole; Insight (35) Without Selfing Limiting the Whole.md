@@ -3,7 +3,6 @@ date: '2025-08-08'
 speaker: Gil Fronsdal
 speaker_url: https://www.audiodharma.org/speakers/1
 talk_urls:
-- https://www.audiodharma.org/talks/None
 - https://www.audiodharma.org/talks/23565
 title: 'Guided Meditation: Yes to the Whole; Insight (35) Without Selfing Limiting
   the Whole'

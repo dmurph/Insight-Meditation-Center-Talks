@@ -3,7 +3,6 @@ date: '2025-08-27'
 speaker: Gil Fronsdal
 speaker_url: https://www.audiodharma.org/speakers/1
 talk_urls:
-- https://www.audiodharma.org/talks/None
 - https://www.audiodharma.org/talks/23718
 title: 'Guided Meditation: Don''t Make it Worse; New Vision (3) A Vision of Not Making
   it Worse'

@@ -2,9 +2,7 @@
 date: '2025-04-10'
 speaker: Matthew Brensilver
 speaker_url: https://www.audiodharma.org/speakers/231
-talk_urls:
-- https://www.audiodharma.org/talks/None
-- https://www.audiodharma.org/talks/None
+talk_urls: []
 title: 'Guided Meditation with Matthew Brensilver; Dharmette: Power and Safety'
 video_url: https://www.youtube.com/watch?v=IDNTnkhLBBc
 ---

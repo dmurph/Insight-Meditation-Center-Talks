@@ -2,8 +2,7 @@
 date: '2025-05-07'
 speaker: Ines Freedman
 speaker_url: https://www.audiodharma.org/speakers/57
-talk_urls:
-- https://www.audiodharma.org/talks/None
+talk_urls: []
 title: 'Guided Meditation: Vedana (Feeling Tone) of Thoughts; Dharmette: Internal
   Wise Speech'
 video_url: https://www.youtube.com/watch?v=iWOeF7ceHe0

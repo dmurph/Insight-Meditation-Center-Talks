@@ -2,8 +2,7 @@
 date: '2025-05-29'
 speaker: Gil Fronsdal
 speaker_url: https://www.audiodharma.org/speakers/1
-talk_urls:
-- https://www.audiodharma.org/talks/None
+talk_urls: []
 title: 'Guided Meditation: Watching Change; Insight (9) Comprehension'
 video_url: https://www.youtube.com/watch?v=TwVW0TY2ZwE
 ---

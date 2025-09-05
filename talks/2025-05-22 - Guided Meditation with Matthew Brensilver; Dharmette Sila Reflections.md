@@ -2,9 +2,7 @@
 date: '2025-05-22'
 speaker: Matthew Brensilver
 speaker_url: https://www.audiodharma.org/speakers/231
-talk_urls:
-- https://www.audiodharma.org/talks/None
-- https://www.audiodharma.org/talks/None
+talk_urls: []
 title: 'Guided Meditation with Matthew Brensilver; Dharmette: Sila Reflections'
 video_url: https://www.youtube.com/watch?v=4li3uN2r-OY
 ---

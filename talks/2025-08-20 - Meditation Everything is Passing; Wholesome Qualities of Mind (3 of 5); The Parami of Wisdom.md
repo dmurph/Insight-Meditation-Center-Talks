@@ -2,9 +2,7 @@
 date: '2025-08-20'
 speaker: Matthew Brensilver
 speaker_url: https://www.audiodharma.org/speakers/231
-talk_urls:
-- https://www.audiodharma.org/talks/None
-- https://www.audiodharma.org/talks/None
+talk_urls: []
 title: 'Meditation: Everything is Passing; Wholesome Qualities of Mind (3 of 5); The
   Parami of Wisdom'
 video_url: https://www.youtube.com/watch?v=lXX7vemTLRU

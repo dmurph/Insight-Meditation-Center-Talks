@@ -2,8 +2,7 @@
 date: '2025-06-12'
 speaker: Matthew Brensilver
 speaker_url: https://www.audiodharma.org/speakers/231
-talk_urls:
-- https://www.audiodharma.org/talks/None
+talk_urls: []
 title: 'Insight Meditation w M Brensilver: Following Interest; Dharmette: Profligate
   Moral Vandalism & Anger'
 video_url: https://www.youtube.com/watch?v=MXEycn7qOWs

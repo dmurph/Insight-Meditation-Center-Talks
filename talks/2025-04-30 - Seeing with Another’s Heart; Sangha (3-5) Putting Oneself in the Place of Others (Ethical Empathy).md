@@ -2,8 +2,7 @@
 date: '2025-04-30'
 speaker: Nikki Mirghafori
 speaker_url: https://www.audiodharma.org/speakers/229
-talk_urls:
-- https://www.audiodharma.org/talks/None
+talk_urls: []
 title: Seeing with Another’s Heart; Sangha (3/5) Putting Oneself in the Place of Others
   (Ethical Empathy)
 video_url: https://www.youtube.com/watch?v=01TNFTkFZo0

@@ -1,29 +1,32 @@
-This project is designed to download and process video transcripts from the Insight Meditation Center's YouTube channel.
+This project downloads, processes, and stores video transcripts from YouTube, primarily from the Insight Meditation Center channel. It also scrapes and caches related talk metadata from `audiodharma.org`.
 
-The primary script, `download.py`, handles the entire workflow:
-1.  **Fetches Video List:** It can take either a `channel-url` or a `video-id`. If a channel is provided, it uses the `scrapetube` library to get a list of all videos from a specified YouTube channel URL. By default, it efficiently updates a local cache (`videos/<channel_name>.json`) by fetching only until it finds a video that's already cached. This avoids redundant full downloads.
-2.  **Fetches Video Metadata:** Before processing, the script fetches video metadata (title, upload date, URL) using `yt-dlp`. This metadata is cached in `videos/video_metadata.json` to avoid re-fetching from YouTube. The `--skip-metadata-cache` argument can be used to bypass this cache.
-3.  **Downloads Transcripts:** For each video, it first checks for a local `.srt` file with a matching name in the `raw_transcripts` directory. If found, it uses that file as the transcript. Otherwise, it uses the `youtube_transcript_api` to download the raw transcript data. These are saved as `.rawtranscript` files in the `raw_transcripts` directory.
-4.  **Processes with AI:** The raw transcript is then passed to a Generative AI model via the `gemini-cli` command-line tool. A detailed prompt instructs the AI to clean up the transcript, format it into readable markdown, correct potential transcription errors common with specialized vocabulary (like Pali terms in Dharma talks), and add a disclaimer.
-5.  **Saves Final Output:** The cleaned, AI-processed content is saved as a markdown (`.md`) file in the `talks` directory.
+The project is structured as a series of focused modules orchestrated by the main `download.py` script.
 
-The script is highly configurable through command-line arguments, allowing users to:
-*   Process a single video with `video-id`.
-*   Process all videos from a channel with `channel-url`.
-*   Limit the number of videos to process (`--limit`).
-*   Force a full re-download of the video list, overwriting the cache (`--rebuild-video-url-cache`).
-*   Skip fetching the video list entirely and rely only on the existing cache (`--skip-video-url-download`).
-*   Force re-downloading of transcripts (`--force-redownload-transcripts`).
-*   Force the AI processing step even if an output file already exists (`--force-ai-processing`).
-*   Skip the metadata cache (`--skip-metadata-cache`).
+### Core Modules
 
-The `README.md` provides clear instructions on how to install dependencies and run the script with various options, including examples for downloading different types of content from the channel (e.g., live streams vs. regular video uploads).
+-   **`download.py`**: The main entry point and orchestrator. It handles command-line argument parsing for two main subcommands: `youtube` and `audiodharma`. It directs the workflow based on user input, calling on other modules to perform specific tasks.
 
-Key libraries used:
-*   `scrapetube`: For fetching video lists from YouTube channels.
-*   `yt-dlp`: For extracting video metadata like title and upload date.
-*   `youtube_transcript_api`: For downloading video transcripts.
-*   `argparse`: For parsing command-line arguments.
-*   `subprocess`: To run the external `gemini-cli` tool for AI processing.
+-   **`youtube.py`**: Contains all functionality related to interacting with YouTube. This includes fetching lists of video URLs from channels or playlists (using `scrapetube`), downloading video metadata (using `yt-dlp`), and fetching raw transcript data (using `youtube_transcript_api`).
 
-To run the project, the user needs to have Python installed, along with the packages listed in `requirements.txt`, and must have the `gemini-cli` tool installed and configured in their system's PATH. Using venv is highly recommended, and `pip install -r requirements.txt` can be used to install all required dependencies.
+-   **`audiodharma.py`**: Handles all web scraping of the `audiodharma.org` website. It extracts talk metadata and speaker information and is responsible for creating and updating the local cache of this data.
+
+-   **`ai.py`**: Responsible for the AI processing step. It takes a raw transcript and uses a prompt template to interact with the `gemini-cli` tool, returning the cleaned, formatted markdown content. It does not handle file I/O.
+
+-   **`article.py`**: Defines the `Article` class, which represents a single talk. This class is responsible for managing the combination of metadata (title, speaker, etc.) and content. It handles the creation of frontmatter and provides methods to load an article from a file, update its metadata, and save it back to disk.
+
+-   **`cache.py`**: Manages loading and saving of all cached data. This includes the YouTube video metadata cache and the `audiodharma.org` talks and speakers data, which are stored in YAML files.
+
+-   **`filesystem.py`**: A utility module for filesystem-related operations, currently containing the `sanitize_filename` function to ensure file and directory names are valid across operating systems.
+
+### Workflow Overview
+
+1.  The user runs `download.py` with either the `youtube` or `audiodharma` subcommand.
+2.  **For `audiodharma`**: The `audiodharma.py` module is called to scrape the website and update the local YAML caches (`cache/audiodharma/`).
+3.  **For `youtube`**:
+    a.  The `youtube.py` module fetches the list of video URLs and their metadata, managing the YouTube-specific caches.
+    b.  The main loop in `download.py` iterates through each video.
+    c.  It checks if a processed article file already exists in the `talks/` directory. The `article.py` module is used to load the existing file and check if its metadata is outdated. If it is, the file is updated in place, and the script moves to the next video (unless `--do-not-stop-scan` is specified).
+    d.  If the article does not exist, `youtube.py` is called to download the raw transcript.
+    e.  The raw transcript is passed to `ai.py`, which returns the cleaned markdown content.
+    f.  An `Article` object is created with the metadata and cleaned content.
+    g.  The `article.py` module's `save()` method is called to write the final `.md` file with frontmatter to the `talks/` directory.

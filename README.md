@@ -1,75 +1,85 @@
 # Insight Meditation Center Talks
 
-The purpose of this repo is to download and mirror the transcriptions of talks from Insigne Meditation Center in Redwood City. Currently this is all from their [youtube channel](https://www.youtube.com/@InsightMeditationCenter).
+This project downloads video transcripts from YouTube and scrapes talk metadata from `audiodharma.org`. It processes the raw transcripts using a Generative AI to produce cleaned, formatted, and enriched markdown files suitable for a personal knowledge base.
 
+## Installation
 
-## File Storage Structure
+Set up a Python virtual environment and install the required dependencies.
 
-The script organizes files as follows:
-
--   `videos/<videos_fetch_source>.json`: A cache of video information. The filename is derived from the channel URL.
--   `videos/video_metadata.json`: A cache of video metadata (title, upload date, URL) to avoid re-fetching from YouTube.
--   `raw_transcripts/`: Stores the raw, unprocessed transcript files downloaded from YouTube. This includes both `.srt` files you may have locally and `.rawtranscript` files downloaded by the script.
--   `talks/`: Stores the final, AI-cleaned and formatted markdown files.
-
-## Script usage
-
-This script downloads video transcripts from a YouTube channel, processes them with an AI for cleanup, and saves them locally.
-
-### Basic Usage
-
-Start the python enviroment:
 ```bash
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Commands
+You must also have the `gemini-cli` tool installed and configured in your system's PATH.
 
-The script now uses sub-commands to specify the source of the videos.
+## Script Usage
 
-#### `channel-url`
+The script is organized into two main subcommands: `youtube` for downloading and processing video transcripts, and `audiodharma` for scraping website data.
 
-Download all videos from a channel URL. By default, this command will efficiently update the video URL cache by only downloading new videos until it finds one that is already in the cache.
+### 1. Scraping AudioDharma.org
 
-```bash
-GEMINI_API_KEY=your_api_key python download.py channel-url <url> [options]
-```
-
--   `<url>`: The full URL of the YouTube channel (e.g., `https://www.youtube.com/@InsightMeditationCenter/streams`).
-
-#### `video-id`
-
-Download a single video by its ID.
+Before processing YouTube videos, it's recommended to update the local cache of talk and speaker metadata from `audiodharma.org`. This data is used to enrich the final markdown files with speaker names and talk URLs.
 
 ```bash
-GEMINI_API_KEY=your_api_key python download.py video-id <id> [options]
+python download.py audiodharma
 ```
 
--   `<id>`: The YouTube video ID.
+This command scrapes the website and saves the data to `cache/audiodharma/talks.yaml` and `cache/audiodharma/speakers.yaml`. It will efficiently stop once it encounters a page with no new information.
 
-### Global Options
+-   `--full-scrape`: Use this flag to force the scraper to check every single page, regardless of whether new data is found.
 
-These options can be used with any sub-command.
+### 2. Processing YouTube Transcripts
+
+The `youtube` command fetches video transcripts, cleans them with an AI, and saves them as markdown files.
+
+#### **Commands**
+
+-   **`channel-url`**: Process videos from a channel URL.
+    ```bash
+    python download.py youtube channel-url <url> [options]
+    ```
+-   **`playlist-id`**: Process videos from a playlist ID.
+    ```bash
+    python download.py youtube playlist-id <id> [options]
+    ```
+-   **`video-id`**: Process a single video by its ID.
+    ```bash
+    python download.py youtube video-id <id> [options]
+    ```
+
+#### **Common Options**
 
 -   `--limit <number>`: Limit the number of videos to process. Default is 0 (no limit).
--   `--rebuild-video-url-cache`: (Only for `channel-url` and `playlist-id`) Force a complete re-download of the video list, overwriting the local cache.
--   `--skip-video-url-download`: (Only for `channel-url` and `playlist-id`) Skip downloading the video list entirely and use the existing local cache.
--   `--force-redownload-transcripts`: Force re-downloading of the raw transcript files, even if they already exist locally.
--   `--force-ai-processing`: Force the AI processing step to run, even if the final processed file already exists.
--   `--skip-metadata-cache`: Skip using the metadata cache and force re-fetching from YouTube.
+-   `--force-ai-processing`: Force the AI processing step, even if the final markdown file already exists.
+-   `--force-redownload-transcripts`: Force re-downloading of raw transcripts, even if they are already cached.
+-   `--do-not-stop-scan`: By default, the script stops when it finds an up-to-date, existing article. Use this flag to continue processing all videos in the list.
+-   `--rebuild-video-url-cache`: Force a complete re-download of the video list from a channel or playlist.
+-   `--skip-video-url-download`: Use the cached video list instead of fetching a new one.
+-   `--skip-metadata-cache`: Fetch fresh video metadata from YouTube instead of using the cache.
 
 ### Examples
 
 ```bash
-# Download all transcripts and do ai processing for all of the live videos from the channel.
-# This will efficiently update the list of videos before processing.
-python download.py channel-url "https://www.youtube.com/@InsightMeditationCenter/streams"
+# 1. Update the audiodharma.org data cache first.
+python download.py audiodharma
 
-# Download the 5 most recent non-live videos, forcing AI processing to overwrite any already saved talks.
-python download.py channel-url "https://www.youtube.com/@InsightMeditationCenter/videos" --limit 5 --force-ai-processing
+# 2. Process all new videos from the IMC live stream channel.
+# The script will stop once it finds a video that has already been processed and is up-to-date.
+python download.py youtube channel-url "https://www.youtube.com/@InsightMeditationCenter/streams"
 
-# Download a single video
-python download.py video-id "dQw4w9WgXcQ"
+# Process the 5 most recent videos from the main videos tab, forcing AI processing.
+python download.py youtube channel-url "https://www.youtube.com/@InsightMeditationCenter/videos" --limit 5 --force-ai-processing
+
+# Process a single video.
+python download.py youtube video-id "dQw4w9WgXcQ"
 ```
+
+## Project Structure
+
+-   `download.py`: The main script orchestrating all operations.
+-   `youtube.py`, `audiodharma.py`, `ai.py`, `article.py`, `cache.py`, `filesystem.py`: Modules containing the core logic for interacting with services, processing data, and managing files.
+-   `cache/`: Contains all cached data, including scraped website info and YouTube metadata.
+-   `raw_transcripts/`: Stores the raw, unprocessed transcript files.
+-   `talks/`: Stores the final, AI-cleaned and formatted markdown files.

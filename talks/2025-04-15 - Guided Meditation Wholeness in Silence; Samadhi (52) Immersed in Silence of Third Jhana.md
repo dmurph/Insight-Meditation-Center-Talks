@@ -2,8 +2,7 @@
 date: '2025-04-15'
 speaker: Gil Fronsdal
 speaker_url: https://www.audiodharma.org/speakers/1
-talk_urls:
-- https://www.audiodharma.org/talks/None
+talk_urls: []
 title: 'Guided Meditation: Wholeness in Silence; Samadhi (52) Immersed in Silence
   of Third Jhana'
 video_url: https://www.youtube.com/watch?v=EgWp6MYGA_k

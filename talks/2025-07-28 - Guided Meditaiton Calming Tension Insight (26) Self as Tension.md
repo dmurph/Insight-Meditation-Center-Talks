@@ -2,9 +2,7 @@
 date: '2025-07-28'
 speaker: Gil Fronsdal
 speaker_url: https://www.audiodharma.org/speakers/1
-talk_urls:
-- https://www.audiodharma.org/talks/None
-- https://www.audiodharma.org/talks/None
+talk_urls: []
 title: 'Guided Meditaiton: Calming Tension: Insight (26) Self as Tension'
 video_url: https://www.youtube.com/watch?v=QX2uALbpmLI
 ---
