@@ -160,6 +160,61 @@ def save_speakers_data(data, output_file):
         yaml.dump(data, f, default_flow_style=False, sort_keys=True)
     logging.info(f"Saved {output_file}");
 
+def run_scraper(
+    start_page=1,
+    max_pages=1000,
+    talks_output_file="cache/audiodharma/talks.yaml",
+    speakers_output_file="cache/audiodharma/speakers.yaml",
+    overwrite_existing_file=False,
+    full_scrape=False,
+    save_after_pages=10,
+):
+    """Main function to control scraping."""
+    all_talks_data = {}
+    speakers_data = {}
+    
+    pages_till_save = save_after_pages
+    if not overwrite_existing_file:
+        if os.path.exists(talks_output_file):
+            logging.info(f"Loading existing talks data from {talks_output_file}...")
+            with open(talks_output_file, 'r') as f:
+                existing_yaml = yaml.safe_load(f)
+                if existing_yaml:
+                    for entry in existing_yaml:
+                        all_talks_data[entry['youtube_id']] = entry
+        if os.path.exists(speakers_output_file):
+            logging.info(f"Loading existing speakers data from {speakers_output_file}...")
+            with open(speakers_output_file, 'r') as f:
+                loaded_speakers = yaml.safe_load(f)
+                if loaded_speakers:
+                    speakers_data = {int(k): v for k, v in loaded_speakers.items()}
+
+    for i in range(start_page, start_page + max_pages):
+        page_status = scrape_page(i, all_talks_data, speakers_data)
+        if page_status == "end":
+            logging.info("No more talks found.")
+            break
+        if page_status == "known" and not full_scrape:
+            logging.info("No new or updated data found. Stopping scrape.")
+            break
+        pages_till_save -= 1
+        if pages_till_save <= 0:
+            pages_till_save = save_after_pages
+            save_talks_data(all_talks_data, talks_output_file)
+            save_speakers_data(speakers_data, speakers_output_file)
+    
+    # Do a final save.
+    if pages_till_save != save_after_pages:
+        save_talks_data(all_talks_data, talks_output_file)
+        save_speakers_data(speakers_data, speakers_output_file)
+
+
+    logging.info(f"Scraped {len(all_talks_data)} unique video entries.")
+    logging.info(f"Final talks data saved to {talks_output_file}.")
+    logging.info(f"Final speakers data saved to {speakers_output_file}.")
+    logging.info("Done.")
+
+
 def main():
     """Main function to control scraping."""
     parser = argparse.ArgumentParser(description="Scrape talks from audiodharma.org.")
@@ -172,49 +227,15 @@ def main():
     parser.add_argument("--save-after-pages", type=int, default=10, help="The number of pages processed between saving the files")
     args = parser.parse_args()
 
-    all_talks_data = {}
-    speakers_data = {}
-    
-    pages_till_save = args.save_after_pages
-    if not args.overwrite_existing_file:
-        if os.path.exists(args.talks_output_file):
-            logging.info(f"Loading existing talks data from {args.talks_output_file}...")
-            with open(args.talks_output_file, 'r') as f:
-                existing_yaml = yaml.safe_load(f)
-                if existing_yaml:
-                    for entry in existing_yaml:
-                        all_talks_data[entry['youtube_id']] = entry
-        if os.path.exists(args.speakers_output_file):
-            logging.info(f"Loading existing speakers data from {args.speakers_output_file}...")
-            with open(args.speakers_output_file, 'r') as f:
-                loaded_speakers = yaml.safe_load(f)
-                if loaded_speakers:
-                    speakers_data = {int(k): v for k, v in loaded_speakers.items()}
-
-    for i in range(args.start_page, args.start_page + args.max_pages):
-        page_status = scrape_page(i, all_talks_data, speakers_data)
-        if page_status == "end":
-            logging.info("No more talks found.")
-            break
-        if page_status == "known" and not args.full_scrape:
-            logging.info("No new or updated data found. Stopping scrape.")
-            break
-        pages_till_save -= 1
-        if pages_till_save <= 0:
-            pages_till_save = args.save_after_pages
-            save_talks_data(all_talks_data, args.talks_output_file)
-            save_speakers_data(speakers_data, args.speakers_output_file)
-    
-    # Do a final save.
-    if pages_till_save != args.save_after_pages:
-        save_talks_data(all_talks_data, args.talks_output_file)
-        save_speakers_data(speakers_data, args.speakers_output_file)
-
-
-    logging.info(f"Scraped {len(all_talks_data)} unique video entries.")
-    logging.info(f"Final talks data saved to {args.talks_output_file}.")
-    logging.info(f"Final speakers data saved to {args.speakers_output_file}.")
-    logging.info("Done.")
+    run_scraper(
+        start_page=args.start_page,
+        max_pages=args.max_pages,
+        talks_output_file=args.talks_output_file,
+        speakers_output_file=args.speakers_output_file,
+        overwrite_existing_file=args.overwrite_existing_file,
+        full_scrape=args.full_scrape,
+        save_after_pages=args.save_after_pages,
+    )
 
 if __name__ == "__main__":
     main()

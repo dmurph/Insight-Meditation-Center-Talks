@@ -15,6 +15,7 @@ from youtube_transcript_api import (
     TranscriptsDisabled,
 )
 import frontmatter
+import download_website
 
 logging.basicConfig(level=logging.INFO)
 
@@ -490,6 +491,10 @@ def main():
     """
     Main function to parse arguments and start the download process.
     """
+    logging.info("Running website download script first...")
+    download_website.run_scraper()
+    logging.info("Finished running website download script.")
+
     parser = argparse.ArgumentParser(
         description="Download and process YouTube channel transcripts."
     )
