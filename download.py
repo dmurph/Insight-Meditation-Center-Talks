@@ -150,23 +150,7 @@ def main():
     # Scrape and generate command
     scrape_and_generate_parser = subparsers.add_parser(
         "scrape_and_generate",
-        help="Scrape audiodharma.org and then process all YouTube videos from the main playlist.",
-    )
-    scrape_and_generate_parser.add_argument(
-        "--playlist_id",
-        help="The id of a YouTube playlist. Defaults to all videos on the IMC channel.",
-        type=str,
-        default="UUGliqsod-tQoGiHahxS9Wig",
-    )
-    scrape_and_generate_parser.add_argument(
-        "--rebuild-video-url-cache",
-        action="store_true",
-        help="Force a complete redownload of all video URLs, rebuilding the cache.",
-    )
-    scrape_and_generate_parser.add_argument(
-        "--skip-video-url-download",
-        action="store_true",
-        help="Skip downloading video URLs and use the existing cache.",
+        help="Scrape audiodharma.org and then process all YouTube videos found in the scrape.",
     )
     scrape_and_generate_parser.add_argument(
         "--limit",
@@ -248,6 +232,10 @@ def main():
         "--skip-video-url-download",
         action="store_true",
         help="Skip downloading video URLs and use the existing cache.",
+    )
+
+    audiodharma_cache_source = youtube_sources.add_parser(
+        "audiodharma-cache", help="Use the audiodharma cache as the source of videos"
     )
 
     youtube_parser.add_argument(
@@ -333,12 +321,8 @@ def main():
             save_after_pages=10,
         )
 
-        videos = youtube.get_video_urls(
-            url_or_id=args.playlist_id,
-            type=youtube.UrlType.PLAYLIST,
-            rebuild_cache=args.rebuild_video_url_cache,
-            skip_download=args.skip_video_url_download,
-        )
+        audiodharma_talks, _ = cache.load_audiodharma_data()
+        videos = [{"videoId": vid} for vid in audiodharma_talks.keys()]
 
         if not videos:
             logging.info("No videos found. Exiting.")
@@ -373,6 +357,9 @@ def main():
                 rebuild_cache=rebuild_cache,
                 skip_download=skip_download,
             )
+        elif args.fetch_source == "audiodharma-cache":
+            audiodharma_talks, _ = cache.load_audiodharma_data()
+            videos = [{"videoId": vid} for vid in audiodharma_talks.keys()]
         else:
             parser.print_help()
             return
