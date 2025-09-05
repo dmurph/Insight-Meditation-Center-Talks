@@ -97,7 +97,7 @@ def generate_speaker_html(speaker_id, talks, output_dir="talks/speaker"):
     if speaker_url:
         audiodharma_link_html = f'<a href="{speaker_url}">audiodharma speaker page</a>'
 
-    with open(filepath, "w") as f:
+    with open(filepath, "w", encoding="utf-8") as f:
         f.write(f"""<!DOCTYPE html>
 <html>
 <head>
@@ -133,7 +133,7 @@ def generate_index_html(all_talks, speaker_talks, output_path="talks/index.html"
     talk_table_rows = generate_talk_table_rows(all_talks, relative_path_prefix="./")
     speaker_table_rows = generate_speaker_table_rows(speaker_talks)
 
-    with open(output_path, "w") as f:
+    with open(output_path, "w", encoding="utf-8") as f:
         f.write(
             f"""<!DOCTYPE html>
 <html>
