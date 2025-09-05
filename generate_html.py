@@ -182,26 +182,34 @@ def generate_sitemap(all_talks, speaker_talks, output_dir):
     sitemap_path = os.path.join(output_dir, "sitemap.xml")
     
     urls = []
+    today = datetime.now().strftime('%Y-%m-%d')
     
     # Add main index page
-    urls.append(f"{base_url}/talks/index.html")
+    urls.append({"loc": f"{base_url}/talks/index.html", "lastmod": today})
     
     # Add speaker pages
     for speaker_id in speaker_talks.keys():
-        urls.append(f"{base_url}/talks/speaker/{speaker_id}.html")
+        urls.append({"loc": f"{base_url}/talks/speaker/{speaker_id}.html", "lastmod": today})
         
     # Add talk pages
     for talk in all_talks:
         filename = os.path.basename(talk.filepath)
         html_filename = os.path.splitext(filename)[0] + ".html"
         encoded_filename = urllib.parse.quote(html_filename)
-        urls.append(f"{base_url}/talks/{encoded_filename}")
+        
+        lastmod_timestamp = os.path.getmtime(talk.filepath)
+        lastmod_date = datetime.fromtimestamp(lastmod_timestamp).strftime('%Y-%m-%d')
+        
+        urls.append({"loc": f"{base_url}/talks/{encoded_filename}", "lastmod": lastmod_date})
         
     with open(sitemap_path, "w", encoding="utf-8") as f:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
         f.write('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
-        for url in urls:
-            f.write(f'  <url>\n    <loc>{url}</loc>\n  </url>\n')
+        for url_info in urls:
+            f.write(f'  <url>\n')
+            f.write(f'    <loc>{url_info["loc"]}</loc>\n')
+            f.write(f'    <lastmod>{url_info["lastmod"]}</lastmod>\n')
+            f.write(f'  </url>\n')
         f.write('</urlset>\n')
     logging.info(f"Generated sitemap with {len(urls)} URLs at {sitemap_path}")
 
