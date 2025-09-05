@@ -1,3 +1,15 @@
+---
+date: '2025-06-16'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23212
+- https://www.audiodharma.org/talks/23213
+title: 'Guided Meditation: Being the River of Change; Insight (11) Introduction to
+  Change and Impermanence'
+video_url: https://www.youtube.com/watch?v=MtYPE1aNSwI
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Being the River of Change; Insight (11) Introduction to Change and Impermanence](https://www.youtube.com/watch?v=MtYPE1aNSwI). It likely contains inaccuracies.*
 
 # Guided Meditation: Being the River of Change; Insight (11) Introduction to Change and Impermanence

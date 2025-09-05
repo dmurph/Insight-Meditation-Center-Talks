@@ -1,13 +1,15 @@
 ---
-title: "Guided Medt'n: Sitting with Others; Dharmette: Buddhism Beyond the Lists (2/5) Beautiful Friendship"
-date: "2025-09-02"
-video_url: "https://www.youtube.com/watch?v=69fOIYEMN20"
-speaker: "Diana Clark"
-speaker_url: "https://www.audiodharma.org/speakers/240"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23745
-  - https://www.audiodharma.org/talks/23747
+date: '2025-09-02'
+speaker: Diana Clark
+speaker_url: https://www.audiodharma.org/speakers/240
+talk_urls:
+- https://www.audiodharma.org/talks/23745
+- https://www.audiodharma.org/talks/23747
+title: 'Guided Medt''n: Sitting with Others; Dharmette: Buddhism Beyond the Lists
+  (2/5) Beautiful Friendship'
+video_url: https://www.youtube.com/watch?v=69fOIYEMN20
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Medt'n: Sitting with Others; Dharmette: Buddhism Beyond the Lists (2/5) Beautiful Friendship](https://www.youtube.com/watch?v=69fOIYEMN20). It likely contains inaccuracies.*
 
 # Guided Medt'n: Sitting with Others; Dharmette: Buddhism Beyond the Lists (2/5) Beautiful Friendship

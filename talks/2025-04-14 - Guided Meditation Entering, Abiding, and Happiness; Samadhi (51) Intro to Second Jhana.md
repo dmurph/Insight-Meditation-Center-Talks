@@ -1,13 +1,15 @@
 ---
-title: "Guided Meditation: Entering, Abiding, and Happiness; Samadhi (51) Intro to Second Jhana"
-date: "2025-04-14"
-video_url: "https://www.youtube.com/watch?v=hAmdr9M48Z4"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22731
-  - https://www.audiodharma.org/talks/22730
+date: '2025-04-14'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/22731
+- https://www.audiodharma.org/talks/22730
+title: 'Guided Meditation: Entering, Abiding, and Happiness; Samadhi (51) Intro to
+  Second Jhana'
+video_url: https://www.youtube.com/watch?v=hAmdr9M48Z4
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Entering, Abiding, and Happiness; Samadhi (51) Intro to Second Jhana](https://www.youtube.com/watch?v=hAmdr9M48Z4). It likely contains inaccuracies.*
 
 # Guided Meditation: Entering, Abiding, and Happiness; Samadhi (51) Intro to Second Jhana

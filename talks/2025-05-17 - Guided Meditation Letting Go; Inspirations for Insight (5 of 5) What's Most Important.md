@@ -1,3 +1,15 @@
+---
+date: '2025-05-17'
+speaker: Dawn Neal
+speaker_url: https://www.audiodharma.org/speakers/241
+talk_urls:
+- https://www.audiodharma.org/talks/22980
+- https://www.audiodharma.org/talks/22981
+title: 'Guided Meditation: Letting Go; Inspirations for Insight (5 of 5) What''s Most
+  Important'
+video_url: https://www.youtube.com/watch?v=lNfthEpkrl4
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Letting Go; Inspirations for Insight (5 of 5) What's Most Important](https://www.youtube.com/watch?v=lNfthEpkrl4). It likely contains inaccuracies.*
 
 # Guided Meditation: Letting Go; Inspirations for Insight (5 of 5) What's Most Important

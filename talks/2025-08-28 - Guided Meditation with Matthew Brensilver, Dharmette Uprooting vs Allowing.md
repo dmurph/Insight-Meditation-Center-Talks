@@ -1,3 +1,14 @@
+---
+date: '2025-08-28'
+speaker: Matthew Brensilver
+speaker_url: https://www.audiodharma.org/speakers/231
+talk_urls:
+- https://www.audiodharma.org/talks/23721
+- https://www.audiodharma.org/talks/23722
+title: 'Guided Meditation with Matthew Brensilver, Dharmette: Uprooting vs Allowing'
+video_url: https://www.youtube.com/watch?v=rV6ebWWserA
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation with Matthew Brensilver, Dharmette: Uprooting vs Allowing](https://www.youtube.com/watch?v=rV6ebWWserA). It likely contains inaccuracies.*
 
 The following talk was given by Matthew Brensilver at the Insight Meditation Center in Redwood City, California. Please visit website [www.audiodharma.org](https://www.audiodharma.org) to find the authoritative record of this talk.

@@ -1,3 +1,13 @@
+---
+date: '2025-06-24'
+speaker: Maria Straatmann
+speaker_url: https://www.audiodharma.org/speakers/142
+talk_urls:
+- https://www.audiodharma.org/talks/23274
+title: The Spiritual Life with Maria Straatman
+video_url: https://www.youtube.com/watch?v=ZVWrAA7rwyo
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [The Spiritual Life with Maria Straatman](https://www.youtube.com/watch?v=ZVWrAA7rwyo). It likely contains inaccuracies.*
 
 # The Spiritual Life with Maria Straatman

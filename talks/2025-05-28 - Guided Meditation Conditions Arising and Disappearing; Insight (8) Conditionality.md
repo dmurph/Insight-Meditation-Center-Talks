@@ -1,3 +1,14 @@
+---
+date: '2025-05-28'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23049
+- https://www.audiodharma.org/talks/23050
+title: 'Guided Meditation: Conditions Arising and Disappearing; Insight (8) Conditionality'
+video_url: https://www.youtube.com/watch?v=ogdDPAOaiSM
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Conditions Arising and Disappearing; Insight (8) Conditionality](https://www.youtube.com/watch?v=ogdDPAOaiSM). It likely contains inaccuracies.*
 
 # Guided Meditation: Conditions Arising and Disappearing; Insight (8) Conditionality

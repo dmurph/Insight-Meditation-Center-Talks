@@ -1,3 +1,14 @@
+---
+date: '2025-05-22'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23007
+- https://www.audiodharma.org/talks/23006
+title: 'Guided Meditation: Meditating with Beauty; Insight (4) Intelligent Awareness'
+video_url: https://www.youtube.com/watch?v=kyAUiSV5arE
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Meditating with Beauty; Insight (4) Intelligent Awareness](https://www.youtube.com/watch?v=kyAUiSV5arE). It likely contains inaccuracies.*
 
 # Guided Meditation: Meditating with Beauty; Insight (4) Intelligent Awareness

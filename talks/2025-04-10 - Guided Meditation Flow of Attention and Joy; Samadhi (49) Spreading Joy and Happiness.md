@@ -1,13 +1,15 @@
 ---
-title: "Guided Meditation: Flow of Attention and Joy; Samadhi (49) Spreading Joy and Happiness"
-date: "2025-04-10"
-video_url: "https://www.youtube.com/watch?v=-eWvFT5xsrA"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22695
-  - https://www.audiodharma.org/talks/22696
+date: '2025-04-10'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/22695
+- https://www.audiodharma.org/talks/22696
+title: 'Guided Meditation: Flow of Attention and Joy; Samadhi (49) Spreading Joy and
+  Happiness'
+video_url: https://www.youtube.com/watch?v=-eWvFT5xsrA
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Flow of Attention and Joy; Samadhi (49) Spreading Joy and Happiness](https://www.youtube.com/watch?v=-eWvFT5xsrA). It likely contains inaccuracies.*
 
 # Guided Meditation: Flow of Attention and Joy; Samadhi (49) Spreading Joy and Happiness

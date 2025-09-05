@@ -1,13 +1,15 @@
 ---
-title: "Guided Meditation: Meditating, Not Being Somemone; Insight (32) This I am Not."
-date: "2025-08-05"
-video_url: "https://www.youtube.com/watch?v=xhRq7Cu70YU"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23525
-  - https://www.audiodharma.org/talks/23526
+date: '2025-08-05'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23525
+- https://www.audiodharma.org/talks/23526
+title: 'Guided Meditation: Meditating, Not Being Somemone; Insight (32) This I am
+  Not.'
+video_url: https://www.youtube.com/watch?v=xhRq7Cu70YU
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Meditating, Not Being Somemone; Insight (32) This I am Not.](https://www.youtube.com/watch?v=xhRq7Cu70YU). It likely contains inaccuracies.*
 
 # Guided Meditation: Meditating, Not Being Somemone; Insight (32) This I am Not.

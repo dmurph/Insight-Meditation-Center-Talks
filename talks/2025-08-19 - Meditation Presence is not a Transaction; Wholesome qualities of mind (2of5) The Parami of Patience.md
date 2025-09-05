@@ -1,13 +1,15 @@
 ---
-title: "Meditation: Presence is not a Transaction; Wholesome qualities of mind (2of5) The Parami of Patience"
-date: "2025-08-19"
-video_url: "https://www.youtube.com/watch?v=tVxLAQqJTuk"
-speaker: "Matthew Brensilver"
-speaker_url: "https://www.audiodharma.org/speakers/231"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23655
-  - https://www.audiodharma.org/talks/23657
+date: '2025-08-19'
+speaker: Matthew Brensilver
+speaker_url: https://www.audiodharma.org/speakers/231
+talk_urls:
+- https://www.audiodharma.org/talks/23655
+- https://www.audiodharma.org/talks/23657
+title: 'Meditation: Presence is not a Transaction; Wholesome qualities of mind (2of5)
+  The Parami of Patience'
+video_url: https://www.youtube.com/watch?v=tVxLAQqJTuk
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Meditation: Presence is not a Transaction; Wholesome qualities of mind (2of5) The Parami of Patience](https://www.youtube.com/watch?v=tVxLAQqJTuk). It likely contains inaccuracies.*
 
 # Meditation: Presence is not a Transaction; Wholesome qualities of mind (2of5) The Parami of Patience

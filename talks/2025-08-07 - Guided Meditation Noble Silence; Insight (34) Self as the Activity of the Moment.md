@@ -1,13 +1,15 @@
 ---
-title: "Guided Meditation: Noble Silence; Insight (34) Self as the Activity of the Moment"
-date: "2025-08-07"
-video_url: "https://www.youtube.com/watch?v=NKrmaq5a5cM"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23574
-  - https://www.audiodharma.org/talks/23575
+date: '2025-08-07'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23574
+- https://www.audiodharma.org/talks/23575
+title: 'Guided Meditation: Noble Silence; Insight (34) Self as the Activity of the
+  Moment'
+video_url: https://www.youtube.com/watch?v=NKrmaq5a5cM
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Noble Silence; Insight (34) Self as the Activity of the Moment](https://www.youtube.com/watch?v=NKrmaq5a5cM). It likely contains inaccuracies.*
 
 # Guided Meditation: Noble Silence; Insight (34) Self as the Activity of the Moment

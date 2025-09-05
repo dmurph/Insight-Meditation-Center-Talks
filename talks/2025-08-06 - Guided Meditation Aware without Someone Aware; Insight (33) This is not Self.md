@@ -1,13 +1,14 @@
 ---
-title: "Guided Meditation: Aware without Someone Aware; Insight (33) This is not Self"
-date: "2025-08-06"
-video_url: "https://www.youtube.com/watch?v=CTfzxEqspgE"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23536
-  - https://www.audiodharma.org/talks/23537
+date: '2025-08-06'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23536
+- https://www.audiodharma.org/talks/23537
+title: 'Guided Meditation: Aware without Someone Aware; Insight (33) This is not Self'
+video_url: https://www.youtube.com/watch?v=CTfzxEqspgE
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Aware without Someone Aware; Insight (33) This is not Self](https://www.youtube.com/watch?v=CTfzxEqspgE). It likely contains inaccuracies.*
 
 # Guided Meditation: Aware without Someone Aware; Insight (33) This is not Self

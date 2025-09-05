@@ -1,3 +1,13 @@
+---
+date: '2025-06-01'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23063
+title: Mindfulness of Litening - Gil Fronsdal
+video_url: https://www.youtube.com/watch?v=x5lXVCWS7oY
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Mindfulness of Listening - Gil Fronsdal](https://www.youtube.com/watch?v=x5lXVCWS7oY). It likely contains inaccuracies.*
 
 # Mindfulness of Listening - Gil Fronsdal

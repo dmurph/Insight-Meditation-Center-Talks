@@ -1,3 +1,14 @@
+---
+date: '2025-07-14'
+speaker: Ying Chen, 陈颖
+speaker_url: https://www.audiodharma.org/speakers/333
+talk_urls:
+- https://www.audiodharma.org/talks/23499
+- https://www.audiodharma.org/talks/23500
+title: 'Guided Meditation: Stepping into the flow; Crossing the flood (1/5) Flood'
+video_url: https://www.youtube.com/watch?v=3PgG19woshk
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Stepping into the flow; Crossing the flood (1/5) Flood](https://www.youtube.com/watch?v=3PgG19woshk). It likely contains inaccuracies.*
 
 # Guided Meditation: Stepping into the flow; Crossing the flood (1/5) Flood

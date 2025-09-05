@@ -1,3 +1,15 @@
+---
+date: '2025-07-07'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23343
+- https://www.audiodharma.org/talks/23344
+title: 'Guided Meditation: Meeting Suffering Respectfully; Insight (21) Three Kinds
+  of Suffering'
+video_url: https://www.youtube.com/watch?v=dLQDJ7gDt-o
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Meeting Suffering Respectfully; Insight (21) Three Kinds of Suffering](https://www.youtube.com/watch?v=dLQDJ7gDt-o). It likely contains inaccuracies.*
 
 # Guided Meditation: Meeting Suffering Respectfully; Insight (21) Three Kinds of Suffering

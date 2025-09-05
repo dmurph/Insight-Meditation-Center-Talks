@@ -1,3 +1,14 @@
+---
+date: '2025-06-16'
+speaker: Andrea Fella
+speaker_url: https://www.audiodharma.org/speakers/2
+talk_urls:
+- https://www.audiodharma.org/talks/23208
+- https://www.audiodharma.org/talks/23209
+title: 'Guided Meditation: Allowing; Talk : Equanimity? Now?'
+video_url: https://www.youtube.com/watch?v=bAKeJODxFL0
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Allowing; Talk : Equanimity? Now?](https://www.youtube.com/watch?v=bAKeJODxFL0). It likely contains inaccuracies.*
 
 # Guided Meditation: Allowing; Talk : Equanimity? Now?

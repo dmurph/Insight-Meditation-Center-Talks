@@ -1,3 +1,15 @@
+---
+date: '2025-06-23'
+speaker: Dawn Neal
+speaker_url: https://www.audiodharma.org/speakers/241
+talk_urls:
+- https://www.audiodharma.org/talks/None
+- https://www.audiodharma.org/talks/None
+title: 'Guided Meditation: Settling Sensations; Insight & the 5 Elements (1/5): Intro
+  & Earth'
+video_url: https://www.youtube.com/watch?v=_QaLZ6GcQNo
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Settling Sensations; Insight & the 5 Elements (1/5): Intro & Earth](https://www.youtube.com/watch?v=_QaLZ6GcQNo). It likely contains inaccuracies.*
 
 # Guided Meditation: Settling Sensations; Insight & the 5 Elements (1/5): Intro & Earth

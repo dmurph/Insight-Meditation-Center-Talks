@@ -1,12 +1,13 @@
 ---
-title: "The Unshakeable Heart: Finding Freedom in All Conditions ~ Diana Clark"
-date: "2025-08-19"
-video_url: "https://www.youtube.com/watch?v=Vq8JAsvd4G8"
-speaker: "Diana Clark"
-speaker_url: "https://www.audiodharma.org/speakers/240"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23645
+date: '2025-08-19'
+speaker: Diana Clark
+speaker_url: https://www.audiodharma.org/speakers/240
+talk_urls:
+- https://www.audiodharma.org/talks/23645
+title: 'The Unshakeable Heart: Finding Freedom in All Conditions ~ Diana Clark'
+video_url: https://www.youtube.com/watch?v=Vq8JAsvd4G8
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [The Unshakeable Heart: Finding Freedom in All Conditions ~ Diana Clark](https://www.youtube.com/watch?v=Vq8JAsvd4G8). It likely contains inaccuracies.*
 
 # The Unshakeable Heart: Finding Freedom in All Conditions ~ Diana Clark

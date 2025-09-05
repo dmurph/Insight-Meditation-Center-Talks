@@ -1,13 +1,15 @@
 ---
-title: "Meditation: Renunciation and Dana; Wholesome Qualities of Mind (4 of 5); The Parami of Metta"
-date: "2025-08-21"
-video_url: "https://www.youtube.com/watch?v=OVrX49OQ3qA"
-speaker: "Matthew Brensilver"
-speaker_url: "https://www.audiodharma.org/speakers/231"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23673
-  - https://www.audiodharma.org/talks/23674
+date: '2025-08-21'
+speaker: Matthew Brensilver
+speaker_url: https://www.audiodharma.org/speakers/231
+talk_urls:
+- https://www.audiodharma.org/talks/23673
+- https://www.audiodharma.org/talks/23674
+title: 'Meditation: Renunciation and Dana; Wholesome Qualities of Mind (4 of 5); The
+  Parami of Metta'
+video_url: https://www.youtube.com/watch?v=OVrX49OQ3qA
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Meditation: Renunciation and Dana; Wholesome Qualities of Mind (4 of 5); The Parami of Metta](https://www.youtube.com/watch?v=OVrX49OQ3qA). It likely contains inaccuracies.*
 
 # Meditation: Renunciation and Dana; Wholesome Qualities of Mind (4 of 5); The Parami of Metta

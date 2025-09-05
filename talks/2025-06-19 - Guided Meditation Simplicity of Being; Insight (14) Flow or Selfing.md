@@ -1,3 +1,14 @@
+---
+date: '2025-06-19'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23237
+- https://www.audiodharma.org/talks/23238
+title: 'Guided Meditation: Simplicity of Being; Insight (14) Flow or Selfing'
+video_url: https://www.youtube.com/watch?v=-W1XgUo9ULM
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Simplicity of Being; Insight (14) Flow or Selfing](https://www.youtube.com/watch?v=-W1XgUo9ULM). It likely contains inaccuracies.*
 
 # Guided Meditation: Simplicity of Being; Insight (14) Flow or Selfing

@@ -1,3 +1,14 @@
+---
+date: '2025-06-10'
+speaker: Kim Allen
+speaker_url: https://www.audiodharma.org/speakers/4
+talk_urls:
+- https://www.audiodharma.org/talks/23172
+title: 'Meditation: Restlessness; Dharmette: Animal Similes (2 of 5) Monkey – Foolishness
+  and Investigation'
+video_url: https://www.youtube.com/watch?v=inc88El5_EM
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Meditation: Restlessness; Dharmette: Animal Similes (2 of 5) Monkey – Foolishness and Investigation](https://www.youtube.com/watch?v=inc88El5_EM). It likely contains inaccuracies.*
 
 # Meditation: Restlessness; Dharmette: Animal Similes (2 of 5) Monkey – Foolishness and Investigation

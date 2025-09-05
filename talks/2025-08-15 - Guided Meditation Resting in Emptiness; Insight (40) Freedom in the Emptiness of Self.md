@@ -1,13 +1,15 @@
 ---
-title: "Guided Meditation: Resting in Emptiness; Insight (40) Freedom in the Emptiness of Self"
-date: "2025-08-15"
-video_url: "https://www.youtube.com/watch?v=4eDpAZ-gD8c"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23619
-  - https://www.audiodharma.org/talks/23620
+date: '2025-08-15'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23619
+- https://www.audiodharma.org/talks/23620
+title: 'Guided Meditation: Resting in Emptiness; Insight (40) Freedom in the Emptiness
+  of Self'
+video_url: https://www.youtube.com/watch?v=4eDpAZ-gD8c
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Resting in Emptiness; Insight (40) Freedom in the Emptiness of Self](https://www.youtube.com/watch?v=4eDpAZ-gD8c). It likely contains inaccuracies.*
 
 # Guided Meditation: Resting in Emptiness; Insight (40) Freedom in the Emptiness of Self

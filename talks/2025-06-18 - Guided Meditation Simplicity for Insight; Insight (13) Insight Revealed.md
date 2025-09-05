@@ -1,3 +1,14 @@
+---
+date: '2025-06-18'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23231
+- https://www.audiodharma.org/talks/23232
+title: 'Guided Meditation: Simplicity for Insight; Insight (13) Insight Revealed'
+video_url: https://www.youtube.com/watch?v=FjA1cr5FbK4
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Simplicity for Insight; Insight (13) Insight Revealed](https://www.youtube.com/watch?v=FjA1cr5FbK4). It likely contains inaccuracies.*
 
 # Guided Meditation: Simplicity for Insight; Insight (13) Insight Revealed

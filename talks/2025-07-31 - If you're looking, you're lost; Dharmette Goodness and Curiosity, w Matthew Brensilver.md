@@ -1,13 +1,15 @@
 ---
-title: "If you're looking, you're lost; Dharmette: Goodness and Curiosity, w Matthew Brensilver"
-date: "2025-07-31"
-video_url: "https://www.youtube.com/watch?v=DZgjDBEef9w"
-speaker: "Matthew Brensilver"
-speaker_url: "https://www.audiodharma.org/speakers/231"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23490
-  - https://www.audiodharma.org/talks/23491
+date: '2025-07-31'
+speaker: Matthew Brensilver
+speaker_url: https://www.audiodharma.org/speakers/231
+talk_urls:
+- https://www.audiodharma.org/talks/23490
+- https://www.audiodharma.org/talks/23491
+title: 'If you''re looking, you''re lost; Dharmette: Goodness and Curiosity, w Matthew
+  Brensilver'
+video_url: https://www.youtube.com/watch?v=DZgjDBEef9w
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [If you're looking, you're lost; Dharmette: Goodness and Curiosity, w Matthew Brensilver](https://www.youtube.com/watch?v=DZgjDBEef9w). It likely contains inaccuracies.*
 
 # If you're looking, you're lost; Dharmette: Goodness and Curiosity, w Matthew Brensilver

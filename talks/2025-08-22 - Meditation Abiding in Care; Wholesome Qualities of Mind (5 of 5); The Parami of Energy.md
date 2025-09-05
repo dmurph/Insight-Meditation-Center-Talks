@@ -1,13 +1,15 @@
 ---
-title: "Meditation: Abiding in Care; Wholesome Qualities of Mind (5 of 5); The Parami of Energy"
-date: "2025-08-22"
-video_url: "https://www.youtube.com/watch?v=O7id1t6y9As"
-speaker: "Matthew Brensilver"
-speaker_url: "https://www.audiodharma.org/speakers/231"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23687
-  - https://www.audiodharma.org/talks/23688
+date: '2025-08-22'
+speaker: Matthew Brensilver
+speaker_url: https://www.audiodharma.org/speakers/231
+talk_urls:
+- https://www.audiodharma.org/talks/23687
+- https://www.audiodharma.org/talks/23688
+title: 'Meditation: Abiding in Care; Wholesome Qualities of Mind (5 of 5); The Parami
+  of Energy'
+video_url: https://www.youtube.com/watch?v=O7id1t6y9As
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Meditation: Abiding in Care; Wholesome Qualities of Mind (5 of 5); The Parami of Energy](https://www.youtube.com/watch?v=O7id1t6y9As). It likely contains inaccuracies.*
 
 # Meditation: Abiding in Care; Wholesome Qualities of Mind (5 of 5); The Parami of Energy

@@ -1,13 +1,15 @@
 ---
-title: "Tuning into Generosity of Spirit; Sangha 4/5: Four Means of Embracing Others (Saṅgaha Sutta)"
-date: "2025-05-01"
-video_url: "https://www.youtube.com/watch?v=mLz131oF2n0"
-speaker: "Nikki Mirghafori"
-speaker_url: "https://www.audiodharma.org/speakers/229"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22864
-  - https://www.audiodharma.org/talks/22865
+date: '2025-05-01'
+speaker: Nikki Mirghafori
+speaker_url: https://www.audiodharma.org/speakers/229
+talk_urls:
+- https://www.audiodharma.org/talks/22864
+- https://www.audiodharma.org/talks/22865
+title: 'Tuning into Generosity of Spirit; Sangha 4/5: Four Means of Embracing Others
+  (Saṅgaha Sutta)'
+video_url: https://www.youtube.com/watch?v=mLz131oF2n0
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Tuning into Generosity of Spirit; Sangha 4/5: Four Means of Embracing Others (Saṅgaha Sutta)](https://www.youtube.com/watch?v=mLz131oF2n0). It likely contains inaccuracies.*
 
 # Tuning into Generosity of Spirit; Sangha 4/5: Four Means of Embracing Others (Saṅgaha Sutta)

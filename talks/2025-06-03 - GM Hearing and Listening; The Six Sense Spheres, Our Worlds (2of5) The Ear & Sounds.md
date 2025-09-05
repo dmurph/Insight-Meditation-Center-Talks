@@ -1,3 +1,15 @@
+---
+date: '2025-06-03'
+speaker: Shelley Gault
+speaker_url: https://www.audiodharma.org/speakers/260
+talk_urls:
+- https://www.audiodharma.org/talks/23101
+- https://www.audiodharma.org/talks/23102
+title: 'GM: Hearing and Listening; The Six Sense Spheres, Our Worlds (2of5) The Ear
+  & Sounds'
+video_url: https://www.youtube.com/watch?v=1xR12Ned2cw
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [GM: Hearing and Listening; The Six Sense Spheres, Our Worlds (2of5) The Ear & Sounds](https://www.youtube.com/watch?v=1xR12Ned2cw). It likely contains inaccuracies.*
 
 # GM: Hearing and Listening; The Six Sense Spheres, Our Worlds (2of5) The Ear & Sounds

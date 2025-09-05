@@ -1,12 +1,14 @@
 ---
-title: "Gratitude for Noble Friends/Benefactors; Sangha 1/5: Power of Spiritual Friendship - Kalyāṇamittatā"
-date: "2025-04-28"
-video_url: "https://www.youtube.com/watch?v=LUi0agcg5LQ"
-speaker: "Nikki Mirghafori"
-speaker_url: "https://www.audiodharma.org/speakers/229"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22826
+date: '2025-04-28'
+speaker: Nikki Mirghafori
+speaker_url: https://www.audiodharma.org/speakers/229
+talk_urls:
+- https://www.audiodharma.org/talks/22826
+title: 'Gratitude for Noble Friends/Benefactors; Sangha 1/5: Power of Spiritual Friendship
+  - Kalyāṇamittatā'
+video_url: https://www.youtube.com/watch?v=LUi0agcg5LQ
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Gratitude for Noble Friends/Benefactors; Sangha 1/5: Power of Spiritual Friendship - Kalyāṇamittatā](https://www.youtube.com/watch?v=LUi0agcg5LQ). It likely contains inaccuracies.*
 
 # Gratitude for Noble Friends/Benefactors; Sangha 1/5: Power of Spiritual Friendship - Kalyāṇamittatā

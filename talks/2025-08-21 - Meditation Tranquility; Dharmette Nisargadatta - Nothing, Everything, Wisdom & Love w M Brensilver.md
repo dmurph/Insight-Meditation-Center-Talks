@@ -1,13 +1,15 @@
 ---
-title: "Meditation: Tranquility; Dharmette: Nisargadatta - Nothing, Everything, Wisdom & Love w M Brensilver"
-date: "2025-08-21"
-video_url: "https://www.youtube.com/watch?v=1psMqFnREEY"
-speaker: "Matthew Brensilver"
-speaker_url: "https://www.audiodharma.org/speakers/231"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23669
-  - https://www.audiodharma.org/talks/23668
+date: '2025-08-21'
+speaker: Matthew Brensilver
+speaker_url: https://www.audiodharma.org/speakers/231
+talk_urls:
+- https://www.audiodharma.org/talks/23669
+- https://www.audiodharma.org/talks/23668
+title: 'Meditation: Tranquility; Dharmette: Nisargadatta - Nothing, Everything, Wisdom
+  & Love w M Brensilver'
+video_url: https://www.youtube.com/watch?v=1psMqFnREEY
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Meditation: Tranquility; Dharmette: Nisargadatta - Nothing, Everything, Wisdom & Love w M Brensilver](https://www.youtube.com/watch?v=1psMqFnREEY). It likely contains inaccuracies.*
 
 # Meditation: Tranquility; Dharmette: Nisargadatta - Nothing, Everything, Wisdom & Love w M Brensilver

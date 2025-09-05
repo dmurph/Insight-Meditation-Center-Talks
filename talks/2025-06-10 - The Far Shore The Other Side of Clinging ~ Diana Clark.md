@@ -1,3 +1,13 @@
+---
+date: '2025-06-10'
+speaker: Diana Clark
+speaker_url: https://www.audiodharma.org/speakers/240
+talk_urls:
+- https://www.audiodharma.org/talks/23160
+title: 'The Far Shore: The Other Side of Clinging ~ Diana Clark'
+video_url: https://www.youtube.com/watch?v=nMr8-eEDjNI
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [The Far Shore: The Other Side of Clinging ~ Diana Clark](https://www.youtube.com/watch?v=nMr8-eEDjNI). It likely contains inaccuracies.*
 
 # The Far Shore: The Other Side of Clinging

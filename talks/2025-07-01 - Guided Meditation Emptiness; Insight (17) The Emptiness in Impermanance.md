@@ -1,3 +1,12 @@
+---
+date: '2025-07-01'
+speaker: Unknown
+speaker_url: ''
+talk_urls: []
+title: 'Guided Meditation: Emptiness; Insight (17) The Emptiness in Impermanance'
+video_url: https://www.youtube.com/watch?v=m4krk4bSy-I
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Emptiness; Insight (17) The Emptiness in Impermanance](https://www.youtube.com/watch?v=m4krk4bSy-I). It likely contains inaccuracies.*
 
 # Guided Meditation: Emptiness; Insight (17) The Emptiness in Impermanance

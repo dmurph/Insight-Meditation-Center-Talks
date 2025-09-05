@@ -1,13 +1,15 @@
 ---
-title: "Guided Meditation - letting go of ideas of limitation; Dharmette: Death at the Center of Life"
-date: "2025-07-24"
-video_url: "https://www.youtube.com/watch?v=WQGw_y9beCw"
-speaker: "Matthew Brensilver"
-speaker_url: "https://www.audiodharma.org/speakers/231"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23459
-  - https://www.audiodharma.org/talks/23460
+date: '2025-07-24'
+speaker: Matthew Brensilver
+speaker_url: https://www.audiodharma.org/speakers/231
+talk_urls:
+- https://www.audiodharma.org/talks/23459
+- https://www.audiodharma.org/talks/23460
+title: 'Guided Meditation - letting go of ideas of limitation; Dharmette: Death at
+  the Center of Life'
+video_url: https://www.youtube.com/watch?v=WQGw_y9beCw
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation - letting go of ideas of limitation; Dharmette: Death at the Center of Life](https://www.youtube.com/watch?v=WQGw_y9beCw). It likely contains inaccuracies.*
 
 # Guided Meditation - letting go of ideas of limitation; Dharmette: Death at the Center of Life

@@ -1,3 +1,13 @@
+---
+date: '2025-05-14'
+speaker: Unknown
+speaker_url: ''
+talk_urls: []
+title: 'Guided Meditation: Balanced Awareness; Inspirations for Insight (3 of 5) Insight
+  in Difficulty'
+video_url: https://www.youtube.com/watch?v=T-SotQo8IeE
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Balanced Awareness; Inspirations for Insight (3 of 5) Insight in Difficulty](https://www.youtube.com/watch?v=T-SotQo8IeE). It likely contains inaccuracies.*
 
 # Guided Meditation: Balanced Awareness; Inspirations for Insight (3 of 5) Insight in Difficulty

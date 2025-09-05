@@ -1,3 +1,15 @@
+---
+date: '2025-06-11'
+speaker: Kim Allen
+speaker_url: https://www.audiodharma.org/speakers/4
+talk_urls:
+- https://www.audiodharma.org/talks/23176
+- https://www.audiodharma.org/talks/23177
+title: 'Meditation: Doing the Practice Together; Dharmette: Animal Similes (3 of 5)
+  Cow – Sangha and Trust'
+video_url: https://www.youtube.com/watch?v=_2ZONs5a4GM
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Meditation: Doing the Practice Together; Dharmette: Animal Similes (3 of 5) Cow – Sangha and Trust](https://www.youtube.com/watch?v=_2ZONs5a4GM). It likely contains inaccuracies.*
 
 # Meditation: Doing the Practice Together; Dharmette: Animal Similes (3 of 5) Cow – Sangha and Trust

@@ -1,13 +1,15 @@
 ---
-title: "Guided Meditation: Content to Practice with What Is; Insight (39) The Samadhi of Not-Self"
-date: "2025-08-14"
-video_url: "https://www.youtube.com/watch?v=8VkMlyBgTko"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23616
-  - https://www.audiodharma.org/talks/23617
+date: '2025-08-14'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23616
+- https://www.audiodharma.org/talks/23617
+title: 'Guided Meditation: Content to Practice with What Is; Insight (39) The Samadhi
+  of Not-Self'
+video_url: https://www.youtube.com/watch?v=8VkMlyBgTko
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Content to Practice with What Is; Insight (39) The Samadhi of Not-Self](https://www.youtube.com/watch?v=8VkMlyBgTko). It likely contains inaccuracies.*
 
 # Guided Meditation: Content to Practice with What Is; Insight (39) The Samadhi of Not-Self

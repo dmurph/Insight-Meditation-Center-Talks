@@ -1,12 +1,13 @@
 ---
-title: "Guided Meditation: Peace; Samadhi (55) Peace in Third Jhana."
-date: "2025-04-18"
-video_url: "https://www.youtube.com/watch?v=eFokD7i2muo"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22747
+date: '2025-04-18'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/22747
+title: 'Guided Meditation: Peace; Samadhi (55) Peace in Third Jhana.'
+video_url: https://www.youtube.com/watch?v=eFokD7i2muo
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Peace; Samadhi (55) Peace in Third Jhana.](https://www.youtube.com/watch?v=eFokD7i2muo). It likely contains inaccuracies.*
 
 # Guided Meditation: Peace; Samadhi (55) Peace in Third Jhana.

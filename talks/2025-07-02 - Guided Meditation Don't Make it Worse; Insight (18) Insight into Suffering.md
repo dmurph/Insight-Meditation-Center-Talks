@@ -1,3 +1,14 @@
+---
+date: '2025-07-02'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23312
+- https://www.audiodharma.org/talks/23313
+title: 'Guided Meditation: Don''t Make it Worse; Insight (18) Insight into Suffering'
+video_url: https://www.youtube.com/watch?v=poqkkmAZ9m4
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Don't Make it Worse; Insight (18) Insight into Suffering](https://www.youtube.com/watch?v=poqkkmAZ9m4). It likely contains inaccuracies.*
 
 # Guided Meditation: Don't Make it Worse; Insight (18) Insight into Suffering

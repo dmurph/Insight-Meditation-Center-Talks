@@ -1,13 +1,15 @@
 ---
-title: "Guided Meditation: Attuning to our efforts; Crossing the flood (4/5) Effects of hurrying & tarrying"
-date: "2025-07-17"
-video_url: "https://www.youtube.com/watch?v=2LHioXAURcA"
-speaker: "Ying Chen, 陈颖"
-speaker_url: "https://www.audiodharma.org/speakers/333"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23419
-  - https://www.audiodharma.org/talks/23420
+date: '2025-07-17'
+speaker: Ying Chen, 陈颖
+speaker_url: https://www.audiodharma.org/speakers/333
+talk_urls:
+- https://www.audiodharma.org/talks/23419
+- https://www.audiodharma.org/talks/23420
+title: 'Guided Meditation: Attuning to our efforts; Crossing the flood (4/5) Effects
+  of hurrying & tarrying'
+video_url: https://www.youtube.com/watch?v=2LHioXAURcA
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Attuning to our efforts; Crossing the flood (4/5) Effects of hurrying & tarrying](https://www.youtube.com/watch?v=2LHioXAURcA). It likely contains inaccuracies.*
 
 # Guided Meditation: Attuning to our efforts; Crossing the flood (4/5) Effects of hurrying & tarrying

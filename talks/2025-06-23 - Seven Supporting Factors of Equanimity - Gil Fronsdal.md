@@ -1,3 +1,12 @@
+---
+date: '2025-06-23'
+speaker: Unknown
+speaker_url: ''
+talk_urls: []
+title: Seven Supporting Factors of Equanimity - Gil Fronsdal
+video_url: https://www.youtube.com/watch?v=2cdrPPIfIrE
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Seven Supporting Factors of Equanimity - Gil Fronsdal](https://www.youtube.com/watch?v=2cdrPPIfIrE). It likely contains inaccuracies.*
 
 # Seven Supporting Factors of Equanimity - Gil Fronsdal

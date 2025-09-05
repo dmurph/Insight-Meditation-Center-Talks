@@ -1,13 +1,14 @@
 ---
-title: "Guided Meditation: Nothing Extra; Insight (31) Mine Without Craving"
-date: "2025-08-04"
-video_url: "https://www.youtube.com/watch?v=qlo5mWjUUT4"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23513
-  - https://www.audiodharma.org/talks/23514
+date: '2025-08-04'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23513
+- https://www.audiodharma.org/talks/23514
+title: 'Guided Meditation: Nothing Extra; Insight (31) Mine Without Craving'
+video_url: https://www.youtube.com/watch?v=qlo5mWjUUT4
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Nothing Extra; Insight (31) Mine Without Craving](https://www.youtube.com/watch?v=qlo5mWjUUT4). It likely contains inaccuracies.*
 
 # Guided Meditation: Nothing Extra; Insight (31) Mine Without Craving

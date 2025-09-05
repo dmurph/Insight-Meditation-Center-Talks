@@ -1,12 +1,13 @@
 ---
-title: "Medt'n: Be Here;  Dharmette: Buddhism Beyond the Lists (4/5): Coming to Our Senses"
-date: "2025-09-04"
-video_url: "https://www.youtube.com/watch?v=9sV117lN0pw"
-speaker: "Unknown"
-speaker_url: ""
-audiodharma_talks:
-
+date: '2025-09-04'
+speaker: Unknown
+speaker_url: ''
+talk_urls: []
+title: 'Medt''n: Be Here;  Dharmette: Buddhism Beyond the Lists (4/5): Coming to Our
+  Senses'
+video_url: https://www.youtube.com/watch?v=9sV117lN0pw
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Medt'n: Be Here; Dharmette: Buddhism Beyond the Lists (4/5): Coming to Our Senses](https://www.youtube.com/watch?v=9sV117lN0pw). It likely contains inaccuracies.*
 
 # Medt'n: Be Here; Dharmette: Buddhism Beyond the Lists (4/5): Coming to Our Senses

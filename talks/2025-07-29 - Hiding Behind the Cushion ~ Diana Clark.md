@@ -1,12 +1,13 @@
 ---
-title: "Hiding Behind the Cushion ~ Diana Clark"
-date: "2025-07-29"
-video_url: "https://www.youtube.com/watch?v=Kr0Dp5pAYZ0"
-speaker: "Diana Clark"
-speaker_url: "https://www.audiodharma.org/speakers/240"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23477
+date: '2025-07-29'
+speaker: Diana Clark
+speaker_url: https://www.audiodharma.org/speakers/240
+talk_urls:
+- https://www.audiodharma.org/talks/23477
+title: Hiding Behind the Cushion ~ Diana Clark
+video_url: https://www.youtube.com/watch?v=Kr0Dp5pAYZ0
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Hiding Behind the Cushion ~ Diana Clark](https://www.youtube.com/watch?v=Kr0Dp5pAYZ0). It likely contains inaccuracies.*
 
 # Hiding Behind the Cushion ~ Diana Clark

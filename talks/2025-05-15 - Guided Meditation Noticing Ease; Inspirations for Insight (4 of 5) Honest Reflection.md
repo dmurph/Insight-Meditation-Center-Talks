@@ -1,3 +1,15 @@
+---
+date: '2025-05-15'
+speaker: Dawn Neal
+speaker_url: https://www.audiodharma.org/speakers/241
+talk_urls:
+- https://www.audiodharma.org/talks/22969
+- https://www.audiodharma.org/talks/22970
+title: 'Guided Meditation: Noticing Ease; Inspirations for Insight (4 of 5) Honest
+  Reflection'
+video_url: https://www.youtube.com/watch?v=4m6bp_13UlY
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Noticing Ease; Inspirations for Insight (4 of 5) Honest Reflection](https://www.youtube.com/watch?v=4m6bp_13UlY). It likely contains inaccuracies.*
 
 # Guided Meditation: Noticing Ease; Inspirations for Insight (4 of 5) Honest Reflection

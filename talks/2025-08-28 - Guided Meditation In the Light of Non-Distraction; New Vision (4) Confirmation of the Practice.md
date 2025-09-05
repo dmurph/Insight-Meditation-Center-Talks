@@ -1,13 +1,15 @@
 ---
-title: "Guided Meditation: In the Light of Non-Distraction; New Vision (4) Confirmation of the Practice"
-date: "2025-08-28"
-video_url: "https://www.youtube.com/watch?v=i_uRN4mCLSs"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23723
-  - https://www.audiodharma.org/talks/23724
+date: '2025-08-28'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23723
+- https://www.audiodharma.org/talks/23724
+title: 'Guided Meditation: In the Light of Non-Distraction; New Vision (4) Confirmation
+  of the Practice'
+video_url: https://www.youtube.com/watch?v=i_uRN4mCLSs
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: In the Light of Non-Distraction; New Vision (4) Confirmation of the Practice](https://www.youtube.com/watch?v=i_uRN4mCLSs). It likely contains inaccuracies.*
 
 # Guided Meditation: In the Light of Non-Distraction; New Vision (4) Confirmation of the Practice

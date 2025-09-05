@@ -1,3 +1,16 @@
+---
+date: '2025-06-09'
+speaker: Kim Allen
+speaker_url: https://www.audiodharma.org/speakers/4
+talk_urls:
+- https://www.audiodharma.org/talks/23171
+- https://www.audiodharma.org/talks/23169
+- https://www.audiodharma.org/talks/23170
+title: 'Guided Meditation: The Safety of Mindfulness; Animal Similes (1 of 5): Quail
+  - Finding Safety'
+video_url: https://www.youtube.com/watch?v=jkXmUsD1g-k
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: The Safety of Mindfulness; Animal Similes (1 of 5): Quail - Finding Safety](https://www.youtube.com/watch?v=jkXmUsD1g-k). It likely contains inaccuracies.*
 
 # Guided Meditation: The Safety of Mindfulness; Animal Similes (1 of 5): Quail - Finding Safety

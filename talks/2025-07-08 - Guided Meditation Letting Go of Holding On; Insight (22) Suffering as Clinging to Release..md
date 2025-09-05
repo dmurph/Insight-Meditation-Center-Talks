@@ -1,3 +1,15 @@
+---
+date: '2025-07-08'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23350
+- https://www.audiodharma.org/talks/23351
+title: 'Guided Meditation: Letting Go of Holding On; Insight (22) Suffering as Clinging
+  to Release.'
+video_url: https://www.youtube.com/watch?v=RA_IHZtx52w
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Letting Go of Holding On; Insight (22) Suffering as Clinging to Release.](https://www.youtube.com/watch?v=RA_IHZtx52w). It likely contains inaccuracies.*
 
 # Guided Meditation: Letting Go of Holding On; Insight (22) Suffering as Clinging to Release.

@@ -1,3 +1,15 @@
+---
+date: '2025-05-12'
+speaker: Dawn Neal
+speaker_url: https://www.audiodharma.org/speakers/241
+talk_urls:
+- https://www.audiodharma.org/talks/22948
+- https://www.audiodharma.org/talks/22950
+title: 'Guided Med: What''s This Moment Like?; Inspirations for Insight (1 of 5):
+  Simplicity and Interest'
+video_url: https://www.youtube.com/watch?v=0yn47lvvh4k
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Med: What's This Moment Like?; Inspirations for Insight (1 of 5): Simplicity and Interest](https://www.youtube.com/watch?v=0yn47lvvh4k). It likely contains inaccuracies.*
 
 # Guided Med: What's This Moment Like?; Inspirations for Insight (1 of 5): Simplicity and Interest

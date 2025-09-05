@@ -1,13 +1,15 @@
 ---
-title: "Clinging is complicated, letting go simplifies;Wholesome qualities of mind 1: Parami of Truthfulness"
-date: "2025-08-18"
-video_url: "https://www.youtube.com/watch?v=JV6AHoOB2KY"
-speaker: "Matthew Brensilver"
-speaker_url: "https://www.audiodharma.org/speakers/231"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23706
-  - https://www.audiodharma.org/talks/23705
+date: '2025-08-18'
+speaker: Matthew Brensilver
+speaker_url: https://www.audiodharma.org/speakers/231
+talk_urls:
+- https://www.audiodharma.org/talks/23706
+- https://www.audiodharma.org/talks/23705
+title: 'Clinging is complicated, letting go simplifies;Wholesome qualities of mind
+  1: Parami of Truthfulness'
+video_url: https://www.youtube.com/watch?v=JV6AHoOB2KY
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Clinging is complicated, letting go simplifies;Wholesome qualities of mind 1: Parami of Truthfulness](https://www.youtube.com/watch?v=JV6AHoOB2KY). It likely contains inaccuracies.*
 
 # Clinging is complicated, letting go simplifies;Wholesome qualities of mind 1: Parami of Truthfulness

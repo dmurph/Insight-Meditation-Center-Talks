@@ -1,3 +1,15 @@
+---
+date: '2025-06-06'
+speaker: Shelley Gault
+speaker_url: https://www.audiodharma.org/speakers/260
+talk_urls:
+- https://www.audiodharma.org/talks/23132
+- https://www.audiodharma.org/talks/23133
+title: 'GM: Simple Knowing or Complications? The Six Sense Spheres-Our World (5of5):
+  Mind & Mental Phenomena'
+video_url: https://www.youtube.com/watch?v=djVRGYBsebA
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [GM: Simple Knowing or Complications? The Six Sense Spheres-Our World (5of5): Mind & Mental Phenomena](https://www.youtube.com/watch?v=djVRGYBsebA). It likely contains inaccuracies.*
 
 # GM: Simple Knowing or Complications? The Six Sense Spheres-Our World (5of5): Mind & Mental Phenomena

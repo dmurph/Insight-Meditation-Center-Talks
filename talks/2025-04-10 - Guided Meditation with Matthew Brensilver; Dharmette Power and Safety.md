@@ -1,12 +1,14 @@
 ---
-title: "Guided Meditation with Matthew Brensilver; Dharmette: Power and Safety"
-date: "2025-04-10"
-video_url: "https://www.youtube.com/watch?v=IDNTnkhLBBc"
-speaker: "Matthew Brensilver"
-speaker_url: "https://www.audiodharma.org/speakers/231"
-audiodharma_talks:
-
+date: '2025-04-10'
+speaker: Matthew Brensilver
+speaker_url: https://www.audiodharma.org/speakers/231
+talk_urls:
+- https://www.audiodharma.org/talks/None
+- https://www.audiodharma.org/talks/None
+title: 'Guided Meditation with Matthew Brensilver; Dharmette: Power and Safety'
+video_url: https://www.youtube.com/watch?v=IDNTnkhLBBc
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation with Matthew Brensilver; Dharmette: Power and Safety](https://www.youtube.com/watch?v=IDNTnkhLBBc). It likely contains inaccuracies.*
 
 # Guided Meditation with Matthew Brensilver; Dharmette: Power and Safety

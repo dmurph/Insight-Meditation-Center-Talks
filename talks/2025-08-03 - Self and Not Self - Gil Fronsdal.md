@@ -1,12 +1,13 @@
 ---
-title: "Self and Not Self - Gil Fronsdal"
-date: "2025-08-03"
-video_url: "https://www.youtube.com/watch?v=Dpklkks6VW0"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23505
+date: '2025-08-03'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23505
+title: Self and Not Self - Gil Fronsdal
+video_url: https://www.youtube.com/watch?v=Dpklkks6VW0
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Self and Not Self - Gil Fronsdal](https://www.youtube.com/watch?v=Dpklkks6VW0). It likely contains inaccuracies.*
 
 # Self and Not Self - Gil Fronsdal

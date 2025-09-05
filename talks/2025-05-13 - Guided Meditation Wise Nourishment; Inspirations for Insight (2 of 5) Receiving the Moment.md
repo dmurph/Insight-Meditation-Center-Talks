@@ -1,3 +1,15 @@
+---
+date: '2025-05-13'
+speaker: Dawn Neal
+speaker_url: https://www.audiodharma.org/speakers/241
+talk_urls:
+- https://www.audiodharma.org/talks/22951
+- https://www.audiodharma.org/talks/22952
+title: 'Guided Meditation: Wise Nourishment; Inspirations for Insight (2 of 5) Receiving
+  the Moment'
+video_url: https://www.youtube.com/watch?v=-wpqXHbIVq0
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Wise Nourishment; Inspirations for Insight (2 of 5) Receiving the Moment](https://www.youtube.com/watch?v=-wpqXHbIVq0). It likely contains inaccuracies.*
 
 # Guided Meditation: Wise Nourishment; Inspirations for Insight (2 of 5) Receiving the Moment

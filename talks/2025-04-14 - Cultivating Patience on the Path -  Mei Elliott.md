@@ -1,12 +1,13 @@
 ---
-title: "Cultivating Patience on the Path -  Mei Elliott"
-date: "2025-04-14"
-video_url: "https://www.youtube.com/watch?v=TeZGXDuje78"
-speaker: "Mei Elliott"
-speaker_url: "https://www.audiodharma.org/speakers/394"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22721
+date: '2025-04-14'
+speaker: Mei Elliott
+speaker_url: https://www.audiodharma.org/speakers/394
+talk_urls:
+- https://www.audiodharma.org/talks/22721
+title: Cultivating Patience on the Path -  Mei Elliott
+video_url: https://www.youtube.com/watch?v=TeZGXDuje78
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Cultivating Patience on the Path - Mei Elliott](https://www.youtube.com/watch?v=TeZGXDuje78). It likely contains inaccuracies.*
 
 # Cultivating Patience on the Path - Mei Elliott

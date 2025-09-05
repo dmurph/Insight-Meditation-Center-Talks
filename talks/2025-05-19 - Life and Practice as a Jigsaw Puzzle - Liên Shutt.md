@@ -1,3 +1,13 @@
+---
+date: '2025-05-19'
+speaker: Rev. Liên Shutt
+speaker_url: https://www.audiodharma.org/speakers/449
+talk_urls:
+- https://www.audiodharma.org/talks/22989
+title: Life and Practice as a Jigsaw Puzzle - Liên Shutt
+video_url: https://www.youtube.com/watch?v=p14wumMdG7k
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Life and Practice as a Jigsaw Puzzle - Liên Shutt](https://www.youtube.com/watch?v=p14wumMdG7k). It likely contains inaccuracies.*
 
 # Life and Practice as a Jigsaw Puzzle - Liên Shutt

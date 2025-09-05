@@ -1,13 +1,15 @@
 ---
-title: "Guided Meditation w M Brensilver; Talk: Crowdsourced question on fear & love amidst political chaos"
-date: "2025-08-14"
-video_url: "https://www.youtube.com/watch?v=U3NJUVOvg48"
-speaker: "Matthew Brensilver"
-speaker_url: "https://www.audiodharma.org/speakers/231"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23614
-  - https://www.audiodharma.org/talks/23615
+date: '2025-08-14'
+speaker: Matthew Brensilver
+speaker_url: https://www.audiodharma.org/speakers/231
+talk_urls:
+- https://www.audiodharma.org/talks/23614
+- https://www.audiodharma.org/talks/23615
+title: 'Guided Meditation w M Brensilver; Talk: Crowdsourced question on fear & love
+  amidst political chaos'
+video_url: https://www.youtube.com/watch?v=U3NJUVOvg48
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation w M Brensilver; Talk: Crowdsourced question on fear & love amidst political chaos](https://www.youtube.com/watch?v=U3NJUVOvg48). It likely contains inaccuracies.*
 
 # Guided Meditation w M Brensilver; Talk: Crowdsourced question on fear & love amidst political chaos

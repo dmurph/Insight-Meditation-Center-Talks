@@ -1,13 +1,15 @@
 ---
-title: "Guided Meditation: Attitudes within Self; Insight (28) Attitudes Contributing to Our Sense of Self"
-date: "2025-07-30"
-video_url: "https://www.youtube.com/watch?v=Q4KnKuG2P0A"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23484
-  - https://www.audiodharma.org/talks/23485
+date: '2025-07-30'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23484
+- https://www.audiodharma.org/talks/23485
+title: 'Guided Meditation: Attitudes within Self; Insight (28) Attitudes Contributing
+  to Our Sense of Self'
+video_url: https://www.youtube.com/watch?v=Q4KnKuG2P0A
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Attitudes within Self; Insight (28) Attitudes Contributing to Our Sense of Self](https://www.youtube.com/watch?v=Q4KnKuG2P0A). It likely contains inaccuracies.*
 
 # Guided Meditation: Attitudes within Self; Insight (28) Attitudes Contributing to Our Sense of Self

@@ -1,12 +1,15 @@
 ---
-title: "Guided Meditation: Don't Make it Worse; New Vision (3) A Vision of Not Making it Worse"
-date: "2025-08-27"
-video_url: "https://www.youtube.com/watch?v=wKmP_txMMVM"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23718
+date: '2025-08-27'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/None
+- https://www.audiodharma.org/talks/23718
+title: 'Guided Meditation: Don''t Make it Worse; New Vision (3) A Vision of Not Making
+  it Worse'
+video_url: https://www.youtube.com/watch?v=wKmP_txMMVM
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Don't Make it Worse; New Vision (3) A Vision of Not Making it Worse](https://www.youtube.com/watch?v=wKmP_txMMVM). It likely contains inaccuracies.*
 
 # Guided Meditation: Don't Make it Worse; New Vision (3) A Vision of Not Making it Worse

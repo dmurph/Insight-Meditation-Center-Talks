@@ -14,6 +14,7 @@ from youtube_transcript_api import (
     NoTranscriptFound,
     TranscriptsDisabled,
 )
+import frontmatter
 
 logging.basicConfig(level=logging.INFO)
 
@@ -33,6 +34,24 @@ def sanitize_filename(title):
     # Trim leading/trailing whitespace
     return sanitized.strip()
 
+def add_frontmatter(
+    file_string,
+    youtube_title,
+    youtube_url,
+    date,
+    speaker_name,
+    speaker_url,
+    talk_urls):
+    post = frontmatter.loads(file_string)
+    if "audiodharma_talks" in post:
+        del post["audiodharma_talks"]
+    post["title"] = youtube_title
+    post["date"] = date
+    post["video_url"] = youtube_url
+    post["speaker"] = speaker_name
+    post["speaker_url"] = speaker_url
+    post["talk_urls"] = talk_urls
+    return frontmatter.dumps(post)
 
 def process_and_save_transcript_with_ai(
     raw_transcript_path,
@@ -42,7 +61,7 @@ def process_and_save_transcript_with_ai(
     date,
     speaker_name,
     speaker_url,
-    audiodharma_talks,
+    talk_urls,
     talk_headers,
     force_ai_processing=False,
 ):
@@ -55,12 +74,31 @@ def process_and_save_transcript_with_ai(
         logging.warning(
             "  -> Cannot perform AI processing because raw transcript is missing."
         )
-        return
+        return "no_transcript"
     if os.path.exists(clean_transcript_path) and not force_ai_processing:
-        logging.info(
-            f"  -> Processed transcript already exists: {clean_transcript_path}. Skipping AI processing."
+        with open(clean_transcript_path, "r", encoding="utf-8") as f:
+            clean_transcript = f.read()
+        with_frontmatter = add_frontmatter(
+            clean_transcript,
+            youtube_title,
+            youtube_url,
+            date,
+            speaker_name,
+            speaker_url,
+            talk_urls,
         )
-        return
+        if with_frontmatter != clean_transcript:
+            logging.info(
+                f"  -> Updating frontmatter for {clean_transcript_path}. Skipping AI processing."
+            )
+            with open(clean_transcript_path, "w", encoding="utf-8") as f:
+                f.write(with_frontmatter)
+            return "updated_frontmatter"
+        else:
+            logging.info(
+                f"  -> Processed transcript already exists: {clean_transcript_path}. Skipping AI processing."
+            )
+            return "already_processed"
     transcript_extension = raw_transcript_path.split(".")[-1]
 
     try:
@@ -68,7 +106,7 @@ def process_and_save_transcript_with_ai(
             prompt_template = f.read()
     except FileNotFoundError:
         logging.error("  -> Could not find prompt template file!")
-        return False
+        return "error"
 
     try:
         with open(raw_transcript_path, "r", encoding="utf-8") as f:
@@ -106,41 +144,36 @@ def process_and_save_transcript_with_ai(
             lines = lines[:-1]
         clean_transcript = '\n'.join(lines)
 
-        # Create frontmatter
-        frontmatter = f"""---
-title: "{youtube_title}"
-date: "{date}"
-video_url: "{youtube_url}"
-speaker: "{speaker_name}"
-speaker_url: "{speaker_url}"
-audiodharma_talks:
-{audiodharma_talks}
----
-"""
-
-        final_content = frontmatter + clean_transcript
+        final_content = add_frontmatter(
+            clean_transcript,
+            youtube_title,
+            youtube_url,
+            date,
+            speaker_name,
+            speaker_url,
+            talk_urls,
+        )
 
         with open(clean_transcript_path, "w", encoding="utf-8") as f:
             f.write(final_content)
         logging.info(
             f"  -> Successfully saved AI-cleaned transcript to: {clean_transcript_path}"
         )
-        return True
-
+        return "ai_processed"
     except FileNotFoundError:
         logging.error("  -> AI Processing Error: 'gemini-cli' command not found.")
         logging.error(
             "     Please ensure the Gemini CLI is installed and in your system's PATH."
         )
-        return False
+        return "error"
     except subprocess.CalledProcessError as e:
         logging.error("  -> AI Processing Error: The 'gemini-cli' command failed.")
         logging.error(f"     Return Code: {e.returncode}")
         logging.error(f"     Stderr: {e.stderr}")
-        return False
+        return "error"
     except Exception as e:
         logging.error(f"  -> An unexpected error occurred during AI processing: {e}")
-        return False
+        return "error"
 
 class UrlType(Enum):
     CHANNEL = 1
@@ -319,6 +352,7 @@ def download_video_transcripts_from_urls(
     force_redownload_transcripts=False,
     force_ai_processing=False,
     skip_metadata_cache=False,
+    do_not_stop_scan=False,
 ):
     """
     Downloads and outputs the transcripts.
@@ -346,7 +380,7 @@ def download_video_transcripts_from_urls(
         logging.warning(f"Could not load audiodharma data: {e}. Continuing without it.")
         audiodharma_talks_map = {}
         speakers_data = {}
-    
+
     ydl_opts = {"quiet": True, "no_warnings": True}
     ydl = yt_dlp.YoutubeDL(ydl_opts)
 
@@ -375,7 +409,7 @@ def download_video_transcripts_from_urls(
             # Get audiodharma info
             speaker_name = "Unknown"
             speaker_url = ""
-            audiodharma_talks_str = ""
+            talk_urls = []
             talk_headers_str = ""
 
             if video_id in audiodharma_talks_map:
@@ -401,14 +435,12 @@ def download_video_transcripts_from_urls(
                     if not talk_id and not talk_title:
                         logging.warning(f"No talk on audiodharma yet for video {video_id}")
                         break;
-                    formatted_talks.append(
-                        f"  - https://www.audiodharma.org/talks/{talk_id}"
+                    talk_urls.append(
+                        f"https://www.audiodharma.org/talks/{talk_id}"
                     )
                     talk_headers.append(
                         f"      `## {talk_title} ([link](https://www.audiodharma.org/talks/{talk_id}))`"
                     )
-
-                audiodharma_talks_str = "\n".join(formatted_talks)
                 talk_headers_str = "\n".join(talk_headers)
 
             raw_transcript_path = download_or_use_transcript(
@@ -424,7 +456,7 @@ def download_video_transcripts_from_urls(
                     os.makedirs(talks_dir)
                 safe_filename = sanitize_filename(f"{upload_date} - {video_title}")
                 processed_output_path = os.path.join(talks_dir, f"{safe_filename}.md")
-                process_and_save_transcript_with_ai(
+                result = process_and_save_transcript_with_ai(
                     raw_transcript_path,
                     processed_output_path,
                     video_title,
@@ -432,10 +464,17 @@ def download_video_transcripts_from_urls(
                     upload_date,
                     speaker_name,
                     speaker_url,
-                    audiodharma_talks_str,
+                    talk_urls,
                     talk_headers_str,
                     force_ai_processing,
                 )
+                if result == "error":
+                    break
+                if result == "already_processed" and not do_not_stop_scan:
+                    logging.info(
+                        f"  -> Already processed and up-to-date. Stopping scan (specify --do-not-stop-scan to scan for all videos)."
+                    )
+                    break
 
         except Exception as e:
             logging.error(f"  -> An unexpected error occurred in the main loop: {e}")
@@ -514,6 +553,11 @@ def main():
         action="store_true",
         help="Skip using the metadata cache and force re-fetching from YouTube.",
     )
+    parser.add_argument(
+        "--do-not-stop-scan",
+        action="store_true",
+        help="Don't stop processing the videos if a talk was already found as saved with the correct metadata, keep going for all videos in the playlist/channel/etc.",
+    )
 
     args = parser.parse_args()
 
@@ -551,6 +595,7 @@ def main():
         force_redownload_transcripts=args.force_redownload_transcripts,
         force_ai_processing=args.force_ai_processing,
         skip_metadata_cache=args.skip_metadata_cache,
+        do_not_stop_scan=args.do_not_stop_scan,
     )
 
 

@@ -1,3 +1,14 @@
+---
+date: '2025-06-25'
+speaker: Dawn Neal
+speaker_url: https://www.audiodharma.org/speakers/241
+talk_urls:
+- https://www.audiodharma.org/talks/23282
+- https://www.audiodharma.org/talks/23283
+title: 'Guided Meditation: Warmth & Cool; Insight & the 5 Elements (3/5) Fire!'
+video_url: https://www.youtube.com/watch?v=GXGe7bHOz7M
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Warmth & Cool; Insight & the 5 Elements (3/5) Fire!](https://www.youtube.com/watch?v=GXGe7bHOz7M). It likely contains inaccuracies.*
 
 # Guided Meditation: Warmth & Cool; Insight & the 5 Elements (3/5) Fire!

@@ -1,12 +1,14 @@
 ---
-title: "Guided Meditation: Wholeness in Silence; Samadhi (52) Immersed in Silence of Third Jhana"
-date: "2025-04-15"
-video_url: "https://www.youtube.com/watch?v=EgWp6MYGA_k"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-
+date: '2025-04-15'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/None
+title: 'Guided Meditation: Wholeness in Silence; Samadhi (52) Immersed in Silence
+  of Third Jhana'
+video_url: https://www.youtube.com/watch?v=EgWp6MYGA_k
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Wholeness in Silence; Samadhi (52) Immersed in Silence of Third Jhana](https://www.youtube.com/watch?v=EgWp6MYGA_k). It likely contains inaccuracies.*
 
 # Guided Meditation: Wholeness in Silence; Samadhi (52) Immersed in Silence of Third Jhana

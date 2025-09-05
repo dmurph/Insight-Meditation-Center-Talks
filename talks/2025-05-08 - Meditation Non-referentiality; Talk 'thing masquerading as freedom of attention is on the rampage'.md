@@ -1,13 +1,15 @@
 ---
-title: "Meditation: Non-referentiality; Talk: 'thing masquerading as freedom of attention is on the rampage'"
-date: "2025-05-08"
-video_url: "https://www.youtube.com/watch?v=pOh3PGbgn9o"
-speaker: "Matthew Brensilver"
-speaker_url: "https://www.audiodharma.org/speakers/231"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22904
-  - https://www.audiodharma.org/talks/22905
+date: '2025-05-08'
+speaker: Matthew Brensilver
+speaker_url: https://www.audiodharma.org/speakers/231
+talk_urls:
+- https://www.audiodharma.org/talks/22904
+- https://www.audiodharma.org/talks/22905
+title: 'Meditation: Non-referentiality; Talk: ''thing masquerading as freedom of attention
+  is on the rampage'''
+video_url: https://www.youtube.com/watch?v=pOh3PGbgn9o
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Meditation: Non-referentiality; Talk: 'thing masquerading as freedom of attention is on the rampage'](https://www.youtube.com/watch?v=pOh3PGbgn9o). It likely contains inaccuracies.*
 
 # Meditation: Non-referentiality; Talk: 'thing masquerading as freedom of attention is on the rampage'

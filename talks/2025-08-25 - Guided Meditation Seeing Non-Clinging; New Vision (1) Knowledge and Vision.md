@@ -1,13 +1,14 @@
 ---
-title: "Guided Meditation: Seeing Non-Clinging; New Vision (1) Knowledge and Vision"
-date: "2025-08-25"
-video_url: "https://www.youtube.com/watch?v=Ptm0FE-KLyc"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23703
-  - https://www.audiodharma.org/talks/23704
+date: '2025-08-25'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23703
+- https://www.audiodharma.org/talks/23704
+title: 'Guided Meditation: Seeing Non-Clinging; New Vision (1) Knowledge and Vision'
+video_url: https://www.youtube.com/watch?v=Ptm0FE-KLyc
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Seeing Non-Clinging; New Vision (1) Knowledge and Vision](https://www.youtube.com/watch?v=Ptm0FE-KLyc). It likely contains inaccuracies.*
 
 # Guided Meditation: Seeing Non-Clinging; New Vision (1) Knowledge and Vision

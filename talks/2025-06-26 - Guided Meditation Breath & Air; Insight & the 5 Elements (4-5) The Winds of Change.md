@@ -1,3 +1,15 @@
+---
+date: '2025-06-26'
+speaker: Dawn Neal
+speaker_url: https://www.audiodharma.org/speakers/241
+talk_urls:
+- https://www.audiodharma.org/talks/23284
+- https://www.audiodharma.org/talks/23285
+title: 'Guided Meditation: Breath & Air; Insight & the 5 Elements (4/5) The Winds
+  of Change'
+video_url: https://www.youtube.com/watch?v=8gEpMzwSZVI
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Breath & Air; Insight & the 5 Elements (4/5) The Winds of Change](https://www.youtube.com/watch?v=8gEpMzwSZVI). It likely contains inaccuracies.*
 
 # Guided Meditation: Breath & Air; Insight & the 5 Elements (4/5) The Winds of Change

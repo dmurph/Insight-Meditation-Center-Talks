@@ -1,12 +1,13 @@
 ---
-title: "Sources of Truth - Gil Fronsdal"
-date: "2025-08-11"
-video_url: "https://www.youtube.com/watch?v=Vd4_tvKMzdE"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23593
+date: '2025-08-11'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23593
+title: Sources of Truth - Gil Fronsdal
+video_url: https://www.youtube.com/watch?v=Vd4_tvKMzdE
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Sources of Truth - Gil Fronsdal](https://www.youtube.com/watch?v=Vd4_tvKMzdE). It likely contains inaccuracies.*
 
 # Sources of Truth - Gil Fronsdal

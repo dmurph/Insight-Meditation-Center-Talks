@@ -1,12 +1,12 @@
 ---
-title: "Practicing the Path of Letting Go ~ Diana Clark"
-date: "2025-04-15"
-video_url: "https://www.youtube.com/watch?v=BR4TF5BIrVM"
-speaker: "Unknown"
-speaker_url: ""
-audiodharma_talks:
-
+date: '2025-04-15'
+speaker: Unknown
+speaker_url: ''
+talk_urls: []
+title: Practicing the Path of Letting Go ~ Diana Clark
+video_url: https://www.youtube.com/watch?v=BR4TF5BIrVM
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Practicing the Path of Letting Go ~ Diana Clark](https://www.youtube.com/watch?v=BR4TF5BIrVM). It likely contains inaccuracies.*
 
 # Practicing the Path of Letting Go ~ Diana Clark

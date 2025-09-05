@@ -6,6 +6,12 @@
     speaker_id: 240
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23751/20250903-Diana_Clark-IMC-guided_meditation_the_leaning_heart.mp3
+  - title: 'Dharmette: Buddhism Beyond the Lists (3 of 5); The Heart''s Orientation'
+    id: 23752
+    date: '2025-09-03'
+    speaker_id: 240
+    start_time_seconds: 1915
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23752/20250903-Diana_Clark-IMC-dharmette_buddhism_beyond_the_lists_3_of_5_the_heart_s_orientation.mp3
 - youtube_id: 69fOIYEMN20
   talks:
   - title: 'Guided Meditation: Sitting with Others'

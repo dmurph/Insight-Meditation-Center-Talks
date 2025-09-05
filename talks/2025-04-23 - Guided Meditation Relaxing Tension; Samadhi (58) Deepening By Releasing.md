@@ -1,13 +1,14 @@
 ---
-title: "Guided Meditation: Relaxing Tension; Samadhi (58) Deepening By Releasing"
-date: "2025-04-23"
-video_url: "https://www.youtube.com/watch?v=mslI9d58YG8"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22791
-  - https://www.audiodharma.org/talks/22792
+date: '2025-04-23'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/22791
+- https://www.audiodharma.org/talks/22792
+title: 'Guided Meditation: Relaxing Tension; Samadhi (58) Deepening By Releasing'
+video_url: https://www.youtube.com/watch?v=mslI9d58YG8
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Relaxing Tension; Samadhi (58) Deepening By Releasing](https://www.youtube.com/watch?v=mslI9d58YG8). It likely contains inaccuracies.*
 
 # Guided Meditation: Relaxing Tension; Samadhi (58) Deepening By Releasing

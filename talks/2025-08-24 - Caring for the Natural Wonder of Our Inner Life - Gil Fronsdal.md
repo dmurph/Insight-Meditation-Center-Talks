@@ -1,12 +1,13 @@
 ---
-title: "Caring for the Natural Wonder of Our Inner Life - Gil Fronsdal"
-date: "2025-08-24"
-video_url: "https://www.youtube.com/watch?v=GNWZPl_vKbk"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23702
+date: '2025-08-24'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23702
+title: Caring for the Natural Wonder of Our Inner Life - Gil Fronsdal
+video_url: https://www.youtube.com/watch?v=GNWZPl_vKbk
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Caring for the Natural Wonder of Our Inner Life - Gil Fronsdal](https://www.youtube.com/watch?v=GNWZPl_vKbk). It likely contains inaccuracies.*
 
 # Caring for the Natural Wonder of Our Inner Life - Gil Fronsdal

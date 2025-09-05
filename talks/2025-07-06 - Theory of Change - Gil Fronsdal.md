@@ -1,3 +1,13 @@
+---
+date: '2025-07-06'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23341
+title: Theory of Change - Gil Fronsdal
+video_url: https://www.youtube.com/watch?v=pDA7g882TCg
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Theory of Change - Gil Fronsdal](https://www.youtube.com/watch?v=pDA7g882TCg). It likely contains inaccuracies.*
 
 # Theory of Change - Gil Fronsdal

@@ -1,3 +1,13 @@
+---
+date: '2025-05-20'
+speaker: Diana Clark
+speaker_url: https://www.audiodharma.org/speakers/240
+talk_urls:
+- https://www.audiodharma.org/talks/22995
+title: Meeting Emotions ~ Diana Clark
+video_url: https://www.youtube.com/watch?v=K9sRhD2USsI
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Meeting Emotions ~ Diana Clark](https://www.youtube.com/watch?v=K9sRhD2USsI). It likely contains inaccuracies.*
 
 # Meeting Emotions ~ Diana Clark

@@ -1,3 +1,13 @@
+---
+date: '2025-06-30'
+speaker: Maria Straatmann
+speaker_url: https://www.audiodharma.org/speakers/142
+talk_urls:
+- https://www.audiodharma.org/talks/23294
+title: Wise View and Delusion - Maria Straatman
+video_url: https://www.youtube.com/watch?v=il-EAnCcYus
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Wise View and Delusion - Maria Straatman](https://www.youtube.com/watch?v=il-EAnCcYus). It likely contains inaccuracies.*
 
 # Wise View and Delusion - Maria Straatman

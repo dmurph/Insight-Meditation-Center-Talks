@@ -1,12 +1,14 @@
 ---
-title: "Seeing with Another’s Heart; Sangha (3/5) Putting Oneself in the Place of Others (Ethical Empathy)"
-date: "2025-04-30"
-video_url: "https://www.youtube.com/watch?v=01TNFTkFZo0"
-speaker: "Nikki Mirghafori"
-speaker_url: "https://www.audiodharma.org/speakers/229"
-audiodharma_talks:
-
+date: '2025-04-30'
+speaker: Nikki Mirghafori
+speaker_url: https://www.audiodharma.org/speakers/229
+talk_urls:
+- https://www.audiodharma.org/talks/None
+title: Seeing with Another’s Heart; Sangha (3/5) Putting Oneself in the Place of Others
+  (Ethical Empathy)
+video_url: https://www.youtube.com/watch?v=01TNFTkFZo0
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Seeing with Another’s Heart; Sangha (3/5) Putting Oneself in the Place of Others (Ethical Empathy)](https://www.youtube.com/watch?v=01TNFTkFZo0). It likely contains inaccuracies.*
 
 # Seeing with Another’s Heart; Sangha (3/5) Putting Oneself in the Place of Others (Ethical Empathy)

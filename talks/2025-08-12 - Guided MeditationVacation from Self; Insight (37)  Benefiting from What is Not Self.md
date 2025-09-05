@@ -1,13 +1,15 @@
 ---
-title: "Guided Meditation:Vacation from Self; Insight (37)  Benefiting from What is Not Self"
-date: "2025-08-12"
-video_url: "https://www.youtube.com/watch?v=qr2GyZ4d9jM"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23600
-  - https://www.audiodharma.org/talks/23601
+date: '2025-08-12'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23600
+- https://www.audiodharma.org/talks/23601
+title: Guided Meditation:Vacation from Self; Insight (37)  Benefiting from What is
+  Not Self
+video_url: https://www.youtube.com/watch?v=qr2GyZ4d9jM
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation:Vacation from Self; Insight (37)  Benefiting from What is Not Self](https://www.youtube.com/watch?v=qr2GyZ4d9jM). It likely contains inaccuracies.*
 
 # Guided Meditation:Vacation from Self; Insight (37) Benefiting from What is Not Self

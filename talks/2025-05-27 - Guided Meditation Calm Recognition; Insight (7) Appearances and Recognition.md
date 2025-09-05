@@ -1,3 +1,14 @@
+---
+date: '2025-05-27'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23042
+- https://www.audiodharma.org/talks/23043
+title: 'Guided Meditation: Calm Recognition; Insight (7) Appearances and Recognition'
+video_url: https://www.youtube.com/watch?v=dHIx6wi4diI
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Calm Recognition; Insight (7) Appearances and Recognition](https://www.youtube.com/watch?v=dHIx6wi4diI). It likely contains inaccuracies.*
 
 # Guided Meditation: Calm Recognition; Insight (7) Appearances and Recognition

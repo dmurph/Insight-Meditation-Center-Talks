@@ -1,3 +1,14 @@
+---
+date: '2025-06-30'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23296
+- https://www.audiodharma.org/talks/23297
+title: 'Guided Meditation: Flowing with Change; Insight (16) Insight with Samadhi'
+video_url: https://www.youtube.com/watch?v=6Dcl7dBDxzY
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Flowing with Change; Insight (16) Insight with Samadhi](https://www.youtube.com/watch?v=6Dcl7dBDxzY). It likely contains inaccuracies.*
 
 The following talk was given by Gil Fronsdal at the Insight Meditation Center in Redwood City, California. Please visit website [www.audiodharma.org](https://www.audiodharma.org) to find the authoritative record of this talk.

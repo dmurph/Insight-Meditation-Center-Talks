@@ -1,13 +1,14 @@
 ---
-title: "Guided Meditation: Seeing Clearly; New Vision (2) Opening the Dharma Eye"
-date: "2025-08-26"
-video_url: "https://www.youtube.com/watch?v=tyw9awhpN-Y"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23711
-  - https://www.audiodharma.org/talks/23712
+date: '2025-08-26'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23711
+- https://www.audiodharma.org/talks/23712
+title: 'Guided Meditation: Seeing Clearly; New Vision (2) Opening the Dharma Eye'
+video_url: https://www.youtube.com/watch?v=tyw9awhpN-Y
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Seeing Clearly; New Vision (2) Opening the Dharma Eye](https://www.youtube.com/watch?v=tyw9awhpN-Y). It likely contains inaccuracies.*
 
 # Guided Meditation: Seeing Clearly; New Vision (2) Opening the Dharma Eye

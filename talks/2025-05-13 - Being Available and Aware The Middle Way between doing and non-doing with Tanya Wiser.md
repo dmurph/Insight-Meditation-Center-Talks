@@ -1,3 +1,14 @@
+---
+date: '2025-05-13'
+speaker: Tanya Wiser
+speaker_url: https://www.audiodharma.org/speakers/286
+talk_urls:
+- https://www.audiodharma.org/talks/22943
+title: 'Being Available and Aware: The Middle Way between doing and non-doing with
+  Tanya Wiser'
+video_url: https://www.youtube.com/watch?v=6jE8c4S7INA
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Being Available and Aware: The Middle Way between doing and non-doing with Tanya Wiser](https://www.youtube.com/watch?v=6jE8c4S7INA). It likely contains inaccuracies.*
 
 # Being Available and Aware: The Middle Way between doing and non-doing with Tanya Wiser

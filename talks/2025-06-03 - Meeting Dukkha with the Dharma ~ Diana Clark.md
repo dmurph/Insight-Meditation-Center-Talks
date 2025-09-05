@@ -1,3 +1,13 @@
+---
+date: '2025-06-03'
+speaker: Diana Clark
+speaker_url: https://www.audiodharma.org/speakers/240
+talk_urls:
+- https://www.audiodharma.org/talks/23090
+title: Meeting Dukkha with the Dharma ~ Diana Clark
+video_url: https://www.youtube.com/watch?v=to5yr6mY0Gw
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Meeting Dukkha with the Dharma ~ Diana Clark](https://www.youtube.com/watch?v=to5yr6mY0Gw). It likely contains inaccuracies.*
 
 # Meeting Dukkha with the Dharma ~ Diana Clark

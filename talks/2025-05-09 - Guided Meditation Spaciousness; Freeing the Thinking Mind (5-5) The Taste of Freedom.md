@@ -1,3 +1,15 @@
+---
+date: '2025-05-09'
+speaker: Ines Freedman
+speaker_url: https://www.audiodharma.org/speakers/57
+talk_urls:
+- https://www.audiodharma.org/talks/22914
+- https://www.audiodharma.org/talks/22915
+title: 'Guided Meditation: Spaciousness; Freeing the Thinking Mind (5/5) The Taste
+  of Freedom'
+video_url: https://www.youtube.com/watch?v=8afPwEckoQM
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Spaciousness; Freeing the Thinking Mind (5/5) The Taste of Freedom](https://www.youtube.com/watch?v=8afPwEckoQM). It likely contains inaccuracies.*
 
 # Guided Meditation: Spaciousness; Freeing the Thinking Mind (5/5) The Taste of Freedom

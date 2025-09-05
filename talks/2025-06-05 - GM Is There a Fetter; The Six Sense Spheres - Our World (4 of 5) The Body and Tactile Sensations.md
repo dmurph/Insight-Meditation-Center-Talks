@@ -1,3 +1,15 @@
+---
+date: '2025-06-05'
+speaker: Shelley Gault
+speaker_url: https://www.audiodharma.org/speakers/260
+talk_urls:
+- https://www.audiodharma.org/talks/23121
+- https://www.audiodharma.org/talks/23122
+title: 'GM: Is There a Fetter?; The Six Sense Spheres - Our World (4 of 5): The Body
+  and Tactile Sensations'
+video_url: https://www.youtube.com/watch?v=BC02mXkZW6k
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [GM: Is There a Fetter?; The Six Sense Spheres - Our World (4 of 5): The Body and Tactile Sensations](https://www.youtube.com/watch?v=BC02mXkZW6k). It likely contains inaccuracies.*
 
 # GM: Is There a Fetter?; The Six Sense Spheres - Our World (4 of 5): The Body and Tactile Sensations

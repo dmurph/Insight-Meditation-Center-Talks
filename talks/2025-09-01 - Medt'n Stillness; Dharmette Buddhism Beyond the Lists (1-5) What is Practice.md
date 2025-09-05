@@ -1,3 +1,14 @@
+---
+date: '2025-09-01'
+speaker: Diana Clark
+speaker_url: https://www.audiodharma.org/speakers/240
+talk_urls:
+- https://www.audiodharma.org/talks/23756
+- https://www.audiodharma.org/talks/23757
+title: 'Medt''n: Stillness; Dharmette: Buddhism Beyond the Lists (1/5): What is Practice?'
+video_url: https://www.youtube.com/watch?v=EoxEuBDSm_c
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Medt'n: Stillness; Dharmette: Buddhism Beyond the Lists (1/5): What is Practice?](https://www.youtube.com/watch?v=EoxEuBDSm_c). It likely contains inaccuracies.*
 
 # Medt'n: Stillness; Dharmette: Buddhism Beyond the Lists (1/5): What is Practice?

@@ -1,3 +1,14 @@
+---
+date: '2025-05-26'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23030
+- https://www.audiodharma.org/talks/23031
+title: 'Guided Meditation: Present Moment in View; Insight (6) Personal Insights'
+video_url: https://www.youtube.com/watch?v=LDntbUTaAOM
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Present Moment in View; Insight (6) Personal Insights](https://www.youtube.com/watch?v=LDntbUTaAOM). It likely contains inaccuracies.*
 
 # Guided Meditation: Present Moment in View; Insight (6) Personal Insights

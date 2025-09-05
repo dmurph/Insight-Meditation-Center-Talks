@@ -1,13 +1,15 @@
 ---
-title: "Guided Meditation with Matthew Brensilver; Dharmette: Pleasant and Unpleasant Dissolution"
-date: "2025-04-24"
-video_url: "https://www.youtube.com/watch?v=gq4amxvynBo"
-speaker: "Matthew Brensilver"
-speaker_url: "https://www.audiodharma.org/speakers/231"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22800
-  - https://www.audiodharma.org/talks/22801
+date: '2025-04-24'
+speaker: Matthew Brensilver
+speaker_url: https://www.audiodharma.org/speakers/231
+talk_urls:
+- https://www.audiodharma.org/talks/22800
+- https://www.audiodharma.org/talks/22801
+title: 'Guided Meditation with Matthew Brensilver; Dharmette: Pleasant and Unpleasant
+  Dissolution'
+video_url: https://www.youtube.com/watch?v=gq4amxvynBo
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation with Matthew Brensilver; Dharmette: Pleasant and Unpleasant Dissolution](https://www.youtube.com/watch?v=gq4amxvynBo). It likely contains inaccuracies.*
 
 # Guided Meditation with Matthew Brensilver; Dharmette: Pleasant and Unpleasant Dissolution

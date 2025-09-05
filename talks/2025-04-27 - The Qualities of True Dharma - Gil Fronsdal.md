@@ -1,12 +1,13 @@
 ---
-title: "The Qualities of True Dharma - Gil Fronsdal"
-date: "2025-04-27"
-video_url: "https://www.youtube.com/watch?v=t73tKf1gheU"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22824
+date: '2025-04-27'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/22824
+title: The Qualities of True Dharma - Gil Fronsdal
+video_url: https://www.youtube.com/watch?v=t73tKf1gheU
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [The Qualities of True Dharma - Gil Fronsdal](https://www.youtube.com/watch?v=t73tKf1gheU). It likely contains inaccuracies.*
 
 # The Qualities of True Dharma - Gil Fronsdal

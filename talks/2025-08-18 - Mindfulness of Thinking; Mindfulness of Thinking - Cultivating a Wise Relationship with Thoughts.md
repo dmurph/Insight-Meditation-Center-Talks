@@ -1,13 +1,15 @@
 ---
-title: "Mindfulness of Thinking; Mindfulness of Thinking - Cultivating a Wise Relationship with Thoughts"
-date: "2025-08-18"
-video_url: "https://www.youtube.com/watch?v=Twa00DJD7as"
-speaker: "Mei Elliott"
-speaker_url: "https://www.audiodharma.org/speakers/394"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23632
-  - https://www.audiodharma.org/talks/23633
+date: '2025-08-18'
+speaker: Mei Elliott
+speaker_url: https://www.audiodharma.org/speakers/394
+talk_urls:
+- https://www.audiodharma.org/talks/23632
+- https://www.audiodharma.org/talks/23633
+title: Mindfulness of Thinking; Mindfulness of Thinking - Cultivating a Wise Relationship
+  with Thoughts
+video_url: https://www.youtube.com/watch?v=Twa00DJD7as
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Mindfulness of Thinking; Mindfulness of Thinking - Cultivating a Wise Relationship with Thoughts](https://www.youtube.com/watch?v=Twa00DJD7as). It likely contains inaccuracies.*
 
 # Mindfulness of Thinking; Mindfulness of Thinking - Cultivating a Wise Relationship with Thoughts

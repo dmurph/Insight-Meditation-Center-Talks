@@ -1,3 +1,14 @@
+---
+date: '2025-07-14'
+speaker: Ying Chen, 陈颖
+speaker_url: https://www.audiodharma.org/speakers/333
+talk_urls:
+- https://www.audiodharma.org/talks/23404
+title: Elephant's Footprint- Wholesome Qualities included in the Four Noble Truths
+  - Ying Chen
+video_url: https://www.youtube.com/watch?v=DUcFmkl5KrI
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Elephant's Footprint- Wholesome Qualities included in the Four Noble Truths - Ying Chen](https://www.youtube.com/watch?v=DUcFmkl5KrI).  It likely contains inaccuracies.*
 
 # Elephant's Footprint- Wholesome Qualities included in the Four Noble Truths

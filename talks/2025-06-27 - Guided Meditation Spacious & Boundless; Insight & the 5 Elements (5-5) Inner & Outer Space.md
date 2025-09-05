@@ -1,3 +1,15 @@
+---
+date: '2025-06-27'
+speaker: Dawn Neal
+speaker_url: https://www.audiodharma.org/speakers/241
+talk_urls:
+- https://www.audiodharma.org/talks/23289
+- https://www.audiodharma.org/talks/23290
+title: 'Guided Meditation: Spacious & Boundless; Insight & the 5 Elements (5/5) Inner
+  & Outer Space'
+video_url: https://www.youtube.com/watch?v=iuC1fbHtRiI
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Spacious & Boundless; Insight & the 5 Elements (5/5) Inner & Outer Space](https://www.youtube.com/watch?v=iuC1fbHtRiI). It likely contains inaccuracies.*
 
 # Guided Meditation: Spacious & Boundless; Insight & the 5 Elements (5/5) Inner & Outer Space

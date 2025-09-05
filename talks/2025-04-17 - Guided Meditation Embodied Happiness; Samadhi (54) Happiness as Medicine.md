@@ -1,13 +1,14 @@
 ---
-title: "Guided Meditation: Embodied Happiness; Samadhi (54) Happiness as Medicine"
-date: "2025-04-17"
-video_url: "https://www.youtube.com/watch?v=Q8xFt7O7sA4"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22741
-  - https://www.audiodharma.org/talks/22742
+date: '2025-04-17'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/22741
+- https://www.audiodharma.org/talks/22742
+title: 'Guided Meditation: Embodied Happiness; Samadhi (54) Happiness as Medicine'
+video_url: https://www.youtube.com/watch?v=Q8xFt7O7sA4
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Embodied Happiness; Samadhi (54) Happiness as Medicine](https://www.youtube.com/watch?v=Q8xFt7O7sA4). It likely contains inaccuracies.*
 
 # Guided Meditation: Embodied Happiness; Samadhi (54) Happiness as Medicine

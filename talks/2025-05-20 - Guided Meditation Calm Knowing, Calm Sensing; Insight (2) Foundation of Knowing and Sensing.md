@@ -1,3 +1,15 @@
+---
+date: '2025-05-20'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/22996
+- https://www.audiodharma.org/talks/22997
+title: 'Guided Meditation: Calm Knowing, Calm Sensing; Insight (2) Foundation of Knowing
+  and Sensing'
+video_url: https://www.youtube.com/watch?v=aJNXof2iLsM
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Calm Knowing, Calm Sensing; Insight (2) Foundation of Knowing and Sensing](https://www.youtube.com/watch?v=aJNXof2iLsM). It likely contains inaccuracies.*
 
 # Guided Meditation: Calm Knowing, Calm Sensing; Insight (2) Foundation of Knowing and Sensing

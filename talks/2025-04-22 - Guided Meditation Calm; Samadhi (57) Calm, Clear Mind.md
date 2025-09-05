@@ -1,13 +1,14 @@
 ---
-title: "Guided Meditation: Calm; Samadhi (57) Calm, Clear Mind"
-date: "2025-04-22"
-video_url: "https://www.youtube.com/watch?v=Z0qIi3dbUVE"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22783
-  - https://www.audiodharma.org/talks/22784
+date: '2025-04-22'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/22783
+- https://www.audiodharma.org/talks/22784
+title: 'Guided Meditation: Calm; Samadhi (57) Calm, Clear Mind'
+video_url: https://www.youtube.com/watch?v=Z0qIi3dbUVE
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Calm; Samadhi (57) Calm, Clear Mind](https://www.youtube.com/watch?v=Z0qIi3dbUVE). It likely contains inaccuracies.*
 
 # Guided Meditation: Calm; Samadhi (57) Calm, Clear Mind

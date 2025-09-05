@@ -1,13 +1,15 @@
 ---
-title: "Guided Meditation: Cultivating what’s Nourishing; Dharmette Wise Effort in Thinking: Cultivation"
-date: "2025-05-06"
-video_url: "https://www.youtube.com/watch?v=r_UFoIFZ6Ig"
-speaker: "Ines Freedman"
-speaker_url: "https://www.audiodharma.org/speakers/57"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22887
-  - https://www.audiodharma.org/talks/22888
+date: '2025-05-06'
+speaker: Ines Freedman
+speaker_url: https://www.audiodharma.org/speakers/57
+talk_urls:
+- https://www.audiodharma.org/talks/22887
+- https://www.audiodharma.org/talks/22888
+title: 'Guided Meditation: Cultivating what’s Nourishing; Dharmette Wise Effort in
+  Thinking: Cultivation'
+video_url: https://www.youtube.com/watch?v=r_UFoIFZ6Ig
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Cultivating what’s Nourishing; Dharmette Wise Effort in Thinking: Cultivation](https://www.youtube.com/watch?v=r_UFoIFZ6Ig). It likely contains inaccuracies.*
 
 # Guided Meditation: Cultivating what’s Nourishing; Dharmette Wise Effort in Thinking: Cultivation

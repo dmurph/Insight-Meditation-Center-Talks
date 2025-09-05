@@ -1,12 +1,14 @@
 ---
-title: "Guided Meditation: Vedana (Feeling Tone) of Thoughts; Dharmette: Internal Wise Speech"
-date: "2025-05-07"
-video_url: "https://www.youtube.com/watch?v=iWOeF7ceHe0"
-speaker: "Ines Freedman"
-speaker_url: "https://www.audiodharma.org/speakers/57"
-audiodharma_talks:
-
+date: '2025-05-07'
+speaker: Ines Freedman
+speaker_url: https://www.audiodharma.org/speakers/57
+talk_urls:
+- https://www.audiodharma.org/talks/None
+title: 'Guided Meditation: Vedana (Feeling Tone) of Thoughts; Dharmette: Internal
+  Wise Speech'
+video_url: https://www.youtube.com/watch?v=iWOeF7ceHe0
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Vedana (Feeling Tone) of Thoughts; Dharmette: Internal Wise Speech](https://www.youtube.com/watch?v=iWOeF7ceHe0). It likely contains inaccuracies.*
 
 # Guided Meditation: Vedana (Feeling Tone) of Thoughts; Dharmette: Internal Wise Speech

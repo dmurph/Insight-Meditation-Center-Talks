@@ -1,3 +1,12 @@
+---
+date: '2025-07-01'
+speaker: Unknown
+speaker_url: ''
+talk_urls: []
+title: Feeling Fear ~ Diana Clark
+video_url: https://www.youtube.com/watch?v=4QSO-QOJNOw
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Feeling Fear ~ Diana Clark](https://www.youtube.com/watch?v=4QSO-QOJNOw). It likely contains inaccuracies.*
 
 # Feeling Fear ~ Diana Clark

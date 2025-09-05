@@ -1,3 +1,14 @@
+---
+date: '2025-08-29'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23728
+- https://www.audiodharma.org/talks/23729
+title: 'Guided Meditation: The Goal in the Means; New Vision (5) Being Freedom'
+video_url: https://www.youtube.com/watch?v=fNof1zBsTzA
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: The Goal in the Means; New Vision (5) Being Freedom](https://www.youtube.com/watch?v=fNof1zBsTzA). It likely contains inaccuracies.*
 
 # Guided Meditation: The Goal in the Means; New Vision (5) Being Freedom

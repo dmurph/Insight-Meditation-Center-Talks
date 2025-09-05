@@ -1,12 +1,13 @@
 ---
-title: "Looking Upon, Not Away: The Practice of Equanimity ~ Diana Clark"
-date: "2025-08-26"
-video_url: "https://www.youtube.com/watch?v=zrn_Yp2ppys"
-speaker: "Diana Clark"
-speaker_url: "https://www.audiodharma.org/speakers/240"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23710
+date: '2025-08-26'
+speaker: Diana Clark
+speaker_url: https://www.audiodharma.org/speakers/240
+talk_urls:
+- https://www.audiodharma.org/talks/23710
+title: 'Looking Upon, Not Away: The Practice of Equanimity ~ Diana Clark'
+video_url: https://www.youtube.com/watch?v=zrn_Yp2ppys
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Looking Upon, Not Away: The Practice of Equanimity ~ Diana Clark](https://www.youtube.com/watch?v=zrn_Yp2ppys). It likely contains inaccuracies.*
 
 # Looking Upon, Not Away: The Practice of Equanimity ~ Diana Clark

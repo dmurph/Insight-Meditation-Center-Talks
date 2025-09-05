@@ -1,13 +1,15 @@
 ---
-title: "Guided Meditation:  Contemplative Reflection; Freeing the Thinking Mind (4/5) Reflective Thinking"
-date: "2025-05-08"
-video_url: "https://www.youtube.com/watch?v=ba46UcX_FPM"
-speaker: "Ines Freedman"
-speaker_url: "https://www.audiodharma.org/speakers/57"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22909
-  - https://www.audiodharma.org/talks/22910
+date: '2025-05-08'
+speaker: Ines Freedman
+speaker_url: https://www.audiodharma.org/speakers/57
+talk_urls:
+- https://www.audiodharma.org/talks/22909
+- https://www.audiodharma.org/talks/22910
+title: 'Guided Meditation:  Contemplative Reflection; Freeing the Thinking Mind (4/5)
+  Reflective Thinking'
+video_url: https://www.youtube.com/watch?v=ba46UcX_FPM
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Contemplative Reflection; Freeing the Thinking Mind (4/5) Reflective Thinking](https://www.youtube.com/watch?v=ba46UcX_FPM). It likely contains inaccuracies.*
 
 # Guided Meditation: Contemplative Reflection; Freeing the Thinking Mind (4/5) Reflective Thinking

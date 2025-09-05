@@ -1,3 +1,15 @@
+---
+date: '2025-07-04'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23329
+- https://www.audiodharma.org/talks/23330
+title: 'Guided Meditation: Journey to our Friend Within; Insight (20) Recognizing
+  Unsatisfactoriness'
+video_url: https://www.youtube.com/watch?v=LA34W6c9h9A
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Journey to our Friend Within; Insight (20) Recognizing Unsatisfactoriness](https://www.youtube.com/watch?v=LA34W6c9h9A). It likely contains inaccuracies.*
 
 # Guided Meditation: Journey to our Friend Within; Insight (20) Recognizing Unsatisfactoriness

@@ -1,3 +1,15 @@
+---
+date: '2025-06-13'
+speaker: Kim Allen
+speaker_url: https://www.audiodharma.org/speakers/4
+talk_urls:
+- https://www.audiodharma.org/talks/23196
+- https://www.audiodharma.org/talks/23197
+title: 'Guided Meditation: Letting Alignment Emerge; AnimalSimiles(5of5)Elephant or
+  Naga–Strength of Freedom'
+video_url: https://www.youtube.com/watch?v=kBNU6fTESlI
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Letting Alignment Emerge; AnimalSimiles(5of5)Elephant or Naga–Strength of Freedom](https://www.youtube.com/watch?v=kBNU6fTESlI). It likely contains inaccuracies.*
 
 # Guided Meditation: Letting Alignment Emerge; AnimalSimiles(5of5)Elephant or Naga–Strength of Freedom

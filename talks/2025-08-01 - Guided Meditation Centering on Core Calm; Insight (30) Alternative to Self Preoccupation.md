@@ -1,12 +1,13 @@
 ---
-title: "Guided Meditation: Centering on Core Calm; Insight (30) Alternative to Self Preoccupation"
-date: "2025-08-01"
-video_url: "https://www.youtube.com/watch?v=hJdV4raw1-Q"
-speaker: "Unknown"
-speaker_url: ""
-audiodharma_talks:
-
+date: '2025-08-01'
+speaker: Unknown
+speaker_url: ''
+talk_urls: []
+title: 'Guided Meditation: Centering on Core Calm; Insight (30) Alternative to Self
+  Preoccupation'
+video_url: https://www.youtube.com/watch?v=hJdV4raw1-Q
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Centering on Core Calm; Insight (30) Alternative to Self Preoccupation](https://www.youtube.com/watch?v=hJdV4raw1-Q). It likely contains inaccuracies.*
 
 # Guided Meditation: Centering on Core Calm; Insight (30) Alternative to Self Preoccupation

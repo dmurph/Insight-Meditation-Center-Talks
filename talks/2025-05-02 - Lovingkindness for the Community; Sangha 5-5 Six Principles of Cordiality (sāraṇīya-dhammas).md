@@ -1,13 +1,15 @@
 ---
-title: "Lovingkindness for the Community; Sangha 5/5: Six Principles of Cordiality (sāraṇīya-dhammas)"
-date: "2025-05-02"
-video_url: "https://www.youtube.com/watch?v=4l0UZkRRByU"
-speaker: "Nikki Mirghafori"
-speaker_url: "https://www.audiodharma.org/speakers/229"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22867
-  - https://www.audiodharma.org/talks/22868
+date: '2025-05-02'
+speaker: Nikki Mirghafori
+speaker_url: https://www.audiodharma.org/speakers/229
+talk_urls:
+- https://www.audiodharma.org/talks/22867
+- https://www.audiodharma.org/talks/22868
+title: 'Lovingkindness for the Community; Sangha 5/5: Six Principles of Cordiality
+  (sāraṇīya-dhammas)'
+video_url: https://www.youtube.com/watch?v=4l0UZkRRByU
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Lovingkindness for the Community; Sangha 5/5: Six Principles of Cordiality (sāraṇīya-dhammas)](https://www.youtube.com/watch?v=4l0UZkRRByU). It likely contains inaccuracies.*
 
 # Lovingkindness for the Community; Sangha 5/5: Six Principles of Cordiality (sāraṇīya-dhammas)

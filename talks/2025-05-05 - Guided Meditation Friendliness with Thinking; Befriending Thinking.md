@@ -1,13 +1,14 @@
 ---
-title: "Guided Meditation: Friendliness with Thinking; Befriending Thinking"
-date: "2025-05-05"
-video_url: "https://www.youtube.com/watch?v=veqZj0YstfI"
-speaker: "Ines Freedman"
-speaker_url: "https://www.audiodharma.org/speakers/57"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22881
-  - https://www.audiodharma.org/talks/22882
+date: '2025-05-05'
+speaker: Ines Freedman
+speaker_url: https://www.audiodharma.org/speakers/57
+talk_urls:
+- https://www.audiodharma.org/talks/22881
+- https://www.audiodharma.org/talks/22882
+title: 'Guided Meditation: Friendliness with Thinking; Befriending Thinking'
+video_url: https://www.youtube.com/watch?v=veqZj0YstfI
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Friendliness with Thinking; Befriending Thinking](https://www.youtube.com/watch?v=veqZj0YstfI). It likely contains inaccuracies.*
 
 # Guided Meditation: Friendliness with Thinking; Befriending Thinking

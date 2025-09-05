@@ -1,13 +1,15 @@
 ---
-title: "Guided Meditation with Matthew Brensilver; Dharmette: Being Somebody, Nobody, Self Love & Anatta"
-date: "2025-05-01"
-video_url: "https://www.youtube.com/watch?v=BOQzRcJYqck"
-speaker: "Matthew Brensilver"
-speaker_url: "https://www.audiodharma.org/speakers/231"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22860
-  - https://www.audiodharma.org/talks/22861
+date: '2025-05-01'
+speaker: Matthew Brensilver
+speaker_url: https://www.audiodharma.org/speakers/231
+talk_urls:
+- https://www.audiodharma.org/talks/22860
+- https://www.audiodharma.org/talks/22861
+title: 'Guided Meditation with Matthew Brensilver; Dharmette: Being Somebody, Nobody,
+  Self Love & Anatta'
+video_url: https://www.youtube.com/watch?v=BOQzRcJYqck
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation with Matthew Brensilver; Dharmette: Being Somebody, Nobody, Self Love & Anatta](https://www.youtube.com/watch?v=BOQzRcJYqck). It likely contains inaccuracies.*
 
 # Guided Meditation with Matthew Brensilver; Dharmette: Being Somebody, Nobody, Self Love & Anatta

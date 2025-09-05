@@ -1,13 +1,15 @@
 ---
-title: "Guided Meditation: Mindfulness with Self; Insight (29) Awareness Without the Overlay of Self"
-date: "2025-07-31"
-video_url: "https://www.youtube.com/watch?v=sat4XWcIXKs"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23492
-  - https://www.audiodharma.org/talks/23493
+date: '2025-07-31'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23492
+- https://www.audiodharma.org/talks/23493
+title: 'Guided Meditation: Mindfulness with Self; Insight (29) Awareness Without the
+  Overlay of Self'
+video_url: https://www.youtube.com/watch?v=sat4XWcIXKs
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Mindfulness with Self; Insight (29) Awareness Without the Overlay of Self](https://www.youtube.com/watch?v=sat4XWcIXKs). It likely contains inaccuracies.*
 
 # Guided Meditation: Mindfulness with Self; Insight (29) Awareness Without the Overlay of Self

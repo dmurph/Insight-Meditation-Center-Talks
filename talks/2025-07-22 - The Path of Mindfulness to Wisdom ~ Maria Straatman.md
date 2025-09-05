@@ -1,12 +1,13 @@
 ---
-title: "The Path of Mindfulness to Wisdom ~ Maria Straatman"
-date: "2025-07-22"
-video_url: "https://www.youtube.com/watch?v=ATCYg_nKo_E"
-speaker: "Maria Straatmann"
-speaker_url: "https://www.audiodharma.org/speakers/142"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23444
+date: '2025-07-22'
+speaker: Maria Straatmann
+speaker_url: https://www.audiodharma.org/speakers/142
+talk_urls:
+- https://www.audiodharma.org/talks/23444
+title: The Path of Mindfulness to Wisdom ~ Maria Straatman
+video_url: https://www.youtube.com/watch?v=ATCYg_nKo_E
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [The Path of Mindfulness to Wisdom ~ Maria Straatman](https://www.youtube.com/watch?v=ATCYg_nKo_E). It likely contains inaccuracies.*
 
 # The Path of Mindfulness to Wisdom ~ Maria Straatman

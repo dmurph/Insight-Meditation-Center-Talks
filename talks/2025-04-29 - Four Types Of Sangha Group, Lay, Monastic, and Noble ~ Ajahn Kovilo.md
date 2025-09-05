@@ -1,12 +1,13 @@
 ---
-title: "Four Types Of Sangha: Group, Lay, Monastic, and Noble ~ Ajahn Kovilo"
-date: "2025-04-29"
-video_url: "https://www.youtube.com/watch?v=-Xy8vArpoLc"
-speaker: "Ajahn Kovilo"
-speaker_url: "https://www.audiodharma.org/speakers/466"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22830
+date: '2025-04-29'
+speaker: Ajahn Kovilo
+speaker_url: https://www.audiodharma.org/speakers/466
+talk_urls:
+- https://www.audiodharma.org/talks/22830
+title: 'Four Types Of Sangha: Group, Lay, Monastic, and Noble ~ Ajahn Kovilo'
+video_url: https://www.youtube.com/watch?v=-Xy8vArpoLc
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Four Types Of Sangha: Group, Lay, Monastic, and Noble ~ Ajahn Kovilo](https://www.youtube.com/watch?v=-Xy8vArpoLc). It likely contains inaccuracies.*
 
 # Four Types Of Sangha: Group, Lay, Monastic, and Noble ~ Ajahn Kovilo

@@ -1,12 +1,12 @@
 ---
-title: "Samadhi Review Day 5 Guided Meditation & Dharmette"
-date: "2025-07-25"
-video_url: "https://www.youtube.com/watch?v=jafGtOvnnNI"
-speaker: "Unknown"
-speaker_url: ""
-audiodharma_talks:
-
+date: '2025-07-25'
+speaker: Unknown
+speaker_url: ''
+talk_urls: []
+title: Samadhi Review Day 5 Guided Meditation & Dharmette
+video_url: https://www.youtube.com/watch?v=jafGtOvnnNI
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Samadhi Review Day 5 Guided Meditation & Dharmette](https://www.youtube.com/watch?v=jafGtOvnnNI). It likely contains inaccuracies.*
 
 # Samadhi Review Day 5 Guided Meditation & Dharmette

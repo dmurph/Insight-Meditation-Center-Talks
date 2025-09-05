@@ -1,12 +1,15 @@
 ---
-title: "Medt'n: The Leaning Heart;  Dharmette: Buddhism Beyond the Lists (3/5): The Heart's Orientation"
-date: "2025-09-03"
-video_url: "https://www.youtube.com/watch?v=FJqsfYv7G-g"
-speaker: "Diana Clark"
-speaker_url: "https://www.audiodharma.org/speakers/240"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23751
+date: '2025-09-03'
+speaker: Diana Clark
+speaker_url: https://www.audiodharma.org/speakers/240
+talk_urls:
+- https://www.audiodharma.org/talks/23751
+- https://www.audiodharma.org/talks/23752
+title: 'Medt''n: The Leaning Heart;  Dharmette: Buddhism Beyond the Lists (3/5): The
+  Heart''s Orientation'
+video_url: https://www.youtube.com/watch?v=FJqsfYv7G-g
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Medt'n: The Leaning Heart; Dharmette: Buddhism Beyond the Lists (3/5): The Heart's Orientation](https://www.youtube.com/watch?v=FJqsfYv7G-g). It likely contains inaccuracies.*
 
 # Medt'n: The Leaning Heart; Dharmette: Buddhism Beyond the Lists (3/5): The Heart's Orientation

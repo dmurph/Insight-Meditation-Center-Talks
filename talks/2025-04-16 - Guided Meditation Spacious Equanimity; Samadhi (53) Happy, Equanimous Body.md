@@ -1,13 +1,14 @@
 ---
-title: "Guided Meditation: Spacious Equanimity; Samadhi (53) Happy, Equanimous Body"
-date: "2025-04-16"
-video_url: "https://www.youtube.com/watch?v=rw4FFEWTbo4"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22737
-  - https://www.audiodharma.org/talks/22738
+date: '2025-04-16'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/22737
+- https://www.audiodharma.org/talks/22738
+title: 'Guided Meditation: Spacious Equanimity; Samadhi (53) Happy, Equanimous Body'
+video_url: https://www.youtube.com/watch?v=rw4FFEWTbo4
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Spacious Equanimity; Samadhi (53) Happy, Equanimous Body](https://www.youtube.com/watch?v=rw4FFEWTbo4). It likely contains inaccuracies.*
 
 # Guided Meditation: Spacious Equanimity; Samadhi (53) Happy, Equanimous Body

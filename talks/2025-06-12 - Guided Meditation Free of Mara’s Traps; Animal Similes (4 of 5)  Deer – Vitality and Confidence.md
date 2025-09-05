@@ -1,3 +1,15 @@
+---
+date: '2025-06-12'
+speaker: Kim Allen
+speaker_url: https://www.audiodharma.org/speakers/4
+talk_urls:
+- https://www.audiodharma.org/talks/23191
+- https://www.audiodharma.org/talks/23192
+title: 'Guided Meditation: Free of Mara’s Traps; Animal Similes (4 of 5)  Deer – Vitality
+  and Confidence'
+video_url: https://www.youtube.com/watch?v=WbGivEo2B4E
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Free of Mara’s Traps; Animal Similes (4 of 5) Deer – Vitality and Confidence](https://www.youtube.com/watch?v=WbGivEo2B4E). It likely contains inaccuracies.*
 
 # Guided Meditation: Free of Mara’s Traps; Animal Similes (4 of 5) Deer – Vitality and Confidence

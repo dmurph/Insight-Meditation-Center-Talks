@@ -1,13 +1,15 @@
 ---
-title: "Guided Meditation with Matthew Brensilver & Dharmette: Unquenchability and What's Worth Wanting"
-date: "2025-07-17"
-video_url: "https://www.youtube.com/watch?v=Q0AapOUGXRw"
-speaker: "Matthew Brensilver"
-speaker_url: "https://www.audiodharma.org/speakers/231"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23421
-  - https://www.audiodharma.org/talks/23422
+date: '2025-07-17'
+speaker: Matthew Brensilver
+speaker_url: https://www.audiodharma.org/speakers/231
+talk_urls:
+- https://www.audiodharma.org/talks/23421
+- https://www.audiodharma.org/talks/23422
+title: 'Guided Meditation with Matthew Brensilver & Dharmette: Unquenchability and
+  What''s Worth Wanting'
+video_url: https://www.youtube.com/watch?v=Q0AapOUGXRw
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation with Matthew Brensilver & Dharmette: Unquenchability and What's Worth Wanting](https://www.youtube.com/watch?v=Q0AapOUGXRw). It likely contains inaccuracies.*
 
 # Guided Meditation with Matthew Brensilver & Dharmette: Unquenchability and What's Worth Wanting

@@ -1,12 +1,12 @@
 ---
-title: "Earth Day Talk: Participating in Nature - Gil Fronsdal"
-date: "2025-04-20"
-video_url: "https://www.youtube.com/watch?v=9y8eoNzBmRs"
-speaker: "Unknown"
-speaker_url: ""
-audiodharma_talks:
-
+date: '2025-04-20'
+speaker: Unknown
+speaker_url: ''
+talk_urls: []
+title: 'Earth Day Talk: Participating in Nature - Gil Fronsdal'
+video_url: https://www.youtube.com/watch?v=9y8eoNzBmRs
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Earth Day Talk: Participating in Nature - Gil Fronsdal](https://www.youtube.com/watch?v=9y8eoNzBmRs). It likely contains inaccuracies.*
 
 # Earth Day Talk: Participating in Nature - Gil Fronsdal

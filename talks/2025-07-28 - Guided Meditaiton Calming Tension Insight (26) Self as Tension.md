@@ -1,12 +1,14 @@
 ---
-title: "Guided Meditaiton: Calming Tension: Insight (26) Self as Tension"
-date: "2025-07-28"
-video_url: "https://www.youtube.com/watch?v=QX2uALbpmLI"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-
+date: '2025-07-28'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/None
+- https://www.audiodharma.org/talks/None
+title: 'Guided Meditaiton: Calming Tension: Insight (26) Self as Tension'
+video_url: https://www.youtube.com/watch?v=QX2uALbpmLI
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditaiton: Calming Tension: Insight (26) Self as Tension](https://www.youtube.com/watch?v=QX2uALbpmLI). It likely contains inaccuracies.*
 
 # Guided Meditaiton: Calming Tension: Insight (26) Self as Tension

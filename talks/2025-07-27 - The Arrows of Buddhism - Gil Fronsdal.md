@@ -1,12 +1,12 @@
 ---
-title: "The Arrows of Buddhism - Gil Fronsdal"
-date: "2025-07-27"
-video_url: "https://www.youtube.com/watch?v=FygattrL3z4"
-speaker: "Unknown"
-speaker_url: ""
-audiodharma_talks:
-
+date: '2025-07-27'
+speaker: Unknown
+speaker_url: ''
+talk_urls: []
+title: The Arrows of Buddhism - Gil Fronsdal
+video_url: https://www.youtube.com/watch?v=FygattrL3z4
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [The Arrows of Buddhism - Gil Fronsdal](https://www.youtube.com/watch?v=FygattrL3z4). It likely contains inaccuracies.*
 
 # The Arrows of Buddhism - Gil Fronsdal

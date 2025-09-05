@@ -1,13 +1,15 @@
 ---
-title: "Guided Meditation: Enter, Abide, and Open; Samadhi (50) Opening to Joy and Happiness"
-date: "2025-04-11"
-video_url: "https://www.youtube.com/watch?v=IMYibNUyiNk"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22712
-  - https://www.audiodharma.org/talks/22713
+date: '2025-04-11'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/22712
+- https://www.audiodharma.org/talks/22713
+title: 'Guided Meditation: Enter, Abide, and Open; Samadhi (50) Opening to Joy and
+  Happiness'
+video_url: https://www.youtube.com/watch?v=IMYibNUyiNk
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Enter, Abide, and Open; Samadhi (50) Opening to Joy and Happiness](https://www.youtube.com/watch?v=IMYibNUyiNk). It likely contains inaccuracies.*
 
 # Guided Meditation: Enter, Abide, and Open; Samadhi (50) Opening to Joy and Happiness

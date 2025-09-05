@@ -1,12 +1,13 @@
 ---
-title: "Monday Evening Sit and Talk with Diana Clark"
-date: "2025-08-12"
-video_url: "https://www.youtube.com/watch?v=kS6IvV3RA68"
-speaker: "Diana Clark"
-speaker_url: "https://www.audiodharma.org/speakers/240"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23598
+date: '2025-08-12'
+speaker: Diana Clark
+speaker_url: https://www.audiodharma.org/speakers/240
+talk_urls:
+- https://www.audiodharma.org/talks/23598
+title: Monday Evening Sit and Talk with Diana Clark
+video_url: https://www.youtube.com/watch?v=kS6IvV3RA68
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Monday Evening Sit and Talk with Diana Clark](https://www.youtube.com/watch?v=kS6IvV3RA68). It likely contains inaccuracies.*
 
 # Monday Evening Sit and Talk with Diana Clark

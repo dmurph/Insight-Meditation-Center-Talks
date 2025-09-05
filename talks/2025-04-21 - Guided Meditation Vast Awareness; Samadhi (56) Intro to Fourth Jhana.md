@@ -1,12 +1,14 @@
 ---
-title: "Guided Meditation: Vast Awareness; Samadhi (56) Intro to Fourth Jhana"
-date: "2025-04-21"
-video_url: "https://www.youtube.com/watch?v=07lwZ_CnqEU"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-
+date: '2025-04-21'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/None
+- https://www.audiodharma.org/talks/None
+title: 'Guided Meditation: Vast Awareness; Samadhi (56) Intro to Fourth Jhana'
+video_url: https://www.youtube.com/watch?v=07lwZ_CnqEU
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Vast Awareness; Samadhi (56) Intro to Fourth Jhana](https://www.youtube.com/watch?v=07lwZ_CnqEU). It likely contains inaccuracies.*
 
 # Guided Meditation: Vast Awareness; Samadhi (56) Intro to Fourth Jhana

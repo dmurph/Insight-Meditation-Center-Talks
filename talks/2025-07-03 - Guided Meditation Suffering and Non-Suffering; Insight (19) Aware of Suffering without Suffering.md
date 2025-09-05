@@ -1,3 +1,15 @@
+---
+date: '2025-07-03'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23322
+- https://www.audiodharma.org/talks/23323
+title: 'Guided Meditation: Suffering and Non-Suffering; Insight (19) Aware of Suffering
+  without Suffering'
+video_url: https://www.youtube.com/watch?v=reg0ibT9I4k
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Suffering and Non-Suffering; Insight (19) Aware of Suffering without Suffering](https://www.youtube.com/watch?v=reg0ibT9I4k). It likely contains inaccuracies.*
 
 # Guided Meditation: Suffering and Non-Suffering; Insight (19) Aware of Suffering without Suffering

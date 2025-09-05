@@ -1,13 +1,14 @@
 ---
-title: "Guided Meditation: Sensing Self; Insight (27) Sensing Self as an Activity."
-date: "2025-07-29"
-video_url: "https://www.youtube.com/watch?v=9UZOqITdXxE"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23478
-  - https://www.audiodharma.org/talks/23479
+date: '2025-07-29'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23478
+- https://www.audiodharma.org/talks/23479
+title: 'Guided Meditation: Sensing Self; Insight (27) Sensing Self as an Activity.'
+video_url: https://www.youtube.com/watch?v=9UZOqITdXxE
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Sensing Self; Insight (27) Sensing Self as an Activity.](https://www.youtube.com/watch?v=9UZOqITdXxE). It likely contains inaccuracies.*
 
 # Guided Meditation: Sensing Self; Insight (27) Sensing Self as an Activity.

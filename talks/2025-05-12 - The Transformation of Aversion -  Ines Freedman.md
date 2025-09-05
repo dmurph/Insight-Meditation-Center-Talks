@@ -1,3 +1,13 @@
+---
+date: '2025-05-12'
+speaker: Ines Freedman
+speaker_url: https://www.audiodharma.org/speakers/57
+talk_urls:
+- https://www.audiodharma.org/talks/22926
+title: The Transformation of Aversion -  Ines Freedman
+video_url: https://www.youtube.com/watch?v=_DqDNEf1cEo
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [The Transformation of Aversion - Ines Freedman](https://www.youtube.com/watch?v=_DqDNEf1cEo). It likely contains inaccuracies.*
 
 # The Transformation of Aversion - Ines Freedman

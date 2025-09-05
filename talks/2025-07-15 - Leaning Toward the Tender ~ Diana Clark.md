@@ -1,3 +1,13 @@
+---
+date: '2025-07-15'
+speaker: Diana Clark
+speaker_url: https://www.audiodharma.org/speakers/240
+talk_urls:
+- https://www.audiodharma.org/talks/23407
+title: Leaning Toward the Tender ~ Diana Clark
+video_url: https://www.youtube.com/watch?v=QtJ0FJJsEss
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Leaning Toward the Tender ~ Diana Clark](https://www.youtube.com/watch?v=QtJ0FJJsEss). It likely contains inaccuracies.*
 
 # Leaning Toward the Tender ~ Diana Clark

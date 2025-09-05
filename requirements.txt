@@ -10,3 +10,4 @@ youtube-transcript-api==1.1.1
 yt-dlp==2025.6.30
 beautifulsoup4==4.12.3
 PyYAML==6.0.1
+python-frontmatter==1.0.0

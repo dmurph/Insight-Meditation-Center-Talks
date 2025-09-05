@@ -1,12 +1,12 @@
 ---
-title: "Guided Meditation: Effortlessness; Samadhi (59) Effortless Clarity"
-date: "2025-04-24"
-video_url: "https://www.youtube.com/watch?v=FqomQVTcBYQ"
-speaker: "Unknown"
-speaker_url: ""
-audiodharma_talks:
-
+date: '2025-04-24'
+speaker: Unknown
+speaker_url: ''
+talk_urls: []
+title: 'Guided Meditation: Effortlessness; Samadhi (59) Effortless Clarity'
+video_url: https://www.youtube.com/watch?v=FqomQVTcBYQ
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Effortlessness; Samadhi (59) Effortless Clarity](https://www.youtube.com/watch?v=FqomQVTcBYQ). It likely contains inaccuracies.*
 
 # Guided Meditation: Effortlessness; Samadhi (59) Effortless Clarity

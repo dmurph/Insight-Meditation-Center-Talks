@@ -1,3 +1,14 @@
+---
+date: '2025-05-30'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23059
+- https://www.audiodharma.org/talks/23060
+title: 'Guided Meditation: River of Change; Insight (10) Samadhi of Three Characteristics'
+video_url: https://www.youtube.com/watch?v=Q4p97qvIc7I
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: River of Change; Insight (10) Samadhi of Three Characteristics](https://www.youtube.com/watch?v=Q4p97qvIc7I). It likely contains inaccuracies.*
 
 # Guided Meditation: River of Change; Insight (10) Samadhi of Three Characteristics

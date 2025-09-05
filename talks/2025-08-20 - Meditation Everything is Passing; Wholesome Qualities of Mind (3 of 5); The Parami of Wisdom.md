@@ -1,12 +1,15 @@
 ---
-title: "Meditation: Everything is Passing; Wholesome Qualities of Mind (3 of 5); The Parami of Wisdom"
-date: "2025-08-20"
-video_url: "https://www.youtube.com/watch?v=lXX7vemTLRU"
-speaker: "Matthew Brensilver"
-speaker_url: "https://www.audiodharma.org/speakers/231"
-audiodharma_talks:
-
+date: '2025-08-20'
+speaker: Matthew Brensilver
+speaker_url: https://www.audiodharma.org/speakers/231
+talk_urls:
+- https://www.audiodharma.org/talks/None
+- https://www.audiodharma.org/talks/None
+title: 'Meditation: Everything is Passing; Wholesome Qualities of Mind (3 of 5); The
+  Parami of Wisdom'
+video_url: https://www.youtube.com/watch?v=lXX7vemTLRU
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Meditation: Everything is Passing; Wholesome Qualities of Mind (3 of 5); The Parami of Wisdom](https://www.youtube.com/watch?v=lXX7vemTLRU). It likely contains inaccuracies.*
 
 # Meditation: Everything is Passing; Wholesome Qualities of Mind (3 of 5); The Parami of Wisdom

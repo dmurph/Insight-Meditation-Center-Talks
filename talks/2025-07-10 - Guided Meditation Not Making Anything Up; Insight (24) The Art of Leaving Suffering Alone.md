@@ -1,3 +1,15 @@
+---
+date: '2025-07-10'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23368
+- https://www.audiodharma.org/talks/23369
+title: 'Guided Meditation: Not Making Anything Up; Insight (24) The Art of Leaving
+  Suffering Alone'
+video_url: https://www.youtube.com/watch?v=v3D6EbE0lYs
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Not Making Anything Up; Insight (24) The Art of Leaving Suffering Alone](https://www.youtube.com/watch?v=v3D6EbE0lYs). It likely contains inaccuracies.*
 
 # Guided Meditation: Not Making Anything Up; Insight (24) The Art of Leaving Suffering Alone

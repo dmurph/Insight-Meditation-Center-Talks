@@ -1,13 +1,15 @@
 ---
-title: "Gift of Good Friendship; Sangha 2/5 - Qualities of a Good Friend - Kalyāṇa/suhadaya/upakāraka mitta"
-date: "2025-04-29"
-video_url: "https://www.youtube.com/watch?v=rkuVFb8rhXg"
-speaker: "Nikki Mirghafori"
-speaker_url: "https://www.audiodharma.org/speakers/229"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22827
-  - https://www.audiodharma.org/talks/22832
+date: '2025-04-29'
+speaker: Nikki Mirghafori
+speaker_url: https://www.audiodharma.org/speakers/229
+talk_urls:
+- https://www.audiodharma.org/talks/22827
+- https://www.audiodharma.org/talks/22832
+title: Gift of Good Friendship; Sangha 2/5 - Qualities of a Good Friend - Kalyāṇa/suhadaya/upakāraka
+  mitta
+video_url: https://www.youtube.com/watch?v=rkuVFb8rhXg
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Gift of Good Friendship; Sangha 2/5 - Qualities of a Good Friend - Kalyāṇa/suhadaya/upakāraka mitta](https://www.youtube.com/watch?v=rkuVFb8rhXg). It likely contains inaccuracies.*
 
 # Gift of Good Friendship; Sangha 2/5 - Qualities of a Good Friend - Kalyāṇa/suhadaya/upakāraka mitta

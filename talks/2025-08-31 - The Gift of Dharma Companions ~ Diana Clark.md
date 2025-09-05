@@ -1,3 +1,12 @@
+---
+date: '2025-08-31'
+speaker: Unknown
+speaker_url: ''
+talk_urls: []
+title: The Gift of Dharma Companions ~ Diana Clark
+video_url: https://www.youtube.com/watch?v=-Kbzk8aw1Fc
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [The Gift of Dharma Companions ~ Diana Clark](https://www.youtube.com/watch?v=-Kbzk8aw1Fc). It likely contains inaccuracies.*
 
 # The Gift of Dharma Companions ~ Diana Clark

@@ -1,3 +1,14 @@
+---
+date: '2025-09-01'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23731
+- https://www.audiodharma.org/talks/23730
+title: Born Through The Five Reflections - Gil Fronsdal
+video_url: https://www.youtube.com/watch?v=p0SGJ8miT0A
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Born Through The Five Reflections - Gil Fronsdal](https://www.youtube.com/watch?v=p0SGJ8miT0A). It likely contains inaccuracies.*
 
 # Born Through The Five Reflections - Gil Fronsdal

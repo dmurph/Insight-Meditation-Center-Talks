@@ -1,12 +1,12 @@
 ---
-title: "Samadhi Review Day 1 Guided Meditation & Dharmette"
-date: "2025-07-21"
-video_url: "https://www.youtube.com/watch?v=U6IqfWqRXUQ"
-speaker: "Unknown"
-speaker_url: ""
-audiodharma_talks:
-
+date: '2025-07-21'
+speaker: Unknown
+speaker_url: ''
+talk_urls: []
+title: Samadhi Review Day 1 Guided Meditation & Dharmette
+video_url: https://www.youtube.com/watch?v=U6IqfWqRXUQ
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Samadhi Review Day 1 Guided Meditation & Dharmette](https://www.youtube.com/watch?v=U6IqfWqRXUQ). It likely contains inaccuracies.*
 
 # Samadhi Review Day 1 Guided Meditation & Dharmette

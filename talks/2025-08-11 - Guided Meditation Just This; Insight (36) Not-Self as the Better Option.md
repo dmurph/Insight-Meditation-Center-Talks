@@ -1,13 +1,14 @@
 ---
-title: "Guided Meditation: Just This; Insight (36) Not-Self as the Better Option"
-date: "2025-08-11"
-video_url: "https://www.youtube.com/watch?v=R6j-4MAs0vA"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23595
-  - https://www.audiodharma.org/talks/23596
+date: '2025-08-11'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23595
+- https://www.audiodharma.org/talks/23596
+title: 'Guided Meditation: Just This; Insight (36) Not-Self as the Better Option'
+video_url: https://www.youtube.com/watch?v=R6j-4MAs0vA
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Just This; Insight (36) Not-Self as the Better Option](https://www.youtube.com/watch?v=R6j-4MAs0vA). It likely contains inaccuracies.*
 
 # Guided Meditation: Just This; Insight (36) Not-Self as the Better Option

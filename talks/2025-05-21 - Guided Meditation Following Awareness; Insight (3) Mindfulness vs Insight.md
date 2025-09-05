@@ -1,3 +1,14 @@
+---
+date: '2025-05-21'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23001
+- https://www.audiodharma.org/talks/23000
+title: 'Guided Meditation: Following Awareness; Insight (3) Mindfulness vs Insight'
+video_url: https://www.youtube.com/watch?v=3z0WELVTGOY
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Following Awareness; Insight (3) Mindfulness vs Insight](https://www.youtube.com/watch?v=3z0WELVTGOY). It likely contains inaccuracies.*
 
 # Guided Meditation: Following Awareness; Insight (3) Mindfulness vs Insight

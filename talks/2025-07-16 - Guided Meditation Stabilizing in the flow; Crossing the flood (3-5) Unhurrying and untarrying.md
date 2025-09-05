@@ -1,13 +1,15 @@
 ---
-title: "Guided Meditation: Stabilizing in the flow; Crossing the flood (3/5) Unhurrying and untarrying"
-date: "2025-07-16"
-video_url: "https://www.youtube.com/watch?v=2U4XHGigPIk"
-speaker: "Ying Chen, 陈颖"
-speaker_url: "https://www.audiodharma.org/speakers/333"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23416
-  - https://www.audiodharma.org/talks/23417
+date: '2025-07-16'
+speaker: Ying Chen, 陈颖
+speaker_url: https://www.audiodharma.org/speakers/333
+talk_urls:
+- https://www.audiodharma.org/talks/23416
+- https://www.audiodharma.org/talks/23417
+title: 'Guided Meditation: Stabilizing in the flow; Crossing the flood (3/5) Unhurrying
+  and untarrying'
+video_url: https://www.youtube.com/watch?v=2U4XHGigPIk
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Stabilizing in the flow; Crossing the flood (3/5) Unhurrying and untarrying](https://www.youtube.com/watch?v=2U4XHGigPIk). It likely contains inaccuracies.*
 
 # Guided Meditation: Stabilizing in the flow; Crossing the flood (3/5) Unhurrying and untarrying

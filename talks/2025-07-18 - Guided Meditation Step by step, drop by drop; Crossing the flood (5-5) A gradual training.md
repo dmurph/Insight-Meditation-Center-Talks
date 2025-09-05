@@ -1,13 +1,15 @@
 ---
-title: "Guided Meditation: Step by step, drop by drop; Crossing the flood (5/5) A gradual training"
-date: "2025-07-18"
-video_url: "https://www.youtube.com/watch?v=J42NSbIUDxI"
-speaker: "Ying Chen, 陈颖"
-speaker_url: "https://www.audiodharma.org/speakers/333"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/23425
-  - https://www.audiodharma.org/talks/23426
+date: '2025-07-18'
+speaker: Ying Chen, 陈颖
+speaker_url: https://www.audiodharma.org/speakers/333
+talk_urls:
+- https://www.audiodharma.org/talks/23425
+- https://www.audiodharma.org/talks/23426
+title: 'Guided Meditation: Step by step, drop by drop; Crossing the flood (5/5) A
+  gradual training'
+video_url: https://www.youtube.com/watch?v=J42NSbIUDxI
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Step by step, drop by drop; Crossing the flood (5/5) A gradual training](https://www.youtube.com/watch?v=J42NSbIUDxI). It likely contains inaccuracies.*
 
 # Guided Meditation: Step by step, drop by drop; Crossing the flood (5/5) A gradual training

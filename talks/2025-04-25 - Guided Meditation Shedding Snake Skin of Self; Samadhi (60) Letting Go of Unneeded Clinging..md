@@ -1,13 +1,15 @@
 ---
-title: "Guided Meditation: Shedding Snake Skin of Self; Samadhi (60) Letting Go of Unneeded Clinging."
-date: "2025-04-25"
-video_url: "https://www.youtube.com/watch?v=7s-gNt_-rzI"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22811
-  - https://www.audiodharma.org/talks/22812
+date: '2025-04-25'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/22811
+- https://www.audiodharma.org/talks/22812
+title: 'Guided Meditation: Shedding Snake Skin of Self; Samadhi (60) Letting Go of
+  Unneeded Clinging.'
+video_url: https://www.youtube.com/watch?v=7s-gNt_-rzI
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Shedding Snake Skin of Self; Samadhi (60) Letting Go of Unneeded Clinging.](https://www.youtube.com/watch?v=7s-gNt_-rzI). It likely contains inaccuracies.*
 
 # Guided Meditation: Shedding Snake Skin of Self; Samadhi (60) Letting Go of Unneeded Clinging.

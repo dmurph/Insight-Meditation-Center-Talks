@@ -1,3 +1,14 @@
+---
+date: '2025-06-09'
+speaker: Mei Elliott
+speaker_url: https://www.audiodharma.org/speakers/394
+talk_urls:
+- https://www.audiodharma.org/talks/23149
+- https://www.audiodharma.org/talks/23150
+title: Vedana and Entanglement -  Mei Elliott
+video_url: https://www.youtube.com/watch?v=dk2eeMxwdXc
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Vedana and Entanglement - Mei Elliott](https://www.youtube.com/watch?v=dk2eeMxwdXc). It likely contains inaccuracies.*
 
 # Vedana and Entanglement - Mei Elliott

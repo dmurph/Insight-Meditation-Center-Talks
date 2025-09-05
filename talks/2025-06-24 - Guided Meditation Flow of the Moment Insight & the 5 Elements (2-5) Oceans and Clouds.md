@@ -1,3 +1,15 @@
+---
+date: '2025-06-24'
+speaker: Dawn Neal
+speaker_url: https://www.audiodharma.org/speakers/241
+talk_urls:
+- https://www.audiodharma.org/talks/23276
+- https://www.audiodharma.org/talks/23277
+title: 'Guided Meditation: Flow of the Moment: Insight & the 5 Elements (2/5) Oceans
+  and Clouds'
+video_url: https://www.youtube.com/watch?v=7BrSPG1z874
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Flow of the Moment: Insight & the 5 Elements (2/5) Oceans and Clouds](https://www.youtube.com/watch?v=7BrSPG1z874). It likely contains inaccuracies.*
 
 # Guided Meditation: Flow of the Moment: Insight & the 5 Elements (2/5) Oceans and Clouds

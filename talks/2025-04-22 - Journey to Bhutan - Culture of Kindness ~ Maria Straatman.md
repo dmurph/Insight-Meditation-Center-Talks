@@ -1,12 +1,13 @@
 ---
-title: "Journey to Bhutan - Culture of Kindness ~ Maria Straatman"
-date: "2025-04-22"
-video_url: "https://www.youtube.com/watch?v=twwixcGvZuU"
-speaker: "Maria Straatmann"
-speaker_url: "https://www.audiodharma.org/speakers/142"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22780
+date: '2025-04-22'
+speaker: Maria Straatmann
+speaker_url: https://www.audiodharma.org/speakers/142
+talk_urls:
+- https://www.audiodharma.org/talks/22780
+title: Journey to Bhutan - Culture of Kindness ~ Maria Straatman
+video_url: https://www.youtube.com/watch?v=twwixcGvZuU
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Journey to Bhutan - Culture of Kindness ~ Maria Straatman](https://www.youtube.com/watch?v=twwixcGvZuU). It likely contains inaccuracies.*
 
 # Journey to Bhutan - Culture of Kindness ~ Maria Straatman

@@ -1,3 +1,14 @@
+---
+date: '2025-05-19'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/22992
+- https://www.audiodharma.org/talks/22993
+title: 'Guided Meditation: Stopping and Seeing; Insight (1) Intro to Samadhi and Insight'
+video_url: https://www.youtube.com/watch?v=olI_gtKQY4U
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Stopping and Seeing; Insight (1) Intro to Samadhi and Insight](https://www.youtube.com/watch?v=olI_gtKQY4U). It likely contains inaccuracies.*
 
 # Guided Meditation: Stopping and Seeing; Insight (1) Intro to Samadhi and Insight

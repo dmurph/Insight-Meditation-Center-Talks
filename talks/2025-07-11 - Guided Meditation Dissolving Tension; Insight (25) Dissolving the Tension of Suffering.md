@@ -1,3 +1,15 @@
+---
+date: '2025-07-11'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23378
+- https://www.audiodharma.org/talks/23379
+title: 'Guided Meditation: Dissolving Tension; Insight (25) Dissolving the Tension
+  of Suffering'
+video_url: https://www.youtube.com/watch?v=FGjss6YD7Ec
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Dissolving Tension; Insight (25) Dissolving the Tension of Suffering](https://www.youtube.com/watch?v=FGjss6YD7Ec). It likely contains inaccuracies.*
 
 # Guided Meditation: Dissolving Tension; Insight (25) Dissolving the Tension of Suffering

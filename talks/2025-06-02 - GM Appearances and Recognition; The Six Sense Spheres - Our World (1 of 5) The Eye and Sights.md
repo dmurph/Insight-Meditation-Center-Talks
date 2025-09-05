@@ -1,3 +1,15 @@
+---
+date: '2025-06-02'
+speaker: Shelley Gault
+speaker_url: https://www.audiodharma.org/speakers/260
+talk_urls:
+- https://www.audiodharma.org/talks/23100
+- https://www.audiodharma.org/talks/23099
+title: 'GM: Appearances and Recognition; The Six Sense Spheres - Our World (1 of 5):
+  The Eye and Sights'
+video_url: https://www.youtube.com/watch?v=5ZgO41imfyI
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [GM: Appearances and Recognition; The Six Sense Spheres - Our World (1 of 5): The Eye and Sights](https://www.youtube.com/watch?v=5ZgO41imfyI). It likely contains inaccuracies.*
 
 # GM: Appearances and Recognition; The Six Sense Spheres - Our World (1 of 5): The Eye and Sights

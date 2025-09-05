@@ -1,3 +1,15 @@
+---
+date: '2025-06-20'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23244
+- https://www.audiodharma.org/talks/23245
+title: 'Guided Meditation: Openings in Endings; Insight (15) The Gap Between Endings
+  and Beginnings'
+video_url: https://www.youtube.com/watch?v=RLEtCN7HqwA
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Openings in Endings; Insight (15) The Gap Between Endings and Beginnings](https://www.youtube.com/watch?v=RLEtCN7HqwA). It likely contains inaccuracies.*
 
 # Guided Meditation: Openings in Endings; Insight (15) The Gap Between Endings and Beginnings

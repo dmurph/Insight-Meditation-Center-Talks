@@ -1,3 +1,14 @@
+---
+date: '2025-05-26'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/23026
+- https://www.audiodharma.org/talks/23027
+title: Mindfulness of Speech - Gil Fronsdal
+video_url: https://www.youtube.com/watch?v=O40qd9WXCKg
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Mindfulness of Speech - Gil Fronsdal](https://www.youtube.com/watch?v=O40qd9WXCKg). It likely contains inaccuracies.*
 
 # Mindfulness of Speech - Gil Fronsdal

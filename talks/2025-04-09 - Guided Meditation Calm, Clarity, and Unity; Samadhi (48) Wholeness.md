@@ -1,13 +1,14 @@
 ---
-title: "Guided Meditation: Calm, Clarity, and Unity; Samadhi (48) Wholeness"
-date: "2025-04-09"
-video_url: "https://www.youtube.com/watch?v=vZPx5Y1QazM"
-speaker: "Gil Fronsdal"
-speaker_url: "https://www.audiodharma.org/speakers/1"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22689
-  - https://www.audiodharma.org/talks/22690
+date: '2025-04-09'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/22689
+- https://www.audiodharma.org/talks/22690
+title: 'Guided Meditation: Calm, Clarity, and Unity; Samadhi (48) Wholeness'
+video_url: https://www.youtube.com/watch?v=vZPx5Y1QazM
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Calm, Clarity, and Unity; Samadhi (48) Wholeness](https://www.youtube.com/watch?v=vZPx5Y1QazM). It likely contains inaccuracies.*
 
 # Guided Meditation: Calm, Clarity, and Unity; Samadhi (48) Wholeness

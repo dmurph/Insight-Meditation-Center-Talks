@@ -1,3 +1,14 @@
+---
+date: '2025-06-04'
+speaker: Shelley Gault
+speaker_url: https://www.audiodharma.org/speakers/260
+talk_urls:
+- https://www.audiodharma.org/talks/23125
+title: 'GM: Effect of Mental Activity; The Six Sense Spheres - Our World(3of5):Tongue
+  & Nose, Taste & Aromas'
+video_url: https://www.youtube.com/watch?v=PvIftaPUqVM
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [GM: Effect of Mental Activity; The Six Sense Spheres - Our World(3of5):Tongue & Nose, Taste & Aromas](https://www.youtube.com/watch?v=PvIftaPUqVM). It likely contains inaccuracies.*
 
 # GM: Effect of Mental Activity; The Six Sense Spheres - Our World(3of5):Tongue & Nose, Taste & Aromas

@@ -1,3 +1,13 @@
+---
+date: '2025-06-17'
+speaker: Gil Fronsdal
+speaker_url: https://www.audiodharma.org/speakers/1
+talk_urls:
+- https://www.audiodharma.org/talks/None
+title: 'Guided Meditation: Insight Into Clinging; Insight (12) Change Highlights Clinging'
+video_url: https://www.youtube.com/watch?v=wUK6eeyT1xo
+---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Insight Into Clinging; Insight (12) Change Highlights Clinging](https://www.youtube.com/watch?v=wUK6eeyT1xo). It likely contains inaccuracies.*
 
 # Guided Meditation: Insight Into Clinging; Insight (12) Change Highlights Clinging

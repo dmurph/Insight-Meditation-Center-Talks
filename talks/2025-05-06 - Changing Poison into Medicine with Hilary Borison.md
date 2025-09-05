@@ -1,12 +1,13 @@
 ---
-title: "Changing Poison into Medicine with Hilary Borison"
-date: "2025-05-06"
-video_url: "https://www.youtube.com/watch?v=RQkDSjjuFho"
-speaker: "Hilary Borison"
-speaker_url: "https://www.audiodharma.org/speakers/292"
-audiodharma_talks:
-  - https://www.audiodharma.org/talks/22883
+date: '2025-05-06'
+speaker: Hilary Borison
+speaker_url: https://www.audiodharma.org/speakers/292
+talk_urls:
+- https://www.audiodharma.org/talks/22883
+title: Changing Poison into Medicine with Hilary Borison
+video_url: https://www.youtube.com/watch?v=RQkDSjjuFho
 ---
+
 *This is an AI-generated transcript from auto-generated subtitles for the video [Changing Poison into Medicine with Hilary Borison](https://www.youtube.com/watch?v=RQkDSjjuFho). It likely contains inaccuracies.*
 
 # Changing Poison into Medicine with Hilary Borison
