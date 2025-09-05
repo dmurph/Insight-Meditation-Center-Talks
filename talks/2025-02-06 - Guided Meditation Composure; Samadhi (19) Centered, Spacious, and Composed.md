@@ -1,0 +1,85 @@
+---
+"date": "2025-02-06"
+"speaker": "Gil Fronsdal"
+"speaker_url": "https://www.audiodharma.org/speakers/1"
+"talk_urls":
+- "https://www.audiodharma.org/talks/22217"
+- "https://www.audiodharma.org/talks/22218"
+"title": "Guided Meditation: Composure; Samadhi (19) Centered, Spacious, and Composed"
+"video_url": "https://www.youtube.com/watch?v=2FOmYbKJPn0"
+---
+
+*This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Composure; Samadhi (19) Centered, Spacious, and Composed](https://www.youtube.com/watch?v=2FOmYbKJPn0). It likely contains inaccuracies.*
+
+# Guided Meditation: Composure; Samadhi (19) Centered, Spacious, and Composed
+The following talk was given by [Gil Fronsdal](https://www.audiodharma.org/speakers/1) at the Insight Meditation Center in Redwood City, California. Please visit the website [www.audiodharma.org](https://www.audiodharma.org) for more information.
+
+## Guided Meditation: Composure ([link](https://www.audiodharma.org/talks/22217))
+Hello on this Thursday in Redwood City at the Insight Meditation Center. Welcome. One of the amazing capacities we have as human beings is attention. Using the word "attention" is to point out that it is a very broad term that encompasses all the different attentional faculties that we have. To pay attention, to offer attention, to be attentive—these are different ways that we attend to something.
+
+Sometimes we are aware through our eyes. Sometimes we might be aware mostly through our ears. Some people who can see will close their eyes in order to hear better. We might attend through our nostrils or through taste when we're eating food. I remember when I was a kid, and we wanted to know whether a small battery still had a charge in it, we would use our tongue to feel the little charge that was left.
+
+We also attend through something that is not exactly connected to any of the sense doors. We might attend by knowing something carefully; it's cognitive. If we see an oak tree, we might know it as being in California a Valley Oak, a Coastal Oak, or a Black Oak. That's how we attend to it, to recognize it.
+
+There's also something called the inner eye—nothing mystical about it—but a way of being aware that's kind of like seeing with the regular eye, but just being aware without any of the sense doors at the center of it. It's some deeper place in the mind that knows, that watches, that senses, that feels what's happening.
+
+So all these ways in which attention comes into play. When people meditate, they'll sometimes use one or two of these with some tension, with some prioritization, with some sense that we're the doer of it, that we are defined by being aware, or we have to engage awareness in some way that we get contracted or tight or put pressure on something.
+
+The art of Samadhi[^1] is to be more awake to awareness, more allowing of awareness, more trusting the capacity for attention rather than actively applying it in a way that is tense or straining. There's a softness or an openness, a broadness or a lightness to how we attend, how attention operates when we're entering into the practice of Samadhi. At the same time, there is a persistence, a gentle, stress-free commitment. I don't know if commitment is too big of a word—devotion, dedication. There's a hanging in there, an engagement that has no stress in it, but it kind of keeps us close to it. Like, this is important, this is valuable, this is interesting, fascinating, precious, a treasure. Stay close to it, be with it, so that we stay in that world continuously.
+
+I'd like to offer another aspect of how to do this, and this theme today of being inclusive—that Samadhi is including everything rather than excluding, at least initially. And that is to associate Samadhi with composure. To be composed in the middle of things, to be at the middle of your experience, to choose a place that's a centering spot, the settling spot, the place around which everything will be composed. Then we're composing ourselves. When I was young, the older generation used the language of "compose yourself." It was an important concept for certain people in the English-speaking world. When I was growing up, I think we kind of pulled away from it as being maybe a little bit too formal or contrived, but there's something quite lovely about being settled, being whole, being all of us there in an aligned, balanced, composed way, whether we're standing or sitting or lying down. The idea that we're there to compose ourselves, bring all of who we are together, and be centered. And then with that composure, to stay there, stay composed, stay centered, stay grounded, stay present.
+
+A light, soft, attending awareness that supports our whole being becoming composed holistically, without being caught up in the concepts so much. Just enough concepts to support composure and presence in the midst of it all.
+
+So, to assume a meditation posture, a posture in which it might be easier to compose physically, to settle, be balanced. And softly closing the eyes.
+
+As you breathe in, become aware. Let your attention almost expand outwards to become aware of your body globally. Almost as with the inhale, the attention, the sensations rise from deep inside and spread out through the whole body—as much of the whole body that's easy and maybe even delightful to experience. And as you exhale, not just settle or relax the body, but do so in a way that feels like you're composing yourself, that you're gathering and settling yourself around a central settling place, a gathering place, a grounding place.
+
+As you breathe in, feeling the global body, imagine that your body has no boundaries, no edges. Especially with your eyes closed, it might be easier. Imagine that your body, from the inside and outside, is like vast open space. And the awareness of that space, spaciousness, is inseparable from the space itself. To be aware of any kind of spaciousness, awareness of some kind is present.
+
+Breathing in and letting there be a spreading outwards into that space, space beyond your body. And as you exhale, settling in here.
+
+See if you can recognize the lightest, easiest, softest way in which you could know, be aware, attend to the global body, the spacious body, as you breathe. In a soft, relaxed way, you compose and relax and settle your whole being on the exhale. While you're attending to the body breathing in and breathing out, there's a very light, soft connection, an intimacy between the experience of breathing and the awareness of it. Almost as if it's space, spaciousness, that attends to breathing.
+
+Maybe it's like you would be sitting firmly, relaxedly on a bench where there's a vast view of mountains and space, great distance. And both are there. You are centered on the bench, content, happy, while there is this wide attention. So allow yourself to allow attention. Allow yourself to sit on the bench of your settling point, your centering place, the place from where your inhale begins, where the exhale ends. Stay close to that, feeling the changes, the oscillations, the rhythm. Rest there softly with a peripheral attention, the wide, soft attention lightly aware of the whole body, the spacious body. All of which is oriented, all of which is settling, all of which surrounds the settling place with breathing.
+
+Relaxing the thinking mind, so that the spacious body can feel the vacuum that's left when there's very little thinking.
+
+And as we come to the end of the sitting, with the exhale, maybe even with the inhale, feel a gentle weight in your body or a gentle pull to be settled in the body. As if the gentle pull from gravity is welcoming awareness, attention, to settle with the settling body into a settling place, a grounding place within.
+
+And radiating from that grounding place, spreading from it, is an open awareness, a simple, relaxed form of attention that's available for the world, that's open, receptive, available while settled in the grounding place. And from there, to have the gaze spread out into the world, or from there, have all the world come to you, come to your awareness. And to meet that with friendliness, to meet that with compassion and love. To meet that with a dedication to honesty and truth, to an ethical goodness that arises from the simplicity of this subtle place deep within. Trusting, being settled, and being available in a kind way to whatever comes. Available with kindness and care.
+
+May all beings be happy.
+May all beings be safe.
+May all beings be peaceful.
+May all beings be free.
+
+And may we realize that we don't have to react or go out or be actively responsive. We can be available and peacefully responsive, to offer goodwill to our entire world. May all beings be happy.
+
+## Dharmette: Samadhi (19) Centered, Spacious, and Composed ([link](https://www.audiodharma.org/talks/22218))
+So welcome to this, now the 19th talk on Samadhi, as we go very slowly into this topic, avoiding a headlong dive into Samadhi, an assertive kind of approach to really getting it and being deeply concentrated. But almost allowing it to grow on its own, partly out of becoming more and more familiar with your inner life, your inner life of attention, the different ways of being attentive, the different ways of being aware, the different ways that we can begin gathering ourselves together, becoming composed, being settled, being gathered here, all of who we are.
+
+For each of you, this is going to be a different process. My words, my instructions, my suggestions are just suggestions or pointers for you to begin to discover what works for you. What's your inner landscape like? And how could your inner landscape become whole, not divided, not fragmented? Samadhi has a lot to do with becoming whole, and the classic language for that is unification. I like to think of it as gathering everything together, so everything's included. And "everything" is a lot of stuff. You don't have to make an inventory of everything that you could possibly do to kind of bring it in. It's more a sense of availability and expansiveness, a presence that we have, an attention we have which is not divided, which doesn't actively limit and block things.
+
+It's so easy to be preoccupied, and the world that we're available to is just very narrow and small. It's very easy to have a particular idea, belief, or orientation about things, and then we just zero in on that. That becomes important, and we don't notice anything else. The idea that Samadhi is a one-pointedness can lend itself to the idea of it being attention with blinders on, and we're just going to really bore into some object of attention. But rather than that, to open awareness up, to take off the blinders and be available in a very relaxed, open way to the whole world, to everything. And in the process of that, to become composed, settled, gathered in a way that we're sitting at the center of all things. We're sitting at the center of vast space or a center of all things included.
+
+I've said this many times, but to me, it's very meaningful to use the analogy of central vision and peripheral vision. There's a central way in which we can be aware, attentive to what's happening. We can have a center, but then also there's this peripheral awareness, this place where there's no edges, where we're not staring at it. You can't stare at what's at the periphery of attention. You have to have a soft and relaxed and kind of a wide-angle kind of seeing to see with peripheral eyesight. The same thing with awareness.
+
+So, to be aware of ourselves and to find a place that's the settling place, the centering place, the gathering place. That's the center of it all. It can be the place where we take a stand, compose ourselves on. It's almost like being there, maybe taking a stand, but then opening our metaphorical arms really wide to be available to what's there all around, but we feel grounded, settled on this place.
+
+The other analogy is that of a bowl. The bowl has a center at the bottom, and so everything can begin angling towards that center and be included in the bowl, but everything kind of points to the center. Everything rolls towards a center. It's all included in this wide bowl of spaciousness.
+
+The idea today is that of being composed in ourselves. So, take a deep breath, relax, be composed, and maybe be oriented. The whole attention now is oriented towards that place at the center where the centering place is. We compose ourselves, we gather everything else around it, so that there's a wide, open sense of light awareness that supports the primary attentiveness to that center point. If that is connected to breathing, it's the place where the inhale begins and the exhale ends, at the same place. And maybe the whole time we're at that point where it begins, we don't actually leave it. That's the bench we sit on, that's the ground we stand on as we open up and become aware of what's wider, not with this active, intentional attention exactly, but rather this peripheral awareness that opens up and allows everything then to become composed around that center.
+
+What happens over time is that if there can be this not a straining attention, a narrow attention, a laser-focused attention, there can be a centered attention there that over time becomes fuller and richer and fills awareness more and more. In some ways, the objects around us, the objects in our body elsewhere, begin to recede into the spaciousness, kind of become less and less attended to. At some point, people even feel that there's no body anymore around it; it's all just kind of space and particular sensations maybe that are floating in space, because the mind's latching on, the mind's holding on, looking and wanting and not wanting, labeling, being concerned with judging, has quieted down. The very mind becomes more and more content to rest at this centering place, at the spot where we're getting oriented, we're getting composed, we're getting settled.
+
+How big that place is varies from person to person. For some, it can be very small; for some people, it can be a broader place. But it is a place where there's a continuity of attention and we're not leaving it, we're not losing touch with it, we're not getting lost in thoughts and preoccupation.
+
+One of the supports for this is a gentle but ongoing counting. Some people can just count up to one and start over again, and that keeps the mind really simple, but it gives us a little bit of emphasis to stay there, rest there, stay open there. Sometimes it's useful to count to 10 because that requires a higher-order tracking of it in the mind, and so the mind is a little bit more engaged instead of its tendency to wander off in thought. Some people don't like the counting, but it might actually be better than the alternative. The alternative is to have the mind wander off. That groove to wander off is so well-oiled and slick that it just feels smooth and nice and easy to wander off in thought and be lost, and it's not really helpful for allowing Samadhi to arise. So even though it feels less satisfying to count than to let the mind wander off, it still might be the better alternative to keep you there.
+
+What happens with something like the counting is after a while, the counting becomes softer, lighter, easier, more natural, and it supports the gathering. It's like the mind begins to accept that this is what we're doing: being here in the simplicity of the moment, moment after moment. And when that happens, when the mind finally relaxes and settles and is no longer afraid or desiring or wanting, and you really settle in to being right here, it can be such a relief. It allows so much sense of goodness and health and satisfaction and contentment to begin arising. But there is a transition, and sometimes the counting can help us overcome that bump to really be able to settle in. So, counting 1 to 10, and at this point, I recommend you count the exhale, so the inhale can really be living there in the wake of each count on the exhale, to really allow this quiet awareness to fill our being and be centered there.
+
+So, to sit quietly and begin learning the wonderful art of using this wonderful, multifaceted capacity that we have for attention, that can be a vehicle for love. So much so that at some point, attention and love might seem the same thing. And Samadhi can seem not as an engineering feat, but as a flowering of a kind of love that we're very happy to be completely in, and let everything else kind of dissolve into the spaciousness of awareness as we stay in the settling spot, the grounding spot. Maybe that description I just gave is what's coming, and maybe it gives you a little preview, but we'll continue step by step. Thank you very much.
+
+---
+[^1]: **Samadhi:** A Pali word for a state of meditative consciousness, often translated as "concentration," "unification of mind," or "composure." It is a state where the mind becomes still, focused, and absorbed in the object of meditation.
