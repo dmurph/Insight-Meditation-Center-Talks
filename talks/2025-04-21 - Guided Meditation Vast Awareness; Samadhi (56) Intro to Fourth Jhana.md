@@ -4,6 +4,7 @@
 "speaker_url": "https://www.audiodharma.org/speakers/1"
 "talk_urls":
 - "https://www.audiodharma.org/talks/22775"
+- "https://www.audiodharma.org/talks/22776"
 "title": "Guided Meditation: Vast Awareness; Samadhi (56) Intro to Fourth Jhana"
 "video_url": "https://www.youtube.com/watch?v=07lwZ_CnqEU"
 ---

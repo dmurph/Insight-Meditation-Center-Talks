@@ -4,6 +4,7 @@
 "speaker_url": "https://www.audiodharma.org/speakers/231"
 "talk_urls":
 - "https://www.audiodharma.org/talks/22694"
+- "https://www.audiodharma.org/talks/22693"
 "title": "Guided Meditation with Matthew Brensilver; Dharmette: Power and Safety"
 "video_url": "https://www.youtube.com/watch?v=IDNTnkhLBBc"
 ---

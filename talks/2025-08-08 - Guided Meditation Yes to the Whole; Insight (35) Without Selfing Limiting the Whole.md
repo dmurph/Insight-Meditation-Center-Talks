@@ -1,12 +1,13 @@
 ---
-date: '2025-08-08'
-speaker: Gil Fronsdal
-speaker_url: https://www.audiodharma.org/speakers/1
-talk_urls:
-- https://www.audiodharma.org/talks/23565
-title: 'Guided Meditation: Yes to the Whole; Insight (35) Without Selfing Limiting
-  the Whole'
-video_url: https://www.youtube.com/watch?v=_MUKNhrEVcM
+"date": "2025-08-08"
+"speaker": "Gil Fronsdal"
+"speaker_url": "https://www.audiodharma.org/speakers/1"
+"talk_urls":
+- "https://www.audiodharma.org/talks/23564"
+- "https://www.audiodharma.org/talks/23565"
+"title": "Guided Meditation: Yes to the Whole; Insight (35) Without Selfing Limiting\
+  \ the Whole"
+"video_url": "https://www.youtube.com/watch?v=_MUKNhrEVcM"
 ---
 
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Yes to the Whole; Insight (35) Without Selfing Limiting the Whole](https://www.youtube.com/watch?v=_MUKNhrEVcM). It likely contains inaccuracies.*

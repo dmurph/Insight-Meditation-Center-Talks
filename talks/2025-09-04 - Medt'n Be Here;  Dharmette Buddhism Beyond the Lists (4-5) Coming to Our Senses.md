@@ -4,6 +4,7 @@
 "speaker_url": "https://www.audiodharma.org/speakers/240"
 "talk_urls":
 - "https://www.audiodharma.org/talks/23761"
+- "https://www.audiodharma.org/talks/23762"
 "title": "Medt'n: Be Here;  Dharmette: Buddhism Beyond the Lists (4/5): Coming to\
   \ Our Senses"
 "video_url": "https://www.youtube.com/watch?v=9sV117lN0pw"
