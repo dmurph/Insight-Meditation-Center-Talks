@@ -2,7 +2,8 @@
 "date": "2025-04-20"
 "speaker": "Gil Fronsdal"
 "speaker_url": "https://www.audiodharma.org/speakers/1"
-"talk_urls": []
+"talk_urls":
+- "https://www.audiodharma.org/talks/22772"
 "title": "Earth Day Talk: Participating in Nature - Gil Fronsdal"
 "video_url": "https://www.youtube.com/watch?v=9y8eoNzBmRs"
 ---

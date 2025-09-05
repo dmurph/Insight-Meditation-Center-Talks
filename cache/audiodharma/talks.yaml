@@ -64,7 +64,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23730/20250806-Gil_Fronsdal-IMC-born_through_the_five_reflections.mp3
 - youtube_id: 6vloI3BiTkE
   talks:
-  - title: "\u201CBuddhist Perspectives on Conflict and Non Conflict\u201D (2 of 2)"
+  - title: “Buddhist Perspectives on Conflict and Non Conflict” (2 of 2)
     id: 23734
     date: '2025-08-30'
     speaker_id: 2
@@ -478,6 +478,20 @@
     speaker_id: 489
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23538/20250802-Kerry_Dunn-sati-wise_livelihood_looking_beyond_the_five_jobs_to_avoid.mp3
+- youtube_id: hJdV4raw1-Q
+  talks:
+  - title: 'Guided Mediation: Centered in Core Calm'
+    id: 23497
+    date: '2025-08-01'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23497/20250801-Gil_Fronsdal-IMC-guided_mediation_centered_in_core_calm.mp3
+  - title: 'Dharmette: Insight (30) Alternative to Self Preoccupation'
+    id: 23498
+    date: '2025-08-01'
+    speaker_id: 1
+    start_time_seconds: 1762
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23498/20250801-Gil_Fronsdal-IMC-dharmette_insight_30_alternative_to_self_preoccupation.mp3
 - youtube_id: sat4XWcIXKs
   talks:
   - title: 'Guided Meditation: Mindfulness with Selfing'
@@ -554,17 +568,25 @@
 - youtube_id: QX2uALbpmLI
   talks:
   - title: 'Guided Meditation: Calming Tension'
-    url: https://www.audiodharma.org/talks/23473
+    id: 23473
     date: '2025-07-28'
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23473/20250728-Gil_Fronsdal-IMC-guided_meditation_calming_tension.mp3
   - title: 'Dharmette: Insight (26) Self as Tension'
-    url: https://www.audiodharma.org/talks/23474
+    id: 23474
     date: '2025-07-28'
     speaker_id: 1
     start_time_seconds: 1791
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23474/20250728-Gil_Fronsdal-IMC-dharmette_insight_26_self_as_tension.mp3
+- youtube_id: FygattrL3z4
+  talks:
+  - title: The Arrows of Buddhism
+    id: 23472
+    date: '2025-07-27'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23472/20250727-Gil_Fronsdal-IMC-the_arrows_of_buddhism.mp3
 - youtube_id: WQGw_y9beCw
   talks:
   - title: 'Guided Meditation: Letting go of limitation'
@@ -587,6 +609,14 @@
     speaker_id: 142
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23444/20250721-Maria_Straatmann-IMC-the_path_of_mindfulness_to_wisdom.mp3
+- youtube_id: IrTg8PWOjOI
+  talks:
+  - title: 'Modes of Being: Profound Contemplation vs Shallow Thinking'
+    id: 23437
+    date: '2025-07-20'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23437/20250720-Gil_Fronsdal-IMC-modes_of_being_profound_contemplation_vs_shallow_thinking.mp3
 - youtube_id: J42NSbIUDxI
   talks:
   - title: 'Guided Meditation: Step by step, drop by drop'
@@ -643,6 +673,20 @@
     speaker_id: 333
     start_time_seconds: 1881
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23417/20250716-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_crossing_the_flood_3_5_unhurrying_and_untarrying.mp3
+- youtube_id: _fUY4zpk1jY
+  talks:
+  - title: 'Guided Meditation: Staying in the flow'
+    id: 23413
+    date: '2025-07-15'
+    speaker_id: 333
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23413/20250715-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_staying_in_the_flow.mp3
+  - title: 'Dharmette: Crossing the flood (2/5) "Crossing"'
+    id: 23414
+    date: '2025-07-15'
+    speaker_id: 333
+    start_time_seconds: 1863
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23414/20250715-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmetta_crossing_the_flood_2_5_crossing.mp3
 - youtube_id: 3PgG19woshk
   talks:
   - title: 'Guided Meditation: Stepping into the flow'
@@ -748,7 +792,7 @@
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23371/20250709-Matthew_Brensilver-IMC-dharmette_unconscious_acting-out.mp3
   - title: 'Guided Meditation: Forgive all phenomena'
-    url: https://www.audiodharma.org/talks/23370
+    id: 23370
     date: '2025-07-09'
     speaker_id: 231
     start_time_seconds: 0
@@ -761,6 +805,12 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23360/20250709-Gil_Fronsdal-IMC-guided_meditation_stillness.mp3
+  - title: 'Dharmette: Insight (23) Seeing with an Unmoving Mind.'
+    id: 23361
+    date: '2025-07-09'
+    speaker_id: 1
+    start_time_seconds: 1802
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23361/20250709-Gil_Fronsdal-IMC-dharmette_insight_23_seeing_with_an_unmoving_mind.mp3
 - youtube_id: RA_IHZtx52w
   talks:
   - title: 'Guide Meditation: Letting Go of Holding On'
@@ -847,6 +897,20 @@
     speaker_id: 1
     start_time_seconds: 1866
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23313/20250702-Gil_Fronsdal-IMC-dharmette_insight_18_insight_into_suffering.mp3
+- youtube_id: m4krk4bSy-I
+  talks:
+  - title: 'Guided Meditation: Emptiness'
+    id: 23304
+    date: '2025-07-01'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23304/20250701-Gil_Fronsdal-IMC-guided_meditation_emptiness.mp3
+  - title: 'Dharmette: Insight (17) The Emptiness in Impermanance'
+    id: 23305
+    date: '2025-07-01'
+    speaker_id: 1
+    start_time_seconds: 1857
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23305/20250701-Gil_Fronsdal-IMC-dharmette_insight_17_the_emptiness_in_impermanance.mp3
 - youtube_id: 6Dcl7dBDxzY
   talks:
   - title: 'Guided Meditation: Flowing with Change'
@@ -936,17 +1000,33 @@
 - youtube_id: _QaLZ6GcQNo
   talks:
   - title: 'Guided Meditation: Settling Sensations'
-    url: https://www.audiodharma.org/talks/23287
+    id: 23287
     date: '2025-06-23'
     speaker_id: 241
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23287/20250623-Dawn_Neal-IMC-guided_meditation_settling_sensations.mp3
   - title: 'Dharmette: Insight & the 5 Elements (1 of 5) Intro & Earth'
-    url: https://www.audiodharma.org/talks/23286
+    id: 23286
     date: '2025-06-23'
     speaker_id: 241
     start_time_seconds: 1775
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23286/20250623-Dawn_Neal-IMC-dharmette_insight_the_5_elements_1_of_5_intro_earth.mp3
+- youtube_id: 2cdrPPIfIrE
+  talks:
+  - title: Seven Supporting Factors of Equanimity
+    id: 23269
+    date: '2025-06-22'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23269/20250622-Gil_Fronsdal-IMC-seven_supporting_factors_of_equanimity.mp3
+- youtube_id: BfrJCLXZyYw
+  talks:
+  - title: 'Buddhist Chaplaincy Speaker Series: The Value of Chaplaincy in Education'
+    id: 23271
+    date: '2025-06-21'
+    speaker_id: 497
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23271/20250621-Annanda_Barclay-sati-buddhist_chaplaincy_speaker_series_the_value_of_chaplaincy_in_education.mp3
 - youtube_id: RLEtCN7HqwA
   talks:
   - title: 'Guided Meditation: Openings in Endings'
@@ -992,11 +1072,17 @@
 - youtube_id: wUK6eeyT1xo
   talks:
   - title: 'Guided Meditation: Insight into Clinging'
-    url: https://www.audiodharma.org/talks/23224
+    id: 23224
     date: '2025-06-17'
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23224/20250617-Gil_Fronsdal-IMC-guided_meditation_insight_into_clinging.mp3
+  - title: 'Dharmette: Insight (12) Change Highlights Clinging'
+    id: 23223
+    date: '2025-06-17'
+    speaker_id: 1
+    start_time_seconds: 1880
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23223/20250617-Gil_Fronsdal-IMC-dharmette_insight_12_change_highlights_clinging.mp3
 - youtube_id: MtYPE1aNSwI
   talks:
   - title: 'Guided Meditation: Being the River of Change'
@@ -1011,6 +1097,14 @@
     speaker_id: 1
     start_time_seconds: 1856
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23213/20250616-Gil_Fronsdal-IMC-dharmette_insight_11_introduction_to_change_and_impermance.mp3
+- youtube_id: fROizxFioiw
+  talks:
+  - title: Crossing the Flood
+    id: 23217
+    date: '2025-06-16'
+    speaker_id: 240
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23217/20250616-Diana_Clark-IMC-crossing_the_flood.mp3
 - youtube_id: bAKeJODxFL0
   talks:
   - title: 'Guided Meditation: Allowing'
@@ -1033,8 +1127,8 @@
     speaker_id: 4
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23196/20250613-Kim_Allen-IMC-guided_meditation_letting_alignment_emerge.mp3
-  - title: "Dharmette: Animal Similes (5 of 5) Elephant or Naga \u2013 The Strength\
-      \ of Freedom"
+  - title: 'Dharmette: Animal Similes (5 of 5) Elephant or Naga – The Strength of
+      Freedom'
     id: 23197
     date: '2025-06-13'
     speaker_id: 4
@@ -1042,13 +1136,13 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23197/20250613-Kim_Allen-IMC-dharmette_animal_similes_5_of_5_elephant_or_naga_the_strength_of_freedom.mp3
 - youtube_id: WbGivEo2B4E
   talks:
-  - title: "Guided Meditation: Free of Mara\u2019s Traps"
+  - title: 'Guided Meditation: Free of Mara’s Traps'
     id: 23191
     date: '2025-06-12'
     speaker_id: 4
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23191/20250612-Kim_Allen-IMC-guided_meditation_free_of_mara_s_traps.mp3
-  - title: "Dharmette: Animal Similes (4 of 5)  Deer \u2013 Vitality and Confidence"
+  - title: 'Dharmette: Animal Similes (4 of 5)  Deer – Vitality and Confidence'
     id: 23192
     date: '2025-06-12'
     speaker_id: 4
@@ -1056,16 +1150,22 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23192/20250612-Kim_Allen-IMC-dharmette_animal_similes_4_of_5_deer_vitality_and_confidence.mp3
 - youtube_id: _leLEbgA2DM
   talks:
-  - title: "Victory over M\u0101ra (2 of 3)"
-    url: https://www.audiodharma.org/talks/23199
+  - title: Victory over Māra (2 of 3)
+    id: 23199
     date: '2025-06-11'
     speaker_id: 240
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23199/20250611-Diana_Clark-sati-victory_over_mara_2_of_3.mp3
 - youtube_id: MXEycn7qOWs
   talks:
+  - title: 'Guided Meditation: Following Interest'
+    id: 23189
+    date: '2025-06-11'
+    speaker_id: 231
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23189/20250611-Matthew_Brensilver-IMC-guided_meditation_following_interest.mp3
   - title: 'Dharmette: Moral Vandalism, Anger and Love'
-    url: https://www.audiodharma.org/talks/23190
+    id: 23190
     date: '2025-06-11'
     speaker_id: 231
     start_time_seconds: 1782
@@ -1078,7 +1178,7 @@
     speaker_id: 4
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23176/20250611-Kim_Allen-IMC-guided_meditation_doing_the_practice_together.mp3
-  - title: "Dharmette: Animal Similes (3 of 5); Cow \u2013 Sangha and Trust"
+  - title: 'Dharmette: Animal Similes (3 of 5); Cow – Sangha and Trust'
     id: 23177
     date: '2025-06-11'
     speaker_id: 4
@@ -1086,7 +1186,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23177/20250611-Kim_Allen-IMC-dharmette_animal_similes_3_of_5_cow_sangha_and_trust.mp3
 - youtube_id: inc88El5_EM
   talks:
-  - title: "Dharmette: Animal Similes (2 of 5) Monkey \u2013 Foolishness and Investigation"
+  - title: 'Dharmette: Animal Similes (2 of 5) Monkey – Foolishness and Investigation'
     id: 23172
     date: '2025-06-10'
     speaker_id: 4
@@ -1181,6 +1281,21 @@
     speaker_id: 260
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23125/20250604-Shelley_Gault-IMC-guided_meditation_the_effect_of_mental_activity.mp3
+  - title: 'Dharmette: The Six Sense Spheres - Our World(3of5):Tongue & Nose, Taste
+      & Aromas'
+    id: 23126
+    date: '2025-06-04'
+    speaker_id: 260
+    start_time_seconds: 1875
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23126/20250604-Shelley_Gault-IMC-dharmette_the_six_sense_spheres_-_our_world_3of5_tongue_nose_taste_aromas.mp3
+- youtube_id: Iu5wnIO31OI
+  talks:
+  - title: Victory over Māra (1 of 3)
+    id: 23119
+    date: '2025-06-04'
+    speaker_id: 240
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23119/20250604-Diana_Clark-sati-victory_over_mara_1_of_3.mp3
 - youtube_id: 1xR12Ned2cw
   talks:
   - title: 'Guided Meditation: Hearing and Listening'
@@ -1249,8 +1364,14 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23060/20250530-Gil_Fronsdal-IMC-dharmette_insight_10_samadhi_of_three_characteristics.mp3
 - youtube_id: TwVW0TY2ZwE
   talks:
+  - title: 'Guided Meditation: Watching Change'
+    id: 23054
+    date: '2025-05-29'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23054/20250529-Gil_Fronsdal-IMC-guided_meditation_watching_change.mp3
   - title: 'Dharmette: Insight (9) Comprehension'
-    url: https://www.audiodharma.org/talks/23055
+    id: 23055
     date: '2025-05-29'
     speaker_id: 1
     start_time_seconds: 1865
@@ -1269,9 +1390,17 @@
     speaker_id: 1
     start_time_seconds: 1852
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23050/20250528-Gil_Fronsdal-IMC-dharmette_insight_8_conditionality.mp3
+- youtube_id: NFxqJpqmil4
+  talks:
+  - title: 'Dharmette: When Inspiritation to Practice is Lost'
+    id: 23056
+    date: '2025-05-28'
+    speaker_id: 231
+    start_time_seconds: 1666
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23056/20250528-Matthew_Brensilver-IMC-dharmette_when_inspiritation_to_practice_is_lost.mp3
 - youtube_id: ioqIt0Dm4nc
   talks:
-  - title: "J\u0101takas: Buddhist Storytelling (4 of 4)"
+  - title: 'Jātakas: Buddhist Storytelling (4 of 4)'
     id: 23053
     date: '2025-05-27'
     speaker_id: 359
@@ -1350,13 +1479,13 @@
 - youtube_id: 4li3uN2r-OY
   talks:
   - title: 'Guided Meditation: Fresh Moment'
-    url: https://www.audiodharma.org/talks/23004
+    id: 23004
     date: '2025-05-21'
     speaker_id: 231
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23004/20250521-Matthew_Brensilver-IMC-guided_meditation_fresh_moment.mp3
   - title: 'Dharmette: Sila Reflections'
-    url: https://www.audiodharma.org/talks/23005
+    id: 23005
     date: '2025-05-21'
     speaker_id: 231
     start_time_seconds: 1757
@@ -1377,7 +1506,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23000/20250521-Gil_Fronsdal-IMC-dharmette_insight_3_mindfulness_vs_insight.mp3
 - youtube_id: ulU5WCsVi2c
   talks:
-  - title: "J\u0101takas: Buddhist Storytelling (3 of 4)"
+  - title: 'Jātakas: Buddhist Storytelling (3 of 4)'
     id: 23013
     date: '2025-05-20'
     speaker_id: 359
@@ -1463,9 +1592,23 @@
     speaker_id: 241
     start_time_seconds: 1896
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22970/20250515-Dawn_Neal-IMC-dharmette_inspirations_for_insight_4_of_5_honest_reflection.mp3
+- youtube_id: T-SotQo8IeE
+  talks:
+  - title: 'Guided Meditation: Balanced Awareness'
+    id: 22965
+    date: '2025-05-14'
+    speaker_id: 241
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22965/20250514-Dawn_Neal-IMC-guided_meditation_balanced_awareness.mp3
+  - title: 'Dharmette: Insight into Difficulty (3 of 5), Inspirations for Insight'
+    id: 22966
+    date: '2025-05-14'
+    speaker_id: 241
+    start_time_seconds: 1860
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22966/20250514-Dawn_Neal-IMC-dharmette_insight_in_difficulty_3_of_5_inspirations_for_insight.mp3
 - youtube_id: kR6tJkXoz54
   talks:
-  - title: "J\u0101takas: Buddhist Storytelling (2 of 4)"
+  - title: 'Jātakas: Buddhist Storytelling (2 of 4)'
     id: 22959
     date: '2025-05-13'
     speaker_id: 359
@@ -1568,15 +1711,21 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22905/20250507-Matthew_Brensilver-IMC-dharmette_a_thing_that_masquerades_as_freedom_of_attention_is_on_the_rampage.mp3
 - youtube_id: iWOeF7ceHe0
   talks:
+  - title: 'Guided Meditation: Vedana (Feeling Tone) of Thoughts'
+    id: 22898
+    date: '2025-05-07'
+    speaker_id: 57
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22898/20250507-Ines_Freedman-IMC-guided_meditation_vedana_feeling_tone_of_thoughts.mp3
   - title: 'Dharmette: Internal Wise Speech'
-    url: https://www.audiodharma.org/talks/22899
+    id: 22899
     date: '2025-05-07'
     speaker_id: 57
     start_time_seconds: 1836
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22899/20250507-Ines_Freedman-IMC-dharmette_internal_wise_speech.mp3
 - youtube_id: r_UFoIFZ6Ig
   talks:
-  - title: "Guided:  Cultivating what\u2019s Nourishing"
+  - title: 'Guided:  Cultivating what’s Nourishing'
     id: 22887
     date: '2025-05-06'
     speaker_id: 57
@@ -1590,7 +1739,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22888/20250506-Ines_Freedman-IMC-dharmette_wise_effort_in_thinking_cultivation.mp3
 - youtube_id: OuDhmUn9gTU
   talks:
-  - title: "J\u0101takas: Buddhist Storytelling (1 of 4)"
+  - title: 'Jātakas: Buddhist Storytelling (1 of 4)'
     id: 22901
     date: '2025-05-06'
     speaker_id: 359
@@ -1634,8 +1783,7 @@
     speaker_id: 229
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22867/20250502-Nikki_Mirghafori-IMC-guided_meditation_lovingkindness_for_the_community.mp3
-  - title: "Dharmette: Sangha (5/5) Six Principles of Cordiality (s\u0101ra\u1E47\u012B\
-      ya-dhammas)"
+  - title: 'Dharmette: Sangha (5/5) Six Principles of Cordiality (sāraṇīya-dhammas)'
     id: 22868
     date: '2025-05-02'
     speaker_id: 229
@@ -1671,24 +1819,29 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22861/20250430-Matthew_Brensilver-IMC-somebody_nobody_self-love_anatta.mp3
 - youtube_id: 01TNFTkFZo0
   talks:
+  - title: 'Guided Meditation: Seeing with Another’s Heart'
+    id: 22862
+    date: '2025-04-30'
+    speaker_id: 229
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22862/20250430-Nikki_Mirghafori-IMC-guided_meditation_seeing_with_another_s_heart.mp3
   - title: 'Dharmette: Sangha (3/5) Putting Oneself in the Place of Others (Ethical
       Empathy)'
-    url: https://www.audiodharma.org/talks/22863
+    id: 22863
     date: '2025-04-30'
     speaker_id: 229
     start_time_seconds: 1863
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22863/20250430-Nikki_Mirghafori-IMC-dharmette_sangha_3_5_putting_oneself_in_the_place_of_others_ethical_empathy.mp3
 - youtube_id: rkuVFb8rhXg
   talks:
-  - title: "Dharmette: Sangha 1/5: Power of Spiritual Friendship - Kaly\u0101\u1E47\
-      amittat\u0101"
+  - title: 'Dharmette: Sangha 1/5: Power of Spiritual Friendship - Kalyāṇamittatā'
     id: 22827
     date: '2025-04-28'
     speaker_id: 229
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22827/20250428-Nikki_Mirghafori-IMC-dharmette_sangha_1_5_power_of_spiritual_friendship_-_kalya_amittata.mp3
-  - title: "Dharmette: Sangha 2/5 - Qualities of a Good Friend - Kaly\u0101\u1E47\
-      a/suhadaya/upak\u0101raka mitta"
+  - title: 'Dharmette: Sangha 2/5 - Qualities of a Good Friend - Kalyāṇa/suhadaya/upakāraka
+      mitta'
     id: 22832
     date: '2025-04-29'
     speaker_id: 229
@@ -1728,7 +1881,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22825/20250427-Jennifer_Block-sati-introduction_to_buddhist_chaplaincy.mp3
 - youtube_id: Qznt-QsWs4E
   talks:
-  - title: "\u201CSelf\u201D in Buddhist Spiritual Formation for Chaplaincy"
+  - title: “Self” in Buddhist Spiritual Formation for Chaplaincy
     id: 22823
     date: '2025-04-26'
     speaker_id: 495
@@ -1748,6 +1901,20 @@
     speaker_id: 1
     start_time_seconds: 1989
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22812/20250425-Gil_Fronsdal-IMC-dharmette_samadhi_60_letting_go_of_unneeded_clinging.mp3
+- youtube_id: FqomQVTcBYQ
+  talks:
+  - title: 'Guided Meditation: Effortlessness'
+    id: 22802
+    date: '2025-04-24'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22802/20250424-Gil_Fronsdal-IMC-guided_meditation_effortlessness.mp3
+  - title: 'Dharmette: Samadhi (59) Effortless Clarity'
+    id: 22803
+    date: '2025-04-24'
+    speaker_id: 1
+    start_time_seconds: 1655
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22803/20250424-Gil_Fronsdal-IMC-dharmette_samadhi_59_effortess_clearilty.mp3
 - youtube_id: mslI9d58YG8
   talks:
   - title: 'Guided Meditation: Relaxing Tension'
@@ -1801,7 +1968,7 @@
 - youtube_id: 07lwZ_CnqEU
   talks:
   - title: 'Guided Meditation: Vast Awareness'
-    url: https://www.audiodharma.org/talks/22775
+    id: 22775
     date: '2025-04-21'
     speaker_id: 1
     start_time_seconds: 0
@@ -1812,6 +1979,14 @@
     speaker_id: 1
     start_time_seconds: 1910
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22776/20250421-Gil_Fronsdal-IMC-dharmatte_samadhi_56_intro_to_fourth_jhana.mp3
+- youtube_id: 9y8eoNzBmRs
+  talks:
+  - title: Participating in Nature
+    id: 22772
+    date: '2025-04-20'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22772/20250420-Gil_Fronsdal-IMC-participating_in_nature.mp3
 - youtube_id: Oj649hiSIQ8
   talks:
   - title: 'Secular Dharma: a Practice of Care and Awakening for our Times (2 of 2)'
@@ -1828,6 +2003,12 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22747/20250418-Gil_Fronsdal-IMC-guided_meditation_peace.mp3
+  - title: 'Dharmette: Samadhi (55) Peace in Third Jhana.'
+    id: 22748
+    date: '2025-04-18'
+    speaker_id: 1
+    start_time_seconds: 1905
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22748/20250418-Gil_Fronsdal-IMC-dharmette_samadhi_55_peace_in_third_jhana.mp3
 - youtube_id: Q8xFt7O7sA4
   talks:
   - title: 'Guided Meditation: Embodied Happinesss'
@@ -1858,8 +2039,14 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22738/20250416-Gil_Fronsdal-IMC-dharmette_samadhi_53_happy_equanimous_body.mp3
 - youtube_id: EgWp6MYGA_k
   talks:
+  - title: 'Guided Meditation: Wholeness in Silence'
+    id: 22735
+    date: '2025-04-15'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22735/20250415-Gil_Fronsdal-IMC-guided_meditation_wholeness_in_silence.mp3
   - title: 'Dharmette: Samadhi (52) Immersed in Silence of Third Jhana'
-    url: https://www.audiodharma.org/talks/22736
+    id: 22736
     date: '2025-04-15'
     speaker_id: 1
     start_time_seconds: 1831
@@ -1878,6 +2065,14 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22730/20250414-Gil_Fronsdal-IMC-guided_meditation_entering_abiding_and_happiness.mp3
+- youtube_id: BR4TF5BIrVM
+  talks:
+  - title: Practicing the Path of Letting Go
+    id: 22729
+    date: '2025-04-14'
+    speaker_id: 240
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22729/20250414-Diana_Clark-IMC-practicing_the_path_of_letting_go.mp3
 - youtube_id: TeZGXDuje78
   talks:
   - title: Cultivating patience on the path
@@ -1925,7 +2120,7 @@
 - youtube_id: IDNTnkhLBBc
   talks:
   - title: 'Guided Meditation: The Pull of Time'
-    url: https://www.audiodharma.org/talks/22694
+    id: 22694
     date: '2025-04-09'
     speaker_id: 231
     start_time_seconds: 0
@@ -2032,8 +2227,14 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22667/20250402-Matthew_Brensilver-IMC-dharmette_self-esteem_preoccupation_as_symptom.mp3
 - youtube_id: F-ty3PRvNAo
   talks:
+  - title: 'Guided Meditation: Stillness and the Dissolution of the Predictive Mind'
+    id: 22663
+    date: '2025-04-02'
+    speaker_id: 231
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22663/20250402-Matthew_Brensilver-IMC-guided_meditation_stillness_and_the_dissolution_of_the_predictive_mind.mp3
   - title: 'Dharmette: Expansiveness of Awe'
-    url: https://www.audiodharma.org/talks/22664
+    id: 22664
     date: '2025-04-02'
     speaker_id: 231
     start_time_seconds: 1771
@@ -2146,6 +2347,20 @@
     speaker_id: 1
     start_time_seconds: 1884
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22602/20250326-Gil_Fronsdal-IMC-dharmette_samadhi_43_becoming_one.mp3
+- youtube_id: LLGSLOWfE3U
+  talks:
+  - title: 'Guided Meditation: Entering and Abiding'
+    id: 22593
+    date: '2025-03-25'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22593/20250325-Gil_Fronsdal-IMC-guided_meditation_entering_and_abiding.mp3
+  - title: 'Dharmette: Samadhi (42) Applied and Sustained Attention'
+    id: 22594
+    date: '2025-03-25'
+    speaker_id: 1
+    start_time_seconds: 1786
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22594/20250325-Gil_Fronsdal-IMC-dharmette_samadhi_42_applied_and_sustained_attention.mp3
 - youtube_id: _2Qn2N6J_So
   talks:
   - title: 'Dharmette: Samadhi (41) First Jhana: Well-Being'
@@ -2209,7 +2424,7 @@
 - youtube_id: c7yf-MW-ByU
   talks:
   - title: 'Guided Meditation: Awareness Love'
-    url: https://www.audiodharma.org/talks/22550
+    id: 22550
     date: '2025-03-19'
     speaker_id: 1
     start_time_seconds: 0
@@ -2234,6 +2449,14 @@
     speaker_id: 1
     start_time_seconds: 1851
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22538/20250318-Gil_Fronsdal-IMC-dharmette_samadhi_37_releasing_into_samadhi.mp3
+- youtube_id: 0a6CPJGVHkA
+  talks:
+  - title: 'The Dhamma in Brief: The Path in Brief (Class 3 of 3)'
+    id: 22555
+    date: '2025-03-18'
+    speaker_id: 4
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22555/20250318-Kim_Allen-sati-the_dhamma_in_brief_the_path_in_brief_class_3_of_3.mp3
 - youtube_id: hJUoypdgVkY
   talks:
   - title: Being Independent of What is Unhelpful
@@ -2316,8 +2539,14 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22489/20250312-Matthew_Brensilver-IMC-dharmette_fear_at_the_gateway_of_stillness.mp3
 - youtube_id: aEpQmoZkgHw
   talks:
+  - title: 'Guided Meditation: Breathing with Pleasure'
+    id: 22473
+    date: '2025-03-12'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22473/20250312-Gil_Fronsdal-IMC-guided_meditation_breathing_with_pleasure.mp3
   - title: 'Dharmette: Samadhi (33) With Support From Pleasure'
-    url: https://www.audiodharma.org/talks/22474
+    id: 22474
     date: '2025-03-12'
     speaker_id: 1
     start_time_seconds: 1802
@@ -2425,6 +2654,20 @@
     speaker_id: 240
     start_time_seconds: 1811
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22410/20250305-Diana_Clark-IMC-dharmette_poetry_of_practice_4_3_5_touching_the_heart_of_everyday_life.mp3
+- youtube_id: 0fKP5j2RfMM
+  talks:
+  - title: 'Guided Meditation: Sangha & Self'
+    id: 22405
+    date: '2025-03-05'
+    speaker_id: 231
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22405/20250305-Matthew_Brensilver-IMC-guided_meditation_sangha_self.mp3
+  - title: 'Dharmette: Moral outrage and love'
+    id: 22406
+    date: '2025-03-05'
+    speaker_id: 231
+    start_time_seconds: 1786
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22406/20250305-Matthew_Brensilver-IMC-dharmette_moral_outrage_and_love.mp3
 - youtube_id: Gn22n5tUDtM
   talks:
   - title: The Dhamma in Brief (Class 1 of 3)
@@ -2488,7 +2731,7 @@
 - youtube_id: vB10Q8g8Js8
   talks:
   - title: 'Guided Meditation: Insight into the Three Characteristics (4 of 5): Suffering'
-    url: https://www.audiodharma.org/talks/22371
+    id: 22371
     date: '2025-02-27'
     speaker_id: 394
     start_time_seconds: 0
@@ -2569,7 +2812,7 @@
 - youtube_id: RiHsfPrqTpE
   talks:
   - title: 'Guided Meditation: Panoramic Wholeness'
-    url: https://www.audiodharma.org/talks/22336
+    id: 22336
     date: '2025-02-20'
     speaker_id: 1
     start_time_seconds: 0
@@ -2582,8 +2825,14 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22337/20250220-Gil_Fronsdal-IMC-dharmette_samadhi_28_coordinated_wholeness.mp3
 - youtube_id: HPWNrF268o8
   talks:
+  - title: 'Guided Meditation: Abiding in Goodness'
+    id: 22332
+    date: '2025-02-19'
+    speaker_id: 231
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22332/20250219-Matthew_Brensilver-IMC-guided_meditation_abiding_in_goodness.mp3
   - title: 'Dharmette: On not understanding dharma talks'
-    url: https://www.audiodharma.org/talks/22333
+    id: 22333
     date: '2025-02-19'
     speaker_id: 231
     start_time_seconds: 1732
@@ -2715,19 +2964,33 @@
 - youtube_id: E9hg9Zan3Aw
   talks:
   - title: No Core, No Problem
-    url: https://www.audiodharma.org/talks/22241
+    id: 22241
     date: '2025-02-10'
     speaker_id: 240
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22241/20250210-Diana_Clark-IMC-no_core_no_problem.mp3
 - youtube_id: SAS4Iuu23Sc
   talks:
+  - title: 'Guided Meditation: Pleasure'
+    id: 22239
+    date: '2025-02-10'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22239/20250210-Gil_Fronsdal-IMC-guided_meditation_pleasure.mp3
   - title: 'Dharmette: Samadhi (21) The Path of Wellbeing'
-    url: https://www.audiodharma.org/talks/22240
+    id: 22240
     date: '2025-02-10'
     speaker_id: 1
     start_time_seconds: 1944
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22240/20250210-Gil_Fronsdal-IMC-dharmette_samadhi_21_the_path_of_wellbeing.mp3
+- youtube_id: SIwH9IofsjY
+  talks:
+  - title: A myth for hard times
+    id: 22236
+    date: '2025-02-09'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22236/20250209-Gil_Fronsdal-IMC-a_myth_for_hard_times.mp3
 - youtube_id: NRIlSs4aRzY
   talks:
   - title: 'Guided Meditation: Continuity'
@@ -2820,7 +3083,7 @@
 - youtube_id: c280puL5dfg
   talks:
   - title: 'Guided Meditation: Orientating'
-    url: https://www.audiodharma.org/talks/22207
+    id: 22207
     date: '2025-02-04'
     speaker_id: 1
     start_time_seconds: 0
@@ -2834,7 +3097,7 @@
 - youtube_id: q0MQToYEyaU
   talks:
   - title: Awakening Brilliance
-    url: https://www.audiodharma.org/talks/22206
+    id: 22206
     date: '2025-02-03'
     speaker_id: 240
     start_time_seconds: 0
@@ -2907,8 +3170,14 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22174/20250128-Leigh_Brasington-sati-stories_of_awakening_and_wisdom_1_of_4.mp3
 - youtube_id: 0yDhoorh91Y
   talks:
+  - title: 'Guided Meditation: Kindness'
+    id: 22165
+    date: '2025-01-28'
+    speaker_id: 197
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22165/20250128-Liz_Powell-IMC-guided_meditation_kindness.mp3
   - title: 'Dharmette: Supporting Samadhi (2of5): The Immeasurables'
-    url: https://www.audiodharma.org/talks/22166
+    id: 22166
     date: '2025-01-28'
     speaker_id: 197
     start_time_seconds: 2162
@@ -2927,6 +3196,14 @@
     speaker_id: 197
     start_time_seconds: 1400
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22158/20250127-Liz_Powell-IMC-dharmette_supporting_samadhi_1_of_5_mindfulness_in_daily_life.mp3
+- youtube_id: IUClNvg9Wq4
+  talks:
+  - title: 'Perspective and Patience: Working with Conflict'
+    id: 22160
+    date: '2025-01-27'
+    speaker_id: 240
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22160/20250127-Diana_Clark-IMC-perspective_and_patience_working_with_conflict.mp3
 - youtube_id: 1ZAtAYcKHQk
   talks:
   - title: A Modern Take on the Five Faculties
@@ -2994,7 +3271,7 @@
 - youtube_id: uNLQmCklO9g
   talks:
   - title: 'Guided Meditation: Settling'
-    url: https://www.audiodharma.org/talks/22128
+    id: 22128
     date: '2025-01-21'
     speaker_id: 1
     start_time_seconds: 0
@@ -3020,11 +3297,25 @@
 - youtube_id: wHb9bmbEngY
   talks:
   - title: The Complexity of Simplicity
-    url: https://www.audiodharma.org/talks/22127
+    id: 22127
     date: '2025-01-20'
     speaker_id: 240
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22127/20250120-Diana_Clark-IMC-the_complexity_of_simplicity.mp3
+- youtube_id: R3LxPcwNdrM
+  talks:
+  - title: 'Guided Meditation: Counting Breath'
+    id: 22125
+    date: '2025-01-20'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22125/20250120-Gil_Fronsdal-IMC-guided_meditation_counting_breath.mp3
+  - title: 'Dharmette: Samadhi (11) Simplicity Through Counting Breaths'
+    id: 22126
+    date: '2025-01-20'
+    speaker_id: 1
+    start_time_seconds: 1904
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22126/20250120-Gil_Fronsdal-IMC-dharmette_samadhi_11_simplicity_through_counting_breaths.mp3
 - youtube_id: 5njhyF8QLe0
   talks:
   - title: I Walk in Refuge with the Buddha
@@ -3178,6 +3469,20 @@
     speaker_id: 349
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22049/20250108-Rachel_Lewis-sati-brahmavihara_the_beautiful_qualities_of_the_heart_1_of_5.mp3
+- youtube_id: 6M9-APDpDig
+  talks:
+  - title: 'Guided Meditation: Entering Samadhi'
+    id: 22041
+    date: '2025-01-08'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22041/20250108-Gil_Fronsdal-IMC-guided_meditation_entering_samadhi.mp3
+  - title: 'Dharmette: Samadhi (3) The Temple of Samadhi'
+    id: 22042
+    date: '2025-01-08'
+    speaker_id: 1
+    start_time_seconds: 1872
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22042/20250108-Gil_Fronsdal-IMC-dharmette_samadhi_3_the_temple_of_samadhi.mp3
 - youtube_id: LQZUt6JdIFo
   talks:
   - title: 'Dharmette: Samadhi (2) Discovering Awareness'
@@ -3230,8 +3535,7 @@
     speaker_id: 4
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22023/20250103-Kim_Allen-IMC-guided_meditation_sincerity_with_it_all.mp3
-  - title: "Dharmette: Letting Go and Cultivation (5 of 5): A Practitioner\u2019s\
-      \ Life"
+  - title: 'Dharmette: Letting Go and Cultivation (5 of 5): A Practitioner’s Life'
     id: 22024
     date: '2025-01-03'
     speaker_id: 4
@@ -3269,19 +3573,40 @@
   talks:
   - title: 'Happy Hour: Launching Ourselves into the New Year with Aspirations of
       Kindness'
-    url: https://www.audiodharma.org/talks/22015
+    id: 22015
     date: '2025-01-01'
     speaker_id: 229
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22015/20250101-Nikki_Mirghafori-IMC-happy_hour_launching_ourselves_into_the_new_year_with_aspirations_of_kindness.mp3
+- youtube_id: Z9lvV279SLs
+  talks:
+  - title: 'Guided Meditation: Rebalancing'
+    id: 22008
+    date: '2025-01-01'
+    speaker_id: 4
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22008/20250101-Kim_Allen-IMC-guided_meditation_rebalancing.mp3
+  - title: 'Dharmette: Letting Go and Cultivation (3of5): Effective Effort'
+    id: 22010
+    date: '2025-01-01'
+    speaker_id: 4
+    start_time_seconds: 1796
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/22010/20250101-Kim_Allen-IMC-dharmette_letting_go_and_cultivation_3of5_effective_effort.mp3
 - youtube_id: r1EULSJjAk4
   talks:
-  - title: "Guided Meditation: Knowing Where We\u2019re At"
+  - title: 'Guided Meditation: Knowing Where We’re At'
     id: 21989
     date: '2024-12-31'
     speaker_id: 4
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21989/20241231-Kim_Allen-IMC-guided_meditation_knowing_where_we_re_at.mp3
+  - title: 'Dharmette: Letting Go and Cultivation (2 of 5): Willingness, Capacity,
+      and Know-How'
+    id: 21990
+    date: '2024-12-31'
+    speaker_id: 4
+    start_time_seconds: 1827
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21990/20241231-Kim_Allen-IMC-dharmette_letting_go_and_cultivation_2_of_5_willingness_capacity_and_know-how.mp3
 - youtube_id: eaeFtkmYQdU
   talks:
   - title: 'Happy Hour: Appreciation & Loving-Kindness Retrospective at Year''s End'
@@ -3363,11 +3688,17 @@
 - youtube_id: Mw8V8vobnSA
   talks:
   - title: 'Dharmette: Aspects of Love (2 of 5) Friendliness'
-    url: https://www.audiodharma.org/talks/21952
+    id: 21952
     date: '2024-12-24'
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21952/20241224-Gil_Fronsdal-IMC-dharmette_aspects_of_love_2_of_5_friendliness.mp3
+  - title: 'Guided Meditation: Friendliness'
+    id: 21951
+    date: '2024-12-24'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21951/20241224-Gil_Fronsdal-IMC-guided_meditation_friendliness.mp3
 - youtube_id: cFrxunq1rBQ
   talks:
   - title: 'Guided Meditation: Giving and Receiving'
@@ -3390,6 +3721,14 @@
     speaker_id: 229
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21949/20241223-Nikki_Mirghafori-IMC-happy_hour_lovingly_cultivating_stability_of_heart-mind.mp3
+- youtube_id: GDx7rGNGLco
+  talks:
+  - title: From Craving to Contentment
+    id: 21950
+    date: '2024-12-23'
+    speaker_id: 240
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21950/20241223-Diana_Clark-IMC-from_craving_to_contentment.mp3
 - youtube_id: O6E7QD6Fllg
   talks:
   - title: Wisdom, Care, and the Paramis
@@ -3462,6 +3801,20 @@
     speaker_id: 1
     start_time_seconds: 1908
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21923/20241218-Gil_Fronsdal-IMC-dharmette_road_less_traveled_3_of_5_the_second_operating_system.mp3
+- youtube_id: faUvTkePo2Y
+  talks:
+  - title: 'Guided Meditation: Beyond Thought'
+    id: 21910
+    date: '2024-12-17'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21910/20241217-Gil_Fronsdal-IMC-guided_meditation_beyond_thought.mp3
+  - title: 'Dharmette: Road Less Traveled (2 of 5) Wholesome and Unwholesome'
+    id: 21911
+    date: '2024-12-17'
+    speaker_id: 1
+    start_time_seconds: 1808
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21911/20241217-Gil_Fronsdal-IMC-dharmette_road_less_traveled_2_of_5_wholesome_and_unwholesome.mp3
 - youtube_id: IEet_NsYro4
   talks:
   - title: 'Guided Meditation: The Road Less Travelled'
@@ -3558,7 +3911,7 @@
 - youtube_id: 0seB589pH7c
   talks:
   - title: 'Guided Meditation: What can you stop doing?'
-    url: https://www.audiodharma.org/talks/21856
+    id: 21856
     date: '2024-12-10'
     speaker_id: 231
     start_time_seconds: 0
@@ -3572,11 +3925,25 @@
 - youtube_id: l8_1pz3ztN4
   talks:
   - title: Investigating Our Attraction to Aversion
-    url: https://www.audiodharma.org/talks/21851
+    id: 21851
     date: '2024-12-09'
     speaker_id: 4
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21851/20241209-Kim_Allen-IMC-investigating_our_attraction_to_aversion.mp3
+- youtube_id: DkV2zZaJWlo
+  talks:
+  - title: 'Guided Meditation: Putting Down the Project of Your Life'
+    id: 21862
+    date: '2024-12-09'
+    speaker_id: 231
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21862/20241209-Matthew_Brensilver-IMC-guided_meditation_putting_down_the_project_of_your_life.mp3
+  - title: 'Dharmette: The Divine Abodes (1 of 5) Orienting to Love'
+    id: 21863
+    date: '2024-12-09'
+    speaker_id: 231
+    start_time_seconds: 1766
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21863/20241209-Matthew_Brensilver-IMC-dharmette_the_divine_abodes_1_of_5_orienting_to_love.mp3
 - youtube_id: BtDqaAsYCuY
   talks:
   - title: Agency
@@ -3587,8 +3954,8 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21842/20241208-Gil_Fronsdal-IMC-agency.mp3
 - youtube_id: hyUBEZQf_XQ
   talks:
-  - title: "Buddhist Chaplaincy Speaker Series: The Nature of Suffering \u2013 Addiction\
-      \ and the Four Truths"
+  - title: 'Buddhist Chaplaincy Speaker Series: The Nature of Suffering – Addiction
+      and the Four Truths'
     id: 21836
     date: '2024-12-07'
     speaker_id: 67
@@ -3653,13 +4020,13 @@
 - youtube_id: cizp_4_5YeI
   talks:
   - title: 'Guided Meditation: "No-ingly" Aware'
-    url: https://www.audiodharma.org/talks/21813
+    id: 21813
     date: '2024-12-03'
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21813/20241203-Gil_Fronsdal-IMC-guided_meditation_no-ingly_aware.mp3
   - title: 'Dharmette: Buddha Before Buddhism (2 of 5) Not Clinging to Views'
-    url: https://www.audiodharma.org/talks/21814
+    id: 21814
     date: '2024-12-03'
     speaker_id: 1
     start_time_seconds: 2047
@@ -3672,6 +4039,20 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21811/20241202-Gil_Fronsdal-IMC-guided_meditation_gentle_no.mp3
+  - title: 'Dharmette: Buddha Before Buddhism (1 of 5) Intro to His Message of Peace'
+    id: 21810
+    date: '2024-12-02'
+    speaker_id: 1
+    start_time_seconds: 1894
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21810/20241202-Gil_Fronsdal-IMC-dharmette_buddha_before_buddhism_1_of_5_intro_to_his_message_of_peace.mp3
+- youtube_id: Zl8EnuN2sds
+  talks:
+  - title: Waking Up in the Now
+    id: 21812
+    date: '2024-12-02'
+    speaker_id: 142
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21812/20241202-Maria_Straatmann-IMC-waking_up_in_the_now.mp3
 - youtube_id: AUQ20fLF52k
   talks:
   - title: Renunciation
@@ -3752,6 +4133,20 @@
     speaker_id: 229
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21787/20241126-Nikki_Mirghafori-IMC-happy_hour_the_happiness_of_release.mp3
+- youtube_id: ILktR48cxio
+  talks:
+  - title: 'Guided Meditation: Feeling Grateful'
+    id: 21789
+    date: '2024-11-26'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21789/20241126-Gil_Fronsdal-IMC-guided_meditation_feeling_grateful.mp3
+  - title: 'Dharmette: Gratitude (2 of 5) Pausing for Gratefulness'
+    id: 21790
+    date: '2024-11-26'
+    speaker_id: 1
+    start_time_seconds: 1922
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21790/20241126-Gil_Fronsdal-IMC-dharmette_pausing_for_gratefulness.mp3
 - youtube_id: okGEMsVaZtQ
   talks:
   - title: 'Guided Meditation: Gratitude'
@@ -3849,13 +4244,13 @@
 - youtube_id: X2aACKasZ5o
   talks:
   - title: 'Guided Meditation: Happiness in Mindfulness'
-    url: https://www.audiodharma.org/talks/21743
+    id: 21743
     date: '2024-11-19'
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21743/20241119-Gil_Fronsdal-IMC-guided_meditation_happiness_in_mindfulness.mp3
   - title: 'Dharmette: Four Truths of Happiness (1 of 4) There is Happiness'
-    url: https://www.audiodharma.org/talks/21744
+    id: 21744
     date: '2024-11-19'
     speaker_id: 1
     start_time_seconds: 1808
@@ -3874,6 +4269,14 @@
     speaker_id: 1
     start_time_seconds: 1852
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21738/20241118-Gil_Fronsdal-IMC-dharmette_the_end_of_suffering_5_of_5_fourth_noble_truth.mp3
+- youtube_id: W43qDgp2I80
+  talks:
+  - title: What If Practice Were an Adventure?
+    id: 21742
+    date: '2024-11-18'
+    speaker_id: 240
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21742/20241118-Diana_Clark-IMC-what_if_practice_were_an_adventure.mp3
 - youtube_id: EbYNksWouM4
   talks:
   - title: Not-knowing, Discovery, Gifts, and Going Forth
@@ -3884,8 +4287,8 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21734/20241117-Gil_Fronsdal-IMC-relax_not-knowing_discovery_gifts_and_moving_forth.mp3
 - youtube_id: h6yKh69FUEM
   talks:
-  - title: "Buddhist Chaplaincy Speaker Series: Spiritual Care as Koan \u2013 Formation\
-      \ and Embodiment"
+  - title: 'Buddhist Chaplaincy Speaker Series: Spiritual Care as Koan – Formation
+      and Embodiment'
     id: 21736
     date: '2024-11-16'
     speaker_id: 486
@@ -3945,7 +4348,7 @@
 - youtube_id: aE5XWZ7jkLI
   talks:
   - title: 'Guided Meditation: Trusting the Body'
-    url: https://www.audiodharma.org/talks/21703
+    id: 21703
     date: '2024-11-12'
     speaker_id: 1
     start_time_seconds: 0
@@ -3959,7 +4362,7 @@
 - youtube_id: BkWaWYQ6bNQ
   talks:
   - title: From Predictions to Presence
-    url: https://www.audiodharma.org/talks/21702
+    id: 21702
     date: '2024-11-11'
     speaker_id: 240
     start_time_seconds: 0
@@ -3972,6 +4375,20 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21695/20241111-Gil_Fronsdal-IMC-guided_meditation_tranquil_awareness.mp3
+  - title: 'Dharmette: The End of Suffering (1 of 5) Faith, Confidence, Courage.'
+    id: 21696
+    date: '2024-11-11'
+    speaker_id: 1
+    start_time_seconds: 1873
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21696/20241111-Gil_Fronsdal-IMC-dharmette_the_end_of_suffering_1_of_5_faith_confidence_courage.mp3
+- youtube_id: VoZSk5MUPW0
+  talks:
+  - title: 'Happy Hour: Spacious, Kind Interest... (and Intention vs. Agenda)'
+    id: 21701
+    date: '2024-11-11'
+    speaker_id: 229
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21701/20241111-Nikki_Mirghafori-IMC-happy_hour_spacious_kind_interest_and_intention_vs_agenda.mp3
 - youtube_id: jcteP561L8A
   talks:
   - title: 'Guided Meditation: Mindfulness of the Body'
@@ -4069,7 +4486,7 @@
 - youtube_id: jttixaybhOE
   talks:
   - title: 'Guided Meditation: Objects of Mind'
-    url: https://www.audiodharma.org/talks/21661
+    id: 21661
     date: '2024-11-05'
     speaker_id: 57
     start_time_seconds: 0
@@ -4083,7 +4500,7 @@
 - youtube_id: 0VznXSCGSfc
   talks:
   - title: Peace and Resistance
-    url: https://www.audiodharma.org/talks/21648
+    id: 21648
     date: '2024-11-04'
     speaker_id: 240
     start_time_seconds: 0
@@ -4096,6 +4513,12 @@
     speaker_id: 57
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21658/20241104-Ines_Freedman-IMC-guided_meditation_affectionate_curiosity.mp3
+  - title: 'Dharmette: Knowing & Not Knowing (1 of 5): Intro'
+    id: 21659
+    date: '2024-11-04'
+    speaker_id: 57
+    start_time_seconds: 1799
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21659/20241104-Ines_Freedman-IMC-dharmette_knowing_not_knowing_1_of_5_intro.mp3
 - youtube_id: zrLrDRFkqXo
   talks:
   - title: Buddhist Principles of Civic Responsibility
@@ -4160,6 +4583,20 @@
     speaker_id: 1
     start_time_seconds: 1892
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21619/20241030-Gil_Fronsdal-IMC-to_transform_the_world_3_of_5_with_genorosity.mp3
+- youtube_id: J8uV9dp7zRU
+  talks:
+  - title: 'Guided Meditation: Peace'
+    id: 21613
+    date: '2024-10-29'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21613/20241029-Gil_Fronsdal-IMC-guided_meditation_peace.mp3
+  - title: 'Dharmette: To Transform the World (2 of 5) With Peace'
+    id: 21614
+    date: '2024-10-29'
+    speaker_id: 1
+    start_time_seconds: 1818
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21614/20241029-Gil_Fronsdal-IMC-dharmette_to_transform_the_world_2_of_5_with_peace.mp3
 - youtube_id: -7UfTZMrK9I
   talks:
   - title: 'Guided Meditation: Kindness'
@@ -4236,13 +4673,13 @@
 - youtube_id: baIX23eFxak
   talks:
   - title: 'Guided Meditation: Never Too Late to Begin Again'
-    url: https://www.audiodharma.org/talks/21569
+    id: 21569
     date: '2024-10-23'
     speaker_id: 241
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21569/20241023-Dawn_Neal-IMC-guided_meditation_never_too_late_to_begin_again.mp3
   - title: 'Dharmette: Dharmic Reciprocity (3 of 5): Non-Harming'
-    url: https://www.audiodharma.org/talks/21570
+    id: 21570
     date: '2024-10-23'
     speaker_id: 241
     start_time_seconds: 2004
@@ -4307,7 +4744,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21522/20241018-David_Lorey-IMC-dharmette_buddha_s_smile_5_of_5_protecting_the_practice.mp3
 - youtube_id: HCIs1J0Me_I
   talks:
-  - title: "Guided Meditation: \u201CTake it Easy\u201D"
+  - title: 'Guided Meditation: “Take it Easy”'
     id: 21513
     date: '2024-10-17'
     speaker_id: 309
@@ -4321,8 +4758,14 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21514/20241017-David_Lorey-IMC-dharmette_buddha_s_smile_4_of_5_without_force.mp3
 - youtube_id: PfGtTEXEagM
   talks:
+  - title: 'Guided Meditation: A Community of Practice'
+    id: 21501
+    date: '2024-10-16'
+    speaker_id: 309
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21501/20241016-David_Lorey-IMC-guided_meditation_a_community_of_practice.mp3
   - title: 'Dharmette: Buddha''s Smile (3 of 5) Associate with the Wise'
-    url: https://www.audiodharma.org/talks/21502
+    id: 21502
     date: '2024-10-16'
     speaker_id: 309
     start_time_seconds: 1879
@@ -4373,13 +4816,13 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21478/20241013-Gil_Fronsdal-IMC-finding_the_goal_in_the_means.mp3
 - youtube_id: hZTIUVevS6k
   talks:
-  - title: "Guided Meditation: Mett\u0101"
-    url: https://www.audiodharma.org/talks/21473
+  - title: 'Guided Meditation: Mettā'
+    id: 21473
     date: '2024-10-11'
     speaker_id: 4
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21473/20241011-Kim_Allen-IMC-guided_meditation_metta.mp3
-  - title: "Dharmette: Buddha\u2019s Mind (5 of 5) Awake and Beyond"
+  - title: 'Dharmette: Buddha’s Mind (5 of 5) Awake and Beyond'
     id: 21474
     date: '2024-10-11'
     speaker_id: 4
@@ -4393,7 +4836,7 @@
     speaker_id: 4
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21466/20241010-Kim_Allen-IMC-guided_meditation_generosity.mp3
-  - title: "Dharmette: Buddha\u2019s Mind (4 of 5) Teacher"
+  - title: 'Dharmette: Buddha’s Mind (4 of 5) Teacher'
     id: 21467
     date: '2024-10-10'
     speaker_id: 4
@@ -4435,7 +4878,7 @@
     speaker_id: 4
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21449/20241008-Kim_Allen-IMC-guided_meditation_virtue.mp3
-  - title: "Dharmette: Buddha\u2019s Mind (2 of 5) Manifest"
+  - title: 'Dharmette: Buddha’s Mind (2 of 5) Manifest'
     id: 21451
     date: '2024-10-08'
     speaker_id: 4
@@ -4457,7 +4900,7 @@
     speaker_id: 4
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21519/20241007-Kim_Allen-IMC-guided_meditation_aspiration.mp3
-  - title: "Dharmette: Buddha\u2019s Mind (1 of 5) Fully Wholesome"
+  - title: 'Dharmette: Buddha’s Mind (1 of 5) Fully Wholesome'
     id: 21475
     date: '2024-10-07'
     speaker_id: 4
@@ -4473,9 +4916,9 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21445/20241006-bruni_d%C3%A1vila-IMC-the_eightfold_path_supported_by_confidence.mp3
 - youtube_id: lYKA-Q5uTTA
   talks:
-  - title: "Buddhist Chaplaincy Speaker Series: Spiritual Care as Creative Listening:\
-      \ A Buddhist Writer\u2019s Perspective"
-    url: https://www.audiodharma.org/talks/21461
+  - title: 'Buddhist Chaplaincy Speaker Series: Spiritual Care as Creative Listening:
+      A Buddhist Writer’s Perspective'
+    id: 21461
     date: '2024-10-05'
     speaker_id: 484
     start_time_seconds: 0
@@ -4488,6 +4931,12 @@
     speaker_id: 4
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21425/20241004-Kim_Allen-IMC-guided_meditation_unhooking.mp3
+  - title: 'Dharmette: Hindrances and Wholesomeness (5 of 5) Sensual Desire'
+    id: 21426
+    date: '2024-10-04'
+    speaker_id: 4
+    start_time_seconds: 1822
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21426/20241004-Kim_Allen-IMC-dharmette_hindrances_and_wholesomeness_5_of_5_sensual_desire.mp3
 - youtube_id: tZU4fzamVrk
   talks:
   - title: 'Guided Meditation: Allowing the Bigger Picture'
@@ -4547,7 +4996,7 @@
 - youtube_id: QWKBA_AvCaA
   talks:
   - title: The Art and Heart of Allowing
-    url: https://www.audiodharma.org/talks/21380
+    id: 21380
     date: '2024-09-30'
     speaker_id: 240
     start_time_seconds: 0
@@ -4560,6 +5009,12 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21369/20240930-Gil_Fronsdal-IMC-guided_meditation_certainty.mp3
+  - title: 'Dharmette: Hindrances and Wholesomeness (1 of 5) Uncertainty'
+    id: 21370
+    date: '2024-09-30'
+    speaker_id: 1
+    start_time_seconds: 1851
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21370/20240930-Gil_Fronsdal-IMC-dharmette_hindrances_and_wholesomeness_1_of_5_uncertainty.mp3
 - youtube_id: o3GDXYNzEl8
   talks:
   - title: Wholesome Self Whisper
@@ -4570,7 +5025,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21362/20240929-Gil_Fronsdal-IMC-wholesome_self_whisper.mp3
 - youtube_id: clQRNAH6bgw
   talks:
-  - title: "Liberation from\u2026what exactly?"
+  - title: Liberation from…what exactly?
     id: 21357
     date: '2024-09-28'
     speaker_id: 460
@@ -4634,6 +5089,12 @@
     speaker_id: 240
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21323/20240924-Diana_Clark-IMC-guided_meditation_being_embodied.mp3
+  - title: 'Dharmette: Poetry of Practice III (2 of 5): Sometimes'
+    id: 21325
+    date: '2024-09-24'
+    speaker_id: 240
+    start_time_seconds: 1939
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21325/20240924-Diana_Clark-IMC-dharmette_poetry_of_practice_iii_2_of_5_sometimes.mp3
 - youtube_id: G9f3JkJEFbQ
   talks:
   - title: 'Guided Meditation: Contentment'
@@ -4728,6 +5189,21 @@
     speaker_id: 240
     start_time_seconds: 1718
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21298/20240918-Diana_Clark-IMC-dharmette_our_stories_3_of_5_creating_connections.mp3
+- youtube_id: Ay8Y5dFKMVU
+  talks:
+  - title: 'Guided Meditation: Experience versus Thoughts'
+    id: 21287
+    date: '2024-09-17'
+    speaker_id: 240
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21287/20240917-Diana_Clark-IMC-guided_meditation_experience_versus_thoughts.mp3
+  - title: 'Dharmette: Our Stories (2 of 5): We Use Them to Help Make Sense of the
+      World'
+    id: 21288
+    date: '2024-09-17'
+    speaker_id: 240
+    start_time_seconds: 1740
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21288/20240917-Diana_Clark-IMC-dharmette_our_stories_2_of_5_we_use_them_to_help_make_sense_of_the_world.mp3
 - youtube_id: gL5xnLovDQE
   talks:
   - title: 'Guided Meditation: Being Embodied'
@@ -4819,8 +5295,14 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21256/20240911-Andrea_Fella-sati-the_mind_of_freedom_1_of_3.mp3
 - youtube_id: B6Vyl3Mm01w
   talks:
+  - title: 'Guided Meditation: Breath, Pleasure, Opening'
+    id: 21233
+    date: '2024-09-11'
+    speaker_id: 231
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21233/20240911-Matthew_Brensilver-IMC-guided_meditation_breath_pleasure_opening.mp3
   - title: 'Dharmette: Interpersonal Dharma (3 of 5): Assertion and Surrender'
-    url: https://www.audiodharma.org/talks/21234
+    id: 21234
     date: '2024-09-11'
     speaker_id: 231
     start_time_seconds: 1840
@@ -4920,6 +5402,12 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21192/20240904-Gil_Fronsdal-IMC-guided_meditation_rest.mp3
+  - title: 'Dharmette: Don''t Make it Worse (3 of 5) Rest'
+    id: 21193
+    date: '2024-09-04'
+    speaker_id: 1
+    start_time_seconds: 1850
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21193/20240904-Gil_Fronsdal-IMC-dharmette_don_t_mqke_it_worse_3_of_5_rest.mp3
 - youtube_id: -2eX35xZVN8
   talks:
   - title: 'Guided Meditation: Re-Collecting'
@@ -4971,6 +5459,20 @@
     speaker_id: 333
     start_time_seconds: 1861
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21168/20240830-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_savoring_the_flavors_of_refuge_5_of_5_being_a_refuge_for_all_beings.mp3
+- youtube_id: YSKig0qU9lY
+  talks:
+  - title: 'Guided Meditation: Meditate like Space'
+    id: 21149
+    date: '2024-08-29'
+    speaker_id: 333
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21149/20240829-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_meditate_like_space.mp3
+  - title: 'Dharmette: Savoring the Flavors of Refuge (4 of 5) Live as One’s Own Refuge'
+    id: 21150
+    date: '2024-08-29'
+    speaker_id: 333
+    start_time_seconds: 1939
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21150/20240829-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_savoring_the_flavors_of_refuge_4_5_live_as_one_s_own_refuge.mp3
 - youtube_id: 4bLhvhObV2E
   talks:
   - title: 'Guided Meditation: Meditate like a Living Mountain'
@@ -4979,6 +5481,12 @@
     speaker_id: 333
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21142/20240828-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_meditate_like_a_living_mountain.mp3
+  - title: 'Dharmette: Savoring the Flavors of Refuge (3 of 5) Refuge in the Buddha'
+    id: 21143
+    date: '2024-08-28'
+    speaker_id: 333
+    start_time_seconds: 1913
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21143/20240828-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_savoring_the_flavors_of_refuge_3_5_refuge_in_the_buddha.mp3
 - youtube_id: SIlszxlsHSs
   talks:
   - title: 'Guided Meditation: Meditate like a Breathing Mountain'
@@ -5039,7 +5547,7 @@
     speaker_id: 229
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21109/20240823-Nikki_Mirghafori-IMC-guided_med_delight_arising_from_confidence.mp3
-  - title: "Dharmette: Trust (5/5) The Ultimate Fruit of Confidence (Saddh\u0101)"
+  - title: 'Dharmette: Trust (5/5) The Ultimate Fruit of Confidence (Saddhā)'
     id: 21110
     date: '2024-08-23'
     speaker_id: 229
@@ -5062,13 +5570,13 @@
 - youtube_id: 2pq4mRtwTWQ
   talks:
   - title: 'Guided Meditation: Feeling and Verbal Thinking'
-    url: https://www.audiodharma.org/talks/21104
+    id: 21104
     date: '2024-08-21'
     speaker_id: 231
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21104/20240821-Matthew_Brensilver-IMC-guided_meditation_feeling_and_verbal_thinking.mp3
   - title: 'Dharmette: Meaning and Purpose'
-    url: https://www.audiodharma.org/talks/21105
+    id: 21105
     date: '2024-08-21'
     speaker_id: 231
     start_time_seconds: 1767
@@ -5119,7 +5627,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21093/20240819-Nikki_Mirghafori-IMC-dharmette_trust_1_of_1_borrowed_verified_trust.mp3
 - youtube_id: qYQyvcaMo3g
   talks:
-  - title: "Ten P\u0101ram\u012Bs"
+  - title: Ten Pāramīs
     id: 21091
     date: '2024-08-18'
     speaker_id: 1
@@ -5139,6 +5647,20 @@
     speaker_id: 1
     start_time_seconds: 1804
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21071/20240816-Gil_Fronsdal-IMC-dharmette_poems_of_the_nuns_5_of_5_practicing_with_friendship.mp3
+- youtube_id: 8ggtTPu3fHE
+  talks:
+  - title: 'Guided Meditation: Things as They Could Be'
+    id: 21065
+    date: '2024-08-15'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21065/20240815-Gil_Fronsdal-IMC-guided_meditation_things_as_they_could_be.mp3
+  - title: 'Dharmette: Poems of the Nuns (4 of 5) Vimala'
+    id: 21066
+    date: '2024-08-15'
+    speaker_id: 1
+    start_time_seconds: 1951
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21066/20240815-Gil_Fronsdal-IMC-dharmette_poems_of_the_nuns_4_of_5_vimala.mp3
 - youtube_id: bbU0oz0hpc8
   talks:
   - title: 'Guided Meditation: You cannot know oneself while fixing oneself'
@@ -5222,17 +5744,31 @@
 - youtube_id: oJ1agfbtNLU
   talks:
   - title: 'Guided Meditation: This Too Will Change'
-    url: https://www.audiodharma.org/talks/21033
+    id: 21033
     date: '2024-08-09'
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21033/20240809-Gil_Fronsdal-IMC-guided_meditation_this_too_will_change.mp3
   - title: 'Dharmette: Eight Worldly Winds (5 of 5) Wisdom'
-    url: https://www.audiodharma.org/talks/21034
+    id: 21034
     date: '2024-08-09'
     speaker_id: 1
     start_time_seconds: 1924
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21034/20240809-Gil_Fronsdal-IMC-dharmette_eight_worldly_winds_5_of_5_wisdom.mp3
+- youtube_id: co1Ucbmj4nU
+  talks:
+  - title: 'Guided Meditation: Undefined Awareness'
+    id: 21029
+    date: '2024-08-08'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21029/20240808-Gil_Fronsdal-IMC-guided_meditation_undefined_awareness.mp3
+  - title: 'Dharmette: Eight Worldly Winds (4 of 5) Pleasure and Pain'
+    id: 21030
+    date: '2024-08-08'
+    speaker_id: 1
+    start_time_seconds: 1876
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/21030/20240808-Gil_Fronsdal-IMC-dharmette_eight_worldly_winds_4_of_5_pleasure_and_pain.mp3
 - youtube_id: cSJfqd2PMGI
   talks:
   - title: 'Guided Meditation: Clarity'
@@ -5336,13 +5872,13 @@
 - youtube_id: aPxnIzZq8xE
   talks:
   - title: 'Guided Meditation: Mindfulness of How'
-    url: https://www.audiodharma.org/talks/20973
+    id: 20973
     date: '2024-07-31'
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20973/20240731-Gil_Fronsdal-IMC-guided_meditation_mindfulness_of_how.mp3
   - title: 'Dharmette: Qualities of the Dharma (3 of 5) Come and See for Yourself'
-    url: https://www.audiodharma.org/talks/20974
+    id: 20974
     date: '2024-07-31'
     speaker_id: 1
     start_time_seconds: 1851
@@ -5393,7 +5929,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20945/20240728-Kim_Allen-IMC-start_anywhere_get_everywhere_an_exploration_of_dependent_arising.mp3
 - youtube_id: RJQuILZnLeo
   talks:
-  - title: "Mett\u0101 for Stability and Concentration (Sam\u0101dhi) with Dawn Neal"
+  - title: Mettā for Stability and Concentration (Samādhi) with Dawn Neal
     id: 20957
     date: '2024-07-27'
     speaker_id: 241
@@ -5444,7 +5980,7 @@
 - youtube_id: sYi7Qkaf5hY
   talks:
   - title: 'Guided Meditation: Riding the Waves of Experience'
-    url: https://www.audiodharma.org/talks/20917
+    id: 20917
     date: '2024-07-24'
     speaker_id: 241
     start_time_seconds: 0
@@ -5464,6 +6000,13 @@
     speaker_id: 241
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20908/20240723-Dawn_Neal-IMC-guided_meditation_shifting_the_senses.mp3
+  - title: 'Dharmette: Sensory Doorways to Freedom: (2 of 5) Relating Skillfully to
+      Emotions'
+    id: 20909
+    date: '2024-07-23'
+    speaker_id: 241
+    start_time_seconds: 1981
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20909/20240723-Dawn_Neal-IMC-dharmette_sensory_doorways_to_freedom_2_of_5_relating_skillfully_to_emotions.mp3
 - youtube_id: 3s-HtNdA2CY
   talks:
   - title: 'Guided Meditation: Sensing In'
@@ -5550,6 +6093,20 @@
     speaker_id: 309
     start_time_seconds: 1722
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20867/20240717-David_Lorey-IMC-dharmette_the_five_faculties_3_of_5_complete_presence.mp3
+- youtube_id: gYMTzO2KH6A
+  talks:
+  - title: 'Guided Meditation: Allowing'
+    id: 20859
+    date: '2024-07-16'
+    speaker_id: 309
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20859/20240716-David_Lorey-IMC-guided_meditation_allowing.mp3
+  - title: 'Dharmette: The Five Faculties (2 of 5): Energy'
+    id: 20860
+    date: '2024-07-16'
+    speaker_id: 309
+    start_time_seconds: 1793
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20860/20240716-David_Lorey-IMC-dharmette_the_five_faculties_2_of_5_energy.mp3
 - youtube_id: 5KitwVe8wPU
   talks:
   - title: 'Guided Meditation: Trusting the Practice'
@@ -5564,6 +6121,14 @@
     speaker_id: 309
     start_time_seconds: 2007
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20845/20240715-David_Lorey-IMC-dharmette_the_five_faculties_1_of_5_confidence.mp3
+- youtube_id: 6F9XxwOVX_k
+  talks:
+  - title: Intro to Mindfulness Meditation (4 of 4) ~ Thinking
+    id: 20851
+    date: '2024-07-15'
+    speaker_id: 240
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20851/20240715-Diana_Clark-IMC-intro_to_mindfulness_meditation_4_of_4_thinking.mp3
 - youtube_id: wLP8YMuHnmM
   talks:
   - title: 'Guided Meditation: Banana Tree Trunk'
@@ -5642,8 +6207,14 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20778/20240707-Lama_Justin_von_Bujdoss-sati-chaplaincy_speaker_series_exploring_vajrayana-informed_chaplaincy.mp3
 - youtube_id: izmr_RYzo98
   talks:
+  - title: 'Guided Meditation: Trusting the Present Moment and the Arising of Joy'
+    id: 20765
+    date: '2024-07-05'
+    speaker_id: 272
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20765/20240705-Meg_Gawler-IMC-guided_meditation_trusting_the_present_moment_and_the_arising_of_joy.mp3
   - title: 'Dharmette: Trusting the Practice (4 of 4): Daring to Trust'
-    url: https://www.audiodharma.org/talks/20766
+    id: 20766
     date: '2024-07-05'
     speaker_id: 272
     start_time_seconds: 1867
@@ -5751,8 +6322,14 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20700/20240628-Gil_Fronsdal-IMC-dharmette_udayi_sutta_5_of_5_finding_one_s_path.mp3
 - youtube_id: 16OXllyHW38
   talks:
+  - title: 'Guided Meditation: Kindness in Silence'
+    id: 20695
+    date: '2024-06-27'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20695/20240627-Gil_Fronsdal-IMC-guided_meditation_kindness_in_silence.mp3
   - title: 'Dharmette: Udayi Sutta (4 of 5) Grounded in Kindness'
-    url: https://www.audiodharma.org/talks/20696
+    id: 20696
     date: '2024-06-27'
     speaker_id: 1
     start_time_seconds: 1950
@@ -5779,6 +6356,12 @@
     speaker_id: 231
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20693/20240626-Matthew_Brensilver-IMC-guided_meditation_relaxing_and_falling_awake.mp3
+  - title: 'Dharmette: Crying'
+    id: 20694
+    date: '2024-06-26'
+    speaker_id: 231
+    start_time_seconds: 1820
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20694/20240626-Matthew_Brensilver-IMC-dharmette_crying.mp3
 - youtube_id: Y78tmDQIU6o
   talks:
   - title: 'Guided Meditation: Clear Awareness'
@@ -5845,6 +6428,12 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20655/20240619-Gil_Fronsdal-IMC-guided_meditation_faith_in_awakening.mp3
+  - title: 'Dharmette: Core Teachings Pt 2 (3 of 5) Naturalistic Practice'
+    id: 20656
+    date: '2024-06-19'
+    speaker_id: 1
+    start_time_seconds: 1895
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20656/20240619-Gil_Fronsdal-IMC-dharmette_core_teachings_pt_2_3_of_5_naturalistice_practice.mp3
 - youtube_id: p6GOHSt7IGE
   talks:
   - title: 'Guided Meditation: Simplicity Beyond Beliefs'
@@ -5933,8 +6522,14 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20628/20240612-Matthew_Brensilver-IMC-dharmette_love_and_time.mp3
 - youtube_id: GB6nxZSzwq0
   talks:
+  - title: 'Guided Meditation: Direct Experience'
+    id: 20624
+    date: '2024-06-12'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20624/20240612-Gil_Fronsdal-IMC-guided_meditation_direct_experience.mp3
   - title: 'Dharmette: Core Teachings (3 of 5) Naturalistic Dharma'
-    url: https://www.audiodharma.org/talks/20623
+    id: 20623
     date: '2024-06-12'
     speaker_id: 1
     start_time_seconds: 1884
@@ -6035,9 +6630,15 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20589/20240605-David_Lorey-IMC-dharmette_the_five_precepts_3_of_5_avoiding_unwholesome_connection.mp3
 - youtube_id: TPj7XpeA6LU
   talks:
+  - title: 'Guided Meditation: A Field of Generosity'
+    id: 20573
+    date: '2024-06-04'
+    speaker_id: 309
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20573/20240604-David_Lorey-IMC-guided_meditation_a_field_of_generosity.mp3
   - title: 'Dharmette: The Five Precepts (2 of 5):  Not taking anything not freely
       given'
-    url: https://www.audiodharma.org/talks/20574
+    id: 20574
     date: '2024-06-04'
     speaker_id: 309
     start_time_seconds: 1878
@@ -6056,6 +6657,14 @@
     speaker_id: 309
     start_time_seconds: 1833
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20568/20240603-David_Lorey-IMC-dharmette_the_five_precepts_1_of_5_not_taking_life.mp3
+- youtube_id: 4B-l6TUUX74
+  talks:
+  - title: Questioning as Practice
+    id: 20570
+    date: '2024-06-03'
+    speaker_id: 240
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20570/20240603-Diana_Clark-IMC-questioning_as_practice.mp3
 - youtube_id: lEA3HyvqeoQ
   talks:
   - title: Ethics of Metta
@@ -6066,31 +6675,31 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20559/20240602-Gil_Fronsdal-IMC-ethics_of_metta.mp3
 - youtube_id: xaxU6vYLgQ0
   talks:
-  - title: "Introduction \u2013 The Wellbeing Cascade"
+  - title: Introduction – The Wellbeing Cascade
     id: 20552
     date: '2024-06-01'
     speaker_id: 466
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20552/20240601-Ajahn_Kovilo-sati-introduction_the_wellbeing_cascade.mp3
-  - title: "Meditation I \u2013 Embodied P\u0101mojja"
+  - title: Meditation I – Embodied Pāmojja
     id: 20553
     date: '2024-06-01'
     speaker_id: 466
     start_time_seconds: 796
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20553/20240601-Ajahn_Kovilo-sati-meditation_i_embodied_pamojja.mp3
-  - title: "The Joy of Appreciating Saddh\u0101 (Faith) & C\u0101ga (Generosity)"
+  - title: The Joy of Appreciating Saddhā (Faith) & Cāga (Generosity)
     id: 20554
     date: '2024-06-01'
     speaker_id: 466
     start_time_seconds: 1680
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20554/20240601-Ajahn_Kovilo-sati-talk_i_the_joy_of_appreciating_saddha_faith_caga_generosity.mp3
-  - title: "Meditation II \u2013 Guided"
+  - title: Meditation II – Guided
     id: 20555
     date: '2024-06-01'
     speaker_id: 466
     start_time_seconds: 3750
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20555/20240601-Ajahn_Kovilo-sati-meditation_ii_guided.mp3
-  - title: "The Joy of Appreciating S\u012Bla (Virtue) & Suta (Learning)"
+  - title: The Joy of Appreciating Sīla (Virtue) & Suta (Learning)
     id: 20556
     date: '2024-06-01'
     speaker_id: 466
@@ -6102,7 +6711,7 @@
     speaker_id: 466
     start_time_seconds: 6955
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20557/20240601-Ajahn_Kovilo-sati-meditation_iii.mp3
-  - title: "The Joy of Appreciating P\u0101\xF1\xF1\u0101 (Wisdom)"
+  - title: The Joy of Appreciating Pāññā (Wisdom)
     id: 20558
     date: '2024-06-01'
     speaker_id: 466
@@ -6122,6 +6731,20 @@
     speaker_id: 1
     start_time_seconds: 1849
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20539/20240531-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_5_of_5_being_ethical.mp3
+- youtube_id: lOkK4xdp9lk
+  talks:
+  - title: 'Guided Meditation: Training'
+    id: 20532
+    date: '2024-05-30'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20532/20240530-Gil_Fronsdal-IMC-guided_meditation_training.mp3
+  - title: 'Dharmette: Intro to Buddhist Ethics (4 of 5) Ethical Training'
+    id: 20533
+    date: '2024-05-30'
+    speaker_id: 1
+    start_time_seconds: 1786
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20533/20240530-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_4_of_5_ethical_training.mp3
 - youtube_id: t5sgDfiw9LE
   talks:
   - title: 'Guided Meditation: Inner Beauty'
@@ -6152,7 +6775,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20531/20240529-Matthew_Brensilver-IMC-dharmette_reflections_on_words_from_ajahn_sucitto.mp3
 - youtube_id: N0SEIKObZfc
   talks:
-  - title: "\u201CSo they said to the Buddha \u2026\u201D Class 4 of 4"
+  - title: “So they said to the Buddha …” Class 4 of 4
     id: 20527
     date: '2024-05-28'
     speaker_id: 359
@@ -6225,6 +6848,13 @@
     speaker_id: 333
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20471/20240523-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_opening_to_the_nature_within_expanding.mp3
+  - title: 'Dharmette: Teachings of the Ancient Similes (4 of 5); The Simile of the
+      Ship Rope'
+    id: 20472
+    date: '2024-05-23'
+    speaker_id: 333
+    start_time_seconds: 1821
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20472/20240523-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_teachings_of_the_ancient_similes_4_of_5_the_simile_of_the_ship_rope.mp3
 - youtube_id: 0uwnW4x9Y7Q
   talks:
   - title: 'Guided Meditation: Goodnight Moon'
@@ -6255,7 +6885,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20467/20240522-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_teachings_of_the_ancient_similes_3_of_5_simile_of_the_adze.mp3
 - youtube_id: oiDe-qew8fw
   talks:
-  - title: "\u201CSo they said to the Buddha \u2026\u201D Class 3 of 4"
+  - title: “So they said to the Buddha …” Class 3 of 4
     id: 20465
     date: '2024-05-21'
     speaker_id: 359
@@ -6271,7 +6901,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20453/20240520-Diana_Clark-IMC-when_we_lose_inner_peace.mp3
 - youtube_id: 8QSa-2aHEn4
   talks:
-  - title: "Guided meditation: Opening to the nature within \u2013 Grounding"
+  - title: 'Guided meditation: Opening to the nature within – Grounding'
     id: 20455
     date: '2024-05-20'
     speaker_id: 333
@@ -6314,6 +6944,13 @@
     speaker_id: 394
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20435/20240516-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_losing_the_beloved.mp3
+  - title: 'Dharmette: The Buddha''s Five Daily Recollections (4 of 5): Losing the
+      Beloved'
+    id: 20436
+    date: '2024-05-16'
+    speaker_id: 394
+    start_time_seconds: 1796
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20436/20240516-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_4_of_5_losing_the_beloved.mp3
 - youtube_id: yX9D58BwhV4
   talks:
   - title: 'Guided Meditation: The Buddha''s Five Daily Recollections; Death'
@@ -6330,7 +6967,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20427/20240515-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_3_of_5_death.mp3
 - youtube_id: nNQdsh2B6Uw
   talks:
-  - title: "\u201CSo they said to the Buddha \u2026\u201D  Class 2 of 4"
+  - title: “So they said to the Buddha …”  Class 2 of 4
     id: 20425
     date: '2024-05-14'
     speaker_id: 359
@@ -6383,7 +7020,7 @@
 - youtube_id: hLlhCqvaJ4s
   talks:
   - title: 'Guided Meditation: Keeping the Balance'
-    url: https://www.audiodharma.org/talks/20388
+    id: 20388
     date: '2024-05-10'
     speaker_id: 260
     start_time_seconds: 0
@@ -6395,6 +7032,20 @@
     speaker_id: 260
     start_time_seconds: 1891
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20389/20240510-Shelley_Gault-IMC-dharmette_six_qualities_of_the_dharma_5_of_5_to_be_realized_by_the_wise.mp3
+- youtube_id: bLkJnYKXgas
+  talks:
+  - title: 'Guided Meditation: Staying Receptive'
+    id: 20364
+    date: '2024-05-09'
+    speaker_id: 260
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20364/20240509-Shelley_Gault-IMC-guided_meditation_staying_receptive.mp3
+  - title: 'Dharmette: Six Qualities of the Dharma (4 of 5) Onward Leading'
+    id: 20365
+    date: '2024-05-09'
+    speaker_id: 260
+    start_time_seconds: 1633
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20365/20240509-Shelley_Gault-IMC-dharmette_six_qualities_of_the_dharma_4_of_5_onward_leading.mp3
 - youtube_id: KBAfOkh4wXE
   talks:
   - title: 'Guided Meditation: Staying Curious'
@@ -6426,7 +7077,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20354/20240508-Matthew_Brensilver-IMC-dharmette_coming_home_and_leaving_home.mp3
 - youtube_id: U_YNfvoqLGE
   talks:
-  - title: "\u201CSo they said to the Buddha \u2026\u201D Class 1 of 4"
+  - title: “So they said to the Buddha …” Class 1 of 4
     id: 20347
     date: '2024-05-07'
     speaker_id: 359
@@ -6599,6 +7250,12 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20242/20240425-Gil_Fronsdal-IMC-guided_meditation_open_spaciousness.mp3
+  - title: 'Dharmette: Ten Reflections (4 of 10) Autonomy'
+    id: 20243
+    date: '2024-04-25'
+    speaker_id: 1
+    start_time_seconds: 1788
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20243/20240425-Gil_Fronsdal-IMC-dharmette_ten_reflections_4_of_10_autonomy.mp3
 - youtube_id: muT0FS4YFeQ
   talks:
   - title: 'Guided Meditation: Freedom'
@@ -6688,7 +7345,7 @@
 - youtube_id: TfzHnn7Le8o
   talks:
   - title: 'Guided Meditation: Release into the Moment'
-    url: https://www.audiodharma.org/talks/20201
+    id: 20201
     date: '2024-04-19'
     speaker_id: 241
     start_time_seconds: 0
@@ -6825,8 +7482,14 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20166/20240412-Kim_Allen-IMC-dharmette_four_inspirational_blessings_5_of_5_inspirational_blessings.mp3
 - youtube_id: mEVmPIG_PWg
   talks:
+  - title: 'Guided Meditation: Opening to Peace'
+    id: 20161
+    date: '2024-04-11'
+    speaker_id: 4
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20161/20240411-Kim_Allen-IMC-guided_meditation_opening_to_peace.mp3
   - title: 'Dharmette: Four Inspirational Blessings (4 of 5) Training for Peace'
-    url: https://www.audiodharma.org/talks/20162
+    id: 20162
     date: '2024-04-11'
     speaker_id: 4
     start_time_seconds: 1845
@@ -6839,10 +7502,15 @@
     speaker_id: 231
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20159/20240410-Matthew_Brensilver-IMC-guided_meditation_aperture_vividness_stability_effort.mp3
+  - title: 'Dharmette: Becoming Unintimidated by Suffering'
+    id: 20160
+    date: '2024-04-10'
+    speaker_id: 231
+    start_time_seconds: 1819
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20160/20240410-Matthew_Brensilver-IMC-dharmette_becoming_unintimidated_by_suffering.mp3
 - youtube_id: 8K1lPHSjigw
   talks:
-  - title: "On the vital importance of one\u2019s mind\u2019s training being G R A\
-      \ D U A L"
+  - title: On the vital importance of one’s mind’s training being G R A D U A L
     id: 20164
     date: '2024-04-10'
     speaker_id: 477
@@ -6956,7 +7624,7 @@
 - youtube_id: CWMu89ute3c
   talks:
   - title: 'Guided Meditation: What''s Already Here?'
-    url: https://www.audiodharma.org/talks/20105
+    id: 20105
     date: '2024-04-03'
     speaker_id: 231
     start_time_seconds: 0
@@ -6975,6 +7643,13 @@
     speaker_id: 240
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20101/20240403-Diana_Clark-IMC-guided_meditation_the_inner_critic_3_of_5.mp3
+  - title: 'Dharmette: Working with the Inner Critic (3 of 5) Not Disparaging the
+      Disparaging'
+    id: 20102
+    date: '2024-04-03'
+    speaker_id: 240
+    start_time_seconds: 1736
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20102/20240403-Diana_Clark-IMC-inner_critic_3_of_5_not_disparaging_the_disparaging.mp3
 - youtube_id: cEJZIZ3l6Y8
   talks:
   - title: 'Guided Meditation: The Inner Critic (2)'
@@ -7085,6 +7760,14 @@
     speaker_id: 1
     start_time_seconds: 1938
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20056/20240325-Gil_Fronsdal-IMC-dharmette_intro_to_mindfulness_pt_2_16_the_calm_of_non-clinging.mp3
+- youtube_id: s6IUvL28BSw
+  talks:
+  - title: The Paradox of Practice. Working with Expectations
+    id: 20058
+    date: '2024-03-25'
+    speaker_id: 240
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20058/20240325-Diana_Clark-IMC-the_paradox_of_practice_working_with_expectations.mp3
 - youtube_id: gTulZUJtVvk
   talks:
   - title: Seeing the Sense of Self
@@ -7160,7 +7843,7 @@
 - youtube_id: em4Yorw-3kI
   talks:
   - title: Balancing Effort with Patience
-    url: https://www.audiodharma.org/talks/20029
+    id: 20029
     date: '2024-03-18'
     speaker_id: 240
     start_time_seconds: 0
@@ -7168,11 +7851,25 @@
 - youtube_id: 80cib1a8S6c
   talks:
   - title: 'Happy Hour: In Praise of a Loving Pause'
-    url: https://www.audiodharma.org/talks/20028
+    id: 20028
     date: '2024-03-18'
     speaker_id: 229
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20028/20240318-Nikki_Mirghafori-IMC-happy_hour_in_praise_of_a_loving_pause.mp3
+- youtube_id: 5pL0-_4Hhnc
+  talks:
+  - title: 'Guided Meditation: Simplicity'
+    id: 20026
+    date: '2024-03-18'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20026/20240318-Gil_Fronsdal-IMC-guided_meditation_simplicity.mp3
+  - title: 'Dharmette: Intro to Mindfulness Pt2 (11) Appearance Bundle of Clinging'
+    id: 20027
+    date: '2024-03-18'
+    speaker_id: 1
+    start_time_seconds: 1742
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/20027/20240318-Gil_Fronsdal-IMC-dharmette_intro_to_mindfulness_pt2_11_appearance_bundle_of_clining.mp3
 - youtube_id: wta-c55BOyk
   talks:
   - title: Equanimity
@@ -7287,11 +7984,25 @@
 - youtube_id: ly6j4kry3WY
   talks:
   - title: Hatred ends with love
-    url: https://www.audiodharma.org/talks/19955
+    id: 19955
     date: '2024-03-10'
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19955/20240310-Gil_Fronsdal-IMC-hatred_ends_with_love.mp3
+- youtube_id: e1I-J2Y8OYo
+  talks:
+  - title: 'Guided Meditation: Discernment'
+    id: 19943
+    date: '2024-03-08'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19943/20240308-Gil_Fronsdal-IMC-guided_meditation_discernment.mp3
+  - title: 'Dharmette: Intro to Mindfulness Pt2 (10) Faculty of Discernment'
+    id: 19944
+    date: '2024-03-08'
+    speaker_id: 1
+    start_time_seconds: 1890
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19944/20240308-Gil_Fronsdal-IMC-dharmette_intro_to_mindfulness_pt2_10_faculty_of_discernment.mp3
 - youtube_id: QdqPEWA9eKc
   talks:
   - title: 'Guided Meditation: Collectedness'
@@ -7366,8 +8077,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19919/20240303-Max_Erdstein-IMC-there_is_no_such_thing_as_a_dragon.mp3
 - youtube_id: iYdcp8VMg0c
   talks:
-  - title: "The Way to the Far Shore P\u0101r\u0101yanavagga: Sutta Nip\u0101ta Book\
-      \ Five (2 of 2)"
+  - title: 'The Way to the Far Shore Pārāyanavagga: Sutta Nipāta Book Five (2 of 2)'
     id: 19918
     date: '2024-03-02'
     speaker_id: 24
@@ -7376,7 +8086,7 @@
 - youtube_id: PFvyD88cSuc
   talks:
   - title: 'Guided Meditation: Here with What is Skillful'
-    url: https://www.audiodharma.org/talks/19911
+    id: 19911
     date: '2024-03-01'
     speaker_id: 1
     start_time_seconds: 0
@@ -7387,6 +8097,21 @@
     speaker_id: 1
     start_time_seconds: 2006
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19912/20240301-Gil_Fronsdal-IMC-dharmette_intro_to_mindfulness_pt_2_5_hindrance_of_doubt.mp3
+- youtube_id: aCre1a1nTiA
+  talks:
+  - title: 'Guided Meditation: Wholeheartnesss'
+    id: 19885
+    date: '2024-02-29'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19885/20240229-Gil_Fronsdal-IMC-guided_meditation_wholeheartnesss.mp3
+  - title: 'Dharmette: Intro to Mindfulness Pt 2 (4) Hindrance of Restlessness and
+      Remorse'
+    id: 19886
+    date: '2024-02-29'
+    speaker_id: 1
+    start_time_seconds: 1850
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19886/20240229-Gil_Fronsdal-IMC-dharmette_intro_to_mindfulness_pt_2_4_hindrance_of_restlessness_and_remorse.mp3
 - youtube_id: OjbdmQkj61c
   talks:
   - title: Wednesday Evening Introduction to Meditation - with Wisdom
@@ -7441,8 +8166,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19855/20240225-Gil_Fronsdal-IMC-depth_of_dharma.mp3
 - youtube_id: L2XBvLOI6Xc
   talks:
-  - title: "The Way to the Far Shore P\u0101r\u0101yanavagga: Sutta Nip\u0101ta Book\
-      \ Five (1 of 2)"
+  - title: 'The Way to the Far Shore Pārāyanavagga: Sutta Nipāta Book Five (1 of 2)'
     id: 19854
     date: '2024-02-24'
     speaker_id: 24
@@ -7471,21 +8195,29 @@
 - youtube_id: g80jvcxWy-4
   talks:
   - title: 'Guided Meditation: Simplicity of Now'
-    url: https://www.audiodharma.org/talks/19846
+    id: 19846
     date: '2024-02-22'
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19846/20240222-Gil_Fronsdal-IMC-guided_meditation_simplicity_of_now.mp3
   - title: 'Dharmette: Introduction to Mindfulness (24 of 25) Active vs. Receptive'
-    url: https://www.audiodharma.org/talks/19845
+    id: 19845
     date: '2024-02-22'
     speaker_id: 1
     start_time_seconds: 1858
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19845/20240222-Gil_Fronsdal-IMC-dharmette_introduction_to_mindfulness_24_of_25_active_vs_receptive.mp3
+- youtube_id: slYMWs_juSA
+  talks:
+  - title: Intro to Mindfulness - Thinking
+    id: 19844
+    date: '2024-02-21'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19844/20240221-Gil_Fronsdal-IMC-intro_to_mindfulness_-_thinking.mp3
 - youtube_id: CYGh1mJSYk4
   talks:
-  - title: "Dispelling Delusion: Exploring the Vipall\u0101sas Through Early Buddhist\
-      \ Poetry (3 of 4)"
+  - title: 'Dispelling Delusion: Exploring the Vipallāsas Through Early Buddhist Poetry
+      (3 of 4)'
     id: 19840
     date: '2024-02-20'
     speaker_id: 192
@@ -7579,10 +8311,24 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19802/20240214-Gil_Fronsdal-IMC-intro_to_mindfulness_meditation_-_emotions.mp3
+- youtube_id: HSmTmYj4WWE
+  talks:
+  - title: 'Guided Meditation: Awareness of Balanced Mind'
+    id: 19805
+    date: '2024-02-14'
+    speaker_id: 241
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19805/20240214-Dawn_Neal-IMC-guided_meditation_awareness_of_balanced_mind.mp3
+  - title: Attitudes that Transform Experience (part 2)
+    id: 19806
+    date: '2024-02-14'
+    speaker_id: 241
+    start_time_seconds: 1867
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19806/20240214-Dawn_Neal-IMC-attitudes_that_transform_experience_part_2.mp3
 - youtube_id: 2WaSCaWRIUs
   talks:
-  - title: "Dispelling Delusion: Exploring the Vipall\u0101sas Through Early Buddhist\
-      \ Poetry (2 of 4)"
+  - title: 'Dispelling Delusion: Exploring the Vipallāsas Through Early Buddhist Poetry
+      (2 of 4)'
     id: 19801
     date: '2024-02-13'
     speaker_id: 192
@@ -7671,16 +8417,22 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19748/20240207-Gil_Fronsdal-IMC-introduction_to_mindfulness_meditation_-_body.mp3
 - youtube_id: eRzP5UwgaD8
   talks:
+  - title: 'Guided Meditation: Deep Awareness of Thoughts'
+    id: 19737
+    date: '2024-02-07'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19737/20240207-Gil_Fronsdal-IMC-guided_meditation_deep_awareness_of_thoughts.mp3
   - title: 'Dharmette: Introduction to Mindfulness (18 of 25) Thinking and Emotions'
-    url: https://www.audiodharma.org/talks/19738
+    id: 19738
     date: '2024-02-07'
     speaker_id: 1
     start_time_seconds: 1921
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19738/20240207-Gil_Fronsdal-IMC-dharmette_ntroduction_to_mindfulness_17_of_25_thinking_and_emotions.mp3
 - youtube_id: pZtuvwOFPp0
   talks:
-  - title: "Dispelling Delusion: Exploring the Vipall\u0101sas Through Early Buddhist\
-      \ Poetry (1 of 4)"
+  - title: 'Dispelling Delusion: Exploring the Vipallāsas Through Early Buddhist Poetry
+      (1 of 4)'
     id: 19740
     date: '2024-02-06'
     speaker_id: 192
@@ -7747,9 +8499,15 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19716/20240202-Gil_Fronsdal-IMC-dharmette_introduction_to_mindfulness_15_of_25_centering_on_emotions.mp3
 - youtube_id: dmhHk4Ip7sM
   talks:
+  - title: 'Guided Meditation: Making Room for Emotions'
+    id: 19712
+    date: '2024-02-01'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19712/20240201-Gil_Fronsdal-IMC-guided_meditation_making_room_for_emotions.mp3
   - title: 'Dharmette: Introduction to Mindfulness (14 of 25) Increading Capacity
       for Awareness'
-    url: https://www.audiodharma.org/talks/19713
+    id: 19713
     date: '2024-02-01'
     speaker_id: 1
     start_time_seconds: 1875
@@ -7768,6 +8526,14 @@
     speaker_id: 1
     start_time_seconds: 1896
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19704/20240131-Gil_Fronsdal-IMC-dharmette_introduction_to_mindfulness_13_of_25_wisdom_of_feeling_emotions.mp3
+- youtube_id: yveuKMXz8aQ
+  talks:
+  - title: Introduction to Mindfulness Meditation - Breathing
+    id: 19710
+    date: '2024-01-31'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19710/20240131-Gil_Fronsdal-IMC-introduction_to_mindfulness_meditation_-_breathing.mp3
 - youtube_id: pdNJD2r49cY
   talks:
   - title: 'Guided Meditation: Listening to Emotions'
@@ -7813,14 +8579,36 @@
     speaker_id: 128
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19692/20240128-Ayya_Santacitta-IMC-inner_activism_response-ability.mp3
+- youtube_id: 82adkwUKKQE
+  talks:
+  - title: 'Guided Meditation: This is enough'
+    id: 19676
+    date: '2024-01-26'
+    speaker_id: 333
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19676/20240126-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_this_is_enough.mp3
 - youtube_id: vRKRkOQ-ANQ
   talks:
-  - title: "Guided Meditation: Practicing with Don\u2019t Know Mind"
+  - title: 'Guided Meditation: Practicing with Don’t Know Mind'
     id: 19670
     date: '2024-01-25'
     speaker_id: 333
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19670/20240125-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_practicing_with_don_t_know_mind.mp3
+  - title: 'Dharmette: Practice Skills (4 of 5) Practicing with Don’t Know Mind'
+    id: 19671
+    date: '2024-01-25'
+    speaker_id: 333
+    start_time_seconds: 1987
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19671/20240125-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_practice_skills_4_of_5_practicing_with_don_t_know_mind.mp3
+- youtube_id: p1Iv4VdY-Sw
+  talks:
+  - title: 'Stories of Inspiring Buddhist Women Class 2: Ayya Khema'
+    id: 19669
+    date: '2024-01-25'
+    speaker_id: 24
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19669/20240125-Leigh_Brasington-sati-stories_of_inspiring_buddhist_women_class_2_ayya_khema.mp3
 - youtube_id: Rhid3cly6qo
   talks:
   - title: 'Guided Meditation: Practicing via Felt Sense'
@@ -7860,7 +8648,7 @@
 - youtube_id: Z1E2aQjVEg0
   talks:
   - title: 'Guided Meditation: Arriving, being available and aligning'
-    url: https://www.audiodharma.org/talks/19645
+    id: 19645
     date: '2024-01-22'
     speaker_id: 333
     start_time_seconds: 0
@@ -7871,6 +8659,14 @@
     speaker_id: 333
     start_time_seconds: 1875
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19646/20240122-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_practice_skills_1_of_5_aligning_our_intentions.mp3
+- youtube_id: gBRYKNrE_Ks
+  talks:
+  - title: Noble Dukkha And Well Being
+    id: 19642
+    date: '2024-01-21'
+    speaker_id: 286
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19642/20240121-Tanya_Wiser-IMC-noble_dukkha_and_well_being.mp3
 - youtube_id: 4AUgBCsnJ5g
   talks:
   - title: Aging and Awakening - Dharma Talk
@@ -7887,6 +8683,13 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19625/20240119-Gil_Fronsdal-IMC-guided_meditation_sensory_awareness.mp3
+  - title: 'Dharmette: Introduction to Mindfulness (10 of 25) Benefits of Sensory
+      Awareness'
+    id: 19626
+    date: '2024-01-19'
+    speaker_id: 1
+    start_time_seconds: 1783
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19626/20240119-Gil_Fronsdal-IMC-dharmette_introduction_to_mindfulness_10_of_25_benefirts_of_sensory_awareness.mp3
 - youtube_id: eFtWfI2Y7SE
   talks:
   - title: 'Guided Meditation: Sensing Breathing'
@@ -7938,6 +8741,36 @@
     speaker_id: 240
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19597/20240115-Diana_Clark-IMC-not_holding_to_views.mp3
+- youtube_id: C7K5KFQM_5Q
+  talks:
+  - title: 'Guided Meditation: Sensing the Body'
+    id: 19586
+    date: '2024-01-15'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19586/20240115-Gil_Fronsdal-IMC-guided_meditation_sensing_the_body.mp3
+  - title: 'Dharmette: Introduction to Mindfulness (6 of 25) Listening to the Body'
+    id: 19587
+    date: '2024-01-15'
+    speaker_id: 1
+    start_time_seconds: 1825
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19587/20240115-Gil_Fronsdal-IMC-dharmette_introduction_to_mindfulness_6_of_25_listening_to_the_body.mp3
+- youtube_id: e9JMzxQkWsU
+  talks:
+  - title: Four Noble Truths at Three Different Levels
+    id: 19584
+    date: '2024-01-14'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19584/20240114-Gil_Fronsdal-IMC-four_noble_truths_at_three_different_levels.mp3
+- youtube_id: FHsRBjkU34U
+  talks:
+  - title: Engaging the Abhidhamma
+    id: 19583
+    date: '2024-01-13'
+    speaker_id: 15
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19583/20240113-Tony_Bernhard-sati-engaging_the_abhidhamma.mp3
 - youtube_id: YJuemYZD5Vc
   talks:
   - title: 'Guided Meditation: Receiving and Alllowing'
@@ -8025,6 +8858,31 @@
     speaker_id: 449
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19528/20240107-Rev._Li%C3%AAn_Shutt-IMC-skillful_speech_shifting_speech_to_wholenesss.mp3
+- youtube_id: hURMikky4I4
+  talks:
+  - title: 'All the Unpopular Buddhist Topics: Part 2 - Buddhist Cosmology & Body
+      Contemplation'
+    id: 19525
+    date: '2024-01-06'
+    speaker_id: 468
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19525/20240106-Ajahn_Nisabho-sati-all_the_unpopular_buddhist_topics_part_2_-_buddhist_cosmology_body_contemplation.mp3
+- youtube_id: ap7p4OWp1QQ
+  talks:
+  - title: 'All the Unpopular Buddhist Topics: Part 1 - Death Contemplation & Rebirth'
+    id: 19524
+    date: '2024-01-06'
+    speaker_id: 468
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19524/20240106-Ajahn_Nisabho-sati-all_the_unpopular_buddhist_topics_part_1_-_death_contemplation_rebirth.mp3
+- youtube_id: vlaNfny-R6A
+  talks:
+  - title: 'All the Unpopular Buddhist Topics:  Introduction & Guided Meditation'
+    id: 19527
+    date: '2024-01-06'
+    speaker_id: 468
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19527/20240106-Ajahn_Nisabho-sati-all_the_unpopular_buddhist_topics_-_introduction_guided_meditation.mp3
 - youtube_id: quAaf6AtlI4
   talks:
   - title: 'Guided Meditation: Embodied Path'
@@ -8033,6 +8891,12 @@
     speaker_id: 395
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19520/20240105-Kodo_Conlin-IMC-guided_meditation_embodied_path.mp3
+  - title: 'Dharmette: (5 of 5) An Ennobling Path'
+    id: 19521
+    date: '2024-01-05'
+    speaker_id: 395
+    start_time_seconds: 1821
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19521/20240105-Kodo_Conlin-IMC-dharmette_5_of_5_an_ennobling_path.mp3
 - youtube_id: kQ4gRVz-6CQ
   talks:
   - title: 'Guided Meditation: Feel Thinking, Feel Peace'
@@ -8121,6 +8985,12 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19503/20231229-Liz_Powell-IMC-dharmette_equanimity.mp3
 - youtube_id: Itp-Wsp6WuM
   talks:
+  - title: 'Guided Meditation: Appreciative Joy'
+    id: 19498
+    date: '2023-12-28'
+    speaker_id: 197
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19498/20231228-Liz_Powell-IMC-guided_meditation_appreciative_joy.mp3
   - title: 'Dharmette: Appreciative Joy'
     id: 19499
     date: '2023-12-28'
@@ -8135,6 +9005,20 @@
     speaker_id: 197
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19506/20231227-Liz_Powell-IMC-guided_meditation_caring.mp3
+  - title: 'Dharmette: Compassion'
+    id: 19507
+    date: '2023-12-27'
+    speaker_id: 197
+    start_time_seconds: 1831
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19507/20231227-Liz_Powell-IMC-dharmette_compassion.mp3
+- youtube_id: hmO2Ui9wkxo
+  talks:
+  - title: 'Happy Hour: Brightening Our State of Mind-Heart'
+    id: 19496
+    date: '2023-12-27'
+    speaker_id: 229
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19496/20231227-Nikki_Mirghafori-IMC-happy_hour_brightening_our_state_of_mind-heart.mp3
 - youtube_id: VVI5dAXO9CM
   talks:
   - title: 'Guided Meditation: The Ethics of Metta'
@@ -8208,6 +9092,20 @@
     speaker_id: 229
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19479/20231220-Nikki_Mirghafori-IMC-happy_hour_mister_rogers_neighborhood_metta_practice_--_making_ourselves_safe_for_self_and_others.mp3
+- youtube_id: T_XANhe1108
+  talks:
+  - title: 'Guided Meditation: Better Stories'
+    id: 19471
+    date: '2023-12-19'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19471/20231219-Gil_Fronsdal-IMC-guided_meditation_better_stories.mp3
+  - title: 'Dharmette: Wise Thinking (2 of 5) Redirecting Thoughts'
+    id: 19472
+    date: '2023-12-19'
+    speaker_id: 1
+    start_time_seconds: 1886
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19472/20231219-Gil_Fronsdal-IMC-dharmette_wise_thinking_2_of_5_redirecting_thoughts.mp3
 - youtube_id: hohn2vk8isM
   talks:
   - title: 'Guided Meditation: The Influence of Thinking'
@@ -8222,6 +9120,23 @@
     speaker_id: 1
     start_time_seconds: 1952
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19466/20231218-Gil_Fronsdal-IMC-dharmette_wise_thinking_1_of_5_the_influence_of_thoughts.mp3
+- youtube_id: cw5V7AI85Ns
+  talks:
+  - title: Giving Freely
+    id: 19470
+    date: '2023-12-18'
+    speaker_id: 240
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19470/20231218-Diana_Clark-IMC-giving_freely.mp3
+- youtube_id: Zxf_03toHSM
+  talks:
+  - title: 'Happy Hour: Reflecting on the Good Fortune of Having Good Friends (AN
+      11.13)'
+    id: 19469
+    date: '2023-12-18'
+    speaker_id: 229
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19469/20231218-Nikki_Mirghafori-IMC-happy_hour_reflecting_on_the_good_fortune_of_having_good_friends_an_11_13.mp3
 - youtube_id: MmWp5EnrK24
   talks:
   - title: Thoughts on Inhabiting Your Life
@@ -8280,6 +9195,20 @@
     speaker_id: 231
     start_time_seconds: 1815
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19423/20231213-Matthew_Brensilver-IMC-dharmette_disenchantment_engagement.mp3
+- youtube_id: KUz8X6n-Yuk
+  talks:
+  - title: 'Guided Meditation: Renouncing the Narrative Impulse'
+    id: 19406
+    date: '2023-12-12'
+    speaker_id: 231
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19406/20231212-Matthew_Brensilver-IMC-guided_meditation_renouncing_the_narrative_impulse.mp3
+  - title: 'Dharmette: Effort & Effortlessness'
+    id: 19405
+    date: '2023-12-12'
+    speaker_id: 231
+    start_time_seconds: 1806
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19405/20231212-Matthew_Brensilver-IMC-dharmette_effort_effortlessness.mp3
 - youtube_id: CB3FvVQ98jU
   talks:
   - title: The Power of Impermanence
@@ -8354,6 +9283,12 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19351/20231206-Gil_Fronsdal-IMC-dharmette_gils_s_story_pt_2_3_of_5_visioning_sangha.mp3
+  - title: 'Guided Meditation: Meditation as Vision'
+    id: 19350
+    date: '2023-12-06'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19350/20231206-Gil_Fronsdal-IMC-guided_meditation_meditation_as_vision.mp3
 - youtube_id: ULK5v4V954w
   talks:
   - title: 'Guided Meditation: Meditation as Curiousity'
@@ -8414,6 +9349,14 @@
     speaker_id: 1
     start_time_seconds: 1927
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19325/20231201-Gil_Fronsdal-IMC-gil_s_story_5_of_5_starting_with_vipassana.mp3
+- youtube_id: padz9pFsb_Q
+  talks:
+  - title: 'Guided Meditation: Meditation as Love'
+    id: 19318
+    date: '2023-11-30'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19318/20231130-Gil_Fronsdal-IMC-guided_meditation_meditation_as_love.mp3
 - youtube_id: jUiFPFF0mD8
   talks:
   - title: 'Guided Meditation: Meditation as Honesty'
@@ -8494,6 +9437,28 @@
     speaker_id: 1
     start_time_seconds: 1922
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19294/20231124-Gil_Fronsdal-IMC-dharmette_attitudes_5_of_5_from_stress_to_freedom.mp3
+- youtube_id: IwmWfQO0l1c
+  talks:
+  - title: 'Guided Meditation: Grateful'
+    id: 19291
+    date: '2023-11-23'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19291/20231123-Gil_Fronsdal-IMC-guided_meditation_grateful.mp3
+  - title: 'Dharmette: Attitudes (4 of 5) From Self-Preoccuption to Gratitude'
+    id: 19292
+    date: '2023-11-23'
+    speaker_id: 1
+    start_time_seconds: 2087
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19292/20231123-Gil_Fronsdal-IMC-dharmette_attitudes_4_of_5_from_self-preoccuption_to_gratitude.mp3
+- youtube_id: nFmgo7-7E7A
+  talks:
+  - title: 'Happy Hour: Simple, Yet Profound, Gratitude'
+    id: 19290
+    date: '2023-11-22'
+    speaker_id: 229
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19290/20231122-Nikki_Mirghafori-IMC-happy_hour_simple_yet_profound_gratitude.mp3
 - youtube_id: L4D9eXfiEQk
   talks:
   - title: 'Guided Meditation: Embodied Presence'
@@ -8562,6 +9527,12 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19253/20231117-Diana_Clark-IMC-faculties_for_fearlessness_panna_5_of_5.mp3
 - youtube_id: 9rRvyCAFHFQ
   talks:
+  - title: Faculties for Fearlessness (4 of 5) Guided Meditation
+    id: 19245
+    date: '2023-11-16'
+    speaker_id: 240
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19245/20231116-Diana_Clark-IMC-faculties_for_fearlessness_4_of_5_guided_meditation.mp3
   - title: 'Faculties of Fearlessness: Viriya (4 of 5)'
     id: 19244
     date: '2023-11-16'
@@ -8658,6 +9629,12 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19161/20231109-Kodo_Conlin-IMC-dharmette_compassion_4_of_5_compassion_not-self.mp3
 - youtube_id: 521bsWbHZCo
   talks:
+  - title: 'Guided Meditation: Metta First'
+    id: 19156
+    date: '2023-11-08'
+    speaker_id: 395
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19156/20231108-Kodo_Conlin-IMC-guided_meditation_metta_first.mp3
   - title: 'Dharmette: Compassion (3 of 5) Metta as the Root of Compassion'
     id: 19157
     date: '2023-11-08'
@@ -8726,7 +9703,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19143/20231105-Diana_Clark-IMC-feeling_our_way_through_practice.mp3
 - youtube_id: u-gmFnCtY-M
   talks:
-  - title: "Right Listening \u2014 The Chaplain\u2019s Empathic Stethoscope"
+  - title: Right Listening — The Chaplain’s Empathic Stethoscope
     id: 19142
     date: '2023-11-04'
     speaker_id: 467
@@ -8754,6 +9731,20 @@
     speaker_id: 466
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19139/20231102-Ajahn_Kovilo-sati-right_speech_in_times_of_war_vital_insights_from_the_simile_of_the_saw.mp3
+- youtube_id: zTCQYW7o90s
+  talks:
+  - title: 'Guided Meditation: Fresh to this Moment'
+    id: 19134
+    date: '2023-11-02'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19134/20231102-Gil_Fronsdal-IMC-guided_meditation_fresh_to_this_moment.mp3
+  - title: 'Dharmette: Quarrels (4 of 5) Unbiased Attention'
+    id: 19135
+    date: '2023-11-02'
+    speaker_id: 1
+    start_time_seconds: 1819
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19135/20231102-Gil_Fronsdal-IMC-dharmette_quarrels_4_of_5_unbiased_attention.mp3
 - youtube_id: 2HCBTa4ZqVw
   talks:
   - title: 'Guided Meditation: Meditation Power'
@@ -8768,6 +9759,15 @@
     speaker_id: 1
     start_time_seconds: 1938
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19130/20231101-Gil_Fronsdal-IMC-dharmette_quarrels_3_of_5_inner_power.mp3
+- youtube_id: fX7pE53e1AM
+  talks:
+  - title: 'Happy Hour: Compassion As a Gravitational Force to Shape Humanity''s Space
+      and Time'
+    id: 19133
+    date: '2023-11-01'
+    speaker_id: 229
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19133/20231101-Nikki_Mirghafori-IMC-happy_hour_compassion_as_a_gravitational_force_to_shape_humanity_s_space_and_time.mp3
 - youtube_id: DVuGXrw72KI
   talks:
   - title: 'Guided Meditation: Deep Relaxation'
@@ -8812,6 +9812,20 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19116/20231029-Gil_Fronsdal-IMC-responding_to_war_in_the_middle_east.mp3
+- youtube_id: 0O68B7fiWCk
+  talks:
+  - title: 'Guided Meditation: Courageous Presence'
+    id: 19089
+    date: '2023-10-27'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19089/20231027-Gil_Fronsdal-IMC-guided_meditation_courageous_presence.mp3
+  - title: 'Dharmette: Non-Violence (5 of 5) Courage to Engage'
+    id: 19090
+    date: '2023-10-27'
+    speaker_id: 1
+    start_time_seconds: 1804
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19090/20231027-Gil_Fronsdal-IMC-dharmette_non-violence_5_of_5_courage_to_engage.mp3
 - youtube_id: xW4Oo5LOfg0
   talks:
   - title: 'Guided Meditation: Knowing Fear Fearlessly'
@@ -8820,6 +9834,12 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19086/20231026-Gil_Fronsdal-IMC-guided_meditation_knowing_fear_fearlessly.mp3
+  - title: 'Dharmette: Non-Violence (4 of 5) Encouraging Ethical Behavior'
+    id: 19087
+    date: '2023-10-26'
+    speaker_id: 1
+    start_time_seconds: 1860
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19087/20231026-Gil_Fronsdal-IMC-dharmette_non-violence_4_of_5_encouraging_ethical_behavior.mp3
 - youtube_id: eOTTAsMo-lY
   talks:
   - title: 'Guided Meditation: Peaceful Awareness'
@@ -9047,6 +10067,20 @@
     speaker_id: 1
     start_time_seconds: 1964
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19012/20231011-Gil_Fronsdal-IMC-dharmette_ten_protectors_8_of_10_contentment.mp3
+- youtube_id: L95OqWzyhCg
+  talks:
+  - title: 'Guided Meditation: Letting Go and Keeping'
+    id: 19005
+    date: '2023-10-10'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19005/20231010-Gil_Fronsdal-IMC-guided_meditation_letting_go_and_keeping.mp3
+  - title: 'Dharmette: Ten Protectors (7 of 10) Letting Go and Picking Up'
+    id: 19006
+    date: '2023-10-10'
+    speaker_id: 1
+    start_time_seconds: 1917
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/19006/20231010-Gil_Fronsdal-IMC-dharmette_ten_protectors_7_of_10_letting_go_and_picking_up.mp3
 - youtube_id: kXYAmgBy-iY
   talks:
   - title: From Poison to Medicine
@@ -9154,6 +10188,14 @@
     speaker_id: 1
     start_time_seconds: 1849
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18987/20231006-Gil_Fronsdal-IMC-dharmette_ten_protectors_5_of_10_caring_for_sangha.mp3
+- youtube_id: MdMbMa4SyCg
+  talks:
+  - title: 'Guided Meditation: Deep Listening'
+    id: 18983
+    date: '2023-10-05'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18983/20231005-Gil_Fronsdal-IMC-guided_meditation_deep_listening.mp3
 - youtube_id: 4m_xBWGYWw0
   talks:
   - title: 'Happy Hour: Living This Moment Of Your Life As If It Really Matters (Because
@@ -9215,7 +10257,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18959/20231001-Gil_Fronsdal-IMC-eart_care_as_interconnectedness.mp3
 - youtube_id: vucfYjGJ7Bs
   talks:
-  - title: "Exploring Sam\u0101dhi and Jh\u0101na in Buddhist Meditation (2 of 2)"
+  - title: Exploring Samādhi and Jhāna in Buddhist Meditation (2 of 2)
     id: 18958
     date: '2023-09-30'
     speaker_id: 135
@@ -9245,6 +10287,12 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18950/20230929-Nikki_Mirghafori-IMC-the_five_aggregates_5_5_consciousness_shifting_co-arising_experience.mp3
 - youtube_id: OV8b-OC6xIw
   talks:
+  - title: 'Meditation: Seeing Volitional Formations'
+    id: 18945
+    date: '2023-09-28'
+    speaker_id: 229
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18945/20230928-Nikki_Mirghafori-IMC-meditation_seeing_volitional_formations.mp3
   - title: The Five Aggregates (4/5) Mental Formations & Karma
     id: 18946
     date: '2023-09-28'
@@ -9265,6 +10313,14 @@
     speaker_id: 229
     start_time_seconds: 1920
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18939/20230927-Nikki_Mirghafori-IMC-the_five_aggregates_3_5_dependently-arising_pattern_recognition_sanna.mp3
+- youtube_id: NR8oQi1p0yY
+  talks:
+  - title: 'Happy Hour: Recognizing Goodness'
+    id: 18944
+    date: '2023-09-27'
+    speaker_id: 229
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18944/20230927-Nikki_Mirghafori-IMC-happy_hour_recognizing_goodness.mp3
 - youtube_id: cGunhSL7UmE
   talks:
   - title: 'Meditation: Sensations'' Flow & Feeling Tone (Vedana)'
@@ -9414,6 +10470,28 @@
     speaker_id: 1
     start_time_seconds: 1828
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18841/20230905-Gil_Fronsdal-IMC-dharmette_wise_listening_2_of_5_listening_to_what_is_true.mp3
+- youtube_id: 9GVWAFuPiEw
+  talks:
+  - title: 'Guided Meditation: Listening'
+    id: 18823
+    date: '2023-09-04'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18823/20230904-Gil_Fronsdal-IMC-guided_meditation_listening.mp3
+  - title: 'Dharmette: Wise Listening (1 of 5) Listening Deeply'
+    id: 18824
+    date: '2023-09-04'
+    speaker_id: 1
+    start_time_seconds: 1937
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18824/20230904-Gil_Fronsdal-IMC-dharmette_wise_listening_1_of_5_listening_deeply.mp3
+- youtube_id: X3ZBRRVrHE0
+  talks:
+  - title: Question and Answer
+    id: 18821
+    date: '2023-09-03'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18821/20230903-Gil_Fronsdal-IMC-question_and_answer.mp3
 - youtube_id: WPh3iY0iER0
   talks:
   - title: 'Guided Meditation: Goodwill'
@@ -9430,6 +10508,12 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18808/20230901-Gil_Fronsdal-IMC-dharmette_speech_5_of_5_speaking_with_goodwill.mp3
 - youtube_id: 9iCbD4KN7hI
   talks:
+  - title: 'Guided Meditation: Beneficial Awareness'
+    id: 18804
+    date: '2023-08-31'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18804/20230831-Gil_Fronsdal-IMC-guided_meditation_beneficial_awareness.mp3
   - title: 'Dharmette: Wise Speech (4 of 5) Beneficial Speech'
     id: 18805
     date: '2023-08-31'
@@ -9476,12 +10560,26 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18782/20230827-Gil_Fronsdal-IMC-being_lost.mp3
 - youtube_id: WAZRUcIqrMc
   talks:
-  - title: "P\u0101li for Practice"
+  - title: Pāli for Practice
     id: 18781
     date: '2023-08-26'
     speaker_id: 461
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18781/20230826-Claralynn_Nunamaker-sati-pali_for_practice.mp3
+- youtube_id: Fqn_SUVIUd0
+  talks:
+  - title: Guided Meditation-Mindfulness as Action
+    id: 18773
+    date: '2023-08-25'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18773/20230825-Gil_Fronsdal-IMC-guided_meditation-mindfulness_as_action.mp3
+  - title: 'Dharmette: Joy of Compassion (5 of 5) Joyful Action'
+    id: 18774
+    date: '2023-08-25'
+    speaker_id: 1
+    start_time_seconds: 1902
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18774/20230825-Gil_Fronsdal-IMC-dharmette_joy_of_compassion_5_of_5_joyful_action.mp3
 - youtube_id: yw69f-d99Rg
   talks:
   - title: 'Guided Meditation: Attuned Aspiration'
@@ -9524,6 +10622,14 @@
     speaker_id: 1
     start_time_seconds: 1685
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18741/20230821-Gil_Fronsdal--dharmette_joy_of_compassion_1_of_5_joy_from_awareness.mp3
+- youtube_id: AaCLn_v59Cw
+  talks:
+  - title: What is the Dharma?
+    id: 18729
+    date: '2023-08-20'
+    speaker_id: 240
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18729/20230820-Diana_Clark-IMC-what_is_the_dharma.mp3
 - youtube_id: Fxm_uAanOWU
   talks:
   - title: The Five Khandhas and An Inventory of Reality
@@ -9532,6 +10638,14 @@
     speaker_id: 460
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18728/20230819-Bhante_Pasanna-sati-the_five_khandhas_and_an_inventory_of_reality.mp3
+- youtube_id: zMRUlOWsQ5s
+  talks:
+  - title: 'Poetry of Practice (5 of 5): Kindness'
+    id: 18750
+    date: '2023-08-18'
+    speaker_id: 240
+    start_time_seconds: 1789
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18750/20230818-Diana_Clark-IMC-poetry_of_practice_5_of_5_kindness.mp3
 - youtube_id: lW93zMk4QOw
   talks:
   - title: 'Poetry of Practice (4 of 5): Perspectives'
@@ -10096,7 +11210,7 @@
     speaker_id: 272
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18447/20230615-Meg_Gawler-IMC-guided_meditation_when_stopping_means_peace.mp3
-  - title: "Dharmette: Tastes of Freedom (4 of 5) Nirodha \u2013 the Peace of Stopping"
+  - title: 'Dharmette: Tastes of Freedom (4 of 5) Nirodha – the Peace of Stopping'
     id: 18448
     date: '2023-06-15'
     speaker_id: 272
@@ -10365,7 +11479,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18358/20230524-Gil_Fronsdal-IMC-appreciation_3_of_5_respect.mp3
 - youtube_id: 2mMochJjWIg
   talks:
-  - title: "Maha\u0304parinibba\u0304n\u0323a Sutta (4 of 4)"
+  - title: Mahāparinibbāṇa Sutta (4 of 4)
     id: 18366
     date: '2023-05-23'
     speaker_id: 359
@@ -10431,14 +11545,13 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18349/20230521-Dawn_Neal-IMC-how_we_move_through_the_world.mp3
 - youtube_id: yi4QUkvM8Ec
   talks:
-  - title: "Guided Meditation: Mindful Mett\u0101"
+  - title: 'Guided Meditation: Mindful Mettā'
     id: 18337
     date: '2023-05-19'
     speaker_id: 395
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18337/20230519-Kodo_Conlin-IMC-guided_meditation_mindful_metta.mp3
-  - title: "Dharmette: P\u0101ram\u012Bs (5 of 5) The Perfections of Goodwill and\
-      \ Equanimity"
+  - title: 'Dharmette: Pāramīs (5 of 5) The Perfections of Goodwill and Equanimity'
     id: 18338
     date: '2023-05-19'
     speaker_id: 395
@@ -10452,7 +11565,7 @@
     speaker_id: 395
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18321/20230517-Kodo_Conlin-IMC-guided_meditation_tuning_the_energy.mp3
-  - title: "Dharmette: P\u0101ram\u012Bs (3 of 5) The Perfections of Energy and Patience"
+  - title: 'Dharmette: Pāramīs (3 of 5) The Perfections of Energy and Patience'
     id: 18322
     date: '2023-05-17'
     speaker_id: 395
@@ -10460,7 +11573,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18322/20230517-Kodo_Conlin-IMC-dharmette_paramis_3_of_5_the_perfections_of_energy_and_patience.mp3
 - youtube_id: acAVJUTMqps
   talks:
-  - title: "Maha\u0304parinibba\u0304n\u0323a Sutta (3 of 4)"
+  - title: Mahāparinibbāṇa Sutta (3 of 4)
     id: 18318
     date: '2023-05-16'
     speaker_id: 359
@@ -10474,8 +11587,7 @@
     speaker_id: 395
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18309/20230516-Kodo_Conlin-IMC-guided_meditation_releasing_the_six_sense_doors.mp3
-  - title: "Dharmette: P\u0101ram\u012Bs (2 of 5) The Perfections of Renunciation\
-      \ and Wisdom"
+  - title: 'Dharmette: Pāramīs (2 of 5) The Perfections of Renunciation and Wisdom'
     id: 18310
     date: '2023-05-16'
     speaker_id: 395
@@ -10505,7 +11617,7 @@
     speaker_id: 395
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18302/20230515-Kodo_Conlin-IMC-guided_meditation_a_posture_of_generosity.mp3
-  - title: "Dharmette: P\u0101ram\u012Bs (1 of 5) The Perfections of Giving and Virtue"
+  - title: 'Dharmette: Pāramīs (1 of 5) The Perfections of Giving and Virtue'
     id: 18303
     date: '2023-05-15'
     speaker_id: 395
@@ -10566,7 +11678,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18270/20230510-Dawn_Neal-IMC-dharmette_cultivating_joy_happiness_contentment_wisely.mp3
 - youtube_id: stMR-4nZkms
   talks:
-  - title: "Maha\u0304parinibba\u0304n\u0323a Sutta (2 of 4)"
+  - title: Mahāparinibbāṇa Sutta (2 of 4)
     id: 18267
     date: '2023-05-09'
     speaker_id: 359
@@ -10656,7 +11768,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/18210/20230503-Nikki_Mirghafori-IMC-happy_hour_the_gift_of_patience.mp3
 - youtube_id: 1m29ZnP5rUU
   talks:
-  - title: "Maha\u0304parinibba\u0304n\u0323a Sutta (1 of 4)"
+  - title: Mahāparinibbāṇa Sutta (1 of 4)
     id: 18206
     date: '2023-05-02'
     speaker_id: 359
@@ -12401,8 +13513,8 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/17395/20221212-Gil_Fronsdal-IMC-dharmette_insight_pentad_1_of_5_things_as_they_come_to_be.mp3
 - youtube_id: M475LvfYMBI
   talks:
-  - title: "Perceiving and Remembering \u2013 Converging Views from Neuroscience and\
-      \ Early Buddhism"
+  - title: Perceiving and Remembering – Converging Views from Neuroscience and Early
+      Buddhism
     id: 17392
     date: '2022-12-10'
     speaker_id: 353
@@ -12469,7 +13581,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/17359/20221205-Jim_Podolske-IMC-everyday_mindfulness.mp3
 - youtube_id: JV3rJHTX8pg
   talks:
-  - title: "The Buddha\u2019s Four Noble Truths: First Noble Truth"
+  - title: 'The Buddha’s Four Noble Truths: First Noble Truth'
     id: 17445
     date: '2022-12-02'
     speaker_id: 286
@@ -12578,8 +13690,8 @@
     speaker_id: 4
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/17305/20221123-Kim_Allen-IMC-guided_meditation_listening.mp3
-  - title: "Dharmette: Meeting Life Well \u2013 Five Dharma Resources (3 of 5): Listening\
-      \ and Learning"
+  - title: 'Dharmette: Meeting Life Well – Five Dharma Resources (3 of 5): Listening
+      and Learning'
     id: 17306
     date: '2022-11-23'
     speaker_id: 4
@@ -12587,7 +13699,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/17306/20221123-Kim_Allen-IMC-dharmette_meeting_life_well_five_dharma_resources_3_of_5_listening_and_learning.mp3
 - youtube_id: MrXs03DSoVo
   talks:
-  - title: "Dharmette: Meeting Life Well \u2013 Five Dharma Resources (2 of 5): Virtue"
+  - title: 'Dharmette: Meeting Life Well – Five Dharma Resources (2 of 5): Virtue'
     id: 17304
     date: '2022-11-22'
     speaker_id: 4
@@ -13482,7 +14594,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16866/20220826-Kim_Allen-IMC-dharmette_desire_and_letting_go_5_of_5_the_movement_toward_freedom.mp3
 - youtube_id: WWLAJYqAZcg
   talks:
-  - title: "Guided Meditation: Sam\u0101dhi and Happiness"
+  - title: 'Guided Meditation: Samādhi and Happiness'
     id: 16862
     date: '2022-08-25'
     speaker_id: 4
@@ -13502,8 +14614,8 @@
     speaker_id: 4
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16856/20220824-Kim_Allen-IMC-guided_meditation_simplicity.mp3
-  - title: "Dharmette: Desire and Letting Go (3 of 5): Nekkhamma \u2013 A Fresh Look\
-      \ at Renunciation"
+  - title: 'Dharmette: Desire and Letting Go (3 of 5): Nekkhamma – A Fresh Look at
+      Renunciation'
     id: 16857
     date: '2022-08-24'
     speaker_id: 4
@@ -13639,7 +14751,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16798/20220811-Gil_Fronsdal-IMC-guided_meditation_listening_to_our_depths.mp3
 - youtube_id: Gl8q156U4NI
   talks:
-  - title: "The Way to the Beyond: A Study of the P\u0101r\u0101yanavagga (4 of 4)"
+  - title: 'The Way to the Beyond: A Study of the Pārāyanavagga (4 of 4)'
     id: 16797
     date: '2022-08-10'
     speaker_id: 359
@@ -13742,7 +14854,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16742/20220804-Gil_Fronsdal-IMC-dharmette_finding_our_way_4_of_5_with_happiness_and_suffering.mp3
 - youtube_id: snGNNCE-lmA
   talks:
-  - title: "The Way to the Beyond: A Study of the P\u0101r\u0101yanavagga (3 of 4)"
+  - title: 'The Way to the Beyond: A Study of the Pārāyanavagga (3 of 4)'
     id: 16740
     date: '2022-08-03'
     speaker_id: 359
@@ -13828,7 +14940,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16697/20220728-Nikki_Mirghafori-IMC-dharmette_mind_s_body_4_5_grounded_spacious_with_metta.mp3
 - youtube_id: nEv5U_63gAg
   talks:
-  - title: "The Way to the Beyond: A Study of the P\u0101r\u0101yanavagga (2 of 4)"
+  - title: 'The Way to the Beyond: A Study of the Pārāyanavagga (2 of 4)'
     id: 16695
     date: '2022-07-27'
     speaker_id: 359
@@ -13926,7 +15038,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16664/20220721-Gil_Fronsdal-IMC-dharmette_fear_4_of_5_non-identification_with_fear.mp3
 - youtube_id: COZ4VFiNxYM
   talks:
-  - title: "The Way to the Beyond: A Study of the P\u0101r\u0101yanavagga (1 of 4)"
+  - title: 'The Way to the Beyond: A Study of the Pārāyanavagga (1 of 4)'
     id: 16666
     date: '2022-07-20'
     speaker_id: 359
@@ -14008,7 +15120,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16629/20220715-Gil_Fronsdal-IMC-dharmette_stories_5_of_5_yes_to_stories.mp3
 - youtube_id: VUMTnqRWuoA
   talks:
-  - title: "Guided Meditation: Seeing M\u0101ra"
+  - title: 'Guided Meditation: Seeing Māra'
     id: 16624
     date: '2022-07-14'
     speaker_id: 1
@@ -14504,7 +15616,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16382/20220603-Gil_Fronsdal-IMC-guided_meditation_freeing_the_body.mp3
-  - title: "Dharmette: K\u0101ya (5 of 5) The Liberated Body"
+  - title: 'Dharmette: Kāya (5 of 5) The Liberated Body'
     id: 16383
     date: '2022-06-03'
     speaker_id: 1
@@ -14518,7 +15630,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16370/20220601-Gil_Fronsdal-IMC-guided_meditation_calming_the_body.mp3
-  - title: "Dharmette: K\u0101ya (3 of 5) The Tranquil Body"
+  - title: 'Dharmette: Kāya (3 of 5) The Tranquil Body'
     id: 16371
     date: '2022-06-01'
     speaker_id: 1
@@ -14532,7 +15644,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16363/20220531-Gil_Fronsdal-IMC-guided_meditation_feeling_pleasure.mp3
-  - title: "Dharmette: Ka\u0304ya (2 of 5) The Joy Body"
+  - title: 'Dharmette: Kāya (2 of 5) The Joy Body'
     id: 16364
     date: '2022-05-31'
     speaker_id: 1
@@ -14562,7 +15674,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16358/20220530-Gil_Fronsdal-IMC-guided_meditation_relaxing_the_karmic_body.mp3
-  - title: "Dharmette: K\u0101ya (1 of 5) The Karmic Body"
+  - title: 'Dharmette: Kāya (1 of 5) The Karmic Body'
     id: 16359
     date: '2022-05-30'
     speaker_id: 1
@@ -14851,7 +15963,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16212/20220505-Gil_Fronsdal-IMC-guided_meditation_the_last_breath.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (70) Aware at the Time of Death"
+  - title: 'Dharmette: Satipaṭṭhāna (70) Aware at the Time of Death'
     id: 16213
     date: '2022-05-05'
     speaker_id: 1
@@ -14865,7 +15977,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16208/20220504-Gil_Fronsdal-IMC-guided_meditation_wholesome_awareness.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (69) The Four Foundations Together"
+  - title: 'Dharmette: Satipaṭṭhāna (69) The Four Foundations Together'
     id: 16209
     date: '2022-05-04'
     speaker_id: 1
@@ -14879,8 +15991,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16198/20220503-Gil_Fronsdal-IMC-guided_meditation_the_open_door_of_awareness.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (68) The Unity of Awareness and\
-      \ the Path"
+  - title: 'Dharmette: Satipaṭṭhāna (68) The Unity of Awareness and the Path'
     id: 16199
     date: '2022-05-03'
     speaker_id: 1
@@ -14902,7 +16013,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16193/20220502-Gil_Fronsdal-IMC-guided_meditation_effortless_awareness.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na  (67) Abiding in Effortless Awareness"
+  - title: 'Dharmette: Satipaṭṭhāna  (67) Abiding in Effortless Awareness'
     id: 16194
     date: '2022-05-02'
     speaker_id: 1
@@ -14918,7 +16029,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16191/20220501-Gil_Fronsdal-IMC-action_as_the_refuge.mp3
 - youtube_id: ElVfftop8A0
   talks:
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (66) Knowing the Four Noble Truths"
+  - title: 'Dharmette: Satipaṭṭhāna (66) Knowing the Four Noble Truths'
     id: 16187
     date: '2022-04-29'
     speaker_id: 1
@@ -14940,7 +16051,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16176/20220427-Gil_Fronsdal-IMC-guided_meditation_letting_go_into_change.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (64) Third Noble Truth"
+  - title: 'Dharmette: Satipaṭṭhāna (64) Third Noble Truth'
     id: 16177
     date: '2022-04-27'
     speaker_id: 1
@@ -14954,7 +16065,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16169/20220426-Gil_Fronsdal-IMC-guided_meditation_letting_go.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (63) Second Noble Truth"
+  - title: 'Dharmette: Satipaṭṭhāna (63) Second Noble Truth'
     id: 16170
     date: '2022-04-26'
     speaker_id: 1
@@ -14984,7 +16095,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16165/20220425-Gil_Fronsdal-IMC-guided_mediation_stillness_and_movement.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (62) Four Noble Truths"
+  - title: 'Dharmette: Satipaṭṭhāna (62) Four Noble Truths'
     id: 16166
     date: '2022-04-25'
     speaker_id: 1
@@ -15020,7 +16131,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16159/20220422-Gil_Fronsdal-IMC-guided_meditation_equanimity.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (61) Equanimity Factor of Awakening"
+  - title: 'Dharmette: Satipaṭṭhāna (61) Equanimity Factor of Awakening'
     id: 16160
     date: '2022-04-22'
     speaker_id: 1
@@ -15042,8 +16153,7 @@
     speaker_id: 1
     start_time_seconds: 1
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16146/20220420-Gil_Fronsdal-IMC-guided_meditation_moving_toward_clarity.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (59) Effort and Joy Factors of\
-      \ Awakening"
+  - title: 'Dharmette: Satipaṭṭhāna (59) Effort and Joy Factors of Awakening'
     id: 16147
     date: '2022-04-20'
     speaker_id: 1
@@ -15087,8 +16197,7 @@
     speaker_id: 1
     start_time_seconds: 1
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16109/20220418-Gil_Fronsdal-IMC-guided_meditation_effortless_awareness.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (57) Mindfulness as Effortless\
-      \ Awareness"
+  - title: 'Dharmette: Satipaṭṭhāna (57) Mindfulness as Effortless Awareness'
     id: 16110
     date: '2022-04-18'
     speaker_id: 1
@@ -15226,7 +16335,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16044/20220408-Gil_Fronsdal-IMC-guided_meditation_naturalist_of_thoughts.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (56) Sense Doors: Thoughts"
+  - title: 'Dharmette: Satipaṭṭhāna (56) Sense Doors: Thoughts'
     id: 16045
     date: '2022-04-08'
     speaker_id: 1
@@ -15248,7 +16357,7 @@
     speaker_id: 1
     start_time_seconds: 1
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16033/20220406-Gil_Fronsdal-IMC-guided_meditation_mindfulness_of_hearing.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (54) Sense Doors: Ears"
+  - title: 'Dharmette: Satipaṭṭhāna (54) Sense Doors: Ears'
     id: 16034
     date: '2022-04-06'
     speaker_id: 1
@@ -15262,7 +16371,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/16028/20220405-Gil_Fronsdal-IMC-guided_meditation_not_holding_on.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (53) Sense Doors: Eyes"
+  - title: 'Dharmette: Satipaṭṭhāna (53) Sense Doors: Eyes'
     id: 16029
     date: '2022-04-05'
     speaker_id: 1
@@ -15316,7 +16425,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15301/20220401-Gil_Fronsdal-IMC-guided_meditation_the_marvel_of_knowing.mp3
-  - title: "Satipa\u1E6D\u1E6Dh\u0101na (52) The Fifth Aggregate: Consciousness"
+  - title: 'Satipaṭṭhāna (52) The Fifth Aggregate: Consciousness'
     id: 15302
     date: '2022-04-01'
     speaker_id: 1
@@ -15324,8 +16433,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15302/20220401-Gil_Fronsdal-IMC-satipatthana_52_the_fifth_aggregate_consciousness.mp3
 - youtube_id: OWHs95_GVrc
   talks:
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (51) The Fourth Aggregate: Mental\
-      \ Constructs"
+  - title: 'Dharmette: Satipaṭṭhāna (51) The Fourth Aggregate: Mental Constructs'
     id: 15298
     date: '2022-03-31'
     speaker_id: 1
@@ -15347,8 +16455,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15287/20220329-Gil_Fronsdal-IMC-guided_meditation_inconstancy_of_feeling_tones.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (49) Five Heaps: Arising and Passing\
-      \ of Feelings"
+  - title: 'Dharmette: Satipaṭṭhāna (49) Five Heaps: Arising and Passing of Feelings'
     id: 15288
     date: '2022-03-29'
     speaker_id: 1
@@ -15372,7 +16479,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15285/20220328-Nikki_Mirghafori-IMC-happy_hour_waking_up_to_awe.mp3
 - youtube_id: YoWLS0hslic
   talks:
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (48) Five Heaps: Appearance"
+  - title: 'Dharmette: Satipaṭṭhāna (48) Five Heaps: Appearance'
     id: 15283
     date: '2022-03-28'
     speaker_id: 1
@@ -15386,7 +16493,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15284/20220328-Gil_Fronsdal-IMC-guided_meditation_mindfulness_of_suchness.mp3
 - youtube_id: qmRrY0x45kM
   talks:
-  - title: "\"The Art of Listening\" and the D\u012Bgha Nik\u0101ya"
+  - title: '"The Art of Listening" and the Dīgha Nikāya'
     id: 15279
     date: '2022-03-26'
     speaker_id: 405
@@ -15524,7 +16631,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15252/20220318-Nikki_Mirghafori-IMC-happy_hour_our_inner_quan-yin_and_the_cries_of_the_world.mp3
 - youtube_id: J4Ad8n_kOkA
   talks:
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (47) Hindrances: Doubt"
+  - title: 'Dharmette: Satipaṭṭhāna (47) Hindrances: Doubt'
     id: 15251
     date: '2022-03-18'
     speaker_id: 1
@@ -15538,7 +16645,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15247/20220317-Gil_Fronsdal-IMC-guided_meditation_calm_recognition.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (46) Hindrances: Restlessness"
+  - title: 'Dharmette: Satipaṭṭhāna (46) Hindrances: Restlessness'
     id: 15248
     date: '2022-03-17'
     speaker_id: 1
@@ -15554,7 +16661,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15246/20220316-Nikki_Mirghafori-IMC-happy_hour_peace_is_the_highest_bliss.mp3
 - youtube_id: bgfJ5bOZDyQ
   talks:
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (45) Hindrances: Rigidity and Sluggishness"
+  - title: 'Dharmette: Satipaṭṭhāna (45) Hindrances: Rigidity and Sluggishness'
     id: 15245
     date: '2022-03-16'
     speaker_id: 1
@@ -15568,13 +16675,13 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15227/20220314-Gil_Fronsdal-IMC-guided_meditation_mindful_of_sensual_desire.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (43) Hindrances: Sensual Desire"
+  - title: 'Dharmette: Satipaṭṭhāna (43) Hindrances: Sensual Desire'
     id: 15228
     date: '2022-03-14'
     speaker_id: 1
     start_time_seconds: 1793
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15228/20220314-Gil_Fronsdal-IMC-satipatthana_43_hindrances-sensual_desire.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (44) Hindrances: Ill Will"
+  - title: 'Dharmette: Satipaṭṭhāna (44) Hindrances: Ill Will'
     id: 15231
     date: '2022-03-15'
     speaker_id: 1
@@ -15621,8 +16728,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15214/20220311-Gil_Fronsdal-IMC-satipatthana_42_prioritizing_beneficial_states_of_mind.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (42) Prioritizing Beneficial States\
-      \ of Mind"
+  - title: 'Dharmette: Satipaṭṭhāna (42) Prioritizing Beneficial States of Mind'
     id: 15215
     date: '2022-03-11'
     speaker_id: 1
@@ -15636,7 +16742,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15212/20220310-Gil_Fronsdal-IMC-guided_meditation_expanded_mind.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (41) Knowing the Expanded Mind"
+  - title: 'Dharmette: Satipaṭṭhāna (41) Knowing the Expanded Mind'
     id: 15213
     date: '2022-03-10'
     speaker_id: 1
@@ -15652,8 +16758,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15211/20220309-Nikki_Mirghafori-IMC-happy_hour_calming_the_energy_body.mp3
 - youtube_id: w6JIYumJ8Pw
   talks:
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (40) Benefiting the Mind through\
-      \ Knowing"
+  - title: 'Dharmette: Satipaṭṭhāna (40) Benefiting the Mind through Knowing'
     id: 15204
     date: '2022-03-09'
     speaker_id: 1
@@ -15673,8 +16778,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15201/20220308-Gil_Fronsdal-IMC-guided_meditation_knowing_the_mind.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (39) Knowing the Mind without Carry-on\
-      \ Luggage"
+  - title: 'Dharmette: Satipaṭṭhāna (39) Knowing the Mind without Carry-on Luggage'
     id: 15202
     date: '2022-03-08'
     speaker_id: 1
@@ -15816,7 +16920,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15130/20220223-Gil_Fronsdal-IMC-guided_meditation_mindfulness_of_pleasure.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (35) Wise about Pleasure and Pain"
+  - title: 'Dharmette: Satipaṭṭhāna (35) Wise about Pleasure and Pain'
     id: 15131
     date: '2022-02-23'
     speaker_id: 1
@@ -15830,8 +16934,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15125/20220222-Gil_Fronsdal-IMC-guided_meditation_pleasant_unpleasant_and_neither_pleasant_and_unpleasant.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na  (34) Introduction to the Second\
-      \ Foundation"
+  - title: 'Dharmette: Satipaṭṭhāna  (34) Introduction to the Second Foundation'
     id: 15126
     date: '2022-02-22'
     speaker_id: 1
@@ -15875,7 +16978,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15106/20220218-Gil_Fronsdal-IMC-guided_meditation_contemplating_dsolution_of_the_body.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (33) Corpse Contemplation"
+  - title: 'Dharmette: Satipaṭṭhāna (33) Corpse Contemplation'
     id: 15107
     date: '2022-02-18'
     speaker_id: 1
@@ -15889,7 +16992,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15096/20220217-Gil_Fronsdal-IMC-guided_meditation_sensations_as_life_manifest.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (32) Death That Highlights Life"
+  - title: 'Dharmette: Satipaṭṭhāna (32) Death That Highlights Life'
     id: 15097
     date: '2022-02-17'
     speaker_id: 1
@@ -15903,7 +17006,7 @@
     speaker_id: 1
     start_time_seconds: 1
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15087/20220216-Gil_Fronsdal-IMC-guided_meditation_following_sensations_as_they_appear.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (31) Skeleton Contemplation"
+  - title: 'Dharmette: Satipaṭṭhāna (31) Skeleton Contemplation'
     id: 15088
     date: '2022-02-16'
     speaker_id: 1
@@ -15917,7 +17020,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15072/20220215-Gil_Fronsdal-IMC-guided_meditation_floating_on_sensations.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (30) Choiceless Awareness of Sensations"
+  - title: 'Dharmette: Satipaṭṭhāna (30) Choiceless Awareness of Sensations'
     id: 15073
     date: '2022-02-15'
     speaker_id: 1
@@ -15947,7 +17050,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15051/20220211-Gil_Fronsdal-IMC-guided_meditation_just_sensing_and_sensations.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (28) The Four Elements Perspective"
+  - title: 'Dharmette: Satipaṭṭhāna (28) The Four Elements Perspective'
     id: 15052
     date: '2022-02-11'
     speaker_id: 1
@@ -15961,7 +17064,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15043/20220209-Gil_Fronsdal-IMC-guided_meditation_comfortable_in_one_s_skin.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (27) Body Free of Stories"
+  - title: 'Dharmette: Satipaṭṭhāna (27) Body Free of Stories'
     id: 15044
     date: '2022-02-09'
     speaker_id: 1
@@ -15975,7 +17078,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15031/20220208-Gil_Fronsdal-IMC-guided_meditation_five-part_body_meditation.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (26) New Orientation to Body"
+  - title: 'Dharmette: Satipaṭṭhāna (26) New Orientation to Body'
     id: 15032
     date: '2022-02-08'
     speaker_id: 1
@@ -15983,7 +17086,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15032/20220208-Gil_Fronsdal-IMC-satipatthana_26_new_orientation_to_body.mp3
 - youtube_id: rggi1pn7SUM
   talks:
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (25) Parts of the Body"
+  - title: 'Dharmette: Satipaṭṭhāna (25) Parts of the Body'
     id: 15029
     date: '2022-02-07'
     speaker_id: 1
@@ -16005,7 +17108,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15023/20220204-Gil_Fronsdal-IMC-guided_meditation_floating_awareness.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (24) Mindful Eating"
+  - title: 'Dharmette: Satipaṭṭhāna (24) Mindful Eating'
     id: 15024
     date: '2022-02-04'
     speaker_id: 1
@@ -16019,7 +17122,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15016/20220203-Gil_Fronsdal-IMC-guided_meditation_affirming_here.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (23) Activities as Mirrors"
+  - title: 'Dharmette: Satipaṭṭhāna (23) Activities as Mirrors'
     id: 15017
     date: '2022-02-03'
     speaker_id: 1
@@ -16033,7 +17136,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: null
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (22) Doing One Thing at a Time"
+  - title: 'Dharmette: Satipaṭṭhāna (22) Doing One Thing at a Time'
     id: 15014
     date: '2022-02-02'
     speaker_id: 1
@@ -16047,7 +17150,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15007/20220201-Gil_Fronsdal-IMC-guided_meditation_dipping_into_the_body.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (21) Unhurried Attention"
+  - title: 'Dharmette: Satipaṭṭhāna (21) Unhurried Attention'
     id: 15008
     date: '2022-02-01'
     speaker_id: 1
@@ -16055,7 +17158,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/15008/20220201-Gil_Fronsdal-IMC-dharmette_satipatthana_21_unhurried_attention.mp3
 - youtube_id: LyfRtP_5llA
   talks:
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (20) Beauty in Mindful Activity"
+  - title: 'Dharmette: Satipaṭṭhāna (20) Beauty in Mindful Activity'
     id: 15004
     date: '2022-01-31'
     speaker_id: 1
@@ -16069,7 +17172,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/14958/20220128-Gil_Fronsdal-IMC-guided_meditation.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (19) Awareness in Activity"
+  - title: 'Dharmette: Satipaṭṭhāna (19) Awareness in Activity'
     id: 14959
     date: '2022-01-28'
     speaker_id: 1
@@ -16083,7 +17186,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/14943/20220127-Gil_Fronsdal-IMC-guided_meditation.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (18) Posture as a Mirror for Oneself"
+  - title: 'Dharmette: Satipaṭṭhāna (18) Posture as a Mirror for Oneself'
     id: 14944
     date: '2022-01-27'
     speaker_id: 1
@@ -16097,7 +17200,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/14935/20220126-Gil_Fronsdal-IMC-2022-01-26_guided_meditation.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (17) How to Know"
+  - title: 'Dharmette: Satipaṭṭhāna (17) How to Know'
     id: 14936
     date: '2022-01-26'
     speaker_id: 1
@@ -16105,7 +17208,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/14936/20220126-Gil_Fronsdal-IMC-2022-01-26_dharmette.mp3
 - youtube_id: OXr-ntEMh_4
   talks:
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (16) Awareness of Posture Reveals"
+  - title: 'Dharmette: Satipaṭṭhāna (16) Awareness of Posture Reveals'
     id: 14923
     date: '2022-01-25'
     speaker_id: 1
@@ -16127,7 +17230,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/14915/20220124-Gil_Fronsdal-IMC-2022-01-24_guided_meditation.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (15) Mindfulness of Posture"
+  - title: 'Dharmette: Satipaṭṭhāna (15) Mindfulness of Posture'
     id: 14916
     date: '2022-01-24'
     speaker_id: 1
@@ -16157,8 +17260,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/14884/20220120-Gil_Fronsdal-IMC-guided_meditation_aware_of_flow_in_the_body.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (13) Observing Inconstancy in the\
-      \ Body"
+  - title: 'Dharmette: Satipaṭṭhāna (13) Observing Inconstancy in the Body'
     id: 14885
     date: '2022-01-20'
     speaker_id: 1
@@ -16180,7 +17282,7 @@
     speaker_id: 1
     start_time_seconds: 1
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/14881/20220119-Gil_Fronsdal-IMC-guided_meditation_softening_the_mind.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (12) Abiding Observing Change"
+  - title: 'Dharmette: Satipaṭṭhāna (12) Abiding Observing Change'
     id: 14882
     date: '2022-01-19'
     speaker_id: 1
@@ -16188,7 +17290,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/14882/20220119-Gil_Fronsdal-IMC-dharmette_satipatthana_12_abiding_observing_change.mp3
 - youtube_id: 7tBUaLb9oFE
   talks:
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (11) Observing Knowing and Feeling"
+  - title: 'Dharmette: Satipaṭṭhāna (11) Observing Knowing and Feeling'
     id: 14867
     date: '2022-01-18'
     speaker_id: 1
@@ -16222,8 +17324,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/14861/20220117-Gil_Fronsdal-IMC-guided_meditation_touching_the_breathing_body.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (10) Observing the Body Internally\
-      \ and Externally"
+  - title: 'Dharmette: Satipaṭṭhāna (10) Observing the Body Internally and Externally'
     id: 14862
     date: '2022-01-17'
     speaker_id: 1
@@ -16251,7 +17352,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/14848/20220113-Gil_Fronsdal-IMC-guided_meditation_calming_the_body.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (8) Calming the Bodily Formations"
+  - title: 'Dharmette: Satipaṭṭhāna (8) Calming the Bodily Formations'
     id: 14849
     date: '2022-01-13'
     speaker_id: 1
@@ -16273,7 +17374,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/14844/20220112-Gil_Fronsdal-IMC-guided_meditation-relaxing_the_bodily_formations.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (7) Relaxing the Body"
+  - title: 'Dharmette: Satipaṭṭhāna (7) Relaxing the Body'
     id: 14845
     date: '2022-01-12'
     speaker_id: 1
@@ -16287,8 +17388,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/14836/20220111-Gil_Fronsdal-IMC-guided_meditation_breathing_with_the_whole_body.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (6) Breathing Aware of the Whole\
-      \ Body"
+  - title: 'Dharmette: Satipaṭṭhāna (6) Breathing Aware of the Whole Body'
     id: 14837
     date: '2022-01-11'
     speaker_id: 1
@@ -16340,7 +17440,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/14818/20220106-Gil_Fronsdal-IMC-guided_meditation_feel_and_relax.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (4) Knowing and Experiencing"
+  - title: 'Dharmette: Satipaṭṭhāna (4) Knowing and Experiencing'
     id: 14819
     date: '2022-01-06'
     speaker_id: 1
@@ -16354,7 +17454,7 @@
     speaker_id: 1
     start_time_seconds: 1
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/14816/20220105-Gil_Fronsdal-IMC-dharmette_satipatthana_3_the_journey_of_mindfulness.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (3) The Journey of Mindfulness"
+  - title: 'Dharmette: Satipaṭṭhāna (3) The Journey of Mindfulness'
     id: 14817
     date: '2022-01-05'
     speaker_id: 1
@@ -16362,7 +17462,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/14817/20220105-Gil_Fronsdal-IMC-dharmette_satipatthana_3_the_journey_of_mindfulness.mp3
 - youtube_id: 3SD4OYAmSr4
   talks:
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (2) Knowing in a New Way"
+  - title: 'Dharmette: Satipaṭṭhāna (2) Knowing in a New Way'
     id: 14810
     date: '2022-01-04'
     speaker_id: 1
@@ -16384,7 +17484,7 @@
     speaker_id: 1
     start_time_seconds: 1
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/14807/20220103-Gil_Fronsdal-IMC-guided_meditation_establishing_awareness.mp3
-  - title: "Dharmette: Satipa\u1E6D\u1E6Dh\u0101na (1) Introduction"
+  - title: 'Dharmette: Satipaṭṭhāna (1) Introduction'
     id: 14805
     date: '2022-01-03'
     speaker_id: 1
@@ -16788,7 +17888,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/14620/20211128-Gil_Fronsdal-IMC-respect.mp3
 - youtube_id: axJwAU8vdbw
   talks:
-  - title: "Happy Hour:  Shifting from \u201CI Have To\u201D to \u201CI Get To\u201D"
+  - title: 'Happy Hour:  Shifting from “I Have To” to “I Get To”'
     id: 14616
     date: '2021-11-26'
     speaker_id: 229
@@ -18561,7 +19661,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/13745/20210708-Gil_Fronsdal-IMC-guided_meditation_quality_of_inner_life.mp3
-  - title: "Dharmette: Vedan\u0101 (4 of 5) Feelings with and without Clinging"
+  - title: 'Dharmette: Vedanā (4 of 5) Feelings with and without Clinging'
     id: 13746
     date: '2021-07-08'
     speaker_id: 1
@@ -18583,7 +19683,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/13747/20210707-Gil_Fronsdal-IMC-guided_meditation_inner_pleasure_with_non_reactivity-1.mp3
-  - title: "Dharmette: Vedan\u0101 (3 of 5) Inner Pleasure with Non-reactivity"
+  - title: 'Dharmette: Vedanā (3 of 5) Inner Pleasure with Non-reactivity'
     id: 13743
     date: '2021-07-07'
     speaker_id: 1
@@ -18619,7 +19719,7 @@
     speaker_id: 1
     start_time_seconds: 3
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/13730/20210705-Gil_Fronsdal-IMC-guided_meditation_sensing_not_thinking.mp3
-  - title: "Dharmette: Vedan\u0101 (1 of 5) Introduction to Feeling Tones"
+  - title: 'Dharmette: Vedanā (1 of 5) Introduction to Feeling Tones'
     id: 13731
     date: '2021-07-05'
     speaker_id: 1
@@ -18663,7 +19763,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/13716/20210702-Gil_Fronsdal-IMC-dharmette_clear_recognition_5_of_5_comprehension_of_non_delusion.mp3
 - youtube_id: lGEoXj7m5u8
   talks:
-  - title: "La energ\xEDa del esfuerzo"
+  - title: La energía del esfuerzo
     id: 13711
     date: '2021-07-01'
     speaker_id: 305
@@ -18979,7 +20079,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/13638/20210611-Gil_Fronsdal-IMC-guided_meditation_meditating_with_metta.mp3
-  - title: "Dharmette: Mett\u0101 Sutta (5 of 5) Breathing Room for the Good Heart"
+  - title: 'Dharmette: Mettā Sutta (5 of 5) Breathing Room for the Good Heart'
     id: 13639
     date: '2021-06-11'
     speaker_id: 1
@@ -19001,7 +20101,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/13626/20210608-Gil_Fronsdal-IMC-guided_meditation_wholesome_desire_in_meditation.mp3
-  - title: "Dharmette: Mett\u0101 Sutta (2 of 5) Intentions of Goodwill"
+  - title: 'Dharmette: Mettā Sutta (2 of 5) Intentions of Goodwill'
     id: 13627
     date: '2021-06-08'
     speaker_id: 1
@@ -19023,7 +20123,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/13622/20210607-Gil_Fronsdal-IMC-guided_meditation_calm_and_gentle.mp3
-  - title: "Dharmette: Mett\u0101 Sutta (1 of 5) Foundations for Goodwill"
+  - title: 'Dharmette: Mettā Sutta (1 of 5) Foundations for Goodwill'
     id: 13623
     date: '2021-06-07'
     speaker_id: 1
@@ -19223,7 +20323,7 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/13534/20210520-Gil_Fronsdal-IMC-guided_meditation_mindfulness_as_truthfulness.mp3
-  - title: "Dharmette: Sutta Stories - A\u1E45gulim\u0101la's Conversion"
+  - title: 'Dharmette: Sutta Stories - Aṅgulimāla''s Conversion'
     id: 13535
     date: '2021-05-20'
     speaker_id: 1
@@ -20109,7 +21209,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/13155/20210318-Gil_Fronsdal-IMC-guided_meditation_57_absorption.mp3
 - youtube_id: zW2eL31abLw
   talks:
-  - title: "Mindfulness of Breathing (56) Signposts for Sam\u0101dhi"
+  - title: Mindfulness of Breathing (56) Signposts for Samādhi
     id: 13150
     date: '2021-03-17'
     speaker_id: 1
@@ -20141,7 +21241,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/13152/20210315-Ying_Chen-IMC-guided_meditation_mindfulness_of_the_body.mp3
 - youtube_id: h4XKl1GdBm8
   talks:
-  - title: "Mindfulness of Breathing (54) Deepening Sam\u0101dhi"
+  - title: Mindfulness of Breathing (54) Deepening Samādhi
     id: 13132
     date: '2021-03-15'
     speaker_id: 1
@@ -20181,7 +21281,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/13126/20210312-Nikki_Mirghafori-IMC-happy_hour_equanimity_for_all_beings.mp3
 - youtube_id: VVdRKQf0fzU
   talks:
-  - title: "Mindfulness of Breathing (53) Analogies for Sam\u0101dhi"
+  - title: Mindfulness of Breathing (53) Analogies for Samādhi
     id: 13124
     date: '2021-03-12'
     speaker_id: 1
@@ -20205,7 +21305,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/13120/20210311-Nikki_Mirghafori-IMC-happy_hour_equanimity_with_entanglement.mp3
 - youtube_id: AsgS6osD3N4
   talks:
-  - title: "Mindfulness of Breathing (52) Wholesome Nourishment for Sam\u0101dhi"
+  - title: Mindfulness of Breathing (52) Wholesome Nourishment for Samādhi
     id: 13119
     date: '2021-03-11'
     speaker_id: 1
@@ -20229,7 +21329,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/13117/20210310-Nikki_Mirghafori-IMC-happy_hour_equanimity_balanced_with_care.mp3
 - youtube_id: rHERbx03eF8
   talks:
-  - title: "Mindfulness of Breathing (51) Sam\u0101dhi"
+  - title: Mindfulness of Breathing (51) Samādhi
     id: 13114
     date: '2021-03-10'
     speaker_id: 1
@@ -20309,7 +21409,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/13102/20210307-Nolitha_Tsengiwe-IMC-guided_meditation_reflecting_on_goodwill.mp3
 - youtube_id: -1Y4ag1OsqA
   talks:
-  - title: "Mindfulness of Breathing (48) Sam\u0101dhi Factor of Awakening"
+  - title: Mindfulness of Breathing (48) Samādhi Factor of Awakening
     id: 13099
     date: '2021-03-07'
     speaker_id: 1
@@ -20317,7 +21417,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/13099/20210307-Gil_Fronsdal-IMC-mindfulness_of_breathing_48_sam_dhi_factor_of_awakening.mp3
 - youtube_id: 7tpTe8LhBk0
   talks:
-  - title: "Guided Meditation: Sam\u0101dhi"
+  - title: 'Guided Meditation: Samādhi'
     id: 13097
     date: '2021-03-07'
     speaker_id: 1
@@ -20827,7 +21927,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/12889/20210205-Gil_Fronsdal-IMC-guided_meditation_imagining_clarity.mp3
 - youtube_id: 5xcvEdvcBso
   talks:
-  - title: "Mindfulness of Breathing (25) Similes for Sam\u0101dhi"
+  - title: Mindfulness of Breathing (25) Similes for Samādhi
     id: 12863
     date: '2021-02-04'
     speaker_id: 1
@@ -21388,7 +22488,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/12691/20210101-Nikki_Mirghafori-IMC-happy_hour_heart_aspirations_for_the_new_year.mp3
 - youtube_id: Hhen2cC4nKU
   talks:
-  - title: "Brahmavih\u0101ras: Equanimity (5 of 5)"
+  - title: 'Brahmavihāras: Equanimity (5 of 5)'
     id: 12690
     date: '2021-01-01'
     speaker_id: 1
@@ -21396,7 +22496,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/12690/20210101-Gil_Fronsdal-IMC-brahmavih_ras_equanimity_5_of_5.mp3
 - youtube_id: J9X9wFgzNLg
   talks:
-  - title: "Guided Meditation on Brahmavih\u0101ras"
+  - title: Guided Meditation on Brahmavihāras
     id: 12689
     date: '2021-01-01'
     speaker_id: 1
@@ -21404,7 +22504,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/12689/20210101-Gil_Fronsdal-IMC-guided_meditation_on_brahmavih_ras.mp3
 - youtube_id: 9zOWBiY-0aE
   talks:
-  - title: "Brahmavih\u0101ras: Equanimity (4 of 5)"
+  - title: 'Brahmavihāras: Equanimity (4 of 5)'
     id: 12685
     date: '2020-12-31'
     speaker_id: 1
@@ -21428,7 +22528,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/12683/20201230-Nikki_Mirghafori-IMC-happy_hour_the_compassion_crisis_and_practicing_tonglen.mp3
 - youtube_id: EBje2TVbZ_Y
   talks:
-  - title: "Brahmavih\u0101ras: Equanimity (3 of 5)"
+  - title: 'Brahmavihāras: Equanimity (3 of 5)'
     id: 12682
     date: '2020-12-30'
     speaker_id: 1
@@ -21444,7 +22544,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/12681/20201230-Gil_Fronsdal-IMC-guided_meditation_steadiness_of_aim.mp3
 - youtube_id: ySmrNhS3Z8k
   talks:
-  - title: "Brahmavih\u0101ras: Equanimity (2 of 5)"
+  - title: 'Brahmavihāras: Equanimity (2 of 5)'
     id: 12678
     date: '2020-12-29'
     speaker_id: 1
@@ -21492,7 +22592,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/12668/20201225-Nikki_Mirghafori-IMC-happy_hour_opening_our_heart_through_reaching_out.mp3
 - youtube_id: -YCCYhnz_AI
   talks:
-  - title: "Brahmavih\u0101ras: Appreciative Joy (5 of 5)"
+  - title: 'Brahmavihāras: Appreciative Joy (5 of 5)'
     id: 12666
     date: '2020-12-25'
     speaker_id: 1
@@ -21516,7 +22616,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/12663/20201224-Nikki_Mirghafori-IMC-happy_hour_metta_as_a_christmas_carol.mp3
 - youtube_id: EhM9Zs4T0jA
   talks:
-  - title: "Brahmavih\u0101ras: Appreciative Joy (4 of 5)"
+  - title: 'Brahmavihāras: Appreciative Joy (4 of 5)'
     id: 12662
     date: '2020-12-24'
     speaker_id: 1
@@ -21540,7 +22640,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/12657/20201223-Nikki_Mirghafori-IMC-happy_hour_the_unanticipated_presents_of_2020.mp3
 - youtube_id: 0unSrxTBReQ
   talks:
-  - title: "Brahmavih\u0101ras: Appreciative Joy (3 of 5)"
+  - title: 'Brahmavihāras: Appreciative Joy (3 of 5)'
     id: 12656
     date: '2020-12-23'
     speaker_id: 1
@@ -21556,7 +22656,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/12655/20201223-Gil_Fronsdal-IMC-guided_meditation_meditating_with_purpose.mp3
 - youtube_id: 5Al9eFtiXHQ
   talks:
-  - title: "Brahmavih\u0101ras: Appreciative Joy (2 of 5)"
+  - title: 'Brahmavihāras: Appreciative Joy (2 of 5)'
     id: 12652
     date: '2020-12-22'
     speaker_id: 1
@@ -21620,7 +22720,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/12606/20201218-Gil_Fronsdal-IMC-guided_meditation_radiating_compassion.mp3
 - youtube_id: GML5dbpK5h8
   talks:
-  - title: "Brahmavih\u0101ras: Compassion  (4 of 5)"
+  - title: 'Brahmavihāras: Compassion  (4 of 5)'
     id: 12591
     date: '2020-12-17'
     speaker_id: 240
@@ -21652,7 +22752,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/12584/20201216-Gil_Fronsdal-IMC-brahmaviharas_compassion_3_of_5.mp3
 - youtube_id: _nt8BQ7nI80
   talks:
-  - title: "Brahmavih\u0101ras: Compassion (2 of 5)"
+  - title: 'Brahmavihāras: Compassion (2 of 5)'
     id: 12580
     date: '2020-12-15'
     speaker_id: 1
@@ -21692,7 +22792,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/12577/20201214-Diana_Clark-IMC-guided_meditation_bringing_in_energy.mp3
 - youtube_id: r-GtMUReA1s
   talks:
-  - title: "Brahmavih\u0101ras: Compassion (1 of 5)"
+  - title: 'Brahmavihāras: Compassion (1 of 5)'
     id: 12575
     date: '2020-12-14'
     speaker_id: 1
@@ -21732,7 +22832,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/12563/20201211-Nikki_Mirghafori-IMC-happy_hour_metta_as_a_lullaby.mp3
 - youtube_id: qGbUzx3fzZs
   talks:
-  - title: "Brahmavih\u0101ras: Loving-Kindness (5 of 5)"
+  - title: 'Brahmavihāras: Loving-Kindness (5 of 5)'
     id: 12560
     date: '2020-12-11'
     speaker_id: 1
@@ -21756,7 +22856,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/12547/20201209-Nikki_Mirghafori-IMC-happy_hour_recollection_of_our_values.mp3
 - youtube_id: Fp3ha_tZcEk
   talks:
-  - title: "Brahmavih\u0101ras: Loving-Kindness (3 of 5)"
+  - title: 'Brahmavihāras: Loving-Kindness (3 of 5)'
     id: 12544
     date: '2020-12-09'
     speaker_id: 1
@@ -21772,7 +22872,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/12543/20201209-Gil_Fronsdal-IMC-guided_meditation_everything_is_important.mp3
 - youtube_id: QvhatgFuUIg
   talks:
-  - title: "Brahmavih\u0101ras: Loving-Kindness (2 of 5)"
+  - title: 'Brahmavihāras: Loving-Kindness (2 of 5)'
     id: 12533
     date: '2020-12-08'
     speaker_id: 1
@@ -22347,7 +23447,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/12358/20201102-Gil_Fronsdal-IMC-eightfold_path_right_consideration_1_of_3.mp3
 - youtube_id: UNqkAzmBQoQ
   talks:
-  - title: "Nibb\u0101na for our Challenged World"
+  - title: Nibbāna for our Challenged World
     id: 12356
     date: '2020-11-01'
     speaker_id: 1
@@ -22435,7 +23535,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/12309/20201026-Gil_Fronsdal-IMC-eightfold_path_introduction_1_of_2.mp3
 - youtube_id: dDB0oBTwusI
   talks:
-  - title: "Guided Meditation: Practicing with \"Here\u201D"
+  - title: 'Guided Meditation: Practicing with "Here”'
     id: 12315
     date: '2020-10-26'
     speaker_id: 1
@@ -22467,7 +23567,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/12305/20201023-Nikki_Mirghafori-IMC-happy_hour_loving_and_being_loved.mp3
 - youtube_id: dzCPSgk0j1U
   talks:
-  - title: "Nibb\u0101na (5 of 5) The Birth of the Eightfold Path"
+  - title: Nibbāna (5 of 5) The Birth of the Eightfold Path
     id: 12304
     date: '2020-10-23'
     speaker_id: 1
@@ -22491,7 +23591,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/12292/20201021-Nikki_Mirghafori-IMC-happy_hour_pillars_of_joy_8_8_generosity.mp3
 - youtube_id: hHC_R-spe_c
   talks:
-  - title: "Nibb\u0101na (3 of 5) Nibb\u0101na is Release"
+  - title: Nibbāna (3 of 5) Nibbāna is Release
     id: 12289
     date: '2020-10-21'
     speaker_id: 1
@@ -22507,7 +23607,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/12288/20201021-Gil_Fronsdal-IMC-guided_meditation_release.mp3
 - youtube_id: IJHnJXmsz24
   talks:
-  - title: "Nibb\u0101na (2 of 5) Going Out of the Fire"
+  - title: Nibbāna (2 of 5) Going Out of the Fire
     id: 12280
     date: '2020-10-20'
     speaker_id: 1
@@ -22547,7 +23647,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/12276/20201019-Nikki_Mirghafori-IMC-happy_hour_pillars_of_joy_7_8_compassion_kindness.mp3
 - youtube_id: 35ot-Ns89jY
   talks:
-  - title: "Nibb\u0101na (1 of 5) Introduction, Synonyms for Nibb\u0101na"
+  - title: Nibbāna (1 of 5) Introduction, Synonyms for Nibbāna
     id: 12275
     date: '2020-10-19'
     speaker_id: 1
@@ -23634,7 +24734,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11875/20200813-Nikki_Mirghafori-IMC-happy_hour_metta_and_wise_perspective.mp3
 - youtube_id: i7T31Mir-ZE
   talks:
-  - title: "P\u0101ram\u012Bs (9 of 10) Goodwill (Mett\u0101)"
+  - title: Pāramīs (9 of 10) Goodwill (Mettā)
     id: 11870
     date: '2020-08-13'
     speaker_id: 1
@@ -23650,7 +24750,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11866/20200812-Gil_Fronsdal-IMC-guided_meditation_meditating_with_determination.mp3
 - youtube_id: DO1dCPz14UQ
   talks:
-  - title: "P\u0101ram\u012Bs (7 of 10) Truth"
+  - title: Pāramīs (7 of 10) Truth
     id: 11849
     date: '2020-08-11'
     speaker_id: 1
@@ -23666,7 +24766,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11847/20200811-Gil_Fronsdal-IMC-guided_meditation_meditating_with_truth.mp3
 - youtube_id: evh0QeJG4gQ
   talks:
-  - title: "Poems of the Ther\u012Bs"
+  - title: Poems of the Therīs
     id: 11850
     date: '2020-08-10'
     speaker_id: 240
@@ -23682,7 +24782,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11846/20200810-Diana_Clark-IMC-guided_meditation_feeling_inspired.mp3
 - youtube_id: SeetByIVuWU
   talks:
-  - title: "P\u0101ram\u012Bs (6 of 10) Patience"
+  - title: Pāramīs (6 of 10) Patience
     id: 11843
     date: '2020-08-10'
     speaker_id: 1
@@ -23698,7 +24798,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11842/20200810-Gil_Fronsdal-IMC-guided_meditation_perseverance_in_each_moment.mp3
 - youtube_id: MgNU4w0WPy0
   talks:
-  - title: "Pa\u1E6D\u0101c\u0101r\u0101 and Poetry of the Early Nuns"
+  - title: Paṭācārā and Poetry of the Early Nuns
     id: 11841
     date: '2020-08-09'
     speaker_id: 1
@@ -23722,7 +24822,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11839/20200807-Nikki_Mirghafori-IMC-happy_hour_metta_and_equanimity.mp3
 - youtube_id: kB9XhG6bH60
   talks:
-  - title: "P\u0101ram\u012Bs (4 of 10) Wisdom"
+  - title: Pāramīs (4 of 10) Wisdom
     id: 11832
     date: '2020-08-06'
     speaker_id: 1
@@ -23746,7 +24846,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11830/20200805-Nikki_Mirghafori-IMC-happy_hour_metta_and_resolve.mp3
 - youtube_id: PWa6YNXADRU
   talks:
-  - title: "P\u0101ram\u012Bs (3 of 10) Renunciation"
+  - title: Pāramīs (3 of 10) Renunciation
     id: 11829
     date: '2020-08-05'
     speaker_id: 1
@@ -23762,7 +24862,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11828/20200805-Gil_Fronsdal-IMC-guided_meditation_letting_go_into_your_positive_qualities.mp3
 - youtube_id: YItFcvAqxp4
   talks:
-  - title: "P\u0101ram\u012Bs (2 of 10) Virtuous Behavior"
+  - title: Pāramīs (2 of 10) Virtuous Behavior
     id: 11825
     date: '2020-08-04'
     speaker_id: 1
@@ -23802,7 +24902,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11820/20200803-Nikki_Mirghafori-IMC-happy_hour_metta_and_truthfulness.mp3
 - youtube_id: 23hnLhO6SNE
   talks:
-  - title: "P\u0101ram\u012Bs (1 of 10) Generosity"
+  - title: Pāramīs (1 of 10) Generosity
     id: 11819
     date: '2020-08-03'
     speaker_id: 1
@@ -25090,7 +26190,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11307/20200504-Gil_Fronsdal-IMC-guided_meditation_being_grounded_in_meditation.mp3
 - youtube_id: ZQHw9UZqoDo
   talks:
-  - title: "Anukamp\u0101 (5 of 5) The Ethics of Care"
+  - title: Anukampā (5 of 5) The Ethics of Care
     id: 11298
     date: '2020-05-01'
     speaker_id: 1
@@ -25107,7 +26207,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11293/20200430-Gil_Fronsdal-IMC-introduction_to_mindfulness_meditation_part_2_8_of_8_appreciating_the_absence_of.mp3
 - youtube_id: GdRUvZJPMPc
   talks:
-  - title: "Anukamp\u0101 (4 of 5) The Continual Act of Care"
+  - title: Anukampā (4 of 5) The Continual Act of Care
     id: 11292
     date: '2020-04-30'
     speaker_id: 1
@@ -25140,7 +26240,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11289/20200429-Gil_Fronsdal-IMC-introduction_to_mindfulness_meditation_part_2_7_of_8_the_hindrance_of_doubt.mp3
 - youtube_id: sOTwYqAOfzg
   talks:
-  - title: "Anukamp\u0101 (3 of 5) Care as Resonance with Others"
+  - title: Anukampā (3 of 5) Care as Resonance with Others
     id: 11288
     date: '2020-04-29'
     speaker_id: 1
@@ -25173,7 +26273,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11284/20200428-Gil_Fronsdal-IMC-introduction_to_mindfulness_meditation_part_2_6_of_8_the_hindrance_of_restlessness.mp3
 - youtube_id: 4CDdR4iQ3bY
   talks:
-  - title: "Anukamp\u0101 (2 of 5) Caring for the Happiness of Others"
+  - title: Anukampā (2 of 5) Caring for the Happiness of Others
     id: 11283
     date: '2020-04-28'
     speaker_id: 1
@@ -25231,7 +26331,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11268/20200424-Gil_Fronsdal-IMC-introduction_to_mindfulness_meditation_part_2_4_of_8_the_hindrance_of_aversion.mp3
 - youtube_id: dPyh1sRlHhw
   talks:
-  - title: "Kaly\u0101\u1E47a (5 of 5) The Beauty of Practice + Q&A"
+  - title: Kalyāṇa (5 of 5) The Beauty of Practice + Q&A
     id: 11267
     date: '2020-04-24'
     speaker_id: 1
@@ -25255,7 +26355,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11253/20200423-Gil_Fronsdal-IMC-introduction_to_mindfulness_meditation_part_2_3_of_8_desire.mp3
 - youtube_id: jA0UrQbc8z0
   talks:
-  - title: "Kaly\u0101\u1E47a (4 of 5) The Beautiful Mind"
+  - title: Kalyāṇa (4 of 5) The Beautiful Mind
     id: 11250
     date: '2020-04-23'
     speaker_id: 1
@@ -25304,7 +26404,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11243/20200422-Gil_Fronsdal-IMC-introduction_to_mindfulness_meditation_part_2_2_of_8_using_bella_for_the_hindrances.mp3
 - youtube_id: pEbgWmlW9SY
   talks:
-  - title: "Kaly\u0101\u1E47a (3 of 5) Beautiful Actions"
+  - title: Kalyāṇa (3 of 5) Beautiful Actions
     id: 11244
     date: '2020-04-22'
     speaker_id: 1
@@ -25336,7 +26436,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11232/20200420-Gil_Fronsdal-IMC-guided_meditation_on_caring_for_self.mp3
 - youtube_id: oMyqSt8fKlg
   talks:
-  - title: "Kaly\u0101\u1E47a (1 of 5) Introduction to Beauty in the Dharma"
+  - title: Kalyāṇa (1 of 5) Introduction to Beauty in the Dharma
     id: 11226
     date: '2020-04-20'
     speaker_id: 1
@@ -25376,7 +26476,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11216/20200417-Nikki_Mirghafori-IMC-happy_hour_stability_and_compassion_for_ourselves_the_world.mp3
 - youtube_id: i3O72InxVQw
   talks:
-  - title: "Pa\xF1\xF1\u0101 (5 of 5) Liberative Wisdom"
+  - title: Paññā (5 of 5) Liberative Wisdom
     id: 11207
     date: '2020-04-17'
     speaker_id: 1
@@ -25400,7 +26500,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11206/20200416-Nikki_Mirghafori-IMC-happy_hour_breathing_in_goodness_breathing_out_peace.mp3
 - youtube_id: fdSmyPfnLBg
   talks:
-  - title: "Pa\xF1\xF1\u0101 (4 of 5) Revelatory Wisdom"
+  - title: Paññā (4 of 5) Revelatory Wisdom
     id: 11199
     date: '2020-04-16'
     speaker_id: 1
@@ -25424,7 +26524,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11197/20200415-Nikki_Mirghafori-IMC-happy_hour_patience_born_out_of_calm_and_kindness.mp3
 - youtube_id: As6f7lHqNIs
   talks:
-  - title: "Pa\xF1\xF1\u0101 (3 of 5) Decisive Wisdom"
+  - title: Paññā (3 of 5) Decisive Wisdom
     id: 11192
     date: '2020-04-15'
     speaker_id: 1
@@ -25448,7 +26548,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11189/20200414-Nikki_Mirghafori-IMC-happy_hour_joy_and_contentment_as_support_in_challenging_times.mp3
 - youtube_id: ipXlWOeCj0o
   talks:
-  - title: "Pa\xF1\xF1\u0101 (2 of 5) Distinguishing Wisdom"
+  - title: Paññā (2 of 5) Distinguishing Wisdom
     id: 11182
     date: '2020-04-14'
     speaker_id: 1
@@ -25464,7 +26564,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11181/20200414-Gil_Fronsdal-IMC-guided_meditation_having_a_foundation.mp3
 - youtube_id: C9YK-WmjR-4
   talks:
-  - title: "Pa\xF1\xF1\u0101 (1 of 5) The Wisdom Arising from Suffering"
+  - title: Paññā (1 of 5) The Wisdom Arising from Suffering
     id: 11407
     date: '2020-04-13'
     speaker_id: 1
@@ -25480,7 +26580,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11166/20200412-Gil_Fronsdal-IMC-guided_meditation_supported_by_the_body.mp3
 - youtube_id: fwhwOyYeEaw
   talks:
-  - title: "Sam\u0101dhi (5 of 5) Equanimity as the Fruit Drops"
+  - title: Samādhi (5 of 5) Equanimity as the Fruit Drops
     id: 11157
     date: '2020-04-10'
     speaker_id: 1
@@ -25504,7 +26604,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11154/20200409-Gil_Fronsdal-IMC-introduction_to_mindfulness_meditation_9_of_9.mp3
 - youtube_id: 9tGjOU8_Yow
   talks:
-  - title: "Sam\u0101dhi (4 of 5) Well-being and Joy"
+  - title: Samādhi (4 of 5) Well-being and Joy
     id: 11153
     date: '2020-04-09'
     speaker_id: 1
@@ -25544,7 +26644,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11147/20200407-Gil_Fronsdal-IMC-introduction_to_mindfulness_meditation_7_of_9.mp3
 - youtube_id: 5qBHcI5tXGQ
   talks:
-  - title: "Sam\u0101dhi (2 of 5) Connecting, and Sustaining Awareness"
+  - title: Samādhi (2 of 5) Connecting, and Sustaining Awareness
     id: 11141
     date: '2020-04-07'
     speaker_id: 1
@@ -25584,7 +26684,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11138/20200406-Gil_Fronsdal-IMC-introduction_to_mindfulness_meditation_6_of_9.mp3
 - youtube_id: 50y31FT418Q
   talks:
-  - title: "Sam\u0101dhi (1 of 5) Concentration as Centering and Letting Go Into"
+  - title: Samādhi (1 of 5) Concentration as Centering and Letting Go Into
     id: 11137
     date: '2020-04-06'
     speaker_id: 1
@@ -25824,7 +26924,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11084/20200322-Gil_Fronsdal-IMC-guided_meditation_trusting_awareness.mp3
 - youtube_id: _OLS_Z5E9Sk
   talks:
-  - title: "Saddh\u0101 (5 of 5) Acceptance + Q&A"
+  - title: Saddhā (5 of 5) Acceptance + Q&A
     id: 11076
     date: '2020-03-20'
     speaker_id: 1
@@ -25832,7 +26932,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11076/20200320-Gil_Fronsdal-IMC-saddh_5_of_5_acceptance_q_a.mp3
 - youtube_id: YDUNVu0n2cA
   talks:
-  - title: "Saddh\u0101 (4 of 5) Trust"
+  - title: Saddhā (4 of 5) Trust
     id: 11066
     date: '2020-03-19'
     speaker_id: 1
@@ -25840,7 +26940,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11066/20200319-Gil_Fronsdal-IMC-saddh_4_of_5_trust.mp3
 - youtube_id: SgjmvYslJA4
   talks:
-  - title: "Saddh\u0101 (3 of 5) Conviction"
+  - title: Saddhā (3 of 5) Conviction
     id: 11059
     date: '2020-03-18'
     speaker_id: 1
@@ -25856,7 +26956,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11058/20200318-Gil_Fronsdal-IMC-guided_meditation_breathing_and_the_body.mp3
 - youtube_id: cRtr2JdtvWs
   talks:
-  - title: "Saddh\u0101 (2 of 5) Confidence"
+  - title: Saddhā (2 of 5) Confidence
     id: 11050
     date: '2020-03-17'
     speaker_id: 1
@@ -25872,7 +26972,7 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/11049/20200317-Gil_Fronsdal-IMC-guided_meditation_receiving_the_breath.mp3
 - youtube_id: 1mJssKBIXwo
   talks:
-  - title: "Saddh\u0101 (1 of 5) Faith"
+  - title: Saddhā (1 of 5) Faith
     id: 11048
     date: '2020-03-16'
     speaker_id: 1

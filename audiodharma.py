@@ -89,9 +89,9 @@ def scrape_page(page_num, existing_data, speakers_data):
         query_params = parse_qs(parsed_url.query)
         timestamp = 0
         if "start" in query_params:
-            timestamp = int(re.sub(r"\\D", "", query_params["start"][0]))
+            timestamp = int(re.sub(r"\D", "", query_params["start"][0]))
         elif "t" in query_params:
-            timestamp = int(re.sub(r"\\D", "", query_params["t"][0]))
+            timestamp = int(re.sub(r"\D", "", query_params["t"][0]))
 
         if not video_id:
             continue
@@ -150,8 +150,8 @@ def save_talks_data(data, output_file):
     )
 
     logging.info(f"Saving {output_file}")
-    with open(output_file, "w") as f:
-        yaml.dump(sorted_data, f, default_flow_style=False, sort_keys=False)
+    with open(output_file, "w", encoding="utf-8") as f:
+        yaml.dump(sorted_data, f, default_flow_style=False, sort_keys=False, allow_unicode=True)
     logging.info(f"Saved {output_file}")
 
 def save_speakers_data(data, output_file):
@@ -161,8 +161,8 @@ def save_speakers_data(data, output_file):
         os.makedirs(output_dir)
 
     logging.info(f"Saving {output_file}")
-    with open(output_file, "w") as f:
-        yaml.dump(data, f, default_flow_style=False, sort_keys=True)
+    with open(output_file, "w", encoding="utf-8") as f:
+        yaml.dump(data, f, default_flow_style=False, sort_keys=True, allow_unicode=True)
     logging.info(f"Saved {output_file}")
 
 def run_scraper(
@@ -182,7 +182,7 @@ def run_scraper(
     if not overwrite_existing_file:
         if os.path.exists(talks_output_file):
             logging.info(f"Loading existing talks data from {talks_output_file}...")
-            with open(talks_output_file, "r") as f:
+            with open(talks_output_file, "r", encoding="utf-8") as f:
                 existing_yaml = yaml.safe_load(f)
                 if existing_yaml:
                     for entry in existing_yaml:
@@ -191,7 +191,7 @@ def run_scraper(
             logging.info(
                 f"Loading existing speakers data from {speakers_output_file}..."
             )
-            with open(speakers_output_file, "r") as f:
+            with open(speakers_output_file, "r", encoding="utf-8") as f:
                 loaded_speakers = yaml.safe_load(f)
                 if loaded_speakers:
                     speakers_data = {int(k): v for k, v in loaded_speakers.items()}

@@ -1,10 +1,12 @@
 ---
-date: '2025-07-01'
-speaker: Unknown
-speaker_url: ''
-talk_urls: []
-title: 'Guided Meditation: Emptiness; Insight (17) The Emptiness in Impermanance'
-video_url: https://www.youtube.com/watch?v=m4krk4bSy-I
+"date": "2025-07-01"
+"speaker": "Gil Fronsdal"
+"speaker_url": "https://www.audiodharma.org/speakers/1"
+"talk_urls":
+- "https://www.audiodharma.org/talks/23304"
+- "https://www.audiodharma.org/talks/23305"
+"title": "Guided Meditation: Emptiness; Insight (17) The Emptiness in Impermanance"
+"video_url": "https://www.youtube.com/watch?v=m4krk4bSy-I"
 ---
 
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Emptiness; Insight (17) The Emptiness in Impermanance](https://www.youtube.com/watch?v=m4krk4bSy-I). It likely contains inaccuracies.*

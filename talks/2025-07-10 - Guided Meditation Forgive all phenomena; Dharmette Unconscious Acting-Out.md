@@ -1,11 +1,12 @@
 ---
-date: '2025-07-10'
-speaker: Matthew Brensilver
-speaker_url: https://www.audiodharma.org/speakers/231
-talk_urls:
-- https://www.audiodharma.org/talks/23371
-title: 'Guided Meditation: Forgive all phenomena; Dharmette: Unconscious Acting-Out'
-video_url: https://www.youtube.com/watch?v=kqkm9fRRL6A
+"date": "2025-07-10"
+"speaker": "Matthew Brensilver"
+"speaker_url": "https://www.audiodharma.org/speakers/231"
+"talk_urls":
+- "https://www.audiodharma.org/talks/23371"
+- "https://www.audiodharma.org/talks/23370"
+"title": "Guided Meditation: Forgive all phenomena; Dharmette: Unconscious Acting-Out"
+"video_url": "https://www.youtube.com/watch?v=kqkm9fRRL6A"
 ---
 
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Forgive all phenomena; Dharmette: Unconscious Acting-Out](https://www.youtube.com/watch?v=kqkm9fRRL6A). It likely contains inaccuracies.*

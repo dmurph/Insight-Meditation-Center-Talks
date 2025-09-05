@@ -2,7 +2,8 @@
 "date": "2025-07-27"
 "speaker": "Gil Fronsdal"
 "speaker_url": "https://www.audiodharma.org/speakers/1"
-"talk_urls": []
+"talk_urls":
+- "https://www.audiodharma.org/talks/23472"
 "title": "The Arrows of Buddhism - Gil Fronsdal"
 "video_url": "https://www.youtube.com/watch?v=FygattrL3z4"
 ---

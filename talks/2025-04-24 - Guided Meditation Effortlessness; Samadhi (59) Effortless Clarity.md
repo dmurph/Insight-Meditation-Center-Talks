@@ -1,10 +1,12 @@
 ---
-date: '2025-04-24'
-speaker: Unknown
-speaker_url: ''
-talk_urls: []
-title: 'Guided Meditation: Effortlessness; Samadhi (59) Effortless Clarity'
-video_url: https://www.youtube.com/watch?v=FqomQVTcBYQ
+"date": "2025-04-24"
+"speaker": "Gil Fronsdal"
+"speaker_url": "https://www.audiodharma.org/speakers/1"
+"talk_urls":
+- "https://www.audiodharma.org/talks/22802"
+- "https://www.audiodharma.org/talks/22803"
+"title": "Guided Meditation: Effortlessness; Samadhi (59) Effortless Clarity"
+"video_url": "https://www.youtube.com/watch?v=FqomQVTcBYQ"
 ---
 
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Effortlessness; Samadhi (59) Effortless Clarity](https://www.youtube.com/watch?v=FqomQVTcBYQ). It likely contains inaccuracies.*

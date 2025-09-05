@@ -1,10 +1,12 @@
 ---
-date: '2025-07-15'
-speaker: Unknown
-speaker_url: ''
-talk_urls: []
-title: 'Guided Meditation: Staying in the flow; Crossing the flood (2/5) "Crossing"'
-video_url: https://www.youtube.com/watch?v=_fUY4zpk1jY
+"date": "2025-07-15"
+"speaker": "Ying Chen, 陈颖"
+"speaker_url": "https://www.audiodharma.org/speakers/333"
+"talk_urls":
+- "https://www.audiodharma.org/talks/23413"
+- "https://www.audiodharma.org/talks/23414"
+"title": "Guided Meditation: Staying in the flow; Crossing the flood (2/5) \"Crossing\""
+"video_url": "https://www.youtube.com/watch?v=_fUY4zpk1jY"
 ---
 
 This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Staying in the flow; Crossing the flood (2/5) "Crossing"](https://www.youtube.com/watch?v=_fUY4zpk1jY). It likely contains inaccuracies.

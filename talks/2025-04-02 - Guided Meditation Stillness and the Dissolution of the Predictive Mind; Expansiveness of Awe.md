@@ -2,7 +2,9 @@
 "date": "2025-04-02"
 "speaker": "Matthew Brensilver"
 "speaker_url": "https://www.audiodharma.org/speakers/231"
-"talk_urls": []
+"talk_urls":
+- "https://www.audiodharma.org/talks/22663"
+- "https://www.audiodharma.org/talks/22664"
 "title": "Guided Meditation: Stillness and the Dissolution of the Predictive Mind;\
   \ Expansiveness of Awe"
 "video_url": "https://www.youtube.com/watch?v=F-ty3PRvNAo"

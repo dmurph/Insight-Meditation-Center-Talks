@@ -2,7 +2,8 @@
 "date": "2025-06-23"
 "speaker": "Gil Fronsdal"
 "speaker_url": "https://www.audiodharma.org/speakers/1"
-"talk_urls": []
+"talk_urls":
+- "https://www.audiodharma.org/talks/23269"
 "title": "Seven Supporting Factors of Equanimity - Gil Fronsdal"
 "video_url": "https://www.youtube.com/watch?v=2cdrPPIfIrE"
 ---

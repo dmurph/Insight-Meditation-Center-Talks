@@ -1,11 +1,12 @@
 ---
-date: '2025-07-09'
-speaker: Gil Fronsdal
-speaker_url: https://www.audiodharma.org/speakers/1
-talk_urls:
-- https://www.audiodharma.org/talks/23360
-title: 'Guided Meditation: Stillness; Insight (23) Seeing with an Unmoving Mind'
-video_url: https://www.youtube.com/watch?v=RlC794t_KBM
+"date": "2025-07-09"
+"speaker": "Gil Fronsdal"
+"speaker_url": "https://www.audiodharma.org/speakers/1"
+"talk_urls":
+- "https://www.audiodharma.org/talks/23360"
+- "https://www.audiodharma.org/talks/23361"
+"title": "Guided Meditation: Stillness; Insight (23) Seeing with an Unmoving Mind"
+"video_url": "https://www.youtube.com/watch?v=RlC794t_KBM"
 ---
 
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Stillness; Insight (23) Seeing with an Unmoving Mind](https://www.youtube.com/watch?v=RlC794t_KBM). It likely contains inaccuracies.*

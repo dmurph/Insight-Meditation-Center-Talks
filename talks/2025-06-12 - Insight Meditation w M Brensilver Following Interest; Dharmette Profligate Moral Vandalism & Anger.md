@@ -1,11 +1,13 @@
 ---
-date: '2025-06-12'
-speaker: Matthew Brensilver
-speaker_url: https://www.audiodharma.org/speakers/231
-talk_urls: []
-title: 'Insight Meditation w M Brensilver: Following Interest; Dharmette: Profligate
-  Moral Vandalism & Anger'
-video_url: https://www.youtube.com/watch?v=MXEycn7qOWs
+"date": "2025-06-12"
+"speaker": "Matthew Brensilver"
+"speaker_url": "https://www.audiodharma.org/speakers/231"
+"talk_urls":
+- "https://www.audiodharma.org/talks/23189"
+- "https://www.audiodharma.org/talks/23190"
+"title": "Insight Meditation w M Brensilver: Following Interest; Dharmette: Profligate\
+  \ Moral Vandalism & Anger"
+"video_url": "https://www.youtube.com/watch?v=MXEycn7qOWs"
 ---
 
 *This is an AI-generated transcript from auto-generated subtitles for the video [Insight Meditation w M Brensilver: Following Interest; Dharmette: Profligate Moral Vandalism & Anger](https://www.youtube.com/watch?v=MXEycn7qOWs). It likely contains inaccuracies.*

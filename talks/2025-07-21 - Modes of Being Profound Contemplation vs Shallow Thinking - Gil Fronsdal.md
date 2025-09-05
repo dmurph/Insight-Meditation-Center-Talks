@@ -2,7 +2,8 @@
 "date": "2025-07-21"
 "speaker": "Gil Fronsdal"
 "speaker_url": "https://www.audiodharma.org/speakers/1"
-"talk_urls": []
+"talk_urls":
+- "https://www.audiodharma.org/talks/23437"
 "title": "Modes of Being: Profound Contemplation vs Shallow Thinking - Gil Fronsdal"
 "video_url": "https://www.youtube.com/watch?v=IrTg8PWOjOI"
 ---

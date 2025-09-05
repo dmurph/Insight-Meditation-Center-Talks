@@ -2,7 +2,8 @@
 "date": "2025-04-15"
 "speaker": "Diana Clark"
 "speaker_url": "https://www.audiodharma.org/speakers/240"
-"talk_urls": []
+"talk_urls":
+- "https://www.audiodharma.org/talks/22729"
 "title": "Practicing the Path of Letting Go ~ Diana Clark"
 "video_url": "https://www.youtube.com/watch?v=BR4TF5BIrVM"
 ---
