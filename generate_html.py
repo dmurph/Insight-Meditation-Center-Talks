@@ -4,13 +4,21 @@ from collections import defaultdict
 from article import Article
 import argparse
 import urllib.parse
+from datetime import datetime
+import logging
 
 def get_all_talks(directory="talks"):
     talks = []
     for filepath in glob.glob(os.path.join(directory, "*.md")):
         article = Article.from_file(filepath)
         if article:
-            talks.append(article)
+            if article.date:
+                talks.append(article)
+            else:
+                logging.warning(f"Article at {filepath} has no date, skipping.")
+
+    # Sort talks by date, newest first
+    talks.sort(key=lambda x: datetime.strptime(x.date, '%Y-%m-%d'), reverse=True)
     return talks
 
 def group_talks_by_speaker(talks):
