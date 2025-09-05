@@ -1,10 +1,10 @@
 ---
-date: '2025-05-27'
-speaker: Unknown
-speaker_url: ''
-talk_urls: []
-title: As If the World Depends on It ~ Diana Clark
-video_url: https://www.youtube.com/watch?v=SoNJ6qdkLA4
+"date": "2025-05-27"
+"speaker": "Diana Clark"
+"speaker_url": "https://www.audiodharma.org/speakers/240"
+"talk_urls": []
+"title": "As If the World Depends on It ~ Diana Clark"
+"video_url": "https://www.youtube.com/watch?v=SoNJ6qdkLA4"
 ---
 
 *This is an AI-generated transcript from auto-generated subtitles for the video [As If the World Depends on It ~ Diana Clark](https://www.youtube.com/watch?v=SoNJ6qdkLA4). It likely contains inaccuracies.*

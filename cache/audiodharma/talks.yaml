@@ -1,3 +1,11 @@
+- youtube_id: 9sV117lN0pw
+  talks:
+  - title: 'Guided Meditation: Be Here'
+    id: 23761
+    date: '2025-09-04'
+    speaker_id: 240
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23761/20250904-Diana_Clark-IMC-guided_meditation_be_here.mp3
 - youtube_id: FJqsfYv7G-g
   talks:
   - title: 'Guided Meditation: The Leaning Heart'
@@ -107,7 +115,7 @@
 - youtube_id: wKmP_txMMVM
   talks:
   - title: 'Guided Meditation: Don''t Make it Worse'
-    url: https://www.audiodharma.org/talks/23717
+    id: 23717
     date: '2025-08-27'
     speaker_id: 1
     start_time_seconds: 0
@@ -215,13 +223,13 @@
 - youtube_id: lXX7vemTLRU
   talks:
   - title: 'Guided Meditation: Everything is Passing'
-    url: https://www.audiodharma.org/talks/23662
+    id: 23662
     date: '2025-08-20'
     speaker_id: 231
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23662/20250820-Matthew_Brensilver-IMC-guided_meditation_everything_is_passing.mp3
   - title: 'Dharmette: Wholesome Qualities of Mind (3of5); Parami of Wisdom'
-    url: https://www.audiodharma.org/talks/23663
+    id: 23663
     date: '2025-08-20'
     speaker_id: 231
     start_time_seconds: 1773
@@ -334,6 +342,12 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23609/20250813-Gil_Fronsdal-IMC-guided_meditation_entering_simplicity.mp3
+  - title: 'Dharmette: Insight (38) "This" is Not Self"'
+    id: 23610
+    date: '2025-08-13'
+    speaker_id: 1
+    start_time_seconds: 1868
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23610/20250813-Gil_Fronsdal-IMC-dharmette_insight_38_this_is_not_self.mp3
 - youtube_id: qr2GyZ4d9jM
   talks:
   - title: 'Guided Meditation: Vacation from Self'

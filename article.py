@@ -4,7 +4,7 @@ import logging
 import yaml
 
 class Article:
-    def __init__(self, title, date, video_url, speaker_name, speaker_url, talk_urls, content):
+    def __init__(self, title, date, video_url, speaker_name, speaker_url, talk_urls, content, filepath):
         self.title = title
         self.date = date
         self.video_url = video_url
@@ -12,6 +12,7 @@ class Article:
         self.speaker_url = speaker_url
         self.talk_urls = talk_urls
         self.content = content
+        self.filepath = filepath
 
     def to_markdown(self):
         """Combines metadata and content into a markdown string with frontmatter."""
@@ -57,15 +58,17 @@ class Article:
             with open(file_path, "r", encoding="utf-8") as f:
                 post = frontmatter.load(f)
 
-                return cls(
+                article = cls(
                     title=post.get('title'),
                     date=post.get('date'),
                     video_url=post.get('video_url'),
                     speaker_name=post.get('speaker'),
                     speaker_url=post.get('speaker_url'),
                     talk_urls=post.get('talk_urls'),
-                    content=post.content
+                    content=post.content,
+                    filepath=file_path
                 )
+                return article
         except Exception as e:
             logging.warning(f"  -> Could not parse existing file {file_path}. Will re-process. Error: {e}")
             return None

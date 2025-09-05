@@ -1,11 +1,11 @@
 ---
-date: '2025-05-29'
-speaker: Unknown
-speaker_url: ''
-talk_urls: []
-title: 'Guided Meditation w/ Matthew Brensilver, Dharmette: When we''ve lost inspiration
-  for dharma practice'
-video_url: https://www.youtube.com/watch?v=NFxqJpqmil4
+"date": "2025-05-29"
+"speaker": "Matthew Brensilver"
+"speaker_url": "https://www.audiodharma.org/speakers/231"
+"talk_urls": []
+"title": "Guided Meditation w/ Matthew Brensilver, Dharmette: When we've lost inspiration\
+  \ for dharma practice"
+"video_url": "https://www.youtube.com/watch?v=NFxqJpqmil4"
 ---
 
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation w/ Matthew Brensilver, Dharmette: When we've lost inspiration for dharma practice](https://www.youtube.com/watch?v=NFxqJpqmil4). It likely contains inaccuracies.*

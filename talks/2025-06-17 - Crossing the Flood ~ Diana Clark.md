@@ -1,10 +1,10 @@
 ---
-date: '2025-06-17'
-speaker: Unknown
-speaker_url: ''
-talk_urls: []
-title: Crossing the Flood ~ Diana Clark
-video_url: https://www.youtube.com/watch?v=fROizxFioiw
+"date": "2025-06-17"
+"speaker": "Diana Clark"
+"speaker_url": "https://www.audiodharma.org/speakers/240"
+"talk_urls": []
+"title": "Crossing the Flood ~ Diana Clark"
+"video_url": "https://www.youtube.com/watch?v=fROizxFioiw"
 ---
 
 *This is an AI-generated transcript from auto-generated subtitles for the video [Crossing the Flood ~ Diana Clark](https://www.youtube.com/watch?v=fROizxFioiw). It likely contains inaccuracies.*

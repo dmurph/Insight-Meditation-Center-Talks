@@ -8,6 +8,7 @@ import audiodharma
 import ai
 import cache
 from article import Article
+import generate_html
 
 logging.basicConfig(level=logging.INFO)
 
@@ -71,6 +72,14 @@ def process_youtube_videos(
                         if talk_id and talk_title:
                             talk_urls.append(f"https://www.audiodharma.org/talks/{talk_id}")
                             talk_headers_str += f"      `## {talk_title} ([link](https://www.audiodharma.org/talks/{talk_id}))`\n"
+            
+            if speaker_name == "Unknown":
+                for speaker_id, speaker_info in speakers_data.items():
+                    if speaker_info['name'].lower() in video_title.lower():
+                        speaker_name = speaker_info['name']
+                        speaker_url = speaker_info['url']
+                        logging.info(f"  -> Found speaker '{speaker_name}' in video title.")
+                        break
 
             if not force_ai_processing:
                 article = Article.from_file(processed_output_path)
@@ -121,6 +130,7 @@ def process_youtube_videos(
                         speaker_url=speaker_url,
                         talk_urls=talk_urls,
                         content=cleaned_content,
+                        filepath=processed_output_path,
                     )
                     new_article.save(processed_output_path)
 
@@ -137,13 +147,65 @@ def main():
     )
     subparsers = parser.add_subparsers(dest="command", required=True)
 
+    # Scrape and generate command
+    scrape_and_generate_parser = subparsers.add_parser(
+        "scrape_and_generate",
+        help="Scrape audiodharma.org and then process all YouTube videos from the main playlist.",
+    )
+    scrape_and_generate_parser.add_argument(
+        "--playlist_id",
+        help="The id of a YouTube playlist. Defaults to all videos on the IMC channel.",
+        type=str,
+        default="UUGliqsod-tQoGiHahxS9Wig",
+    )
+    scrape_and_generate_parser.add_argument(
+        "--rebuild-video-url-cache",
+        action="store_true",
+        help="Force a complete redownload of all video URLs, rebuilding the cache.",
+    )
+    scrape_and_generate_parser.add_argument(
+        "--skip-video-url-download",
+        action="store_true",
+        help="Skip downloading video URLs and use the existing cache.",
+    )
+    scrape_and_generate_parser.add_argument(
+        "--limit",
+        type=int,
+        default=0,
+        help="Limit the number of videos to process (0 for no limit).",
+    )
+    scrape_and_generate_parser.add_argument(
+        "--force-redownload-transcripts",
+        action="store_true",
+        help="Force redownload of raw transcripts even if they exist.",
+    )
+    scrape_and_generate_parser.add_argument(
+        "--force-ai-processing",
+        action="store_true",
+        help="Force AI processing even if the processed file exists.",
+    )
+    scrape_and_generate_parser.add_argument(
+        "--skip-metadata-cache",
+        action="store_true",
+        help="Skip using the metadata cache and force re-fetching from YouTube.",
+    )
+    scrape_and_generate_parser.add_argument(
+        "--do-not-stop-scan",
+        action="store_true",
+        help="Don't stop processing the videos if a talk was already found as saved with the correct metadata, keep going for all videos in the playlist/channel/etc.",
+    )
+
     # YouTube command
-    youtube_parser = subparsers.add_parser("youtube", help="Work with YouTube videos.")
+    youtube_parser = subparsers.add_parser(
+        "youtube", help="Work with YouTube videos without scraping audiodharma."
+    )
     youtube_sources = youtube_parser.add_subparsers(
         dest="fetch_source", help="Specify the type of source to fetch", required=True
     )
 
-    video_id_source = youtube_sources.add_parser("video-id", help="Use a video id by itself")
+    video_id_source = youtube_sources.add_parser(
+        "video-id", help="Use a video id by itself"
+    )
     video_id_source.add_argument(
         "id", help="The ID of a single YouTube video to process.", type=str
     )
@@ -260,7 +322,38 @@ def main():
 
     args = parser.parse_args()
 
-    if args.command == "youtube":
+    if args.command == "scrape_and_generate":
+        audiodharma.run_scraper(
+            start_page=1,
+            max_pages=1000,
+            talks_output_file="cache/audiodharma/talks.yaml",
+            speakers_output_file="cache/audiodharma/speakers.yaml",
+            overwrite_existing_file=False,
+            full_scrape=False,
+            save_after_pages=10,
+        )
+
+        videos = youtube.get_video_urls(
+            url_or_id=args.playlist_id,
+            type=youtube.UrlType.PLAYLIST,
+            rebuild_cache=args.rebuild_video_url_cache,
+            skip_download=args.skip_video_url_download,
+        )
+
+        if not videos:
+            logging.info("No videos found. Exiting.")
+            return
+
+        process_youtube_videos(
+            videos,
+            limit=args.limit,
+            force_redownload_transcripts=args.force_redownload_transcripts,
+            force_ai_processing=args.force_ai_processing,
+            skip_metadata_cache=args.skip_metadata_cache,
+            do_not_stop_scan=args.do_not_stop_scan,
+        )
+        generate_html.generate_all_html_pages()
+    elif args.command == "youtube":
         rebuild_cache = getattr(args, "rebuild_video_url_cache", False)
         skip_download = getattr(args, "skip_video_url_download", False)
 

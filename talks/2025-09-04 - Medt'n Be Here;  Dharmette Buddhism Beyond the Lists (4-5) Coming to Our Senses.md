@@ -1,11 +1,12 @@
 ---
-date: '2025-09-04'
-speaker: Unknown
-speaker_url: ''
-talk_urls: []
-title: 'Medt''n: Be Here;  Dharmette: Buddhism Beyond the Lists (4/5): Coming to Our
-  Senses'
-video_url: https://www.youtube.com/watch?v=9sV117lN0pw
+"date": "2025-09-04"
+"speaker": "Diana Clark"
+"speaker_url": "https://www.audiodharma.org/speakers/240"
+"talk_urls":
+- "https://www.audiodharma.org/talks/23761"
+"title": "Medt'n: Be Here;  Dharmette: Buddhism Beyond the Lists (4/5): Coming to\
+  \ Our Senses"
+"video_url": "https://www.youtube.com/watch?v=9sV117lN0pw"
 ---
 
 *This is an AI-generated transcript from auto-generated subtitles for the video [Medt'n: Be Here; Dharmette: Buddhism Beyond the Lists (4/5): Coming to Our Senses](https://www.youtube.com/watch?v=9sV117lN0pw). It likely contains inaccuracies.*

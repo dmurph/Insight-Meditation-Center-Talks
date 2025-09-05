@@ -1,10 +1,10 @@
 ---
-date: '2025-08-05'
-speaker: Unknown
-speaker_url: ''
-talk_urls: []
-title: 'Disentangling Dukkha: The Practice of Pausing ~ Diana Clark'
-video_url: https://www.youtube.com/watch?v=HyO_mcYRs1w
+"date": "2025-08-05"
+"speaker": "Diana Clark"
+"speaker_url": "https://www.audiodharma.org/speakers/240"
+"talk_urls": []
+"title": "Disentangling Dukkha: The Practice of Pausing ~ Diana Clark"
+"video_url": "https://www.youtube.com/watch?v=HyO_mcYRs1w"
 ---
 
 *This is an AI-generated transcript from auto-generated subtitles for the video [Disentangling Dukkha: The Practice of Pausing ~ Diana Clark](https://www.youtube.com/watch?v=HyO_mcYRs1w). It likely contains inaccuracies.*

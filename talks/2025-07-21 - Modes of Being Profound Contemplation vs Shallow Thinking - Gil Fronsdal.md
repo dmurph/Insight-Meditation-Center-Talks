@@ -1,10 +1,10 @@
 ---
-date: '2025-07-21'
-speaker: Unknown
-speaker_url: ''
-talk_urls: []
-title: 'Modes of Being: Profound Contemplation vs Shallow Thinking - Gil Fronsdal'
-video_url: https://www.youtube.com/watch?v=IrTg8PWOjOI
+"date": "2025-07-21"
+"speaker": "Gil Fronsdal"
+"speaker_url": "https://www.audiodharma.org/speakers/1"
+"talk_urls": []
+"title": "Modes of Being: Profound Contemplation vs Shallow Thinking - Gil Fronsdal"
+"video_url": "https://www.youtube.com/watch?v=IrTg8PWOjOI"
 ---
 
 *This is an AI-generated transcript from auto-generated subtitles for the video [Modes of Being: Profound Contemplation vs Shallow Thinking - Gil Fronsdal](https://www.youtube.com/watch?v=IrTg8PWOjOI). It likely contains inaccuracies.*
