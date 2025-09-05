@@ -14,7 +14,6 @@ logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
-
 def scrape_page(page_num, existing_data, speakers_data):
     """Scrapes a single page of audiodharma.org and returns a status: 'new', 'updated', or 'known'."""
     time.sleep(random.uniform(0.05, 1.0))
@@ -27,7 +26,8 @@ def scrape_page(page_num, existing_data, speakers_data):
         logging.error(f"Error fetching page {page_num}: {e}")
         return "end"
 
-    soup = BeautifulSoup(response.content, "html.parser")
+    response.encoding = 'utf-8'
+    soup = BeautifulSoup(response.text, "html5lib")
     rows = soup.find_all("tr")
     if not rows or len(rows) <= 1:
         logging.warning("No data rows found in the table.")
@@ -50,13 +50,15 @@ def scrape_page(page_num, existing_data, speakers_data):
         if audio_tag and "data-url" in audio_tag.attrs:
             mp3_url = audio_tag["data-url"]
 
-        video_link_tag = row.select_one("a.video-modal-link")
         youtube_url = None
-        if video_link_tag and "data-embed-video-url" in video_link_tag.attrs:
-            youtube_url = video_link_tag["data-embed-video-url"]
-        else:
+        desktop_video_anchor = row.select_one("a.video-modal-link")
+        if desktop_video_anchor:
+            youtube_url = desktop_video_anchor["data-embed-video-url"]
+                
+        # Try the mobile one if that wasn't found.
+        if not youtube_url:
             mobile_video_link_tag = row.select_one(
-                'a.d-sm-inline.d-md-none[href*="youtube.com"]'
+                'a.fa-video[href*="youtube.com"]'
             )
             if mobile_video_link_tag:
                 youtube_url = mobile_video_link_tag["href"]
@@ -151,7 +153,7 @@ def save_talks_data(data, output_file):
 
     logging.info(f"Saving {output_file}")
     with open(output_file, "w", encoding="utf-8") as f:
-        yaml.dump(sorted_data, f, default_flow_style=False, sort_keys=False, allow_unicode=True)
+        yaml.safe_dump(sorted_data, f, default_flow_style=False, sort_keys=False, allow_unicode=True, encoding='utf-8')
     logging.info(f"Saved {output_file}")
 
 def save_speakers_data(data, output_file):
@@ -162,7 +164,7 @@ def save_speakers_data(data, output_file):
 
     logging.info(f"Saving {output_file}")
     with open(output_file, "w", encoding="utf-8") as f:
-        yaml.dump(data, f, default_flow_style=False, sort_keys=True, allow_unicode=True)
+        yaml.safe_dump(data, f, default_flow_style=False, sort_keys=True, allow_unicode=True, encoding='utf-8')
     logging.info(f"Saved {output_file}")
 
 def run_scraper(
