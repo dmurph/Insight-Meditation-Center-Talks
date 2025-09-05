@@ -69,7 +69,6 @@ def generate_speaker_table_rows(speaker_talks):
         talks = speaker_talks[speaker_id]
         speaker_name = talks[0].speaker_name or "Unknown Speaker"
         speaker_url = talks[0].speaker_url
-        talk_count = len(talks)
 
         audiodharma_link = ""
         if speaker_url:
@@ -81,7 +80,6 @@ def generate_speaker_table_rows(speaker_talks):
         <tr>
             <td><a href="./speaker/{speaker_id}.html">{speaker_name}</a></td>
             {audiodharma_link}
-            <td>{talk_count}</td>
         </tr>"""
     return rows_html
 
