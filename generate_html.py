@@ -4,7 +4,6 @@ from collections import defaultdict
 from article import Article
 import argparse
 import urllib.parse
-import cache
 
 def get_all_talks(directory="talks"):
     talks = []
@@ -35,36 +34,60 @@ def generate_talk_table_rows(talks, relative_path_prefix=""):
         if talk.talk_urls:
             for url in talk.talk_urls:
                 links += f' <a href="{url}">AudioDharma</a>'
+        
+        speaker_id = "unknown"
+        if talk.speaker_url:
+            speaker_id = talk.speaker_url.split("/")[-1]
+        
+        speaker_html = talk.speaker_name
+        if speaker_id != "unknown":
+            speaker_html = f'<a href="{relative_path_prefix}speaker/{speaker_id}.html">{talk.speaker_name}</a>'
+
         rows_html += f"""
         <tr>
             <td>{talk.date}</td>
             <td><a href="{talk_url}">{talk.title}</a></td>
-            <td>{talk.speaker_name}</td>
+            <td>{speaker_html}</td>
             <td>{links}</td>
         </tr>"""
     return rows_html
 
-def generate_speaker_table_rows(speaker_talks, speakers_data):
+def generate_speaker_table_rows(speaker_talks):
     rows_html = ""
-    sorted_speaker_ids = sorted(speaker_talks.keys(), key=lambda x: speakers_data.get(x, {}).get('name', 'Unknown'))
+    # Sort by speaker name
+    sorted_speaker_ids = sorted(speaker_talks.keys(), key=lambda speaker_id: (speaker_talks[speaker_id][0].speaker_name or 'Unknown').lower())
 
     for speaker_id in sorted_speaker_ids:
         talks = speaker_talks[speaker_id]
-        speaker_name = speakers_data.get(speaker_id, {}).get('name', 'Unknown Speaker')
+        speaker_name = talks[0].speaker_name or "Unknown Speaker"
+        speaker_url = talks[0].speaker_url
         talk_count = len(talks)
+
+        audiodharma_link = ""
+        if speaker_url:
+            audiodharma_link = f'<td><a href="{speaker_url}">link</a></td>'
+        else:
+            audiodharma_link = '<td>N/A (unknown)</td>'
+
         rows_html += f"""
         <tr>
             <td><a href="./speaker/{speaker_id}.html">{speaker_name}</a></td>
+            {audiodharma_link}
             <td>{talk_count}</td>
         </tr>"""
     return rows_html
 
-def generate_speaker_html(speaker_id, talks, speakers_data, output_dir="talks/speaker"):
+def generate_speaker_html(speaker_id, talks, output_dir="talks/speaker"):
     os.makedirs(output_dir, exist_ok=True)
     filepath = os.path.join(output_dir, f"{speaker_id}.html")
     
-    speaker_name = speakers_data.get(speaker_id, {}).get('name', 'Unknown Speaker')
+    speaker_name = talks[0].speaker_name if talks else "Unknown"
+    speaker_url = talks[0].speaker_url if talks else None
     table_rows = generate_talk_table_rows(talks, relative_path_prefix="../")
+
+    audiodharma_link_html = ""
+    if speaker_url:
+        audiodharma_link_html = f'<a href="{speaker_url}">audiodharma speaker page</a>'
 
     with open(filepath, "w") as f:
         f.write(f"""<!DOCTYPE html>
@@ -72,50 +95,79 @@ def generate_speaker_html(speaker_id, talks, speakers_data, output_dir="talks/sp
 <head>
     <title>Talks by {speaker_name}</title>
     <script src="../talk-table.js"></script>
+    <link rel="stylesheet" href="../style.css">
 </head>
-<body>
-    <h1>Talks by {speaker_name}</h1>
-    <talk-table>
-        <table>
-            <tbody>
-                {table_rows}
-            </tbody>
-        </table>
-    </talk-table>
+<body class="speaker-page">
+    <div class="container">
+        <div class="talk-list">
+            <h2>Talks by {speaker_name}</h2>
+            <p>
+                This is an index of all ai-generated talk publications 
+                <a href="https://github.com/dmurph/Insight-Meditation-Center-Talks">processed here</a>
+                so far by this speaker, using transcripts from the Insight Meditation Center
+                <a href="https://www.youtube.com/@InsightMeditationCenter">YouTube channel</a>,
+                with supplemental information scraped from <a href="https://www.audiodharma.org/">AudioDharma</a>.
+                See their {audiodharma_link_html} for more talks and information.
+            </p>
+            <talk-table>
+                <table>
+                    <tbody>
+                        {table_rows}
+                    </tbody>
+                </table>
+            </talk-table>
+        </div>
+    </div>
 </body>
 </html>""")
 
-def generate_index_html(all_talks, speaker_talks, speakers_data, output_path="talks/index.html"):
+def generate_index_html(all_talks, speaker_talks, output_path="talks/index.html"):
     talk_table_rows = generate_talk_table_rows(all_talks, relative_path_prefix="./")
-    speaker_table_rows = generate_speaker_table_rows(speaker_talks, speakers_data)
+    speaker_table_rows = generate_speaker_table_rows(speaker_talks)
 
     with open(output_path, "w") as f:
-        f.write(f"""<!DOCTYPE html>
+        f.write(
+            f"""<!DOCTYPE html>
 <html>
 <head>
-    <title>All Talks</title>
+    <title>Insight Meditation Center Talks</title>
     <script src="talk-table.js"></script>
+    <link rel="stylesheet" href="style.css">
 </head>
-<body>
-    <h1>Speakers</h1>
-    <speaker-table>
-        <table>
-            <tbody>
-                {speaker_table_rows}
-            </tbody>
-        </table>
-    </speaker-table>
-
-    <h1>All Talks</h1>
-    <talk-table>
-        <table>
-            <tbody>
-                {talk_table_rows}
-            </tbody>
-        </table>
-    </talk-table>
+<body class="index-page">
+    <h1>Insight Meditation Center Talks</h1>
+    <p>
+        This is an index of all ai-generated talk publications 
+        <a href="https://github.com/dmurph/Insight-Meditation-Center-Talks">processed here</a>
+        so far, using transcripts from the Insight Meditation Center
+        <a href="https://www.youtube.com/@InsightMeditationCenter">YouTube channel</a>,
+        with supplemental information scraped from <a href="https://www.audiodharma.org/">AudioDharma</a>.
+    </p>
+    <div class="container">
+        <div class="speaker-list">
+            <h2>Speakers</h2>
+            <speaker-table>
+                <table>
+                    <tbody>
+                        {speaker_table_rows}
+                    </tbody>
+                </table>
+            </speaker-table>
+        </div>
+        <div class="talk-list">
+            <h2>All Processed Talks</h2>
+            <talk-table>
+                <table>
+                    <tbody>
+                        {talk_table_rows}
+                    </tbody>
+                </table>
+            </talk-table>
+        </div>
+    </div>
 </body>
-</html>""")
+</html>"""
+        )
 
 def generate_all_html_pages():
     parser = argparse.ArgumentParser(description="Generate HTML files for talks.")
@@ -127,16 +179,15 @@ def generate_all_html_pages():
     )
     args, _ = parser.parse_known_args()
 
-    _, speakers_data = cache.load_audiodharma_data()
     all_talks = get_all_talks()
     speaker_talks = group_talks_by_speaker(all_talks)
 
     speaker_dir = os.path.join(args.output_dir, "speaker")
     for speaker_id, talks in speaker_talks.items():
-        generate_speaker_html(speaker_id, talks, speakers_data, output_dir=speaker_dir)
+        generate_speaker_html(speaker_id, talks, output_dir=speaker_dir)
 
     index_path = os.path.join(args.output_dir, "index.html")
-    generate_index_html(all_talks, speaker_talks, speakers_data, output_path=index_path)
+    generate_index_html(all_talks, speaker_talks, output_path=index_path)
 
 if __name__ == "__main__":
     generate_all_html_pages()

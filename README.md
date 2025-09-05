@@ -80,6 +80,7 @@ python download.py youtube video-id "dQw4w9WgXcQ"
 
 -   `download.py`: The main script orchestrating all operations.
 -   `youtube.py`, `audiodharma.py`, `ai.py`, `article.py`, `cache.py`, `filesystem.py`: Modules containing the core logic for interacting with services, processing data, and managing files.
+-   `generate_html.py`: Script to generate the HTML interface for browsing talks.
 -   `cache/`: Contains all cached data, including scraped website info and YouTube metadata.
--   `raw_transcripts/`: Stores the raw, unprocessed transcript files.
--   `talks/`: Stores the final, AI-cleaned and formatted markdown files.
+-   `raw_trans-ripts/`: Stores the raw, unprocessed transcript files.
+-   `talks/`: Stores the final, AI-cleaned and formatted markdown files, along with the generated HTML interface.

@@ -4,7 +4,7 @@ The project is structured as a series of focused modules orchestrated by the mai
 
 ### Core Modules
 
--   **`download.py`**: The main entry point and orchestrator. It handles command-line argument parsing for two main subcommands: `youtube` and `audiodharma`. It directs the workflow based on user input, calling on other modules to perform specific tasks.
+-   **`download.py`**: The main entry point and orchestrator. It handles command-line argument parsing for three main subcommands: `youtube`, `audiodharma`, and `scrape_and_generate`. It directs the workflow based on user input, calling on other modules to perform specific tasks.
 
 -   **`youtube.py`**: Contains all functionality related to interacting with YouTube. This includes fetching lists of video URLs from channels or playlists (using `scrapetube`), downloading video metadata (using `yt-dlp`), and fetching raw transcript data (using `youtube_transcript_api`).
 
@@ -18,15 +18,13 @@ The project is structured as a series of focused modules orchestrated by the mai
 
 -   **`filesystem.py`**: A utility module for filesystem-related operations, currently containing the `sanitize_filename` function to ensure file and directory names are valid across operating systems.
 
+-   **`generate_html.py`**: A script to generate a browseable HTML interface for the downloaded talks. It creates an `index.html` with a sortable table of all talks, and individual pages for each speaker.
+
 ### Workflow Overview
 
-1.  The user runs `download.py` with either the `youtube` or `audiodharma` subcommand.
-2.  **For `audiodharma`**: The `audiodharma.py` module is called to scrape the website and update the local YAML caches (`cache/audiodharma/`).
-3.  **For `youtube`**:
-    a.  The `youtube.py` module fetches the list of video URLs and their metadata, managing the YouTube-specific caches.
-    b.  The main loop in `download.py` iterates through each video.
-    c.  It checks if a processed article file already exists in the `talks/` directory. The `article.py` module is used to load the existing file and check if its metadata is outdated. If it is, the file is updated in place, and the script moves to the next video (unless `--do-not-stop-scan` is specified).
-    d.  If the article does not exist, `youtube.py` is called to download the raw transcript.
-    e.  The raw transcript is passed to `ai.py`, which returns the cleaned markdown content.
-    f.  An `Article` object is created with the metadata and cleaned content.
-    g.  The `article.py` module's `save()` method is called to write the final `.md` file with frontmatter to the `talks/` directory.
+1.  The user runs `download.py`. The primary command is `scrape_and_generate`, which automates the following steps.
+2.  **Scraping**: The `audiodharma.py` module is called to scrape the website and update local caches.
+3.  **YouTube Processing**:
+    a. `youtube.py` fetches video URLs and metadata.
+    b. The main loop in `download.py` iterates through each video, processing it, cleaning the transcript with `ai.py`, and saving it as an `Article` using `article.py`.
+4.  **HTML Generation**: After processing, `generate_html.py` is called to create the `index.html` and speaker pages.
