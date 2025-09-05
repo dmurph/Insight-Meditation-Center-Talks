@@ -1,0 +1,118 @@
+---
+"date": "2025-01-02"
+"speaker": "Kim Allen"
+"speaker_url": "https://www.audiodharma.org/speakers/4"
+"talk_urls":
+- "https://www.audiodharma.org/talks/22018"
+- "https://www.audiodharma.org/talks/22019"
+"title": "Guided Meditation: Radiating Metta; Letting Go and Cultivation (4 of 5)\
+  \ The Integrated Heart"
+"video_url": "https://www.youtube.com/watch?v=EK_SBXc_zYk"
+---
+
+*This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Radiating Metta; Letting Go and Cultivation (4 of 5) The Integrated Heart](https://www.youtube.com/watch?v=EK_SBXc_zYk). It likely contains inaccuracies.*
+
+# Guided Meditation: Radiating Metta; Letting Go and Cultivation (4 of 5) The Integrated Heart
+The following talk was given by [Kim Allen](https://www.audiodharma.org/speakers/4) at the Insight Meditation Center in Redwood City, California. Please visit the website [www.audiodharma.org](https://www.audiodharma.org) for more information.
+
+## Guided Meditation: Radiating Metta ([link](https://www.audiodharma.org/talks/22018))
+So, good day to everyone. I always love looking in the chat and seeing the greetings coming in. I very much appreciate that. Some of you know each other; we really have quite a sangha here, don't we? So let's go ahead and get started with our sitting together.
+
+Closing the eyes, if that's okay for you, and settling into a meditation posture, knowing that you're sitting with a large group of people from around the world, many of whom have expressed their happiness for being here and being together. Just feel the nice feeling from all of that connection of the Dharma.
+
+Maybe taking a couple of long, slow, deep breaths, and on the out-breath, softening into the body, arriving in the body. Maybe there's kind of an energetic feeling as you let the body awaken, letting the energy flow into the cells, permeating through the way water would permeate soil. It doesn't always feel like this, but that's the invitation: to invite a sense of opening to the body's energy and aliveness.
+
+You may notice as you do so that the body naturally settles into a position that is upright and also relaxed, that has some dignity and straightness to it but is soft, somewhat flexible. And so too in the mind, inviting the mind to be present, alert, and also receptive, willing to receive what is happening in the body, the heart, the environment around us.
+
+We may not always appreciate what an unusual stance that is in the world, actually: to be alert, receptive, calm, and yet engaged. And we don't always pull it off, of course, but even the intention toward that is quite special in the world, a gift of the human body and mind to do that.
+
+Perhaps sensing the breath coming in, going out, tuning into that natural life activity of breathing. Inviting the mind to rest with that flow. And even if there's some busyness or tiredness or emotions going on, we can breathe through that and still sense the breath and allow that to be there in the background or bubbling away, but we're still breathing.
+
+And gently allowing the attention to settle toward the heart area, down into the chest, the upper torso. It could be a broad area, could be smaller. Just sensing into the heart center. How is it? It's fine if there's some aching or tension. It may feel open, may feel warm. You may not feel anything.
+
+But I'll be inviting some instructions in metta[^1] practice, loving-kindness, goodwill, which you are invited to participate in as it feels right for you. It's also okay to do your regular meditation.
+
+So, allowing the breath to move through the heart area. Some people like to imagine the breath directly coming in and out of the front of the chest. Or if that imagination doesn't quite make sense, you can note how the air flowing into the lungs naturally flows around the heart. So breathing in and out through that area of the body, softening.
+
+We'll be doing a form of metta practice that is a radiating practice, rather than saying phrases. So we begin by evoking an image or a sense of a being for whom it's very easy to feel metta, feel goodwill, feel friendliness, well-wishing. A really good choice is a pet, an animal that you have a simple, happy relationship with. Or it could be an animal you see outside the window—a bird, a squirrel—or maybe a baby, a being for whom the relationship is simple and the heart naturally uplifts just on seeing or sensing this being.
+
+And you just bring in this image or feeling and allow it to evoke some sense of friendliness in the heart. It doesn't have to be anything big, just tune into that feeling that it brings. And then with the breath, just the way the breath brings in oxygen that circulates throughout the body, imagine this feeling of friendliness, warmth, being infused through the body by the breath. It stays centered in the heart area, but there's a feeling that it can spread a bit. And make sure you let it spread to the back side of the body and the sides, not just through the front where most of our attention tends to go.
+
+And now imagining a little further that on the in-breath, this feeling of friendliness, metta, grows brighter and stronger, as if it were a light in the chest. Like the way when you blow on a spark, it gets brighter on the in-breath. And then on the out-breath, we feel that spreading or shining of the metta. Breathing in, it gets brighter, stronger, fuller. Breathing out, it spreads outward.
+
+And as you get the hang of this, you're welcome to just drop the image or sense of the particular being and put all your attention on the feeling of the metta. For me, there's sometimes a feeling of gathering myself around this intention or feeling toward metta. Sometimes I imagine the way the dust out in outer space gets kind of gathered up, and when it's dense enough, like a star, it begins to shine. So we have this star in the middle of the chest. Breathing in, the parts of ourselves are gathered together toward this feeling of goodness, friendliness, and they shine. And then on the out-breath, we just let that radiate as far as it wants to go. There's no sense that we're pushing the metta out or trying to stretch it to reach somewhere. That's not what a light does. A light just shines. It might be a little candle, it might be something larger. However it is now is fine. The radiation of this sense of goodwill. Maybe it just gets to the surface of your body, maybe it gets a little bit out into the room. It can be quite modest. Keeping the attention on that feeling.
+
+The radiation of metta is said to be boundless, without boundary. And that doesn't necessarily mean that it goes all the way out to infinity—that's a lot. But instead, we would see boundlessness as being that we don't place any bounds on it. We don't limit it in any way. And one way that we embody that in the practice, bring it about in the practice, is that we imagine removing any boundaries that might be there.
+
+So the imagination is that there's maybe a curtain around the heart that's obscuring a little bit this radiation. And now, if you would, imagine drawing aside a curtain to the front. So suddenly the radiation is spilling out to the front of your body, completely unbounded. It doesn't matter how far it goes, but it's been freed by having the curtain drawn aside. It spreads forward.
+
+And now drawing a curtain aside to the right side of your body, so that the radiation spreads out, shoots out farther to the right.
+
+Drawing the curtain back now to the back side, and the metta radiates out, unbounded to the front, the right, and the back. See if you can imagine it radiating backwards. It's not often that we put our attention that way, but it's unbounded to the back.
+
+And now to the left side also, we draw aside this curtain. Radiation unbounded out to the front, right, back, and left. Boundless metta.
+
+We further imagine it spreading upwards and downwards. Metta is not blocked by the floor. The Earth can radiate all around freely, as far as it goes.
+
+And even if you're not feeling much, if metta is not so available to you, it's actually still helpful just to have directed the attention in all of these directions, to have some sense of awareness all around the body. Even without metta, that groundless, all-around awareness is beneficial. And if you're feeling metta, perhaps there's a sense of warmth or radiation in addition.
+
+So see if you can soften the effort at this point and just rest in whatever sense you have in the heart area. This is not meant to be a strong doing; more like we're being this all-around awareness or radiation of metta in a very soft, easy way. And you may notice that if it starts from the heart area and expands outward, it must pass through every cell of your body before it gets out. You are naturally the first recipient of your metta. And just resting.
+
+And now letting go of the feeling of metta. It may linger a bit, but just releasing that intention and just sitting with simple mindfulness of the body, of the mind. Or you can return to the breath if that feels natural. Just letting go and letting experience flow.
+
+And as we move toward the end of this sitting, I'd just like to invite a reflection on the way this heart quality can have a kind of a penetrating feeling through our whole body. We don't have to necessarily direct our love and care and goodwill toward particular beings or categories of being. We can imagine instead that there's also a way it can just become part of our cellular structure, so that it's kind of there in the background. And that this can inform our way of being in the world.
+
+I don't think we need to imagine an ideal, like we will always be a loving, kind, warm, perfectly socially attuned person. Ideals are not always so supportive. But nonetheless, having a sense of general goodwill, especially toward ourselves, can greatly inform our way of being in the world, such that we're a little more resilient in how we can meet our own difficult states of mind or challenges in the world. And also, it informs us to be able to see what is easeful and good and beautiful. If we're caught up in concerns and habitually in a negative mind state, we may not respond to the simple moments of joy that come: a beam of sunlight coming through the window, a cup of tea, somebody giving us a compliment in the grocery store. We may rush past simple moments like that. And if we have this general background or permeation of goodwill, we'll catch more of those.
+
+So there's a great enrichment of our life through tuning into the positive abilities in the heart, and that's a small bit of what we've done today. So I hope this will carry forward for you today and perhaps in other days as a support in your way of being in the world that benefits not only you but can spread out to others also, sometimes in unexpected ways. May it be so.
+
+## Dharmette: Letting Go and Cultivation (4 of 5): The Integrated Heart ([link](https://www.audiodharma.org/talks/22019))
+So, it's a week of talking about letting go and cultivation, in the spirit of these New Year intentions that many people are drawn to make, but also just in the spirit of walking the path skillfully in our life. On Monday, we named the three wise intentions that are taught by the Buddha, which are renunciation, non-ill will, and non-cruelty. The second and third of those are essentially about non-harming, and sometimes they're made into a positive form by calling them loving-kindness and compassion. I think that's okay.
+
+So I want to address those today, these cultivations that we bring in. But I want to talk not just about an abstract cultivation of them, like we would do on the cushion, but also an integrated cultivation. You know, how would we bring the heart more fully into all aspects of our life?
+
+I want to start with an anecdote. I was driving along a country road one day after a morning of hiking, and I came around a corner and I suddenly saw an oncoming car in the other lane flashing its headlights. My mind said, "Whoa, what's going on? Why are they doing that?" And while I was trying to figure it out, as I didn't see an obvious reason, the car went by. But then I saw it: there was a deer crossing the road that the other driver must have seen also. And I had plenty of time to stop.
+
+But I reflected that the flashing of the lights did help; it brought me to attention. Maybe I wouldn't have had time if they hadn't given me that signal. And then I felt really happy. I thought about how the other driver wasn't—they didn't have time to think carefully about what they were doing. There was the deer, there was my car coming around the corner, there was the concern to prevent harm. And so somehow they just decided to flash their headlights, quick, give a signal to that other person. And probably all of that happened faster than ordinary thought.
+
+So I don't know the actual mind state of that other driver, but it did remind me of what I like to call "integrated care in action." The way in our finer moments, acts like that come forth naturally. We just do something because that's what you do, because that's how we would care for the world around us and for the situation that we're in. And of course, we know that sometimes that integrated care in action doesn't come forth, right? We remember painful moments where it didn't come forth. So I felt really happy to have been kind of part of that in that moment.
+
+In Dharma practice, we don't have to leave that kind of integrated care in action up to chance. We can cultivate certain wholesome qualities so that they are more likely to come forth when needed. They become a more integral part of our life. And you know, many of the good qualities that we would want to cultivate and integrate are in this realm of non-harming: things like metta or compassion or patience or care, friendliness, goodwill.
+
+So many of us do learn metta practice first in the form of saying phrases of well-wishing for various categories of beings: ourself, a benefactor, a friend, a neutral person, a difficult person. And that kind of formal practice is very good. It can establish and strengthen this intention of goodwill, and it can also stretch it into new territory as we start including beings that we might not want to include at first. And there's also this radiation that we did, which is also a very good way. I find that to be a very effective way of cultivating metta.
+
+But I would say that there's yet another level to practicing metta or compassion or any other kind of non-harming. If we want it to more fully integrate into our action and speech and thought, then we can kind of—we have to take it on maybe as a training, not just a technique that we're doing. So metta is one of a set of character traits that are called parami[^2] that apply to a person who is walking the path to freedom, someone who is walking the eight-fold path. And they're meant to become character traits, actually part of how we are in the world, in a sense.
+
+And luckily, long before we've completely mastered this, like maybe the Buddha had, long before that, our mind can call them forth reliably in our actions in many cases. And they get expressed through how we are in the world. We have kind of a general tendency toward being kind or considerate or helpful. So at the appropriate moment, we might say something helpful, or not say something, right? Or maybe flash our headlights to alert another driver of a deer.
+
+So I want to read a quote from Ajahn Sucitto[^3] in a book that he wrote about the parami, these character traits. He says:
+
+> When we make the resolution of kindness, not just toward kittens on a nice day, but even toward cockroaches on a bad day, when we include dictators and brutal maniacs as well as all aspects of ourselves, then we're making metta into a Perfection, a vast and transfiguring way of life.
+
+So it's not just kittens on a nice day, but even people whose actions are clearly harmful. And even harder than that might be to include all aspects of ourselves. We all have aspects of ourselves that make us cringe, and they come forth sometimes, and then we feel bad about that. But we're meant to really include all of that, all of it, if we want to make metta, non-harming, into an actual way of life. Then we try to be more and more inclusive, even of those parts that are still suffering within us.
+
+And the promise of doing that is quite amazing. It's a potential to transform how we live in the world. We don't need to start, though, with the grandiose ideas. We tend to start more right here and right now with the ordinary aspects of our life. So if you're interested in this idea of cultivating metta as something that's a character trait or that pervades our way of being even amid the ups and downs, we can actually start pretty much with what we've got.
+
+For example, there's my neighbor. My neighbor feeds the squirrels. He's a very nice fellow, but he likes to feed the squirrels, and it's kind of sweet in a way. But we have this shared entryway, and sometimes when I come out the door, there's a squirrel hovering there, and I feel they're quite bold. And I feel like they're just close enough that if they wanted to, they could bite me. So I have a little bit of nervousness around that sometimes. And also, since they're all there, there's some urine stains accumulating on the concrete also, right? So there's this kind of mundane aspect of life. But I've learned to focus on my neighbor's generosity and appreciate the very real delight that he takes in giving the squirrels treats.
+
+So this practical cultivation of metta helps it become more integrated in us, and it comes through in various actions of speech and body and mind that we do. And if you want to consider, you know, how do I actually tune into that in a practical sense? I would recommend using the energetic sensations in the body, the way our emotions and thoughts manifest in bodily sensations. I know not everyone can feel the body so easily, but it's well worth tuning into that and developing that a bit if you can.
+
+So when we develop metta on the cushion, for example, instead of just focusing on the phrases, we can feel it directly as sensation. That's what I was inviting in the meditation this morning. Sometimes we'll feel warmth or softness or uprightness, a certain kind of dignified strength that comes in. And then as we do that on the cushion, that begins to translate into daily life because we also have access to sensations of the body, maybe less finely when we're out in the everyday world, but nonetheless, it's like the echo of it from the cushion is there. So we can have sensations of energy or warmth or contraction, we're tightening up. And as we learn to manage those and feel those in the body, then we'll have a sense of when the mind can be oriented toward metta and when it's starting to orient toward ill will or some form of harming, essentially.
+
+So the thought, for example, of my neighbor and his squirrel feeding habit, it might bring in a tightening of the throat or a sense of judgment, "You shouldn't be doing that," something like that. But I can also notice, if I notice the discomfort of those somewhat ill-will-related thoughts, there's something in the heart that wants to release that and not get caught up in that. And so then the mind tries to find a way to soften, focus on something different, expand awareness into the bigger picture so that I can be a little more relaxed about this one little instance of something that's happening.
+
+So sensing tension and the release of tension is a great tool for learning to relate well to both our internal mind states and to other people in the world. I think this was what Ajahn Sucitto is referring to when he calls metta a way of life: meeting our own anger, our own sadness or agitation with clarity, with kindness, neither resisting and judging them, nor believing them and collapsing into them, but being able to be with them. We talked a little earlier also about capacity, having the capacity to be with all the different aspects of ourself. One could say that's part of what metta is, part of what friendliness and goodwill is. And maybe it will translate also into meeting other people, even those whose values differ from ours. We can have some degree of flexibility or grace in meeting them, seeing them in a bigger picture, being able to treat them as the human being that they are, even if we don't agree with some of what they believe.
+
+So if we do this, if we take this on as a training, there's a part of the heart sometimes that objects a little bit and says, "Well, if I really commit to kindness and goodwill and compassion as a character trait, probably I'll become a doormat. And I'll just start agreeing with everything. I won't have enough empathy for the injustices of the world. I'll just think it's all okay." I haven't found that to be true on my own, as far as I've been able to go so far on this cultivation. It seems that we do still have the ability to differentiate what is helpful and what is harmful, to clearly name dictators and brutal maniacs, for instance, to choose a phrase from Ajahn Sucitto's quote. In fact, I would say that ability even gets sharper. But nonetheless, we're at the same time broadening and softening our mind to be able to encompass the fullness of experience and how the world really is out there.
+
+Ajahn Sucitto goes further in this book about the parami to say that when non-harming becomes mature in a person's heart, he writes, "The result is a mind that is grounded in wisdom and compassion, and which easily opens to the peace of Nibbana[^4]." So that's freedom, awakening.
+
+So may that be so. I think that is the potential. Is that if we really allow metta, goodwill, a sense of friendliness and care, the intention of non-harming to permeate our being, we become more able to stand in the world, be clear about what's skillful and unskillful, and yet to have the bigger picture that the suffering doesn't penetrate our heart. And so we're able to act and respond even better.
+
+So may that be the case. And I encourage this somehow within this set of New Year orientations of the mind that we tend to bring at this time of year. I hope it will include the cultivation of these traits of non-harming, as is implied by the second and third of the wise intentions: non-ill will and non-cruelty, or goodwill and compassion. So may it be so for all of us, for this world that needs it so much. Thank you.
+
+---
+[^1]: **Metta:** A Pali word meaning loving-kindness, goodwill, friendliness, or benevolence. It is one of the four sublime states (Brahmaviharas) in Buddhism and is cultivated through meditation practice.
+[^2]: **Parami:** A Pali word meaning "perfection" or "completion." In Buddhism, the Paramis are ten qualities of character that are cultivated on the path to awakening (Bodhi). These include generosity, virtue, renunciation, wisdom, energy, patience, truthfulness, determination, loving-kindness (metta), and equanimity.
+[^3]: **Ajahn Sucitto:** A British-born Theravada Buddhist monk (bhikkhu) and, for 22 years, the abbot of Cittaviveka, Chithurst Buddhist Monastery. He is a prominent teacher in the Thai Forest Tradition.
+[^4]: **Nibbana:** (Sanskrit: Nirvana) The ultimate goal of the Buddhist path, which translates as "quenching" or "extinguishing." It refers to the extinguishing of the "three fires" of greed, aversion, and ignorance, resulting in the complete cessation of suffering (dukkha) and the cycle of rebirth (samsara).
