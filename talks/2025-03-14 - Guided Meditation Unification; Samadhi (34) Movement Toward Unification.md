@@ -1,0 +1,90 @@
+---
+"date": "2025-03-14"
+"speaker": "Gil Fronsdal"
+"speaker_url": "https://www.audiodharma.org/speakers/1"
+"talk_urls":
+- "https://www.audiodharma.org/talks/22484"
+- "https://www.audiodharma.org/talks/22485"
+"title": "Guided Meditation: Unification; Samadhi (34) Movement Toward Unification"
+"video_url": "https://www.youtube.com/watch?v=nYoUNoXMuk8"
+---
+
+*This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Unification; Samadhi (34) Movement Toward Unification](https://www.youtube.com/watch?v=nYoUNoXMuk8). It likely contains inaccuracies.*
+
+# Guided Meditation: Unification; Samadhi (34) Movement Toward Unification
+
+The following talk was given by [Gil Fronsdal](https://www.audiodharma.org/speakers/1) at the Insight Meditation Center in Redwood City, California. Please visit the website [www.audiodharma.org](https://www.audiodharma.org) for more information.
+
+## Guided Meditation: Unification ([link](https://www.audiodharma.org/talks/22484))
+
+Hello everyone, and welcome to our meditation together. I'll begin by referring to the idea often taught in Buddhism that everything is impermanent. In essence, this means that everything is changing. Some things are impermanent because they don't last, but some things are inconstant. The only thing that's constant is their constant movement and change. When we sit to meditate, we're entering into a world of change, a world of inconstancy. But this world of change and inconstancy in meditation does not have to be random or chaotic. We are putting the conditions together where the change that unfolds is a healthy one, a beneficial one. The change is oriented towards being organized, towards gathering together, to be settled instead of scattered, to be organized instead of being fragmented, to be centered as opposed to being decentered.
+
+We can feel this movement inside of us, sometimes in psychological ways. We can feel physically that we lean towards what we want; we pull back from what we don't want. We say the mind wanders off, and it feels like it goes far away. The mind can be scattered. The body could be restless, which is a lot of movement. The restless body can feel disjointed and not working in harmony.
+
+And the body can feel very centered and collected and settled in itself, where the whole body kind of hums as a whole, nicely together. It's still inconstant, but it feels like everything is changing together in harmony, like a well-tuned engine which is humming along very nicely, or a well-centered wheel which is turning smoothly and nicely. It's still changing and moving.
+
+So it's possible in meditation to orient oneself around the changing nature of phenomena and to orient oneself to the movement towards harmony, the movement towards a gathering together, a unification, a coming into a centered kind of organization where everything is working together. Nothing is scattered, nothing is divided, nothing is left out. There's a feeling of wholeness. And we're coming into that wholeness, coming into that gathering.
+
+It's possible to have a very subtle feeling or a sense that it's almost like the gravitational pull—the psychological, emotional, physical gravitational pull of coming together, gathering together, becoming whole, becoming here in a full way. I've been in crowds of people where it seemed chaotic, people milling around talking, but then a bell rang, and you see people slowly gather together in a whole circle. They knew to sit in the circle, but it was beautiful to watch the coming together. We had a whole circle of people and a whole different feeling of being together as a group, but everyone had a sense of where to go to fit into the circle. So that sense of everything we are, it knows how to find itself together in harmony, partly a gravitational pull around the center.
+
+In this meditation, I'd like to encourage you to see if you can have this very subtle sense. Some of it might be physical, some of it might be emotional, some of it might be mental. A very subtle sense, like the subtle feeling of gravity. It mostly provides us a sense of weight and contact against some surface. There's something there that wants you to come together. Like on a trampoline, if you're sitting in the middle, weighing it down a little bit, all the balls that are on the trampoline will roll down to the middle. We had a trampoline with our little kids that had a lot of balls on it, so I know what it's like to stand or sit there in the middle and have the balls gather.
+
+So, to feel the movements—things are always in motion. Emotions are in motion. Thoughts are in motion. In a way, the body is always in some kind of subtle motion. And to have all that motion feel like it's coming together to work together.
+
+So, assume a meditation posture and think of the meditation posture, the outermost form of the meditation, as creating a wide, large, open space within which everything will fit. Everything has a chance to not be pinched, not be scrunched up, and not be forgotten. Such a posture, in some ways, maybe the chest can be more open, the spine a little more erect, the belly relaxed. The arms, especially around the elbows, are soft and relaxed. Maybe pulling the elbows a little bit closer into the sides of the body, shaking the elbows a little bit to remind them to be relaxed.
+
+And gently closing the eyes, so the eyes are not searching for things outside of you. Instead, let the gaze of the eyes be relaxed inward and backward, so the sense of seeing begins to participate in this gathering together. Relaxing as you meditate in the beginning is part of this gathering together. So as you breathe in an easy way, on the exhale, relax the muscles of the face, around the eyes. The muscles of the cheeks and jaws, imagine that they fall away from the skull and relax into the skin.
+
+Relaxing the shoulders, or feeling the pull of gravity on the shoulders, the weight of the shoulders, and how there is a very, very subtle pull for the shoulders to settle downward. To feel the belly there too. Is there any subtle tendency for the belly to want to relax and settle? Or maybe you feel the opposite, the tension pulling in and up. As you exhale, softening the belly.
+
+Is the thinking mind activated? Is there energy, activation, agitation, movement in the thinking mind? The power of the movement of the thinking mind can be strong. But even there, can you feel a desire, a tendency to move towards rest, to move towards calm? And as you exhale, soften, relax the thinking mind.
+
+From whatever degree of calm you can find in the mind, from there, settle your awareness into the body breathing. The experience of breathing. Maybe that place where breathing comes to rest, the resting point at the end of the exhale. The very subtle movement for the exhale to move towards a place of being settled and calm. Maybe by allowing the exhale to be a little longer than normal, not by forcing it, but by relaxing more.
+
+And as you inhale, let the body that's around the sensations of breathing in, let it be relaxed and receptive to the sensations of the body breathing in. The sensations of breathing in the body occur together with the sensing of those sensations. There's not really a distinction to be made between sensations and sensing. In a certain way, the coming together of sensations and sensing is where the mind and body become intimate with each other.
+
+If the mind is scattered or fragmented, see if you can gently bring all the pieces of the mind, organize them to be relaxed and soft, to work together to rest. Move towards the sensing of the body breathing. The sensations of the body breathing can be the center point around which everything gathers. And to feel the subtle gravitational pull of unification, becoming whole around this experience of breathing.
+
+Feeling any calm or subtleness that's present. And in the middle of the calm and settleness, is there a movement, a gathering together, a settling further? Is there a centering point of the trampoline which is welcoming all things to come to settle there at the middle?
+
+And as we come to the end of the sitting, is there some settleness, some gathering together, unification of being that in and of itself needs nothing from others? In and of itself needs nothing but to be at home in itself, be centered in itself. So that as you bring to mind the world that you'll enter into after meditation—the people, the work, the activities—imagine entering into it without any need for it to be any particular way, because you're centered here. And instead of need, there is goodwill and care and generosity emanating from this place of wholeness, where we can care for the world without neediness.
+
+May all beings be happy.
+May all beings be safe.
+May all beings be peaceful.
+May all beings be free.
+
+And may those wishes, those aspirations, be the simple expression of a settled heart.
+
+Thank you.
+
+## Dharmette: Samadhi (34) Movement Toward Unification ([link](https://www.audiodharma.org/talks/22485))
+
+Hello and welcome back to this series on samādhi[^1]. This week is a little bit of a review and getting back into the momentum of the practice after I was gone for two weeks. Today, the emphasis I'd like to make is talking about the unification process of samādhi. Samādhi practice is a practice by which the different scattered parts of who we are—scattered energies, scattered thoughts—begin to gather together. There's a feeling of unification, a feeling of becoming whole, where there's nothing scattered, nothing separated, nothing cut out. All of us are working together.
+
+It's a slow process to get there. Some people are very disconnected from parts of themselves. They are very connected to certain parts, which feels like it's the whole, but maybe they're not connected to their body. Some people are not connected to their emotions, or some particular emotions. Some people are so involved in their thinking that they almost don't know their thinking. It is for the field of awareness to open and become wider.
+
+This organizing unification can be done in two ways. One is a feeling of gathering together. The other is a feeling that the awareness is getting expansive, open, wider to hold it all. So there becomes lots of room for everything. Either way, there can be a subtle feeling of movement, of even direction, towards becoming whole. Sometimes that wholeness is a feeling that awareness just wants to expand outward to include it all. Rather than zeroing in on something, which is what the thinking mind, the anxious mind, the angry mind, or the desiring mind does—it focuses on what it wants, what it's worried about, what it wants to push away, what it's for and against. Here, the feeling is that the deeper mind, the more profound place of existence in us, just wants to open up. It doesn't want to be limited and held tight; it wants to just become expansive and include it all.
+
+At the same time, that can also feel like everything is settling together. There's a settling process, a relaxing process, and everything is gathering into this subtle kind of movement. The difference between this widening awareness and settling is not so distinct; they happen together. Sometimes the expansive one is called the *mahita*, the big mind or the expansive mind. The idea is that things are becoming unified, organized, working together, not at odds with each other.
+
+This is all part of the emphasis in Buddhism that everything is changing all the time. What's important to appreciate is that the change is not chaotic. The change follows patterns and is influenced by the conditions we set in place. If the condition is a preoccupation with thoughts, with difficult emotions, then that creates a movement towards being more scattered and disconnected. If the orientation is towards calm, to be centered, to be settled, that moves the change towards becoming organized, collected, and connected—everything connected together.
+
+We can contribute to that. We set up the conditions by what we're oriented towards, what our practice is, what we're seeing, and how awareness operates to allow this kind of movement towards wholeness. But what it needs is a kind of acute, deeper and deeper sensitivity to the meditative experience, as opposed to a heightened preoccupation with me, myself, and mine; a heightened preoccupation with our desires and aversions, our fears and anxieties. There's a shift of orientation from what the mind is gripping onto to what it's like to have the mind be open, the hand be open. It's almost that difference. In some ways, the hand that's open is unified, ready, open, receptive to what's there. The hand that's fisted together might seem unified in a certain way, but a lot is lost in the process, and quickly the tension in the fist becomes the predominant thing. When the hand is whole and open, there's a way in which the whole hand is gathered, connected, and involved together with what's happening. The same is true with the mind, with the heart—this relaxing, this opening, gathering together.
+
+What I'm emphasizing today is this subtle feeling, this subtle sense that we can have of a healthy direction for the meditation to go, that is more subtle and quieter than the pull of our ordinary preoccupations. To start being quiet enough to listen, to feel, to sense this subtle movement towards becoming settled, becoming open, expansive, connected. The subtle movement that cares for everything, that wants everything to come together, everything to be itself in a settled way.
+
+It's almost like every way in which we are scattered, every way we're pulled into preoccupations and desires and aversions—if you feel your way into the middle of the desire, the aversion, into the sensation of pulling and pushing and fighting, if you feel your way into each of it, you can feel that in there itself has a movement towards wanting to relax. Everything which is fisted wants to relax. Everything which is forceful, everything which is tight, everything which has an excessive kind of willful feeling to it, everything that is anxious, everything that is insistent, everything that's needy in us—these are all things to respect. And from this deeper place of sensing, you can sense into them and feel how they want to be connected to the whole, how they want to relax and settle. All things, if they're really attended to at their heart, you can feel that they belong to a process of getting organized, being connected and unified, returning to the whole, if you will.
+
+As the meditation gets deeper and deeper, this becomes part of the hallmark, part of the characteristics of the meditation. It's not a desire, it's not a wanting; it's inherent in the whole psychophysical system that when it becomes clearly aware of what's here, when it becomes settled and relaxed, when there starts to be a centered focus, a centered experience of here, everything wants to continue that process of centering, continue that process of opening. And you can feel the pull, the desire for that. Sometimes that desire can continue after meditation in daily life. There can be that clear sense of, "This is what wants to happen. I just want to meditate more. I just want to connect to this more. This is what the whole system is about—this coming into whole, coming into the healing, coming into the fullness." There can be this feeling of, "This is the direction to go in my life." Some people will decide to go on long retreats. Some people decide to just meditate more or meditate longer. You can feel inside that after a short period of meditation, what's in here is not finished. There's this momentum, this movement, this desire almost to continue this process.
+
+Sometimes it feels like it's all coming into a simple center where everything gets simpler and simpler. And as it gets simpler, for example just with the breathing, at the same time the mind can feel more and more expansive. Sometimes the movement seems to be more expansive, like everything is standing in a wide circle, but then what's really left is that the edges disappear and what's really left is the center, and things get simpler and simpler. So it's a movement towards simplicity also, in a certain way, because the mind is not thinking about so many things. The mind is not interested in thinking about so many things. The mind has been spending a lifetime thinking and wanting and worrying, and it's done enough of that. It's had its chance, and sometimes it doesn't seem to have done much good anyway. There's a strong feeling of, "Enough for now." It's vacation time. There's a time to really settle into this other way of being that is not scattered, not preoccupied, not desire-driven or anxious.
+
+This is the unification, and the word samādhi—that's one of the meanings of samādhi. It's a kind of gathering together of the mind. In Zen, 7-day Zen retreats are called sesshin[^2], which means something like "the gathering of the mind."
+
+So thank you, and we'll do one more day tomorrow of this kind of review and getting into this again. Next week, we'll return to what we did before, which is the approach into this deeper samādhi, what's called jhāna[^3], and we'll spend another week with the approach part of samādhi. Then I'm hoping the week after that we can begin at least the discussion of what's called the jhāna, the absorptions. So, thank you all very much.
+
+---
+[^1]: **Samādhi:** A Pāli word that refers to a state of meditative concentration or a collected, unified mind. It is a key component of the Buddhist path.
+[^2]: **Sesshin:** A Japanese term for a period of intensive meditation in a Zen monastery. The original transcript said "sashines," which has been corrected to "sesshin" based on the context of Zen retreats.
+[^3]: **Jhāna:** A Pāli word referring to a state of deep meditative absorption. There are traditionally eight stages of jhāna, each representing a deeper level of concentration and tranquility.

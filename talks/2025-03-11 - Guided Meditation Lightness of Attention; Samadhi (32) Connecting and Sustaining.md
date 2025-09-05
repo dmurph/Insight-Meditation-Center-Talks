@@ -1,0 +1,85 @@
+---
+"date": "2025-03-11"
+"speaker": "Gil Fronsdal"
+"speaker_url": "https://www.audiodharma.org/speakers/1"
+"talk_urls":
+- "https://www.audiodharma.org/talks/22460"
+- "https://www.audiodharma.org/talks/22461"
+"title": "Guided Meditation: Lightness of Attention; Samadhi (32) Connecting and Sustaining"
+"video_url": "https://www.youtube.com/watch?v=we8SHperSMA"
+---
+
+*This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Lightness of Attention; Samadhi (32) Connecting and Sustaining](https://www.youtube.com/watch?v=we8SHperSMA). It likely contains inaccuracies.*
+
+# Guided Meditation: Lightness of Attention; Samadhi (32) Connecting and Sustaining
+
+The following talk was given by [Gil Fronsdal](https://www.audiodharma.org/speakers/1) at the Insight Meditation Center in Redwood City, California. Please visit the website [www.audiodharma.org](https://www.audiodharma.org) for more information.
+
+## Guided Meditation: Lightness of Attention ([link](https://www.audiodharma.org/talks/22460))
+
+Continuing with this series on samādhi[^1], one of the important approaches to meditation has a lot to do with how you approach it—how you utilize your capacity for attention, for awareness, and for mindfulness; for knowing what's happening in the present moment, for feeling what is happening in the moment, for observing what's happening in the moment. I use all these words not to confuse you with too much to do, but for you to appreciate that we have these different attentional capacities. Different people are oriented towards different ones, and they're all good; they're all useful for helping us be here in the present moment.
+
+But how we engage it is important. The idea is not to engage it with strain, not to engage it with pushing or force, or expectation, or a strong desire for something to happen or not to be there. There's a lightness of being. If you're willing to go along with this almost-metaphor, our ability to be aware has no weight. The ability to hear a sound—the hearing has no weight. To see with your eyes—the seeing has no weight. The cognitive capacity to simply know and recognize what's happening has no weight. Some of it can occur without even any intention, any wanting to do it.
+
+So much of the attention we have that's operating through the day happens without self-referencing, without trying. And there's plenty of trying to be aware, a straining of the eyes to stare at something, straining to hear, straining to understand, straining to be mindful. There can be a lot of willpower involved, or self. The idea is to feel your way into where your capacity, your way of being aware, can return to where it has no weight—where it's almost like the weight of air, or the weight of a butterfly that lands on a flower, where you almost are not doing it, but rather you're allowing it. Almost like you're holding your hand open so the butterfly can land, or you're pulling the curtains so that your eyes can see what's outside without needing to look.
+
+This simple, light way of being aware. But there is a kind of deliberateness, there is a kind of a devotion. Maybe for some people, it could be called play. For some people, it could be called a loving commitment. For some people, maybe it's a preference. I like to call it an orientation. We orient ourselves to something which is the primary home for awareness. Maybe we can call it the nest. If awareness is a very light bird that can float on the updrafts, the bird keeps returning to its nest, and maybe at night gets cozy there, doesn't leave. And so breathing can be that nest. The body sensations of breathing may be the resting place, the nesting place deep inside. There's a preference to stay there.
+
+Exactly how to sustain that through time without any tension is the art. But there's a sustaining, entering into the nest, staying there. So for this meditation, I'd like to propose this idea of applied and sustained attention, vitakka and vicāra[^2], be used in the cycle of breathing. That when the inhale begins, you connect, apply—the butterfly lands on the flower of breathing, or you settle into the nest of the body sensation of breathing in the resting spot, the grounding spot where it's all rooted. And then stay lightly, softly. Ride the inhale, stay all the way through the exhale. Sustain without tension, without pressure, but really stay there. Orient yourself, organize yourself to be right there. There's a settling, and then do it again with the inhale. Begin and ride the wave in. Next inhale, connect and be, maybe like a butterfly that's gathering the nectar from the flower throughout the breath. And then it goes to the next flower for the next beginning of the inhale.
+
+So, to assume a meditation posture and gently closing your eyes, maybe so the eyelids are soft and relaxed, floating over the curve of the eyes, and the eyeballs are resting in their sockets. Maybe imagining your eyes are looking backwards and down, not looking outwards at all. The eyes take a rest from looking.
+
+And no matter how much weight you feel in your body, is there a place where you feel lightness in your body? Maybe the lightness of your fingers, maybe some lightness somewhere in the torso, a softness. Then as you exhale, to relax into the base of your breathing body, maybe softening your belly as you do so. As you exhale, without trying a lot, just almost like you're allowing it to happen. And as you exhale, let there be a softening through your body. Not an ambitious relaxing, just almost like letting the body soften. Together with any tension and holding there might be, it's all okay.
+
+With the exhale, maybe a wave of calmness through the mind and body. A wave of calmness through whatever is not calm. It's okay.
+
+And then at the end of the exhale, maybe deep in the torso, wherever you've come to the grounding place, the settling place of breathing, at the end of the exhale, pause for half a moment to allow room for relaxing, settling. A settling around the end of the exhale.
+
+And then with the lightest possible way, connect to the inhale as it begins and sustain the attention continuously through the full inhale, and riding the exhale all the way to the end.
+
+Connecting and sustaining the attention. It's not so much happening in the control tower, but it's the very, very nature, the very working of the body breathing itself, feeling itself, the breathing body experiencing the lightness of attention, breathing in and breathing out.
+
+As you feel the inhales and exhales, as you know it, as you sustain attention, if there's any pleasant sensations, pleasure in the breathing, in the sensations of breathing in and breathing out, let that be the nectar of sweetness that you feel and sense, that you take in.
+
+The weight of awareness resting on the sensations of breathing. And as you exhale, letting the thinking mind become quieter, so there's space in the mind to share with the pleasure of breathing.
+
+And then as we come to the end of this sitting, to appreciate or feel whatever way awareness, attention has no weight, has no strain in it. A sound arises and it's no effort to hear it. Some sensations arise in the body and there's no effort for it to be known. Some thoughts arise and maybe it's effortless to know the thought is there. There might be added strain or reaction, but in the beginning, it's just effortless, light.
+
+To stay in the lightness of awareness, to stay close to the lightness of being. And to then open your awareness, open your imagination to the world that you'll encounter after the meditation. Maybe locally, the room you're in, the building you're in, the neighborhood. And to understand that it's a gift you give to the world around you, the gift of the lightness of your being, the lightness of awareness that knows what's happening without reactivity, without tension, without an automatic call to action. Giving room to all things, allowing each person the space to be who they are. So perhaps your response to the world can come from a deeper place where love, kindness can arise with the same lightness as the lightness of awareness.
+
+May we enter the world offering it the gift of a light awareness, a light kindness, the lightness of goodwill. May all beings be happy. May all beings be safe. May all beings be peaceful. May all beings be free. And may the lightness of our awareness give space, give room, give time for others to be happy, safe, peaceful, and free.
+
+## Dharmette: Samadhi (32) Connecting and Sustaining ([link](https://www.audiodharma.org/talks/22461))
+
+Hello and welcome to this, now 32nd talk on samādhi. This week, the orientation is a little bit of a review. Part of the way of presenting this is that when you're practicing meditation, especially samādhi but anything, it's really valuable to always think of yourself as starting over, as a beginner. Don't come with a lot of expectations that you know what to do, you know how to meditate, and you're going to just sit down and do your thing. It's better not to come with any expectations, and maybe realize that we're often just beginning again, and that we're all beginners.
+
+Sometimes it's the beginning steps of meditation that we have to repeat over and over again, and it's invaluable to do that. We're actually transforming ourselves, changing ourselves in the background by just starting over and over again. It's like getting a massage; something's being worked and relaxing and opening. Learning to be gracious, learning to be relaxed and willing to be a beginner over and over again is how we can be an experienced beginner.
+
+One of the little secrets of an experienced beginner is expressed in this little saying: "The fastest way from A to B is to be fully at A." And so, just to really be willing to be here with how you are is the way. It turns out that we're not going anywhere in meditation; we're just going from A to A. But we're really going almost like we're going deeper into A. We're just really being here. And so we start where we are and allow that deeper settling to happen.
+
+A very important part of the beginning of really starting to enter into the world of samādhi is that the attention starts to be continuous in the present moment, with some kind of a place that it's the nest, it's the home base, it's the primary place where we really stay connected. Classically, that's the breathing. There can be other objects; practicing loving-kindness and the feelings of love that come up can be another alternative one. But with breathing, the idea is to be able to sustain attention over time. You can't really just kind of lock in. As we start from the beginning, the idea is that there's a gentleness where we persist, we sustain the attention there.
+
+Part of that is this massage, this rhythm of connecting and sustaining, connecting and sustaining. Maybe it's like a bird that maybe only has to flap its wings once to catch the updraft and it soars, and then does it again and soars. Maybe it's like a bee that lands in a flower and it just walks around looking for where the nectar is. The classic metaphor is that of taking a cloth to polish a bowl. You connect the cloth to the bowl and then you gently are rubbing it, and then you do it again in a different part.
+
+So this sustaining, this connecting and sustaining. I've offered you in that meditation a lot of different metaphors for that. I apologize if the metaphors are too many, but the idea hopefully is that one of those will work well for you. Sometimes a metaphor and imagination helps us be connected more to the practice. The Buddha used a lot of metaphors to help the mind kind of really feel or sense how to enter into the world of meditation.
+
+And then the idea is to sustain. I suggested in the meditation connecting with the beginning of the inhale and then sustaining it through the whole cycle of breathing in and breathing out. Sometimes that's too long. Sometimes what works better is to connect to the inhale, ride it, really stay there sustaining the attention however long the inhale is, and then do it again, connecting to the beginning of the exhale and riding that all the way out.
+
+An interesting way to help this sustaining and connecting with the breathing is—and you have to do this very gingerly, very carefully, gently, just enough, not too much, maybe slightly less than—at the end of the exhale, let there be a little pause that allows the exhale to maybe relax further, or the whole body to relax into the experience. Because you're pausing at the end of the exhale, there's a little bit in the body that gets interested, like, "Where is the next inhale? I should be breathing," but not with any distress, just a gentle kind of, "Oh, I'm waking up." The pause allows something to relax, to let go, that maybe it wouldn't do if we go immediately to the inhale. And then also you could do that sometimes at the end of the inhale; just pause and let there be a relaxing and opening, and then release into the exhale.
+
+So this is like the massage, this is kind of the working, kneading. The classic metaphor is kneading a kind of powder with water, making it moist. So we're working the breath in a very light, soft, relaxed way, no strain in the attention, but just enough. In the muscles, there's a difference between tense muscles and taut muscles. The tautness of a muscle—many of the muscles are taut, that's what their nature is, to be taut, the muscles holding up the back for example. And so, they're relaxed enough. So kind of a simple tautness or commitment or interest, just stay interested, or love, or an inspiration, something. Stay there, stay with the whole flow.
+
+If you sit down to meditate, sometimes the breathing can be quite fast, and it's just really quick breathing in and out, and that idea of sustaining, you're not really ready for it. But as we settle and get calmer and calmer, and the breathing begins slowing down and the inhale and exhale become longer, that's when it starts to work better and better to just stay with the whole thing.
+
+Sometimes it's the awareness that's connecting and sustaining, and sometimes you can turn it around and feel it's the breathing that's doing the work of meditation, that the breathing is connecting to awareness and sustaining it. That the sensations of breathing and the sensing of those sensations are one and the same thing. So whether you're the one who's staying there sensing, or whether it's the sensations that are coming into the sensing, it's a little bit hard to separate them out. So you can say it either way. Sometimes the attitude that the breathing is coming into awareness, that the breathing is what's connecting and sustaining, can make it lighter, can take the habit of being the doer and the one who's trying to make something happen, and take a rest.
+
+So the idea is play with it. Play with your attention, find the lightness, find the sustaining and connecting, really kind of settle in. And then to feel the pleasure of it, if there's any, even the slightest sense that it's pleasant, to take that in as well. And once you start feeling some of the pleasantness, the sweetness that comes with meditation, then it might be easier to let go of your thinking, so that the thinking mind is more relaxed. Let go of the thoughts so that the mind itself, the space in the mind, becomes larger and can somehow receive or take in or share in some of the pleasure of the meditation. A quieter mind is a mind that can feel more pleasant.
+
+So I hope all this gives some of you some ideas. Maybe there's just a few of them that really help you be an experienced beginner here. And as I said yesterday, if at all you're able to meditate a second time today, even 10-20 minutes, I think that if you then maybe try and do some of this on your own without guided meditation, and be very accepting of however you are and however easy or difficult it is, assuming just sitting and meditating is enough. Don't be too measuring how well you're doing.
+
+So thank you, and I look forward to being here tomorrow.
+
+---
+[^1]: **Samādhi:** A Pāli word for a state of meditative concentration or collectedness. It is a key component of the Buddhist path, often described as the unification of the mind on a single object, leading to states of deep calm and clarity.
+
+[^2]: **Vitakka and Vicāra:** Two Pāli terms that describe aspects of the concentrated mind. *Vitakka* is often translated as "applied thought" or "initial application," referring to the mind's initial movement toward the meditation object. *Vicāra* is translated as "sustained thought" or "sustained application," referring to the mind's ability to remain connected with and explore the object. Together, they represent the process of connecting with and sustaining attention on the object of meditation.

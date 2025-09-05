@@ -177,6 +177,34 @@ def generate_index_html(all_talks, speaker_talks, output_path="talks/index.html"
 </html>"""
         )
 
+def generate_sitemap(all_talks, speaker_talks, output_dir):
+    base_url = "https://dmurph.github.io/Insight-Meditation-Center-Talks"
+    sitemap_path = os.path.join(output_dir, "sitemap.xml")
+    
+    urls = []
+    
+    # Add main index page
+    urls.append(f"{base_url}/talks/index.html")
+    
+    # Add speaker pages
+    for speaker_id in speaker_talks.keys():
+        urls.append(f"{base_url}/talks/speaker/{speaker_id}.html")
+        
+    # Add talk pages
+    for talk in all_talks:
+        filename = os.path.basename(talk.filepath)
+        html_filename = os.path.splitext(filename)[0] + ".html"
+        encoded_filename = urllib.parse.quote(html_filename)
+        urls.append(f"{base_url}/talks/{encoded_filename}")
+        
+    with open(sitemap_path, "w", encoding="utf-8") as f:
+        f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
+        f.write('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
+        for url in urls:
+            f.write(f'  <url>\n    <loc>{url}</loc>\n  </url>\n')
+        f.write('</urlset>\n')
+    logging.info(f"Generated sitemap with {len(urls)} URLs at {sitemap_path}")
+
 def generate_all_html_pages():
     parser = argparse.ArgumentParser(description="Generate HTML files for talks.")
     parser.add_argument(
@@ -196,6 +224,8 @@ def generate_all_html_pages():
 
     index_path = os.path.join(args.output_dir, "index.html")
     generate_index_html(all_talks, speaker_talks, output_path=index_path)
+    
+    generate_sitemap(all_talks, speaker_talks, args.output_dir)
 
 if __name__ == "__main__":
     generate_all_html_pages()
