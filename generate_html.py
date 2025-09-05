@@ -109,7 +109,7 @@ def generate_speaker_html(speaker_id, talks, output_dir="talks/speaker"):
 <body class="speaker-page">
     <div class="container">
         <div class="talk-list">
-            <h2>Talks by {speaker_name}</h2>
+            <h2><a href="../index.html">Insight Meditation Center Talks</a> by {speaker_name}</h2>
             <p>
                 This is an index of all ai-generated talk publications 
                 <a href="https://github.com/dmurph/Insight-Meditation-Center-Talks">processed here</a>
