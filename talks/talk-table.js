@@ -131,7 +131,7 @@ class SpeakerTable extends HTMLElement {
                 header.innerHTML = `
                     <tr>
                         <th>Speaker</th>
-                        <th>Audiodharma Page</th>
+                        <th>Audiodharma</th>
                     </tr>
                 `;
                 table.prepend(header);
