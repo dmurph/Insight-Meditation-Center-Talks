@@ -1,0 +1,91 @@
+---
+"date": "2024-12-19"
+"speaker": "Gil Fronsdal"
+"speaker_url": "https://www.audiodharma.org/speakers/1"
+"talk_urls":
+- "https://www.audiodharma.org/talks/21936"
+- "https://www.audiodharma.org/talks/21937"
+"title": "Guided Meditation: Wholeness; The Road Less Travelled (4 of 5) Undivided\
+  \ Whole"
+"video_url": "https://www.youtube.com/watch?v=il3HMR_Qcco"
+---
+
+*This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Wholeness; The Road Less Travelled (4 of 5) Undivided Whole](https://www.youtube.com/watch?v=il3HMR_Qcco). It likely contains inaccuracies.*
+
+# Guided Meditation: Wholeness; The Road Less Travelled (4 of 5) Undivided Whole
+
+The following talk was given by [Gil Fronsdal](https://www.audiodharma.org/speakers/1) at the Insight Meditation Center in Redwood City, California. Please visit the website [www.audiodharma.org](https://www.audiodharma.org) for more information.
+
+## Guided Meditaiton: Wholeness ([link](https://www.audiodharma.org/talks/21936))
+
+Good morning, everyone, and good day. Welcome. This morning, as a way of beginning, I would like to evoke the image of standing on a wonderful high mountain peak on a very clear day. This mountain peak is on the edge of a vast land that's below; nothing is higher. You can see a far distance: the Great Plains below, the mountain ranges to the north, the ocean to the West, Great Rivers to the East. And in standing there on this day, you look around and what stands out is all the different weathers that you can see. In some areas, you see that it's raining, clouds, maybe rainbows. In another direction, maybe higher up, you can see in the distance, far from you, where it's sunny. You can see that it's even snowing.
+
+Down below, you see across where the ocean is, you see fog banks coming in. And it's clear that down in the valleys, that somehow the wind is turning and maybe the soil is being kicked up, so that you see little tornadoes or wind storms. And other places further down, you see that there are blue skies far to the South, and places where it looks like it's maybe almost desert-like and clear, warm it looks down there.
+
+And so you see that there are so many different kinds of weather, and as you watch it, you see it shifting and changing. Clouds move, rain comes and goes. But what stands out is that even though you can differentiate these different parts of the weather, it's just all part of the same weather system. They're all interrelated. You could, in some sense, say that there's a continuity between all the different weather that you see, that there's no line and barrier between one and the other. They're all in some ways in relationship to each other. The weather is a whole. And in a sense, we can know that the weather of the whole planet is this global weather patterns that influence each other and work together. And now, scientists think of the global weather as a single whole that is interacting with itself.
+
+And so, in the same way, as we sit on our mountain peak of meditation, on our cushion, our chair where we're sitting, all that we experience in ourselves can be like the weather. We can certainly see that there are different emotions and feelings and sensations happening, but there's some way of seeing it all as part of a larger whole, to not create strong lines or boundaries between one thing and the other. The boundary between your hand and your arm is an arbitrary line. Your fingers and your palm—we usually don't separate that. We think of the hand. We can, of course, think about a finger. We can, of course, think of the hand separate from the rest of the arm, but there's also a continuity, and they all work together as a whole. Our heart is part of the whole, our whole body. The heart nourishing the body, the heart nourishing itself by how it works. But the heart exists completely interdependent on everything else in our body.
+
+And so in meditation, one way to approach it is not to get too focused on one particular thing as if that's the most important thing, but rather to see that all that happens to us is part of one larger whole. And often, the part of our life that we're preoccupied with is only a very small percentage of what keeps us alive and going in any given moment. 99.999% of what keeps us alive and living and activated and conscious are processes within us that we don't control, that we can support, but that operate without our conscious effort. And so the 99.999% of who we are is the larger part of the whole than the particular part that we're preoccupied with, that we define ourselves by.
+
+And so, to behold very lightly any way we define ourselves, anything that we're preoccupied with, and instead of getting absorbed in preoccupation, stand on the mountain peak of mindfulness and see it all as part of the weather, the larger weather system, without being caught in the divisions that the mind makes. So to take the whole of your body and assume a meditation posture.
+
+And to lower your gaze, perhaps gently close your eyes. And as you are, what's the broadest way at this moment that you can feel your body? What are the sensations in your body that appear, flow, express themselves as you're sitting here? And to see it as part of a larger whole.
+
+And then within this body, maybe as part of the whole, experiencing how the body breathes, the movements of breathing, sensations of body as you breathe. And as a way of entering into your body more fully, take a few fuller breaths, relaxing as you exhale.
+
+Letting your breathing return to normal. On the inhale, see if you can experience, recognize, notice what the thinking mind is like, how it feels, how activated it is, but to feel it as part of the wider whole. It's just a piece of the weather of who you are.
+
+Relaxing the thinking mind.
+
+And then feeling, as part of the whole, how things are for you in your heart center. Almost as if whatever is in your heart center, whatever your emotion is, is nested in a wider whole of your body, mind, awareness. No need to be focused or fixated on how you feel. There's something better than that, and that is to allow it to be nestled in the wider whole of your body.
+
+And then finally, to center yourself on your breathing. In some ways, breathing, the processes of the body connected to breathing, touch every cell in your body. As you breathe in, let your awareness grow and spread throughout your body with the inhale. And as you exhale, relax back into some center, some root stability within.
+
+Being with the whole of your body, maybe a whole that includes all things about yourself: thoughts, feelings, sensations.
+
+When there is tension in the body and mind, we are compromising the whole of who we are. For the body and mind to soften and relax helps us move back into the whole.
+
+And as we come to the end of this sitting, might it be possible for you to relax more fully into your body, or to allow yourself to sense as wide, as broad a field of your body as possible? Maybe the humming, vibrating, flowing sensations of your body, whatever broad sense of the whole body that you can rest in.
+
+And relaxing, softening any activation of your thinking mind. And in that relaxation, allow there to be a broadening, a further broadening of awareness to take in the whole without centering yourself on anything in particular.
+
+And then to expand, relax outward with a relaxed gaze or a relaxed sense of all the beings, human and others, that are found in your neighborhood, that are found in your city or county, province. As if all of them are part of a whole, working together, part of the wider biological, social systems that can live harmoniously together as a whole.
+
+And maybe feeling a sense of kinship with all living things. All living things of a common source, origin. All living things exist together in the whole of the biosphere. And may we care for the whole and for the individuals. May all beings be happy. May all beings be safe. May all beings be peaceful. May all beings be free. And may we extend our care to contribute to that possibility.
+
+Thank you.
+
+## Dharmette: The Road Less Travelled (4 of 5) Undivided Whole ([link](https://www.audiodharma.org/talks/21937))
+
+So welcome to this fourth talk on "The Road Less Taken." The road that's commonly taken for many people is one that somehow is related to attachments, to clinging. And one of the primary attachments that we have is clinging to self, and clinging to being alive, clinging to our identity. One of the ways that we do that is to select something out of our environment to be us, something out of our whole constitution as a human being to be what's important and what's valued—what's valued for us, what's valued for others. And in doing so, divide up the whole.
+
+When that division, when that sense of identity is created, formed, made up based on attachment, that identity will bring suffering. It'll also bring a division of the whole. We no longer live in the whole of our experience, but we're prioritizing a small subsection of it. And one of the ways that that is physically experienced is through tension, through tightness in the body and the muscles. It's very interesting to see how when there's a preoccupation in the mind around anxiety, for example, or fear, or anger, or desire, the impact it has on the tension in the muscles in the body can be sometimes quite large. The shoulders are held tight, the chest is kind of contracted. It can be in the hands; sometimes the hands are fidgeting a lot and moving. And sometimes it's in the jaw, tight. Sometimes it's in the eyes; the eyes are not floating and relaxed in their sockets but are held and fixated at something. There's a myriad of ways in which we hold tension in our body that has its source in the tensions in our mind.
+
+So if we're caught in thoughts that are anxiety thoughts, worry thoughts, if we're kind of caught in thoughts of ill will or aversion or desire, if we're caught in thoughts about me, myself, and mine, and my identity and myself as the responsible one, as the victim of it all, as the consumer of experience—all kinds of ways in which we create something—if it comes with tension, even if it seems reasonable to have tension as a survival mechanism, sometimes what it does is it starts creating divisions in the whole of who we are. It tends to prioritize and restrict and limit the experience of who we are. And sometimes people are quite restricted from being easily in touch with themselves. Some people live from the neck up, some people from the waist up. Some people are not really in touch with their body at all.
+
+And so in various ways, we begin dividing up the whole. We begin centering ourselves on something that we've kind of taken as being the thing. And that can be done conceptually with our understanding and the focus of things, and it can be physically because of the impact of tension and holding and where our attention goes and where it doesn't go.
+
+And so the Buddha emphasized this quite a bit. And he said that greed, hatred, and delusion, kind of the root cause for all forms of attachment, creates limitations, creates boundaries, creates edges that we then live in between what's included and what's not. And we can feel that physically, the way we contract and hold ourselves. We can feel how the doors of the heart sometimes close and go numb or are not available. And all kinds of ways in which we then live under limitation. And so greed, hatred, and delusion is what limits us. And what arises out of greed, hatred, and delusion then is a further limitation. So if there's preoccupations and thoughts that come from that, it limits us, it makes us smaller in a sense, or the range of who we are becomes less and less.
+
+And a lot of this operating system that comes out of greed, hatred, and delusion, when it flows into the thoughts that are trying to get what we want, it often comes along with creating ideas and attitudes of who we are. And many times, the identities that we have that we form have the role not of opening us up to the whole of who we are—which certainly identity can at times—but actually limits us and makes us much smaller than who we are. This idea that the made-up world of identity limits us. So if our identity is mostly having to do with our physical body, that's a limitation; we're much more than the physical body. If our identity is around certain ideas and concepts and we're rotating around those concepts and those roles that we've entered into, that limits the whole. If our identity and who we think we are is shaped predominantly by the stories of our life, the stories we make up, the fantasies we have, that limits us. And if we focus too much on the nature of awareness itself, being aware or cognition of things, that that itself is a limitation on the whole.
+
+So the Buddha called these limitations the five bundles of clinging.[^1] I didn't talk about all five, but those five are physical appearance, whether things are pleasant or unpleasant—that's what some people really focus on, and they're limited by that, always trying to adjust and make themselves comfortable and avoid discomfort—our ideas of how we recognize the world and ourselves, the stories we have, and the wonderful, marvelous act of cognition or moments of consciousness with which we understand ourselves and the world. The Buddha called centering on any one of those a limitation.
+
+And what we're looking for in Dharma is to let the whole, this deeper operating system, operate—an operating system that operates within the whole. So something like, for example, the heart. Our heart, generally when everything's going well, is completely operating with an interconnectedness with the whole of who we are. The heart doesn't care that our role, our career, who we're related to, all kinds of things. The heart doesn't care; it just does its work and supplies the whole of who we are. A child that's growing up, the growth of that child comes from the inside out as it eats food and is nourished, and the whole biological system with which it grows belongs to the whole of the child. It's not a limited part of the body, the feelings, the stories, the identities that child has.
+
+So there's so much of who we are that wells up from deep inside. And for the Buddha, the deepest spiritual way of being in the world, the deepest emotional way of being in the world, is not in the world of attachments and stories and ideas within the field of those limitations we create, but comes when we settle and relax and allow an upwelling, allow the growth, allow a flow, allow our inner development to come out of and be part of the whole of who we are. And part of the role of meditation is not so much to just get calm or not just to have insight, because both of those come back into this limited world, thinking that calm or pleasure in meditation is the point, to be peaceful is the point. I'd like to suggest that one of the real values of Buddhist practice and meditation practice is to get out of the way, or to relax all the limitations, all the edges we've created for ourselves, all the tensions by which we live that limit who we are, so we can sense and feel something that is not part of our constructed world, not part of the world which we think about or are judging about or having commentary about, but something that's organic, something that is deep inside that can flow or grow or feel like it has no edges to it.
+
+And so things like the seven factors of Awakening, things like the Brahma Viharas[^2]—loving-kindness, compassion, appreciative joy, equanimous love—all these things, they don't have boundaries. They are kind of just something we radiate or flows throughout our whole being, ideally. And that's possible. It's possible to have a sense that it's all part of an organic whole, not part of some particular thing that we're holding on to and fixated on. We might have ideas about love, but the sense, the feeling, the warmth, the tenderness, the glow of warmth and love within us, that's part of that organic whole that we can relax into.
+
+So, to relax the tensions of the mind, to relax the tensions of the body, so that we live without edges, without boundaries, without divisions inside of ourselves—an undivided whole of our being that makes us so much more than anything that any way that we can think about ourselves. And thinking is certainly part of that whole, which makes it kind of fun at times.
+
+The second operating system is one that belongs to more of an undivided world, an undivided self, than it does a divided self, a fragmented self that most people live in. So, The Road Less Traveled, there's a fork always. And to choose the wholesome rather than unwholesome is to choose that which belongs to the whole and that which comes out of the whole. To choose the unwholesome is to choose that which is restricting the whole or in a more limited world that's not whole, it's fragmented, it's divided.
+
+So may you experiment today. May you sense and feel the ways that you live that are closer to taking the wholesome step rather than the unwholesome step, that the way you live tends to open to a wider sense of how things are than to a restricted, narrower sense of how things are. And may that bring you much joy and delight. May that bring you a sense of being cozy in yourself, cozy nested in a wider world that therefore is softer and maybe more receptive to you.
+
+So thank you very much. And we'll conclude this talk tomorrow, and then I'll talk a little bit tomorrow about what's planned for the new year and for this YouTube theme. Thank you.
+
+---
+[^1]: **Five Bundles of Clinging:** Also known as the Five Aggregates or *Skandhas* in Sanskrit. They are form, feeling, perception, mental formations, and consciousness. In Buddhism, these are the five aspects that constitute a sentient being's sense of self.
+[^2]: **Brahma Viharas:** The "divine abodes" or "four immeasurables" in Buddhism: loving-kindness (*metta*), compassion (*karuna*), appreciative joy (*mudita*), and equanimity (*upekkha*).
