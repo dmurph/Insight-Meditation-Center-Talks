@@ -1,3 +1,17 @@
+- youtube_id: xCSrCC8DFmg
+  talks:
+  - title: 'Guided Meditation: Just Hearing'
+    id: 23769
+    date: '2025-09-05'
+    speaker_id: 240
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23769/20250905-Diana_Clark-IMC-guided_meditation_just_hearing.mp3
+  - title: 'Dharmette: Buddhism Beyond the Lists (5 of 5); Collections Not Cores'
+    id: 23770
+    date: '2025-09-05'
+    speaker_id: 240
+    start_time_seconds: 1796
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23770/20250905-Diana_Clark-IMC-dharmette_buddhism_beyond_the_lists_5_of_5_collections_not_cores.mp3
 - youtube_id: 9sV117lN0pw
   talks:
   - title: 'Guided Meditation: Be Here'
@@ -34,7 +48,7 @@
     speaker_id: 240
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23745/20250902-Diana_Clark-IMC-guided_meditation_sitting_with_others.mp3
-  - title: 'Dharmette: Buddhism Beyond the Lists (2/5) Beautiful Friendship'
+  - title: 'Dharmette: Buddhism Beyond the Lists (2 of 5) Beautiful Friendship'
     id: 23747
     date: '2025-09-02'
     speaker_id: 240

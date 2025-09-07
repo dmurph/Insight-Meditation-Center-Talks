@@ -185,11 +185,11 @@ def generate_sitemap(all_talks, speaker_talks, output_dir):
     today = datetime.now().strftime('%Y-%m-%d')
     
     # Add main index page
-    urls.append({"loc": f"{base_url}/talks/index.html", "lastmod": today})
+    urls.append({"loc": f"{base_url}/talks/index.html", "lastmod": None})
     
     # Add speaker pages
     for speaker_id in speaker_talks.keys():
-        urls.append({"loc": f"{base_url}/talks/speaker/{speaker_id}.html", "lastmod": today})
+        urls.append({"loc": f"{base_url}/talks/speaker/{speaker_id}.html", "lastmod": None})
         
     # Add talk pages
     for talk in all_talks:
@@ -208,7 +208,8 @@ def generate_sitemap(all_talks, speaker_talks, output_dir):
         for url_info in urls:
             f.write(f'  <url>\n')
             f.write(f'    <loc>{url_info["loc"]}</loc>\n')
-            f.write(f'    <lastmod>{url_info["lastmod"]}</lastmod>\n')
+            if url_info["lastmod"] is not None:
+                f.write(f'    <lastmod>{url_info["lastmod"]}</lastmod>\n')
             f.write(f'  </url>\n')
         f.write('</urlset>\n')
     logging.info(f"Generated sitemap with {len(urls)} URLs at {sitemap_path}")
