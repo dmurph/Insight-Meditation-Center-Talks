@@ -1,5 +1,7 @@
 # Byte-compiled / optimized / DLL files
 
+.gemini/
+
 .DS_Store
 
 __pycache__/
