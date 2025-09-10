@@ -103,6 +103,7 @@ def generate_speaker_html(speaker_id, talks, output_dir="talks/speaker"):
     <script src="../talk-table.js"></script>
     <link rel="stylesheet" href="../style.css">
     <meta charset="UTF-8">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
 </head>
 <body class="speaker-page">
     <div class="container">
@@ -141,6 +142,7 @@ def generate_index_html(all_talks, speaker_talks, output_path="talks/index.html"
     <script src="talk-table.js"></script>
     <link rel="stylesheet" href="style.css">
     <meta charset="UTF-8">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
 </head>
 <body class="index-page">
     <h1>Insight Meditation Center Talks</h1>

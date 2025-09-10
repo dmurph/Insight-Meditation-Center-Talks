@@ -5,7 +5,7 @@ import yt_dlp
 from filesystem import sanitize_filename
 import youtube
 import audiodharma
-import ai
+import article_builder
 import cache
 from article import Article
 import generate_html
@@ -40,7 +40,11 @@ def process_youtube_videos(
         video_url = f"https://www.youtube.com/watch?v={video_id}"
         try:
             metadata = youtube.get_video_metadata(
-                video_id, video_url, ydl, metadata_cache, skip_metadata_cache
+                video_id,
+                video_url,
+                ydl,
+                metadata_cache,
+                skip_metadata_cache
             )
             video_title = metadata["title"]
             upload_date = metadata["upload_date"]
@@ -112,32 +116,25 @@ def process_youtube_videos(
             )
 
             if raw_transcript_path:
-                cleaned_content = ai.clean_transcript(
-                    raw_transcript_path,
-                    video_title,
-                    video_url,
-                    speaker_name,
-                    speaker_url,
-                    talk_headers_str,
+                new_article = article_builder.create_article(
+                    raw_transcript_path=raw_transcript_path,
+                    video_title=video_title,
+                    video_url=video_url,
+                    speaker_name=speaker_name,
+                    speaker_url=speaker_url,
+                    talk_headers_str=talk_headers_str,
+                    upload_date=upload_date,
+                    talk_urls=talk_urls,
+                    processed_output_path=processed_output_path,
                 )
 
-                if cleaned_content:
-                    new_article = Article(
-                        title=video_title,
-                        date=upload_date,
-                        video_url=video_url,
-                        speaker_name=speaker_name,
-                        speaker_url=speaker_url,
-                        talk_urls=talk_urls,
-                        content=cleaned_content,
-                        filepath=processed_output_path,
-                    )
+                if new_article:
                     new_article.save(processed_output_path)
 
         except Exception as e:
             logging.error(f"  -> An unexpected error occurred in the main loop: {e}")
 
-    logging.info("\n--------------------")
+    logging.info("\n--------------------\n")
     logging.info("Download process finished.")
 
 
@@ -157,6 +154,13 @@ def main():
         type=int,
         default=0,
         help="Limit the number of videos to process (0 for no limit).",
+    )
+    scrape_and_generate_parser.add_argument(
+        "--source",
+        type=str,
+        default="audiodharma",
+        choices=["audiodharma", "imc-playlist"],
+        help="The source of videos to process.",
     )
     scrape_and_generate_parser.add_argument(
         "--force-redownload-transcripts",
@@ -311,18 +315,26 @@ def main():
     args = parser.parse_args()
 
     if args.command == "scrape_and_generate":
+        videos = []
         audiodharma.run_scraper(
-            start_page=1,
-            max_pages=1000,
-            talks_output_file="cache/audiodharma/talks.yaml",
-            speakers_output_file="cache/audiodharma/speakers.yaml",
-            overwrite_existing_file=False,
-            full_scrape=False,
-            save_after_pages=10,
-        )
-
-        audiodharma_talks, _ = cache.load_audiodharma_data()
-        videos = [{"videoId": vid} for vid in audiodharma_talks.keys()]
+                start_page=1,
+                max_pages=1000,
+                talks_output_file="cache/audiodharma/talks.yaml",
+                speakers_output_file="cache/audiodharma/speakers.yaml",
+                overwrite_existing_file=False,
+                full_scrape=False,
+                save_after_pages=10,
+            )
+        if args.source == "audiodharma":
+            audiodharma_talks, _ = cache.load_audiodharma_data()
+            videos = [{"videoId": vid} for vid in audiodharma_talks.keys()]
+        elif args.source == "imc-playlist":
+            videos = youtube.get_video_urls(
+                url_or_id="UUGliqsod-tQoGiHahxS9Wig",
+                type=youtube.UrlType.PLAYLIST,
+                rebuild_cache=False,
+                skip_download=False,
+            )
 
         if not videos:
             logging.info("No videos found. Exiting.")

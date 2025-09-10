@@ -1,3 +1,17 @@
+- youtube_id: q42bMfrhbZI
+  talks:
+  - title: 'Guided Meditation: Cultivating Gentleness'
+    id: 23788
+    date: '2025-09-08'
+    speaker_id: 142
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23788/20250908-Maria_Straatmann-IMC-guided_meditation_cultivating_gentleness.mp3
+  - title: 'Dharmette: The Five Precepts 1of5 Refrain from Harm'
+    id: 23786
+    date: '2025-09-08'
+    speaker_id: 142
+    start_time_seconds: 1820
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23786/20250908-Maria_Straatmann-IMC-dharmette_the_five_precepts_1of5_refrain_from_harm.mp3
 - youtube_id: QS0jeeM5R2U
   talks:
   - title: To Love as if it Matters

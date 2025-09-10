@@ -16,6 +16,7 @@ def clean_transcript(
     Returns the content as a string, or None if an error occurs.
     """
     PROMPT_TEMPLATE = "prompt_template.mdt"
+    PROMPT_TEMPLATE_NO_TALKS = "prompt_template_no_talks.mdt"
 
     logging.info(f"  -> Processing with AI: {raw_transcript_path}")
     if not os.path.exists(raw_transcript_path):
@@ -26,8 +27,9 @@ def clean_transcript(
 
     transcript_extension = raw_transcript_path.split(".")[-1]
 
+    prompt_filename = PROMPT_TEMPLATE if len(talk_headers) > 0 else PROMPT_TEMPLATE_NO_TALKS
     try:
-        with open(PROMPT_TEMPLATE, "r", encoding="utf-8") as f:
+        with open(prompt_filename, "r", encoding="utf-8") as f:
             prompt_template = f.read()
     except FileNotFoundError:
         logging.error("  -> Could not find prompt template file!")
