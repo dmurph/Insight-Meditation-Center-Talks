@@ -1,13 +1,14 @@
 ---
 "date": "2025-09-09"
-"speaker": "Unknown"
-"speaker_url": ""
-"talk_urls": []
+"speaker": "Maria Straatmann"
+"speaker_url": "https://www.audiodharma.org/speakers/142"
+"talk_urls":
+- "https://www.audiodharma.org/talks/23790"
+- "https://www.audiodharma.org/talks/23791"
 "title": "Guided Meditation: Easeful Opening; Five Precepts (2of5) Refrain from Taking\
   \ What's Not Freely Given"
 "video_url": "https://www.youtube.com/watch?v=lzRUZywRaS8"
 ---
-
 
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Easeful Opening; Five Precepts (2of5) Refrain from Taking What's Not Freely Given](https://www.youtube.com/watch?v=lzRUZywRaS8). It likely contains inaccuracies.*
 
