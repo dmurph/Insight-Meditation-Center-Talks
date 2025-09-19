@@ -1,4 +1,4 @@
-name: Run Gemini CLI from Python Subprocess
+name: Scrape audiodharma/youtube, generate talk articles.
 
 on:
   schedule:
@@ -10,7 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
+        with:
+          ssh-key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
 
       - name: Set up Node.js for gemini-cli
         uses: actions/setup-node@v4
@@ -18,7 +20,7 @@ jobs:
           node-version: '20'
 
       - name: Install gemini-cli
-        run: npm install -g @google/gemini-cli gemini
+        run: npm install --silent --no-audit --prefer-offline --global @google/gemini-cli
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -33,3 +35,13 @@ jobs:
         run: python download.py scrape_and_generate
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Push changes
+        run: |
+          date > generated.txt
+          # Note: the following account information will not work on GHES
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add talks/ cache/
+          git commit -m "Scrape and generate results, executed at '`date`'"
+          git push
