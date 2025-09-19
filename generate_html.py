@@ -18,8 +18,10 @@ def get_all_talks(directory="talks"):
             else:
                 logging.warning(f"Article at {filepath} has no date, skipping.")
 
-    # Sort talks by date, newest first
-    talks.sort(key=lambda x: datetime.strptime(x.date, "%Y-%m-%d"), reverse=True)
+    # Sort talks by date (newest first), then by title
+    talks.sort(
+        key=lambda x: (datetime.strptime(x.date, "%Y-%m-%d"), x.title), reverse=True
+    )
     return talks
 
 
