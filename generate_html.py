@@ -7,6 +7,7 @@ import urllib.parse
 from datetime import datetime
 import logging
 
+
 def get_all_talks(directory="talks"):
     talks = []
     for filepath in glob.glob(os.path.join(directory, "*.md")):
@@ -18,8 +19,9 @@ def get_all_talks(directory="talks"):
                 logging.warning(f"Article at {filepath} has no date, skipping.")
 
     # Sort talks by date, newest first
-    talks.sort(key=lambda x: datetime.strptime(x.date, '%Y-%m-%d'), reverse=True)
+    talks.sort(key=lambda x: datetime.strptime(x.date, "%Y-%m-%d"), reverse=True)
     return talks
+
 
 def group_talks_by_speaker(talks):
     speaker_talks = defaultdict(list)
@@ -29,6 +31,7 @@ def group_talks_by_speaker(talks):
             speaker_id = talk.speaker_url.split("/")[-1]
         speaker_talks[speaker_id].append(talk)
     return speaker_talks
+
 
 def generate_talk_table_rows(talks, relative_path_prefix=""):
     rows_html = ""
@@ -42,11 +45,11 @@ def generate_talk_table_rows(talks, relative_path_prefix=""):
         if talk.talk_urls:
             for url in talk.talk_urls:
                 links += f' <a href="{url}">AudioDharma</a>'
-        
+
         speaker_id = "unknown"
         if talk.speaker_url:
             speaker_id = talk.speaker_url.split("/")[-1]
-        
+
         speaker_html = talk.speaker_name
         if speaker_id != "unknown":
             speaker_html = f'<a href="{relative_path_prefix}speaker/{speaker_id}.html">{talk.speaker_name}</a>'
@@ -60,10 +63,16 @@ def generate_talk_table_rows(talks, relative_path_prefix=""):
         </tr>"""
     return rows_html
 
+
 def generate_speaker_table_rows(speaker_talks):
     rows_html = ""
     # Sort by speaker name
-    sorted_speaker_ids = sorted(speaker_talks.keys(), key=lambda speaker_id: (speaker_talks[speaker_id][0].speaker_name or 'Unknown').lower())
+    sorted_speaker_ids = sorted(
+        speaker_talks.keys(),
+        key=lambda speaker_id: (
+            speaker_talks[speaker_id][0].speaker_name or "Unknown"
+        ).lower(),
+    )
 
     for speaker_id in sorted_speaker_ids:
         talks = speaker_talks[speaker_id]
@@ -74,7 +83,7 @@ def generate_speaker_table_rows(speaker_talks):
         if speaker_url:
             audiodharma_link = f'<td><a href="{speaker_url}">link</a></td>'
         else:
-            audiodharma_link = '<td>N/A (unknown)</td>'
+            audiodharma_link = "<td>N/A (unknown)</td>"
 
         rows_html += f"""
         <tr>
@@ -83,10 +92,11 @@ def generate_speaker_table_rows(speaker_talks):
         </tr>"""
     return rows_html
 
+
 def generate_speaker_html(speaker_id, talks, output_dir="talks/speaker"):
     os.makedirs(output_dir, exist_ok=True)
     filepath = os.path.join(output_dir, f"{speaker_id}.html")
-    
+
     speaker_name = talks[0].speaker_name if talks else "Unknown"
     speaker_url = talks[0].speaker_url if talks else None
     table_rows = generate_talk_table_rows(talks, relative_path_prefix="../")
@@ -96,7 +106,8 @@ def generate_speaker_html(speaker_id, talks, output_dir="talks/speaker"):
         audiodharma_link_html = f'<a href="{speaker_url}">audiodharma speaker page</a>'
 
     with open(filepath, "w", encoding="utf-8") as f:
-        f.write(f"""<!DOCTYPE html>
+        f.write(
+            f"""<!DOCTYPE html>
 <html>
 <head>
     <title>Talks by {speaker_name}</title>
@@ -127,7 +138,9 @@ def generate_speaker_html(speaker_id, talks, output_dir="talks/speaker"):
         </div>
     </div>
 </body>
-</html>""")
+</html>"""
+        )
+
 
 def generate_index_html(all_talks, speaker_talks, output_path="talks/index.html"):
     talk_table_rows = generate_talk_table_rows(all_talks, relative_path_prefix="./")
@@ -179,42 +192,48 @@ def generate_index_html(all_talks, speaker_talks, output_path="talks/index.html"
 </html>"""
         )
 
+
 def generate_sitemap(all_talks, speaker_talks, output_dir):
     base_url = "https://dmurph.github.io/Insight-Meditation-Center-Talks"
     sitemap_path = os.path.join(output_dir, "sitemap.xml")
-    
+
     urls = []
-    today = datetime.now().strftime('%Y-%m-%d')
-    
+    today = datetime.now().strftime("%Y-%m-%d")
+
     # Add main index page
     urls.append({"loc": f"{base_url}/talks/index.html", "lastmod": None})
-    
+
     # Add speaker pages
     for speaker_id in speaker_talks.keys():
-        urls.append({"loc": f"{base_url}/talks/speaker/{speaker_id}.html", "lastmod": None})
-        
+        urls.append(
+            {"loc": f"{base_url}/talks/speaker/{speaker_id}.html", "lastmod": None}
+        )
+
     # Add talk pages
     for talk in all_talks:
         filename = os.path.basename(talk.filepath)
         html_filename = os.path.splitext(filename)[0] + ".html"
         encoded_filename = urllib.parse.quote(html_filename)
-        
+
         lastmod_timestamp = os.path.getmtime(talk.filepath)
-        lastmod_date = datetime.fromtimestamp(lastmod_timestamp).strftime('%Y-%m-%d')
-        
-        urls.append({"loc": f"{base_url}/talks/{encoded_filename}", "lastmod": lastmod_date})
-        
+        lastmod_date = datetime.fromtimestamp(lastmod_timestamp).strftime("%Y-%m-%d")
+
+        urls.append(
+            {"loc": f"{base_url}/talks/{encoded_filename}", "lastmod": lastmod_date}
+        )
+
     with open(sitemap_path, "w", encoding="utf-8") as f:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
         f.write('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
         for url_info in urls:
-            f.write(f'  <url>\n')
+            f.write(f"  <url>\n")
             f.write(f'    <loc>{url_info["loc"]}</loc>\n')
             if url_info["lastmod"] is not None:
                 f.write(f'    <lastmod>{url_info["lastmod"]}</lastmod>\n')
-            f.write(f'  </url>\n')
-        f.write('</urlset>\n')
+            f.write(f"  </url>\n")
+        f.write("</urlset>\n")
     logging.info(f"Generated sitemap with {len(urls)} URLs at {sitemap_path}")
+
 
 def generate_all_html_pages():
     parser = argparse.ArgumentParser(description="Generate HTML files for talks.")
@@ -235,8 +254,9 @@ def generate_all_html_pages():
 
     index_path = os.path.join(args.output_dir, "index.html")
     generate_index_html(all_talks, speaker_talks, output_path=index_path)
-    
+
     generate_sitemap(all_talks, speaker_talks, args.output_dir)
+
 
 if __name__ == "__main__":
     generate_all_html_pages()

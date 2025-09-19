@@ -3,8 +3,19 @@ import os
 import logging
 import yaml
 
+
 class Article:
-    def __init__(self, title, date, video_url, speaker_name, speaker_url, talk_urls, content, filepath):
+    def __init__(
+        self,
+        title,
+        date,
+        video_url,
+        speaker_name,
+        speaker_url,
+        talk_urls,
+        content,
+        filepath,
+    ):
         self.title = title
         self.date = date
         self.video_url = video_url
@@ -17,12 +28,12 @@ class Article:
     def to_markdown(self):
         """Combines metadata and content into a markdown string with frontmatter."""
         post = frontmatter.Post(self.content)
-        post['title'] = self.title
-        post['date'] = self.date
-        post['video_url'] = self.video_url
-        post['speaker'] = self.speaker_name
-        post['speaker_url'] = self.speaker_url
-        post['talk_urls'] = self.talk_urls
+        post["title"] = self.title
+        post["date"] = self.date
+        post["video_url"] = self.video_url
+        post["speaker"] = self.speaker_name
+        post["speaker_url"] = self.speaker_url
+        post["talk_urls"] = self.talk_urls
         return frontmatter.dumps(post, Dumper=yaml.SafeDumper, default_style='"')
 
     def save(self, file_path):
@@ -40,7 +51,9 @@ class Article:
             logging.error(f"  -> Error saving article to {file_path}: {e}")
             return False
 
-    def update_metadata(self, title, date, video_url, speaker_name, speaker_url, talk_urls):
+    def update_metadata(
+        self, title, date, video_url, speaker_name, speaker_url, talk_urls
+    ):
         """Updates the article's metadata attributes."""
         self.title = title
         self.date = date
@@ -59,16 +72,18 @@ class Article:
                 post = frontmatter.load(f)
 
                 article = cls(
-                    title=post.get('title'),
-                    date=post.get('date'),
-                    video_url=post.get('video_url'),
-                    speaker_name=post.get('speaker'),
-                    speaker_url=post.get('speaker_url'),
-                    talk_urls=post.get('talk_urls'),
+                    title=post.get("title"),
+                    date=post.get("date"),
+                    video_url=post.get("video_url"),
+                    speaker_name=post.get("speaker"),
+                    speaker_url=post.get("speaker_url"),
+                    talk_urls=post.get("talk_urls"),
                     content=post.content,
-                    filepath=file_path
+                    filepath=file_path,
                 )
                 return article
         except Exception as e:
-            logging.warning(f"  -> Could not parse existing file {file_path}. Will re-process. Error: {e}")
+            logging.warning(
+                f"  -> Could not parse existing file {file_path}. Will re-process. Error: {e}"
+            )
             return None

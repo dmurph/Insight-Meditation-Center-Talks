@@ -15,10 +15,12 @@ logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
+
 class PageResult(Enum):
     END = 1
     NEW = 2
     KNOWN = 3
+
 
 def scrape_page(page_num, existing_data, speakers_data) -> PageResult:
     """Scrapes a single page of audiodharma.org and returns a status: 'new', 'updated', or 'known'."""
@@ -32,7 +34,7 @@ def scrape_page(page_num, existing_data, speakers_data) -> PageResult:
         logging.error(f"Error fetching page {page_num}: {e}")
         return PageResult.END
 
-    response.encoding = 'utf-8'
+    response.encoding = "utf-8"
     soup = BeautifulSoup(response.text, "html5lib")
     rows = soup.find_all("tr")
     if not rows or len(rows) <= 1:
@@ -60,12 +62,10 @@ def scrape_page(page_num, existing_data, speakers_data) -> PageResult:
         desktop_video_anchor = row.select_one("a.video-modal-link")
         if desktop_video_anchor:
             youtube_url = desktop_video_anchor["data-embed-video-url"]
-                
+
         # Try the mobile one if that wasn't found.
         if not youtube_url:
-            mobile_video_link_tag = row.select_one(
-                'a.fa-video[href*="youtube.com"]'
-            )
+            mobile_video_link_tag = row.select_one('a.fa-video[href*="youtube.com"]')
             if mobile_video_link_tag:
                 youtube_url = mobile_video_link_tag["href"]
 
@@ -159,8 +159,16 @@ def save_talks_data(data, output_file):
 
     logging.info(f"Saving {output_file}")
     with open(output_file, "w", encoding="utf-8") as f:
-        yaml.safe_dump(sorted_data, f, default_flow_style=False, sort_keys=False, allow_unicode=True, encoding='utf-8')
+        yaml.safe_dump(
+            sorted_data,
+            f,
+            default_flow_style=False,
+            sort_keys=False,
+            allow_unicode=True,
+            encoding="utf-8",
+        )
     logging.info(f"Saved {output_file}")
+
 
 def save_speakers_data(data, output_file):
     """Saves the speakers data to a YAML file, sorted by speaker ID."""
@@ -170,8 +178,16 @@ def save_speakers_data(data, output_file):
 
     logging.info(f"Saving {output_file}")
     with open(output_file, "w", encoding="utf-8") as f:
-        yaml.safe_dump(data, f, default_flow_style=False, sort_keys=True, allow_unicode=True, encoding='utf-8')
+        yaml.safe_dump(
+            data,
+            f,
+            default_flow_style=False,
+            sort_keys=True,
+            allow_unicode=True,
+            encoding="utf-8",
+        )
     logging.info(f"Saved {output_file}")
+
 
 def run_scraper(
     start_page=1,
@@ -194,16 +210,16 @@ def run_scraper(
                 for entry in existing_yaml:
                     all_talks_data[entry["youtube_id"]] = entry
     if os.path.exists(speakers_output_file):
-        logging.info(
-            f"Loading existing speakers data from {speakers_output_file}..."
-        )
+        logging.info(f"Loading existing speakers data from {speakers_output_file}...")
         with open(speakers_output_file, "r", encoding="utf-8") as f:
             loaded_speakers = yaml.safe_load(f)
             if loaded_speakers:
                 speakers_data = {int(k): v for k, v in loaded_speakers.items()}
 
-    assert(stop_after_known_pages > 0)
-    logging.info(f"Scraping pages until the end or {stop_after_known_pages} pages of known talks are processed")
+    assert stop_after_known_pages > 0
+    logging.info(
+        f"Scraping pages until the end or {stop_after_known_pages} pages of known talks are processed"
+    )
     for i in range(start_page, start_page + max_pages):
         page_status = scrape_page(i, all_talks_data, speakers_data)
         if page_status == PageResult.END:
@@ -212,7 +228,9 @@ def run_scraper(
         if page_status == PageResult.KNOWN:
             stop_after_known_pages -= 1
             if stop_after_known_pages <= 0:
-                logging.info(f"{stop_after_known_pages} pages of known data processed, stopping.")
+                logging.info(
+                    f"{stop_after_known_pages} pages of known data processed, stopping."
+                )
                 break
         pages_till_save -= 1
         if pages_till_save <= 0:

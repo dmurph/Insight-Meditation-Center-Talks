@@ -35,9 +35,7 @@ def process_youtube_videos(
 
     metadata_cache = cache.load_youtube_metadata_cache()
 
-    logging.info(
-        f"Loading transcriptions and creating articles"
-    )
+    logging.info(f"Loading transcriptions and creating articles")
     if not do_not_stop_scan:
         logging.info(
             f"Stopping after {stop_after_found_up_to_date_talks} up-to-date talks found."
@@ -80,22 +78,27 @@ def process_youtube_videos(
                         talk_id = talk.get("id")
                         talk_title = talk.get("title")
                         if talk_id and talk_title:
-                            talk_urls.append(f"https://www.audiodharma.org/talks/{talk_id}")
+                            talk_urls.append(
+                                f"https://www.audiodharma.org/talks/{talk_id}"
+                            )
                             talk_headers_str += f"      `## {talk_title} ([link](https://www.audiodharma.org/talks/{talk_id}))`\n"
 
             if speaker_name == "Unknown":
                 for speaker_id, speaker_info in speakers_data.items():
-                    if speaker_info['name'].lower() in video_title.lower():
-                        speaker_name = speaker_info['name']
-                        speaker_url = speaker_info['url']
-                        logging.info(f"  -> Found speaker '{speaker_name}' in video title.")
+                    if speaker_info["name"].lower() in video_title.lower():
+                        speaker_name = speaker_info["name"]
+                        speaker_url = speaker_info["url"]
+                        logging.info(
+                            f"  -> Found speaker '{speaker_name}' in video title."
+                        )
                         break
 
-            
             if not force_ai_processing:
                 article = Article.from_file(processed_output_path)
                 if article:
-                    logging.info(f"Found existing talk article at {processed_output_path}")
+                    logging.info(
+                        f"Found existing talk article at {processed_output_path}"
+                    )
                     original_markdown = article.to_markdown()
                     article.update_metadata(
                         title=video_title,
@@ -106,16 +109,22 @@ def process_youtube_videos(
                         talk_urls=talk_urls,
                     )
                     if article.to_markdown() != original_markdown:
-                        logging.info(f"  -> Metadata for {processed_output_path} is outdated. Updating.")
+                        logging.info(
+                            f"  -> Metadata for is outdated. Updating:  {processed_output_path} "
+                        )
                         article.save(processed_output_path)
                         continue
-                    
+
                     stop_after_found_up_to_date_talks -= 1
-                    logging.info(f"  -> Article {processed_output_path} is up-to-date. Skipping.")
+                    logging.info(
+                        f"  -> Article is up-to-date. Skipping: {processed_output_path}"
+                    )
                     if do_not_stop_scan:
                         continue
                     if stop_after_found_up_to_date_talks <= 0:
-                        logging.info("  -> Stopping scan. Specify --do-not-stop-scan to not stop on up-to-date articles.")
+                        logging.info(
+                            "  -> Stopping scan. Specify --do-not-stop-scan to not stop on up-to-date articles."
+                        )
                         break
                     continue
 
@@ -143,7 +152,7 @@ def process_youtube_videos(
                     new_article.save(processed_output_path)
 
         except Exception as e:
-            logging.error(f"  -> An unexpected error occurred in the main loop: {e}")
+            logging.exception(f"  -> An unexpected error occurred in the main loop")
 
     logging.info("\n--------------------\n")
     logging.info("Download process finished.")
@@ -271,12 +280,12 @@ def main():
     if args.command == "scrape_and_generate":
         videos = []
         audiodharma.run_scraper(
-                start_page=1,
-                max_pages=1000,
-                talks_output_file="cache/audiodharma/talks.yaml",
-                speakers_output_file="cache/audiodharma/speakers.yaml",
-                save_after_pages=10,
-            )
+            start_page=1,
+            max_pages=1000,
+            talks_output_file="cache/audiodharma/talks.yaml",
+            speakers_output_file="cache/audiodharma/speakers.yaml",
+            save_after_pages=10,
+        )
         if args.source == "audiodharma":
             audiodharma_talks, _ = cache.load_audiodharma_data()
             videos = [{"videoId": vid} for vid in audiodharma_talks.keys()]

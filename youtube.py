@@ -17,10 +17,11 @@ class UrlType(Enum):
     CHANNEL = 1
     PLAYLIST = 2
 
+
 def get_video_urls(
     url_or_id,
     type: UrlType = UrlType.CHANNEL,
-    stop_after_cache_matches = 10,
+    stop_after_cache_matches=10,
 ):
     """
     Downloads and caches a list of video URLs from a YouTube channel or playlist.
@@ -84,7 +85,9 @@ def get_video_urls(
                 break
 
         if not newly_fetched_videos and not existing_videos:
-            logging.error("Error: Could not find any videos. Please check the argument.")
+            logging.error(
+                "Error: Could not find any videos. Please check the argument."
+            )
             return None
 
         final_video_list = newly_fetched_videos + existing_videos
@@ -128,7 +131,7 @@ def get_transcript(
     if os.path.exists(raw_output_path) and not force_redownload_transcripts:
         logging.info(f"  -> Found local raw transcript file: {raw_output_path}")
         return raw_output_path
-    
+
     backup_filename = sanitize_filename(f"{upload_date} - {video_title}")
     backup_srt_path = os.path.join(raw_transcripts_dir, f"{backup_filename}.srt")
     if os.path.exists(backup_srt_path) and not force_redownload_transcripts:

@@ -3,6 +3,7 @@ import ai
 from article import Article
 import os
 
+
 def create_article(
     raw_transcript_path: str,
     video_title: str,
