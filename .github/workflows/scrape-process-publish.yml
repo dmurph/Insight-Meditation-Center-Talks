@@ -1,0 +1,35 @@
+name: Run Gemini CLI from Python Subprocess
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js for gemini-cli
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install gemini-cli
+        run: npm install -g @google/gemini-cli gemini
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Python script with Gemini CLI call
+        run: python download.py scrape_and_generate
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
