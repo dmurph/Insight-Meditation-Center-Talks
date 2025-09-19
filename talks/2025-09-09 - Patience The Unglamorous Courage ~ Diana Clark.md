@@ -2,11 +2,11 @@
 "date": "2025-09-09"
 "speaker": "Diana Clark"
 "speaker_url": "https://www.audiodharma.org/speakers/240"
-"talk_urls": []
+"talk_urls":
+- "https://www.audiodharma.org/talks/23842"
 "title": "Patience: The Unglamorous Courage ~ Diana Clark"
 "video_url": "https://www.youtube.com/watch?v=ou2XnFTubOo"
 ---
-
 
 *This is an AI-generated transcript from auto-generated subtitles for the video [Patience: The Unglamorous Courage ~ Diana Clark](https://www.youtube.com/watch?v=ou2XnFTubOo). It likely contains inaccuracies.*
 

@@ -8,13 +8,19 @@ import logging
 import os
 import time
 import random
+from enum import Enum
 
 # Set up logging
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
-def scrape_page(page_num, existing_data, speakers_data):
+class PageResult(Enum):
+    END = 1
+    NEW = 2
+    KNOWN = 3
+
+def scrape_page(page_num, existing_data, speakers_data) -> PageResult:
     """Scrapes a single page of audiodharma.org and returns a status: 'new', 'updated', or 'known'."""
     time.sleep(random.uniform(0.05, 1.0))
     url = f"https://www.audiodharma.org/talks?page={page_num}"
@@ -24,14 +30,14 @@ def scrape_page(page_num, existing_data, speakers_data):
         response.raise_for_status()
     except requests.exceptions.RequestException as e:
         logging.error(f"Error fetching page {page_num}: {e}")
-        return "end"
+        return PageResult.END
 
     response.encoding = 'utf-8'
     soup = BeautifulSoup(response.text, "html5lib")
     rows = soup.find_all("tr")
     if not rows or len(rows) <= 1:
         logging.warning("No data rows found in the table.")
-        return "end"
+        return PageResult.END
 
     did_update = False
     did_append = False
@@ -129,10 +135,10 @@ def scrape_page(page_num, existing_data, speakers_data):
             did_append = True
 
     if not page_has_talks:
-        return "end"
+        return PageResult.END
     if did_update or did_append:
-        return "new"
-    return "known"
+        return PageResult.NEW
+    return PageResult.KNOWN
 
 
 def save_talks_data(data, output_file):
@@ -172,8 +178,7 @@ def run_scraper(
     max_pages=1000,
     talks_output_file="cache/audiodharma/talks.yaml",
     speakers_output_file="cache/audiodharma/speakers.yaml",
-    overwrite_existing_file=False,
-    full_scrape=False,
+    stop_after_known_pages=2,
     save_after_pages=10,
 ):
     """Main function to control scraping."""
@@ -181,31 +186,34 @@ def run_scraper(
     speakers_data = {}
 
     pages_till_save = save_after_pages
-    if not overwrite_existing_file:
-        if os.path.exists(talks_output_file):
-            logging.info(f"Loading existing talks data from {talks_output_file}...")
-            with open(talks_output_file, "r", encoding="utf-8") as f:
-                existing_yaml = yaml.safe_load(f)
-                if existing_yaml:
-                    for entry in existing_yaml:
-                        all_talks_data[entry["youtube_id"]] = entry
-        if os.path.exists(speakers_output_file):
-            logging.info(
-                f"Loading existing speakers data from {speakers_output_file}..."
-            )
-            with open(speakers_output_file, "r", encoding="utf-8") as f:
-                loaded_speakers = yaml.safe_load(f)
-                if loaded_speakers:
-                    speakers_data = {int(k): v for k, v in loaded_speakers.items()}
+    if os.path.exists(talks_output_file):
+        logging.info(f"Loading existing talks data from {talks_output_file}...")
+        with open(talks_output_file, "r", encoding="utf-8") as f:
+            existing_yaml = yaml.safe_load(f)
+            if existing_yaml:
+                for entry in existing_yaml:
+                    all_talks_data[entry["youtube_id"]] = entry
+    if os.path.exists(speakers_output_file):
+        logging.info(
+            f"Loading existing speakers data from {speakers_output_file}..."
+        )
+        with open(speakers_output_file, "r", encoding="utf-8") as f:
+            loaded_speakers = yaml.safe_load(f)
+            if loaded_speakers:
+                speakers_data = {int(k): v for k, v in loaded_speakers.items()}
 
+    assert(stop_after_known_pages > 0)
+    logging.info(f"Scraping pages until the end or {stop_after_known_pages} pages of known talks are processed")
     for i in range(start_page, start_page + max_pages):
         page_status = scrape_page(i, all_talks_data, speakers_data)
-        if page_status == "end":
+        if page_status == PageResult.END:
             logging.info("No more talks found.")
             break
-        if page_status == "known" and not full_scrape:
-            logging.info("No new or updated data found. Stopping scrape.")
-            break
+        if page_status == PageResult.KNOWN:
+            stop_after_known_pages -= 1
+            if stop_after_known_pages <= 0:
+                logging.info(f"{stop_after_known_pages} pages of known data processed, stopping.")
+                break
         pages_till_save -= 1
         if pages_till_save <= 0:
             pages_till_save = save_after_pages
