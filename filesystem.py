@@ -39,11 +39,11 @@ def get_git_last_modified_for_files(file_paths):
                 # Return only the date part
                 last_modified_map[file_path] = datetime.fromisoformat(
                     iso_date
-                ).strftime("%Y-%m-%d")
+                ).isoformat()
         except (subprocess.CalledProcessError, FileNotFoundError):
             # Fallback to file system mtime if git fails or file is not committed
             lastmod_timestamp = os.path.getmtime(file_path)
             last_modified_map[file_path] = datetime.fromtimestamp(
                 lastmod_timestamp
-            ).strftime("%Y-%m-%d")
+            ).isoformat()
     return last_modified_map
