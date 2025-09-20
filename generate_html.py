@@ -195,21 +195,17 @@ def generate_index_html(all_talks, speaker_talks, output_path="talks/index.html"
         )
 
 
+from filesystem import get_git_last_modified_for_files
+
+
 def generate_sitemap(all_talks, speaker_talks, output_dir):
     base_url = "https://dmurph.github.io/Insight-Meditation-Center-Talks"
     sitemap_path = os.path.join(output_dir, "sitemap.xml")
 
     urls = []
-    today = datetime.now().strftime("%Y-%m-%d")
 
-    # Add main index page
-    urls.append({"loc": f"{base_url}/talks/index.html", "lastmod": None})
-
-    # Add speaker pages
-    for speaker_id in speaker_talks.keys():
-        urls.append(
-            {"loc": f"{base_url}/talks/speaker/{speaker_id}.html", "lastmod": None}
-        )
+    talk_filepaths = [talk.filepath for talk in all_talks]
+    last_modified_map = get_git_last_modified_for_files(talk_filepaths)
 
     # Add talk pages
     for talk in all_talks:
@@ -217,11 +213,30 @@ def generate_sitemap(all_talks, speaker_talks, output_dir):
         html_filename = os.path.splitext(filename)[0] + ".html"
         encoded_filename = urllib.parse.quote(html_filename)
 
-        lastmod_timestamp = os.path.getmtime(talk.filepath)
-        lastmod_date = datetime.fromtimestamp(lastmod_timestamp).strftime("%Y-%m-%d")
+        lastmod_date = last_modified_map.get(talk.filepath)
 
         urls.append(
             {"loc": f"{base_url}/talks/{encoded_filename}", "lastmod": lastmod_date}
+        )
+
+    # Find the latest modification date for the index page
+    latest_mod = max(last_modified_map.values()) if last_modified_map else None
+    urls.append({"loc": f"{base_url}/talks/index.html", "lastmod": latest_mod})
+
+    # Add speaker pages
+    for speaker_id, talks in speaker_talks.items():
+        speaker_filepaths = [talk.filepath for talk in talks]
+        speaker_last_mods = [
+            last_modified_map.get(fp)
+            for fp in speaker_filepaths
+            if last_modified_map.get(fp)
+        ]
+        latest_speaker_mod = max(speaker_last_mods) if speaker_last_mods else None
+        urls.append(
+            {
+                "loc": f"{base_url}/talks/speaker/{speaker_id}.html",
+                "lastmod": latest_speaker_mod,
+            }
         )
 
     with open(sitemap_path, "w", encoding="utf-8") as f:
