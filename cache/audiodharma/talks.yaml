@@ -6,6 +6,14 @@
     speaker_id: 502
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23869/20250920-Sean_Feit_Oakes-sati-how_to_overcome_fear_the_buddha_s_exposure_therapy.mp3
+- youtube_id: Wml43r8-gZA
+  talks:
+  - title: Loss and Attachment
+    id: 23847
+    date: '2025-09-15'
+    speaker_id: 142
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23847/20250915-Maria_Straatmann-IMC-loss_and_attachment.mp3
 - youtube_id: 9P3g2QU9aWk
   talks:
   - title: The gates of awareness
