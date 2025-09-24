@@ -1,12 +1,12 @@
 ---
 "date": "2025-09-16"
-"speaker": "Unknown"
-"speaker_url": ""
-"talk_urls": []
+"speaker": "Maria Straatmann"
+"speaker_url": "https://www.audiodharma.org/speakers/142"
+"talk_urls":
+- "https://www.audiodharma.org/talks/23847"
 "title": "Monday Evening Sit and Talk with Maria Straatman"
 "video_url": "https://www.youtube.com/watch?v=Wml43r8-gZA"
 ---
-
 
 *This is an AI-generated transcript from auto-generated subtitles for the video [Monday Evening Sit and Talk with Maria Straatman](https://www.youtube.com/watch?v=Wml43r8-gZA). It likely contains inaccuracies.*
 
