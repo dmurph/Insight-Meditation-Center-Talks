@@ -2,7 +2,7 @@ import logging
 import argparse
 import os
 import yt_dlp
-from filesystem import sanitize_filename
+from pathvalidate import sanitize_filename
 import youtube
 import audiodharma
 import article_builder
@@ -153,6 +153,7 @@ def process_youtube_videos(
 
         except Exception as e:
             logging.exception(f"  -> An unexpected error occurred in the main loop")
+            break
 
     logging.info("\n--------------------\n")
     logging.info("Download process finished.")

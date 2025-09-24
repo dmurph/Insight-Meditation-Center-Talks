@@ -10,7 +10,7 @@ from youtube_transcript_api import (
     TranscriptsDisabled,
 )
 from enum import Enum
-from filesystem import sanitize_filename
+from pathvalidate import sanitize_filename
 
 
 class UrlType(Enum):

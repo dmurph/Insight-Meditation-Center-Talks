@@ -4,20 +4,6 @@ import os
 from datetime import datetime
 
 
-def sanitize_filename(title):
-    """
-    Removes characters that are illegal in file names across different OS.
-    """
-    # Change / to - for some ok structure.
-    sanitized = re.sub(r"[\\/ளையும்", "-", title)
-    # Remove illegal characters
-    sanitized = re.sub(r'[\\/*?:"<<>>|"]', "", sanitized)
-    # Replace sequences of whitespace with a single space
-    sanitized = re.sub(r"\\s+", " ", sanitized)
-    # Trim leading/trailing whitespace
-    return sanitized.strip()
-
-
 def get_git_last_modified_for_files(file_paths):
     """
     Gets the last modified date for a list of files from git.
