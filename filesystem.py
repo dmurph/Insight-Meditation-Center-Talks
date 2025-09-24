@@ -1,8 +1,7 @@
-import re
 import subprocess
 import os
 from datetime import datetime
-
+import logging
 
 def get_git_last_modified_for_files(file_paths):
     """
@@ -27,6 +26,7 @@ def get_git_last_modified_for_files(file_paths):
                     iso_date
                 ).isoformat()
         except (subprocess.CalledProcessError, FileNotFoundError):
+            logging.exception("Could not get git timestamp.")
             # Fallback to file system mtime if git fails or file is not committed
             lastmod_timestamp = os.path.getmtime(file_path)
             last_modified_map[file_path] = datetime.fromtimestamp(
