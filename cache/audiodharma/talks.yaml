@@ -1,3 +1,31 @@
+- youtube_id: ufdoSCxuM2Y
+  talks:
+  - title: 'Guided Meditation: The Movement of the Heart'
+    id: 23882
+    date: '2025-09-23'
+    speaker_id: 142
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23882/20250923-Maria_Straatmann-IMC-guided_meditation_the_movement_of_the_heart.mp3
+  - title: 'Dharmette; Brahma Viharas: (2 of 5) Karuna - Compassion'
+    id: 23883
+    date: '2025-09-23'
+    speaker_id: 142
+    start_time_seconds: 1797
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23883/20250923-Maria_Straatmann-IMC-dharmette_brahma_viharas_2_of_5_karuna_-_compassion.mp3
+- youtube_id: X4OdNUU3Ruw
+  talks:
+  - title: 'Guided Meditation: Including Everything'
+    id: 23880
+    date: '2025-09-22'
+    speaker_id: 142
+    start_time_seconds: 0
+    mp3_url: null
+  - title: 'Dharmette: Brahma Viharas: (1 of 5) Metta - Lovingkindness'
+    id: 23881
+    date: '2025-09-22'
+    speaker_id: 142
+    start_time_seconds: 1827
+    mp3_url: null
 - youtube_id: gPcfelG6xQ0
   talks:
   - title: 'How to Overcome Fear: The Buddha’s Exposure Therapy'
