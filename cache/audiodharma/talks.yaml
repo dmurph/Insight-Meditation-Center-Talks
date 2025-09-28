@@ -69,13 +69,13 @@
     date: '2025-09-22'
     speaker_id: 142
     start_time_seconds: 0
-    mp3_url: null
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23880/20250922-Maria_Straatmann-IMC-guided_meditation_including_everything.mp3
   - title: 'Dharmette: Brahma Viharas: (1 of 5) Metta - Lovingkindness'
     id: 23881
     date: '2025-09-22'
     speaker_id: 142
     start_time_seconds: 1827
-    mp3_url: null
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23881/20250922-Maria_Straatmann-IMC-dharmette_brahma_viharas_1_of_5_metta_-_lovingkindness.mp3
 - youtube_id: gPcfelG6xQ0
   talks:
   - title: 'How to Overcome Fear: The Buddha’s Exposure Therapy'
