@@ -1,3 +1,11 @@
+- youtube_id: yPqpffV_ga0
+  talks:
+  - title: Attachment, Clinging, & Grasping
+    id: 23913
+    date: '2025-09-28'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23913/20250928-Gil_Fronsdal-IMC-attachment_clinging_grasping.mp3
 - youtube_id: MBFPjOdb3lE
   talks:
   - title: 'Guided Meditation: Things As They Are'
@@ -76,6 +84,14 @@
     speaker_id: 142
     start_time_seconds: 1827
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23881/20250922-Maria_Straatmann-IMC-dharmette_brahma_viharas_1_of_5_metta_-_lovingkindness.mp3
+- youtube_id: VphvJzFqJeI
+  talks:
+  - title: Citta and Memory
+    id: 23875
+    date: '2025-09-22'
+    speaker_id: 286
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23875/20250922-Tanya_Wiser-IMC-citta_and_memory.mp3
 - youtube_id: gPcfelG6xQ0
   talks:
   - title: 'How to Overcome Fear: The Buddha’s Exposure Therapy'
