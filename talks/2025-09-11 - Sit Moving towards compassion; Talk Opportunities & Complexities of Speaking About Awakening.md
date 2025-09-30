@@ -3,13 +3,12 @@
 "speaker": "Matthew Brensilver"
 "speaker_url": "https://www.audiodharma.org/speakers/231"
 "talk_urls":
-- "https://www.audiodharma.org/talks/23819"
 - "https://www.audiodharma.org/talks/23818"
+- "https://www.audiodharma.org/talks/23819"
 "title": "Sit: Moving towards compassion; Talk: Opportunities & Complexities of Speaking\
   \ About Awakening"
 "video_url": "https://www.youtube.com/watch?v=zoXFPmicWVM"
 ---
-
 
 *This is an AI-generated transcript from auto-generated subtitles for the video [Sit: Moving towards compassion; Talk: Opportunities & Complexities of Speaking About Awakening](https://www.youtube.com/watch?v=zoXFPmicWVM). It likely contains inaccuracies.*
 
