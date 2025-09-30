@@ -1,3 +1,11 @@
+- youtube_id: BQ4aQ4FpdRs
+  talks:
+  - title: 'Guided Meditation: Wholeness'
+    id: 23916
+    date: '2025-09-29'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23916/20250929-Gil_Fronsdal-IMC-guided_meditation_wholeness.mp3
 - youtube_id: yPqpffV_ga0
   talks:
   - title: Attachment, Clinging, & Grasping
@@ -166,18 +174,18 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23833/20250911-Maria_Straatmann-IMC-dharmette_the_five_precepts_4_of_5_refrain_from_sensual_harm.mp3
 - youtube_id: zoXFPmicWVM
   talks:
-  - title: 'Dharmette: Opportunities and Complexities of Speaking about Awakening'
-    id: 23819
-    date: '2025-09-10'
-    speaker_id: 231
-    start_time_seconds: 0
-    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23819/20250910-Matthew_Brensilver-IMC-dharmette_opportunities_and_complexities_of_speaking_about_awakening.mp3
   - title: 'Guided Meditation: moving towards compassion'
     id: 23818
     date: '2025-09-10'
     speaker_id: 231
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23818/20250910-Matthew_Brensilver-IMC-guided_meditation_moving_towards_compassion.mp3
+  - title: 'Dharmette: Opportunities and Complexities of Speaking about Awakening'
+    id: 23819
+    date: '2025-09-10'
+    speaker_id: 231
+    start_time_seconds: 1758
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23819/20250910-Matthew_Brensilver-IMC-dharmette_opportunities_and_complexities_of_speaking_about_awakening.mp3
 - youtube_id: XIWGYuFQEn0
   talks:
   - title: 'Guided Meditation: Wishing Oneself Well'
