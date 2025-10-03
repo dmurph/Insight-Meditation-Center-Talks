@@ -18,8 +18,8 @@ road,0.010203,7,107
 cousin,0.009607,4,11
 eightfold,0.009189,6,83
 comparing,0.009133,5,28
-nibbāna,0.009047,4,35
 guaranteed,0.008090,3,7
+nibbana,0.008028,4,41
 clark,0.007662,6,281
 machete,0.007414,2,2
 slopes,0.007414,2,2
@@ -94,8 +94,6 @@ saps,0.003707,1,1
 relatable,0.003707,1,1
 derives,0.003707,1,1
 wade,0.003707,1,1
-kōan,0.003707,1,1
-kōans,0.003707,1,1
 compute,0.003707,1,1
 looks,0.003609,3,78
 despair,0.003592,2,46
@@ -137,7 +135,6 @@ stimulation,0.003017,1,3
 slippery,0.003017,1,3
 never-ending,0.003017,1,3
 bogged,0.003017,1,7
-kalyāṇamitta,0.003017,1,5
 steals,0.003017,1,5
 synonyms,0.003017,1,3
 camp,0.003017,1,5
@@ -153,8 +150,11 @@ ages,0.002837,1,7
 oak,0.002837,1,15
 terribly,0.002837,1,6
 podcasts,0.002837,1,4
+kalyanamitta,0.002837,1,6
 expanse,0.002837,1,16
 anticipation,0.002837,1,4
+koan,0.002837,1,5
+koans,0.002837,1,5
 peace,0.002824,7,619
 listen,0.002822,3,172
 relevant,0.002815,2,51
@@ -164,7 +164,6 @@ finally,0.002755,3,148
 fascinating,0.002752,2,52
 painting,0.002697,1,6
 quote-unquote,0.002697,1,6
-saṃyutta,0.002697,1,6
 vacillation,0.002697,1,11
 hesitating,0.002697,1,5
 treadmill,0.002697,1,7
@@ -241,6 +240,7 @@ behind,0.002137,3,184
 lost,0.002137,3,242
 longer,0.002100,4,290
 style,0.002097,1,15
+samyutta,0.002097,1,18
 assumption,0.002097,1,17
 stretching,0.002097,1,16
 failing,0.002097,1,20
@@ -307,7 +307,6 @@ transformation,0.001712,1,51
 slide,0.001712,1,56
 jump,0.001712,1,32
 distractions,0.001712,1,28
-nikāya,0.001686,1,43
 tea,0.001686,1,50
 powerful,0.001684,2,146
 anger,0.001671,2,344
@@ -377,6 +376,7 @@ heard,0.001362,2,297
 challenge,0.001346,1,78
 think,0.001345,16,2108
 show,0.001342,2,248
+nikaya,0.001332,1,69
 recently,0.001332,1,55
 types,0.001332,1,83
 patterns,0.001317,1,78

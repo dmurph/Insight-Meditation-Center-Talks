@@ -1,19 +1,19 @@
 word,tfidf_score,talk_frequency,global_frequency
-māra,0.084875,29,109
+mara,0.072374,29,140
 buddha-to-be,0.050810,12,22
 knowledges,0.029639,7,8
 siddhattha,0.023986,5,5
-māra's,0.022026,6,9
 victory,0.020939,6,18
 knowledge,0.020503,11,102
+mara's,0.019299,6,12
 dominion,0.019189,4,4
 buddhacarita,0.016937,4,8
-padāna,0.014392,3,3
+padana,0.014392,3,3
 vessantara,0.014392,3,3
 army,0.014246,5,34
 participant,0.014246,5,34
 witness,0.014182,6,37
-nidānakathā,0.012702,3,8
+nidanakatha,0.012702,3,8
 function,0.012454,8,71
 bodhisattva,0.011397,4,19
 deities,0.011013,3,14
@@ -50,7 +50,6 @@ he's,0.006851,6,305
 recollection,0.006683,2,13
 deeds,0.006683,2,10
 followers,0.006683,2,15
-pāramī,0.006683,2,9
 represent,0.006647,3,28
 previous,0.006451,3,36
 southern,0.006433,2,11
@@ -60,15 +59,14 @@ prince,0.006433,2,59
 overwhelm,0.006433,2,9
 seat,0.006350,4,101
 typical,0.006216,2,12
-saṃsāra,0.006216,2,15
 compare,0.006025,2,13
 symbolic,0.006025,2,16
 stretched,0.006025,2,13
 myth,0.006025,2,30
-pali,0.005894,5,160
 ethics,0.005870,3,138
 strive,0.005699,2,24
 northern,0.005699,2,15
+parami,0.005699,2,28
 advanced,0.005699,2,14
 origination,0.005699,2,17
 determination,0.005557,2,16
@@ -87,6 +85,7 @@ cessation,0.005090,2,46
 singing,0.005090,2,22
 grass,0.004991,2,42
 clark,0.004957,3,281
+pali,0.004894,5,216
 poetry,0.004811,2,93
 wife,0.004811,2,37
 vedas,0.004797,1,1
@@ -134,7 +133,7 @@ ignorance,0.004500,2,46
 thousand,0.004500,2,32
 faculties,0.004431,2,56
 praise,0.004431,2,43
-nikāya,0.004365,2,43
+samsara,0.004431,2,41
 religion,0.004365,2,72
 sits,0.004365,2,33
 existence,0.004301,2,43
@@ -146,9 +145,9 @@ confronted,0.004234,1,2
 000-foot,0.004234,1,2
 bhayabherava,0.004234,1,3
 reappearance,0.004234,1,2
-āsava,0.004234,1,4
+asava,0.004234,1,4
 buddhism's,0.004234,1,2
-avīci,0.004234,1,2
+avici,0.004234,1,2
 sinews,0.004234,1,2
 armed,0.004234,1,2
 swooping,0.004234,1,2
@@ -209,7 +208,6 @@ theological,0.003671,1,4
 wounded,0.003671,1,4
 concluding,0.003671,1,5
 faded,0.003671,1,5
-paññā,0.003671,1,6
 willingness,0.003601,2,70
 flavor,0.003601,2,57
 stories,0.003579,4,361
@@ -231,10 +229,10 @@ defilement,0.003490,1,8
 sensuality,0.003490,1,8
 cast,0.003490,1,7
 well-developed,0.003490,1,5
-saṃyutta,0.003490,1,6
 final,0.003484,2,65
 psychological,0.003484,2,69
 wisdom,0.003475,5,535
+nikaya,0.003446,2,69
 truths,0.003446,2,119
 inner,0.003423,5,447
 class,0.003410,2,96
@@ -264,6 +262,7 @@ sentient,0.003216,1,12
 supernatural,0.003216,1,11
 exaggerated,0.003216,1,9
 entertaining,0.003216,1,8
+panna,0.003216,1,10
 realm,0.003206,2,111
 children,0.003175,2,97
 happened,0.003120,3,196
@@ -302,7 +301,6 @@ dullness,0.002849,1,23
 rebirth,0.002849,1,42
 explored,0.002849,1,13
 dominant,0.002849,1,19
-jātaka,0.002849,1,89
 flesh,0.002849,1,11
 majesty,0.002849,1,16
 jealousy,0.002849,1,36
@@ -312,6 +310,7 @@ leave,0.002807,3,191
 buddha,0.002807,9,1594
 composed,0.002779,1,27
 representation,0.002779,1,18
+jataka,0.002779,1,90
 facing,0.002779,1,14
 placed,0.002779,1,14
 miles,0.002779,1,14
@@ -322,6 +321,7 @@ appeared,0.002714,1,14
 manner,0.002714,1,15
 runs,0.002714,1,15
 providing,0.002714,1,23
+samyutta,0.002714,1,18
 answered,0.002653,1,17
 groundedness,0.002653,1,23
 knew,0.002646,2,105
@@ -435,8 +435,6 @@ understanding,0.001875,3,476
 pleasures,0.001864,1,76
 sees,0.001842,1,54
 wishes,0.001842,1,65
-samādhi,0.001842,1,213
-jhāna,0.001821,1,232
 books,0.001821,1,55
 solid,0.001821,1,69
 specifically,0.001821,1,53
@@ -457,6 +455,7 @@ becomes,0.001753,4,475
 passing,0.001742,1,86
 show,0.001737,2,248
 went,0.001724,2,295
+jhana,0.001723,1,275
 fast,0.001723,1,62
 types,0.001723,1,83
 later,0.001711,2,215
@@ -606,6 +605,7 @@ though,0.000738,1,233
 yes,0.000738,1,378
 simply,0.000732,1,298
 let,0.000714,6,1453
+samadhi,0.000695,1,1513
 hear,0.000690,1,379
 let's,0.000685,1,389
 small,0.000685,1,341

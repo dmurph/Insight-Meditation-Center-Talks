@@ -6,12 +6,12 @@ corridors,0.023008,3,3
 labyrinths,0.023008,3,3
 ping,0.018728,3,7
 desire,0.016702,11,521
-mana,0.015339,2,2
 towers,0.015339,2,2
 debased,0.015339,2,2
 cure,0.014037,3,20
 rooms,0.013665,3,22
 helplessness,0.013665,3,19
+mana,0.013538,2,3
 masquerades,0.013538,2,3
 abyss,0.013538,2,3
 currency,0.013538,2,3
@@ -64,7 +64,7 @@ ill-advised,0.007669,1,1
 baked,0.007669,1,1
 dwarfed,0.007669,1,1
 monk's,0.007669,1,1
-ryōkan's,0.007669,1,1
+ryokan's,0.007669,1,1
 interchangeably,0.007669,1,1
 glancing,0.007669,1,1
 impulsivity,0.007669,1,1

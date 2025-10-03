@@ -1,10 +1,9 @@
 word,tfidf_score,talk_frequency,global_frequency
-māra,0.126534,55,109
+mara,0.107898,55,140
 buddha-to-be,0.033284,10,22
-padhāna,0.026397,7,7
+padhana,0.026397,7,7
 victory,0.024689,9,18
-pāli,0.017416,10,55
-nidānakathā,0.016642,5,8
+nidanakatha,0.016642,5,8
 crow,0.016642,5,9
 scholars,0.015761,6,12
 namuci,0.015084,4,4
@@ -23,6 +22,7 @@ myth,0.009472,4,30
 canon,0.008986,5,53
 version,0.008896,6,53
 armies,0.008230,3,7
+pali,0.007694,10,216
 high-level,0.007542,2,2
 non-releaser,0.007542,2,2
 merits,0.007542,2,2
@@ -30,9 +30,8 @@ kinsman,0.007542,2,2
 heedless,0.007542,2,2
 denigration,0.007542,2,2
 satanic,0.007542,2,2
-muñja,0.007542,2,2
+munja,0.007542,2,2
 chapter,0.007329,3,25
-saṃsāra,0.007329,3,15
 evil,0.007307,4,54
 myths,0.006902,3,14
 destroy,0.006902,3,18
@@ -62,6 +61,7 @@ drowsiness,0.005486,2,7
 class,0.005361,4,96
 audience,0.005225,3,136
 merit,0.005225,3,44
+samsara,0.005225,3,41
 tradition,0.005187,7,262
 violence,0.005071,3,61
 supernatural,0.005057,2,11
@@ -75,11 +75,11 @@ commentary,0.004615,3,56
 shows,0.004584,4,123
 names,0.004557,3,43
 monks,0.004502,3,112
-jātaka,0.004480,2,89
 participant,0.004480,2,34
 dullness,0.004480,2,23
 discovered,0.004395,3,52
 elements,0.004395,3,120
+jataka,0.004368,2,90
 nuns,0.004368,2,37
 pride,0.004368,2,16
 became,0.004344,4,129
@@ -104,13 +104,12 @@ discover,0.003828,4,190
 poetry,0.003782,2,93
 sacrifice,0.003782,2,37
 gobbledygook,0.003771,1,1
-māra-vijaya,0.003771,1,1
+mara-vijaya,0.003771,1,1
 semester-long,0.003771,1,1
-nerañjarā,0.003771,1,1
+neranjara,0.003771,1,1
 confronts,0.003771,1,1
 ensues,0.003771,1,1
 exemplars,0.003771,1,1
-nipāta,0.003771,1,1
 powerpoint,0.003771,1,1
 factually,0.003771,1,1
 tempt,0.003771,1,1
@@ -120,7 +119,7 @@ frighten,0.003771,1,1
 stomp,0.003771,1,1
 annotations,0.003771,1,1
 suta,0.003771,1,1
-nirañjarā,0.003771,1,1
+niranjara,0.003771,1,1
 strenuously,0.003771,1,1
 epithet,0.003771,1,1
 verge,0.003771,1,1
@@ -151,7 +150,7 @@ thereupon,0.003771,1,1
 sullen,0.003771,1,1
 sung,0.003771,1,1
 epithets,0.003771,1,1
-pāpima,0.003771,1,1
+papima,0.003771,1,1
 wicked,0.003771,1,1
 shrouds,0.003771,1,1
 goblin,0.003771,1,1
@@ -205,6 +204,7 @@ literally,0.003147,3,94
 sorrow,0.003116,2,47
 conflict,0.003076,2,302
 overcomes,0.003069,1,3
+nipata,0.003069,1,4
 colorful,0.003069,1,3
 conveying,0.003069,1,3
 internalized,0.003069,1,4
@@ -239,7 +239,6 @@ brahmanism,0.002886,1,5
 sacrifices,0.002886,1,5
 indicator,0.002886,1,4
 conquer,0.002886,1,6
-māra's,0.002886,1,9
 struggles,0.002886,1,4
 defeated,0.002886,1,5
 warriors,0.002886,1,4
@@ -254,9 +253,7 @@ fascinating,0.002799,2,52
 saying,0.002781,7,650
 canonical,0.002743,1,6
 tidy,0.002743,1,7
-saṃyutta,0.002743,1,6
 ox,0.002743,1,12
-karuṇā,0.002743,1,14
 performing,0.002743,1,6
 ascetics,0.002743,1,8
 collapses,0.002743,1,5
@@ -288,9 +285,9 @@ aspire,0.002528,1,8
 drama,0.002528,1,8
 vs,0.002528,1,15
 cosmos,0.002528,1,18
-ānanda,0.002528,1,14
 encounters,0.002528,1,11
 rituals,0.002528,1,13
+mara's,0.002528,1,12
 lump,0.002528,1,11
 realm,0.002520,2,111
 oneself,0.002491,3,175
@@ -309,6 +306,7 @@ depicted,0.002368,1,13
 oldest,0.002368,1,12
 presentation,0.002368,1,11
 symbolic,0.002368,1,16
+ananda,0.002368,1,26
 trick,0.002368,1,10
 sounded,0.002368,1,11
 tease,0.002368,1,12
@@ -353,7 +351,9 @@ craving,0.002153,2,242
 encountering,0.002133,1,13
 metaphysical,0.002133,1,15
 exchange,0.002133,1,15
+samyutta,0.002133,1,18
 tries,0.002133,1,14
+karuna,0.002133,1,33
 thin,0.002133,1,17
 firm,0.002133,1,14
 gains,0.002133,1,15
@@ -432,7 +432,6 @@ followed,0.001742,1,30
 idea,0.001722,8,1145
 formal,0.001716,1,35
 authority,0.001716,1,34
-nikāya,0.001716,1,43
 character,0.001716,1,36
 religion,0.001716,1,72
 means,0.001692,5,572
@@ -513,6 +512,7 @@ passing,0.001369,1,86
 show,0.001365,2,248
 directions,0.001355,1,52
 types,0.001355,1,83
+nikaya,0.001355,1,69
 modern,0.001355,1,75
 human,0.001354,3,420
 later,0.001345,2,215

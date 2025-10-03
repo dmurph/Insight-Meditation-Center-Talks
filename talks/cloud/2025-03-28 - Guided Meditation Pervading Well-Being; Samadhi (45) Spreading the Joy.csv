@@ -1,10 +1,9 @@
 word,tfidf_score,talk_frequency,global_frequency
 well-being,0.025242,27,536
-jhāna,0.021269,10,232
+jhana,0.020125,10,275
 pervading,0.015026,4,17
-pīti,0.014073,4,20
+piti,0.013673,4,21
 joy,0.013190,17,896
-samādhi,0.012910,6,213
 state,0.012335,13,483
 sparkles,0.011206,2,2
 hourglass,0.011206,2,2
@@ -20,6 +19,7 @@ unnecessary,0.007535,3,34
 lifted,0.007513,2,9
 calm,0.007471,9,588
 spreads,0.007427,3,46
+samadhi,0.007305,9,1513
 pouring,0.007260,2,12
 inspiring,0.007068,4,87
 homecoming,0.007036,2,12
@@ -53,7 +53,6 @@ interlude,0.005603,1,1
 absorbed,0.005562,3,112
 accompany,0.005429,2,38
 characterized,0.005429,2,26
-pāli,0.005175,2,55
 pervasive,0.005175,2,35
 disappears,0.005098,2,42
 excited,0.005023,2,38
@@ -98,7 +97,6 @@ factors,0.004069,2,90
 feet,0.003938,3,174
 accompanies,0.003903,1,7
 self-awareness,0.003903,1,9
-jhanic,0.003903,1,11
 suffused,0.003903,1,10
 possible,0.003835,7,509
 strength,0.003821,2,79
@@ -125,6 +123,7 @@ liberation,0.003436,2,113
 pausing,0.003418,1,23
 storms,0.003418,1,13
 half-smile,0.003418,1,12
+jhanic,0.003418,1,15
 shower,0.003418,1,19
 private,0.003418,1,26
 preoccupied,0.003405,2,115
@@ -165,7 +164,6 @@ lifting,0.002915,1,23
 quiets,0.002915,1,27
 surface,0.002867,2,148
 sublime,0.002861,1,26
-samadhi,0.002826,3,1300
 called,0.002811,6,540
 fills,0.002809,1,21
 sustaining,0.002809,1,85
@@ -209,6 +207,7 @@ mouth,0.002315,1,48
 interpret,0.002315,1,42
 contracted,0.002315,1,50
 alive,0.002286,2,182
+pali,0.002286,2,216
 ride,0.002285,1,55
 judge,0.002285,1,47
 edge,0.002230,1,62

@@ -1,11 +1,11 @@
 word,tfidf_score,talk_frequency,global_frequency
 particularity,0.033520,5,7
 spontaneity,0.024709,3,3
-cliche,0.024709,3,3
 performative,0.024709,3,3
 personality,0.023940,6,41
 freed,0.022823,6,39
 baldwin,0.021808,3,4
+cliche,0.021808,3,4
 uniqueness,0.020112,3,5
 uniquely,0.018908,3,7
 distinctive,0.017975,3,8
@@ -41,7 +41,6 @@ sentience,0.008236,1,1
 anna,0.008236,1,1
 karenina,0.008236,1,1
 charted,0.008236,1,1
-asavas,0.008236,1,1
 lerner,0.008236,1,1
 explode,0.008236,1,1
 unemotional,0.008236,1,1
@@ -62,6 +61,7 @@ intertwine,0.007269,1,2
 alike,0.007269,1,2
 meticulously,0.007269,1,2
 ogha,0.007269,1,2
+asavas,0.007269,1,8
 bewildered,0.007269,1,2
 ben,0.007269,1,2
 detecting,0.007269,1,2
@@ -152,7 +152,6 @@ everybody's,0.004459,1,15
 merely,0.004459,1,22
 honoring,0.004459,1,21
 condition,0.004392,2,160
-samsara,0.004369,1,26
 ultimately,0.004369,1,21
 manifests,0.004369,1,18
 ourself,0.004369,1,21
@@ -175,6 +174,7 @@ self,0.003885,3,1111
 thousand,0.003863,1,32
 follow,0.003859,2,128
 released,0.003804,1,33
+samsara,0.003804,1,41
 famous,0.003804,1,30
 transformation,0.003804,1,51
 compassion,0.003800,3,634
@@ -235,13 +235,13 @@ inspiring,0.002597,1,87
 bodies,0.002573,1,93
 ethical,0.002573,1,192
 role,0.002573,1,100
-sangha,0.002549,1,206
 practitioners,0.002549,1,98
 pick,0.002549,1,79
 vast,0.002526,1,114
 sharing,0.002526,1,135
 goodness,0.002496,2,466
 true,0.002441,2,387
+sangha,0.002436,1,231
 growing,0.002436,1,104
 valuable,0.002414,1,93
 torso,0.002414,1,109

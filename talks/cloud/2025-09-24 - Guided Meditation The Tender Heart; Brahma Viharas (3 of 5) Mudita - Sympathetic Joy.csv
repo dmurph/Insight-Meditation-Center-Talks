@@ -1,5 +1,5 @@
 word,tfidf_score,talk_frequency,global_frequency
-mudita,0.071495,19,58
+mudita,0.065482,19,82
 joy,0.026989,30,896
 pair,0.023781,6,21
 sympathetic,0.022049,6,24
@@ -108,7 +108,6 @@ afford,0.004525,1,6
 blend,0.004525,1,6
 instruct,0.004525,1,6
 exceptional,0.004525,1,6
-metta,0.004476,2,304
 yeah,0.004434,4,767
 verb,0.004356,1,9
 president,0.004356,1,7
@@ -133,6 +132,7 @@ elbows,0.003859,1,17
 girl,0.003859,1,53
 windows,0.003859,1,13
 leads,0.003809,2,165
+metta,0.003775,2,445
 garden,0.003763,1,15
 poem,0.003742,2,329
 loved,0.003677,2,110

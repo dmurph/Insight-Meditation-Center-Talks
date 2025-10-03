@@ -2,12 +2,12 @@ word,tfidf_score,talk_frequency,global_frequency
 effortless,0.077083,23,35
 effortlessness,0.033940,7,8
 effort,0.032176,25,294
-jhāna,0.025025,12,232
+jhana,0.023678,12,275
 sincere,0.019091,6,26
 unpreoccupied,0.017886,4,6
 clarity,0.014905,13,252
 fourth,0.014896,10,153
-jhānas,0.014023,5,40
+jhanas,0.013090,5,57
 effortlessly,0.012611,3,6
 global,0.011805,5,71
 window,0.011495,5,58
@@ -29,7 +29,6 @@ equanimous,0.006988,3,75
 pure,0.006808,3,59
 mental,0.006808,7,342
 glasses,0.006703,2,27
-samādhi,0.006329,3,213
 suzuki,0.006077,2,25
 abide,0.006077,2,55
 neither,0.005795,3,77
@@ -55,6 +54,7 @@ dispirited,0.004849,1,2
 self-centeredness,0.004849,1,2
 wrapping,0.004849,1,2
 entirely,0.004787,2,36
+samadhi,0.004775,6,1513
 activated,0.004722,2,70
 reactions,0.004659,2,47
 description,0.004539,2,49
@@ -146,7 +146,6 @@ wrapped,0.002858,1,23
 breathing,0.002848,7,1983
 shine,0.002805,1,40
 phenomenally,0.002805,1,19
-samadhi,0.002770,3,1300
 takes,0.002770,3,241
 sustaining,0.002754,1,85
 sacrifice,0.002754,1,37
@@ -317,7 +316,6 @@ profound,0.001361,1,195
 intention,0.001350,1,190
 practices,0.001350,1,153
 pushing,0.001350,1,139
-pali,0.001350,1,160
 resting,0.001328,1,165
 related,0.001318,1,134
 enter,0.001318,1,189
@@ -351,6 +349,7 @@ presence,0.001164,1,207
 sitting,0.001160,5,754
 simple,0.001148,2,574
 within,0.001139,2,516
+pali,0.001121,1,216
 upon,0.001112,1,196
 try,0.001093,2,443
 finding,0.001088,1,167

@@ -1,8 +1,8 @@
 word,tfidf_score,talk_frequency,global_frequency
 nikki,0.039005,13,53
-metta,0.021412,12,304
 shining,0.021003,7,22
 radiating,0.018312,8,51
+metta,0.018060,12,445
 goodwill,0.017833,16,427
 friendliness,0.014257,7,163
 sentient,0.013893,4,12
@@ -45,9 +45,9 @@ fish,0.006712,2,13
 contact,0.006520,5,209
 reflections,0.006473,4,94
 seeds,0.006420,3,63
-sangha,0.006413,4,206
 blanket,0.006321,2,11
 swim,0.006153,2,18
+sangha,0.006128,4,231
 smiling,0.005730,2,19
 swimming,0.005730,2,19
 invite,0.005715,4,144
@@ -191,7 +191,6 @@ duty,0.003000,1,22
 shines,0.003000,1,21
 radiates,0.003000,1,15
 dancing,0.003000,1,15
-mudita,0.003000,1,58
 earth,0.002984,2,229
 loved,0.002932,2,110
 failing,0.002930,1,20
@@ -209,6 +208,7 @@ tough,0.002805,1,23
 neighborhood,0.002805,1,16
 indeed,0.002805,1,19
 wrong,0.002751,3,315
+mudita,0.002748,1,82
 sessions,0.002748,1,21
 plants,0.002748,1,26
 attitude,0.002717,2,188

@@ -62,10 +62,10 @@ plays,0.003013,4,16
 vivid,0.002929,3,5
 respond,0.002863,7,93
 canon,0.002858,5,53
-mahayana,0.002850,4,16
 tradition,0.002829,12,262
 case,0.002808,9,134
 buddha's,0.002808,9,155
+mahayana,0.002779,4,18
 famous,0.002770,5,30
 honest,0.002764,6,65
 flourish,0.002754,3,6
@@ -75,7 +75,6 @@ account,0.002654,4,23
 justice,0.002654,4,19
 suzuki,0.002654,4,25
 contemplative,0.002654,4,38
-pali,0.002653,9,160
 covid,0.002618,3,8
 sri,0.002618,3,13
 guidelines,0.002618,3,10
@@ -113,7 +112,7 @@ animism,0.002399,2,2
 darlene,0.002399,2,2
 dunker,0.002399,2,2
 diogenes,0.002399,2,2
-laërtius,0.002399,2,2
+laertius,0.002399,2,2
 tragedian,0.002399,2,2
 fleshly,0.002399,2,2
 schooling,0.002399,2,2
@@ -127,6 +126,7 @@ writer,0.002260,3,18
 yeah,0.002251,11,767
 found,0.002235,11,262
 engage,0.002220,7,132
+pali,0.002203,9,216
 thanks,0.002202,5,74
 passage,0.002195,3,22
 blind,0.002195,3,15
@@ -187,7 +187,6 @@ traditional,0.001837,3,25
 political,0.001837,3,30
 scholarly,0.001836,2,6
 unlikely,0.001836,2,5
-jhanas,0.001836,2,17
 probe,0.001836,2,7
 terribly,0.001836,2,6
 korea,0.001836,2,10
@@ -428,13 +427,11 @@ theologians,0.001200,1,1
 legalism,0.001200,1,1
 beholden,0.001200,1,1
 over-negated,0.001200,1,1
-atta,0.001200,1,1
 muddied,0.001200,1,1
 victorian-type,0.001200,1,1
 hallmarks,0.001200,1,1
 mel,0.001200,1,1
 weitsman,0.001200,1,1
-pañña,0.001200,1,1
 drinker,0.001200,1,1
 sona's,0.001200,1,1
 herodotus,0.001200,1,1
@@ -523,6 +520,7 @@ greater,0.001160,4,216
 perspective,0.001146,3,145
 core,0.001146,3,121
 sent,0.001143,2,31
+jhanas,0.001143,2,57
 monastics,0.001143,2,42
 frame,0.001143,2,27
 he's,0.001142,4,305
@@ -675,6 +673,7 @@ wipe,0.000976,1,4
 championing,0.000976,1,3
 solutions,0.000976,1,3
 strict,0.000976,1,4
+atta,0.000976,1,3
 unto,0.000976,1,4
 islands,0.000976,1,7
 dharmas,0.000976,1,4
@@ -786,7 +785,6 @@ performing,0.000873,1,6
 arts,0.000873,1,5
 speculation,0.000873,1,6
 union,0.000873,1,8
-nibbana,0.000873,1,6
 purely,0.000873,1,5
 founded,0.000873,1,10
 tibet,0.000873,1,8
@@ -805,7 +803,6 @@ bet,0.000873,1,5
 farm,0.000873,1,5
 harmonize,0.000873,1,6
 emergence,0.000873,1,11
-dana,0.000873,1,10
 vice,0.000873,1,5
 versa,0.000873,1,5
 springs,0.000873,1,8
@@ -890,6 +887,7 @@ bodhicitta,0.000804,1,10
 conceive,0.000804,1,12
 informs,0.000804,1,7
 heartfelt,0.000804,1,11
+panna,0.000804,1,10
 gods,0.000804,1,111
 freshness,0.000804,1,10
 latter,0.000804,1,7
@@ -920,7 +918,6 @@ presenting,0.000777,1,8
 contingent,0.000777,1,11
 individually,0.000777,1,9
 eight-fold,0.000777,1,10
-anguttara,0.000777,1,9
 preserved,0.000777,1,9
 preserve,0.000777,1,11
 clue,0.000777,1,8
@@ -992,7 +989,6 @@ foggy,0.000732,1,10
 refuges,0.000732,1,11
 formed,0.000732,1,11
 quoted,0.000732,1,16
-sila,0.000732,1,21
 valley,0.000732,1,12
 founder,0.000732,1,13
 vague,0.000732,1,12
@@ -1025,6 +1021,7 @@ stiller,0.000712,1,14
 priority,0.000712,1,13
 raise,0.000712,1,11
 overlooked,0.000712,1,11
+dana,0.000712,1,28
 lousy,0.000712,1,11
 functioning,0.000712,1,11
 enormously,0.000712,1,17
@@ -1048,6 +1045,7 @@ shown,0.000695,1,12
 delights,0.000695,1,14
 thoroughly,0.000695,1,12
 politics,0.000695,1,16
+anguttara,0.000695,1,15
 extraordinary,0.000695,1,14
 discipline,0.000695,1,14
 floats,0.000695,1,15
@@ -1096,7 +1094,6 @@ rarely,0.000663,1,17
 complaining,0.000663,1,25
 honestly,0.000663,1,15
 embracing,0.000663,1,32
-theravada,0.000663,1,23
 inform,0.000663,1,19
 inhabiting,0.000663,1,15
 science,0.000663,1,36
@@ -1111,6 +1108,7 @@ wherever,0.000651,2,99
 themes,0.000649,1,20
 handle,0.000649,1,22
 claim,0.000649,1,19
+nibbana,0.000649,1,41
 sustained,0.000649,1,26
 green,0.000649,1,19
 correct,0.000649,1,32
@@ -1168,6 +1166,7 @@ cultures,0.000612,1,21
 roots,0.000612,1,39
 whoever,0.000612,1,25
 walks,0.000612,1,25
+sila,0.000612,1,42
 tool,0.000612,1,35
 suggested,0.000612,1,21
 south,0.000612,1,24
@@ -1183,7 +1182,6 @@ beyond,0.000604,2,183
 value,0.000604,2,145
 responsibility,0.000601,1,26
 compared,0.000601,1,28
-nikaya,0.000601,1,26
 sustaining,0.000601,1,85
 hasn't,0.000601,1,20
 addressed,0.000601,1,22
@@ -1265,6 +1263,7 @@ faculties,0.000554,1,56
 unskillful,0.000554,1,61
 uncertainty,0.000554,1,36
 encouraged,0.000554,1,28
+theravada,0.000554,1,50
 parent,0.000554,1,27
 released,0.000554,1,33
 contemplation,0.000554,1,41
@@ -1451,6 +1450,7 @@ capacity,0.000431,2,316
 fixed,0.000431,1,90
 goal,0.000431,1,91
 truths,0.000431,1,119
+nikaya,0.000431,1,69
 fast,0.000431,1,62
 ajahn,0.000431,1,108
 kept,0.000431,1,58
@@ -1492,7 +1492,6 @@ type,0.000405,1,93
 occur,0.000405,1,56
 slightly,0.000405,1,64
 believe,0.000403,2,278
-samadhi,0.000403,2,1300
 new,0.000401,3,543
 laughter,0.000401,1,73
 shared,0.000401,1,71
@@ -1558,6 +1557,7 @@ start,0.000354,5,869
 seen,0.000353,2,294
 valuable,0.000352,1,93
 involves,0.000349,1,98
+samadhi,0.000348,2,1513
 stand,0.000345,1,100
 easily,0.000345,1,97
 gone,0.000345,1,97

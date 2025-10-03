@@ -1,5 +1,5 @@
 word,tfidf_score,talk_frequency,global_frequency
-mettā,0.047629,30,141
+metta,0.027599,30,445
 rosemerry,0.016984,8,16
 brother,0.016473,10,35
 poem,0.014590,16,329
@@ -118,7 +118,7 @@ feckless,0.003166,1,1
 spiderweb,0.003166,1,1
 roaring,0.003166,1,1
 spiderwebs,0.003166,1,1
-non-mettā,0.003166,1,1
+non-metta,0.003166,1,1
 squeaky,0.003166,1,1
 robots,0.003166,1,1
 airlines,0.003166,1,1
@@ -500,7 +500,6 @@ community,0.000804,1,310
 orientation,0.000797,1,179
 fine,0.000784,1,148
 pushing,0.000778,1,139
-pali,0.000778,1,160
 intention,0.000778,1,190
 somehow,0.000776,2,307
 allowing,0.000776,2,465
@@ -539,6 +538,7 @@ benefit,0.000671,1,178
 yet,0.000661,1,235
 brings,0.000656,1,190
 ever,0.000656,1,177
+pali,0.000646,1,216
 thought,0.000637,3,850
 walk,0.000636,1,253
 sit,0.000630,3,596

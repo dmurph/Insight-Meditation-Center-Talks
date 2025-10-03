@@ -1,6 +1,6 @@
 word,tfidf_score,talk_frequency,global_frequency
 subjective,0.046728,15,74
-samadhi,0.035260,39,1300
+samadhi,0.030387,39,1513
 sacred,0.028671,15,91
 temple,0.025631,10,55
 reverence,0.025555,8,28
@@ -79,7 +79,6 @@ care,0.004022,12,1221
 inside,0.003954,6,424
 30-minute,0.003912,1,5
 sacredness,0.003912,1,6
-nibbana,0.003912,1,6
 reorient,0.003912,1,6
 bubbles,0.003912,1,5
 trees,0.003906,2,84
@@ -132,13 +131,13 @@ limitations,0.003042,1,28
 stretching,0.003042,1,16
 walls,0.003042,1,21
 softening,0.003032,3,223
-theravada,0.002975,1,23
 tie,0.002975,1,17
 softens,0.002975,1,17
 indian,0.002975,1,23
 determined,0.002975,1,15
 dramatically,0.002912,1,16
 grace,0.002912,1,20
+nibbana,0.002912,1,41
 greedy,0.002912,1,20
 gathering,0.002892,2,184
 condition,0.002868,2,160
@@ -166,6 +165,7 @@ places,0.002633,3,239
 focus,0.002614,3,342
 follows,0.002606,1,27
 ultimate,0.002523,1,35
+theravada,0.002484,1,50
 evoke,0.002484,1,36
 adjusting,0.002484,1,29
 represent,0.002484,1,28

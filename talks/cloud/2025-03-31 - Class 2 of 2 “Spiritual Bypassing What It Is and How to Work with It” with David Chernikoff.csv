@@ -229,7 +229,7 @@ parks,0.001907,1,1
 treading,0.001907,1,1
 retroflection,0.001907,1,1
 conflict-avoidant,0.001907,1,1
-chödrön's,0.001907,1,1
+chodron's,0.001907,1,1
 jeering,0.001907,1,1
 scorned,0.001907,1,1
 despised,0.001907,1,1
@@ -337,7 +337,7 @@ lamas,0.001684,1,2
 pulses,0.001684,1,2
 informing,0.001684,1,2
 resulting,0.001684,1,2
-chödrön,0.001684,1,2
+chodron,0.001684,1,2
 ineffable,0.001684,1,2
 drunken,0.001684,1,2
 tormented,0.001684,1,4
@@ -530,7 +530,7 @@ self-image,0.001329,1,11
 caregiver,0.001329,1,7
 gestalt,0.001329,1,10
 boss,0.001329,1,6
-sampajañña,0.001329,1,8
+sampajanna,0.001329,1,8
 oppressed,0.001329,1,6
 captures,0.001329,1,6
 exposed,0.001329,1,11
@@ -660,9 +660,6 @@ pace,0.001164,1,14
 thick,0.001164,1,12
 classical,0.001164,1,10
 gateway,0.001164,1,17
-thich,0.001164,1,10
-nhat,0.001164,1,10
-hanh,0.001164,1,10
 death,0.001149,2,160
 couple,0.001133,3,172
 attended,0.001133,1,12
@@ -702,6 +699,9 @@ preference,0.001105,1,15
 dies,0.001105,1,15
 cry,0.001105,1,12
 vulnerability,0.001105,1,16
+thich,0.001105,1,13
+nhat,0.001105,1,13
+hanh,0.001105,1,13
 fulfilled,0.001105,1,12
 disease,0.001105,1,16
 lost,0.001099,3,242
@@ -741,7 +741,6 @@ rarely,0.001055,1,17
 black,0.001055,1,20
 advantage,0.001055,1,21
 playful,0.001055,1,20
-theravada,0.001055,1,23
 frustrated,0.001055,1,16
 permission,0.001055,1,18
 option,0.001055,1,17
@@ -901,6 +900,7 @@ help,0.000886,5,455
 spoke,0.000881,1,37
 adjusting,0.000881,1,29
 fellow,0.000881,1,42
+theravada,0.000881,1,50
 unskillful,0.000881,1,61
 walked,0.000881,1,37
 released,0.000881,1,33

@@ -1,5 +1,5 @@
 word,tfidf_score,talk_frequency,global_frequency
-sangha,0.057764,42,206
+sangha,0.056508,43,231
 lay,0.023616,14,85
 monastic,0.023271,13,65
 robes,0.023163,9,20
@@ -89,9 +89,9 @@ hardwood,0.004443,1,1
 gems,0.004443,1,1
 lamenting,0.004443,1,1
 osho,0.004443,1,1
-miga-saṅgha,0.004443,1,1
-kāka-saṅgha,0.004443,1,1
-deva-saṅgha,0.004443,1,1
+miga-sangha,0.004443,1,1
+kaka-sangha,0.004443,1,1
+deva-sangha,0.004443,1,1
 robed,0.004443,1,1
 donned,0.004443,1,1
 rectangle,0.004443,1,1
@@ -122,7 +122,6 @@ excitement,0.004379,2,33
 tradition,0.004366,5,262
 buddhism,0.004287,6,503
 organized,0.004104,2,61
-pāli,0.004104,2,55
 who've,0.004104,2,32
 bow,0.004043,2,36
 wild,0.003984,2,45
@@ -227,7 +226,6 @@ hopefully,0.002829,2,80
 seem,0.002825,3,165
 inspiring,0.002803,2,87
 dressed,0.002790,1,11
-saṅgha,0.002790,1,25
 devas,0.002790,1,43
 oftentimes,0.002790,1,12
 entertainment,0.002790,1,13
@@ -236,7 +234,6 @@ teeth,0.002790,1,16
 songs,0.002790,1,16
 door,0.002725,2,105
 refuges,0.002711,1,11
-theravāda,0.002711,1,27
 temporary,0.002711,1,11
 cell,0.002711,1,12
 devices,0.002711,1,10
@@ -318,6 +315,7 @@ didn't,0.002062,4,505
 bhikkhu,0.002052,1,66
 struggling,0.002052,1,26
 walked,0.002052,1,37
+theravada,0.002052,1,50
 refer,0.002052,1,28
 store,0.002052,1,39
 fruit,0.002052,1,41
@@ -359,6 +357,7 @@ running,0.001836,1,39
 month,0.001836,1,47
 strange,0.001836,1,35
 starts,0.001827,2,188
+pali,0.001813,2,216
 renunciation,0.001813,1,68
 sleep,0.001790,1,55
 west,0.001768,1,54

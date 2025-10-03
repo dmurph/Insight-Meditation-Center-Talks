@@ -1,5 +1,5 @@
 word,tfidf_score,talk_frequency,global_frequency
-vedanā,0.147406,102,142
+vedana,0.139351,104,152
 unpleasant,0.034238,48,233
 neutral,0.026665,24,52
 arrow,0.026606,22,75
@@ -94,7 +94,6 @@ bone,0.003856,2,5
 worldling,0.003856,2,4
 object,0.003795,7,205
 source,0.003666,6,261
-vedana,0.003625,2,10
 musician,0.003625,2,5
 untangle,0.003446,2,8
 pronounced,0.003446,2,7
@@ -178,7 +177,7 @@ shockingly,0.002369,1,1
 v-e-d-a-n-a,0.002369,1,1
 v's,0.002369,1,1
 w's,0.002369,1,1
-wedanā,0.002369,1,1
+wedana,0.002369,1,1
 grasp,0.002334,2,30
 referring,0.002334,2,23
 explore,0.002306,3,101
@@ -198,7 +197,7 @@ thanked,0.002091,1,2
 consisted,0.002091,1,2
 inextricably,0.002091,1,2
 captivated,0.002091,1,2
-paṭiccasamuppāda,0.002091,1,2
+paticcasamuppada,0.002091,1,2
 items,0.002091,1,2
 renunciate,0.002091,1,3
 weep,0.002091,1,2
@@ -284,7 +283,6 @@ parenting,0.001723,1,6
 announced,0.001723,1,6
 visuddhimagga,0.001723,1,6
 gateways,0.001723,1,6
-satipaṭṭhāna,0.001723,1,5
 applicable,0.001723,1,6
 registering,0.001723,1,5
 delicious,0.001723,1,7
@@ -337,7 +335,6 @@ recap,0.001535,1,9
 coin,0.001535,1,8
 dig,0.001535,1,20
 dirt,0.001535,1,17
-samyutta,0.001535,1,12
 responds,0.001535,1,13
 clothing,0.001535,1,11
 fades,0.001535,1,10
@@ -398,7 +395,9 @@ gone,0.001364,2,97
 learning,0.001355,3,209
 inner,0.001352,4,447
 share,0.001345,3,244
+satipatthana,0.001340,1,16
 bored,0.001340,1,20
+samyutta,0.001340,1,18
 tightness,0.001329,2,113
 working,0.001325,3,282
 gift,0.001318,2,124
@@ -441,7 +440,6 @@ unpleasantness,0.001188,1,26
 referred,0.001188,1,20
 kitchen,0.001188,1,53
 dog,0.001188,1,36
-nikaya,0.001188,1,26
 vulnerable,0.001188,1,29
 tendencies,0.001188,1,28
 dream,0.001188,1,33
@@ -453,7 +451,6 @@ reliable,0.001167,1,33
 struggle,0.001167,1,26
 non-clinging,0.001167,1,54
 extreme,0.001167,1,28
-pali,0.001164,2,160
 food,0.001164,2,182
 hips,0.001148,1,25
 temperature,0.001148,1,24
@@ -493,7 +490,6 @@ name,0.001051,2,188
 field,0.001051,2,230
 experienced,0.001051,2,172
 hi,0.001047,1,36
-san,0.001047,1,47
 chasing,0.001047,1,45
 freeing,0.001047,1,40
 definition,0.001047,1,42
@@ -505,6 +501,7 @@ gosh,0.001032,1,38
 trained,0.001032,1,41
 hanging,0.001032,1,33
 mistake,0.001032,1,35
+san,0.001032,1,49
 stick,0.001032,1,53
 hands,0.001027,2,170
 starting,0.001027,2,143
@@ -527,6 +524,7 @@ strange,0.000979,1,35
 hurts,0.000979,1,39
 sorrow,0.000979,1,47
 still,0.000968,7,740
+pali,0.000967,2,216
 eating,0.000966,1,45
 occurs,0.000966,1,36
 aligned,0.000966,1,50
@@ -580,6 +578,7 @@ kept,0.000851,1,58
 entire,0.000851,1,65
 truths,0.000851,1,119
 fast,0.000851,1,62
+nikaya,0.000851,1,69
 worth,0.000851,1,74
 freedom,0.000851,3,596
 basically,0.000842,1,94

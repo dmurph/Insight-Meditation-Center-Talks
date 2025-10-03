@@ -37,7 +37,6 @@ susan,0.005461,2,15
 peg,0.005461,2,7
 stories,0.005324,8,361
 wise,0.005284,8,383
-kalama,0.005191,2,8
 bundle,0.005191,2,15
 constructed,0.005186,3,54
 buddha,0.005103,22,1594
@@ -47,6 +46,7 @@ incredibly,0.004944,3,33
 build,0.004818,4,66
 afterwards,0.004799,3,29
 sutta,0.004797,5,307
+kalama,0.004785,2,11
 rely,0.004785,2,12
 curious,0.004677,4,93
 views,0.004677,4,266
@@ -91,12 +91,12 @@ wings,0.003401,2,37
 greed,0.003397,4,238
 taught,0.003370,4,162
 accessible,0.003347,2,31
-sangha,0.003313,3,206
 teach,0.003292,4,187
 harming,0.003247,2,59
 supports,0.003216,4,166
 beautiful,0.003205,7,538
 need,0.003185,16,986
+sangha,0.003166,3,231
 son,0.003154,2,76
 applause,0.003149,1,2
 conceptually,0.003149,1,2
@@ -115,7 +115,6 @@ undertaken,0.003149,1,3
 irritability,0.003149,1,2
 sensible,0.003149,1,2
 gauge,0.003149,1,2
-rahula,0.003149,1,2
 blindly,0.003149,1,2
 harm's,0.003149,1,2
 rosemary's,0.003149,1,2
@@ -226,6 +225,7 @@ clearing,0.002312,1,12
 individually,0.002312,1,9
 wars,0.002312,1,11
 affecting,0.002312,1,14
+rahula,0.002312,1,12
 blown,0.002312,1,10
 teachings,0.002272,5,507
 contraction,0.002272,2,88

@@ -9,7 +9,7 @@ awakening,0.011713,19,280
 exposed,0.010911,6,11
 impermanence,0.009597,11,144
 sudden,0.009584,9,62
-sammā,0.009496,5,10
+samma,0.009496,5,10
 vulnerable,0.009163,7,29
 unsatisfactory,0.008752,5,31
 existential,0.008664,6,27
@@ -28,18 +28,18 @@ sujata,0.006913,3,4
 angulimala,0.006913,3,30
 adjective,0.006375,3,10
 buddhism,0.006297,15,503
-metta,0.006295,7,304
 condition,0.006265,9,160
-vipassanā,0.006123,5,77
 term,0.006086,6,60
 audience,0.006029,5,136
 batchelor,0.005993,3,36
 imperfect,0.005993,3,6
 gradual,0.005852,5,60
-kalama,0.005698,3,8
 transient,0.005698,3,7
+vipassana,0.005610,5,87
 terms,0.005592,9,196
 change,0.005494,18,798
+metta,0.005309,7,445
+kalama,0.005251,3,11
 unreliable,0.005251,3,10
 wakes,0.005251,3,10
 intemperie,0.005221,2,2
@@ -170,7 +170,6 @@ culture,0.002592,3,112
 harm,0.002587,4,324
 break,0.002566,3,76
 zen,0.002566,3,134
-pali,0.002566,4,160
 tradition,0.002565,5,262
 practiced,0.002542,3,77
 interpretation,0.002529,2,27
@@ -200,7 +199,7 @@ embraces,0.002304,1,2
 spanish,0.002304,1,2
 autonomous,0.002304,1,2
 exchanging,0.002304,1,2
-hägglund,0.002304,1,2
+hagglund,0.002304,1,2
 fails,0.002304,1,2
 longed,0.002304,1,2
 isolating,0.002304,1,2
@@ -213,7 +212,6 @@ disappoint,0.002304,1,2
 hardships,0.002304,1,2
 inflicting,0.002304,1,2
 disorders,0.002304,1,2
-mahā,0.002304,1,2
 recommends,0.002304,1,4
 situation,0.002282,4,230
 speaks,0.002275,2,40
@@ -229,10 +227,10 @@ impermanent,0.002185,2,58
 interpret,0.002157,2,42
 offers,0.002157,2,38
 noble,0.002142,3,263
+pali,0.002131,4,216
 birth,0.002130,2,58
 lifetime,0.002130,2,50
 eating,0.002130,2,45
-samatha-vipassanā,0.002125,1,4
 bare,0.002125,1,3
 temporal,0.002125,1,6
 linguistic,0.002125,1,3
@@ -252,6 +250,7 @@ spends,0.002125,1,3
 rulers,0.002125,1,3
 nirvana,0.002125,1,3
 recovery,0.002125,1,3
+maha,0.002125,1,3
 contacting,0.002125,1,3
 baking,0.002125,1,4
 age,0.002103,2,43
@@ -266,6 +265,7 @@ pain,0.002068,5,489
 tone,0.002053,2,92
 explain,0.002005,2,49
 wonders,0.001998,1,4
+samatha-vipassana,0.001998,1,6
 obstacle,0.001998,1,4
 script,0.001998,1,5
 self-evident,0.001998,1,4
@@ -576,7 +576,6 @@ continues,0.001014,1,50
 knowledge,0.001014,1,102
 spending,0.001014,1,53
 habit,0.001003,1,59
-samādhi,0.001003,1,213
 write,0.001003,1,52
 asks,0.001003,1,63
 whose,0.001003,1,43
@@ -854,6 +853,7 @@ bit,0.000395,5,1439
 movement,0.000387,1,356
 seen,0.000384,1,294
 thinking,0.000380,4,1621
+samadhi,0.000378,1,1513
 clearly,0.000375,1,386
 relationship,0.000373,1,386
 recognize,0.000370,1,404

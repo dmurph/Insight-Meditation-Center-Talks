@@ -1,13 +1,12 @@
 word,tfidf_score,talk_frequency,global_frequency
 sweetness,0.049826,23,89
-samadhi,0.032494,40,1300
+samadhi,0.028003,40,1513
 pleasure,0.019499,21,617
 relief,0.018125,11,94
 stopping,0.017855,8,52
 steadiness,0.013300,7,104
 steady,0.012546,8,148
 spaciousness,0.012192,8,214
-samatha-vipassana,0.009665,2,2
 goodness,0.009518,13,466
 accomplishing,0.009393,3,13
 breathing,0.008946,25,1983
@@ -16,6 +15,7 @@ counting,0.008542,4,141
 s's,0.008531,2,3
 comforter,0.008531,2,3
 state,0.008184,10,483
+samatha-vipassana,0.007396,2,6
 steadily,0.007396,2,8
 primary,0.007124,6,153
 radiate,0.006499,3,37
@@ -36,7 +36,6 @@ accomplish,0.005127,2,19
 sweet,0.004943,3,85
 review,0.004846,2,30
 gladness,0.004846,2,48
-samadhi-vipassana,0.004833,1,1
 youtube,0.004797,3,77
 relaxing,0.004767,6,364
 settling,0.004720,7,507
@@ -46,6 +45,7 @@ pause,0.004572,3,154
 subtle,0.004407,5,350
 tower,0.004397,2,41
 falls,0.004271,2,43
+samadhi-vipassana,0.004265,1,2
 undoing,0.004265,1,2
 absorption,0.004211,2,39
 music,0.004154,2,61
@@ -86,7 +86,6 @@ opens,0.003262,2,74
 difficulties,0.003262,2,139
 eco-chaplaincy,0.003240,1,10
 28th,0.003240,1,7
-vipassana,0.003240,1,10
 satisfy,0.003240,1,7
 well-being,0.003225,4,536
 phrase,0.003198,2,90
@@ -190,6 +189,7 @@ bliss,0.002106,1,61
 commitment,0.002106,1,47
 satisfaction,0.002106,1,36
 established,0.002077,1,40
+vipassana,0.002077,1,87
 lets,0.002077,1,34
 ignore,0.002077,1,34
 small,0.002069,3,341

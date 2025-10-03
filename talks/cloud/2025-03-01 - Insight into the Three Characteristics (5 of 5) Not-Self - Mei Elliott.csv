@@ -1,6 +1,6 @@
 word,tfidf_score,talk_frequency,global_frequency
-anattā,0.030563,11,23
 not-self,0.027728,18,162
+anatta,0.026684,11,38
 river,0.021079,15,330
 mei,0.020931,8,56
 self,0.017534,26,1111
@@ -120,7 +120,6 @@ edge,0.003413,2,62
 suffering,0.003345,9,1420
 noticing,0.003321,4,329
 zoom,0.003294,2,75
-samādhi,0.003294,2,213
 perplexing,0.003282,1,4
 widen,0.003282,1,10
 spotlight,0.003282,1,7
@@ -403,6 +402,7 @@ try,0.001279,3,443
 folks,0.001268,1,118
 words,0.001258,3,474
 guess,0.001257,1,107
+samadhi,0.001243,2,1513
 stand,0.001235,1,100
 piece,0.001235,1,129
 poem,0.001235,1,329

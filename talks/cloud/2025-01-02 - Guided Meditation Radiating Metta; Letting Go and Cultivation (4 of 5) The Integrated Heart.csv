@@ -1,5 +1,5 @@
 word,tfidf_score,talk_frequency,global_frequency
-metta,0.043975,35,304
+metta,0.037091,35,445
 radiation,0.025121,9,19
 curtain,0.015921,6,22
 integrated,0.015799,8,39
@@ -16,11 +16,11 @@ character,0.008297,5,36
 driver,0.008070,4,21
 radiating,0.008059,5,51
 squirrels,0.007960,3,7
-parami,0.007337,3,19
 all-around,0.007295,2,2
 flashing,0.007295,2,2
 maniacs,0.007295,2,2
 nonetheless,0.006676,3,15
+parami,0.006499,3,28
 sucitto,0.006499,3,18
 deer,0.006338,3,135
 neighbor,0.006190,3,22
@@ -160,7 +160,6 @@ bold,0.002653,1,6
 neighbor's,0.002653,1,5
 echo,0.002653,1,7
 agreeing,0.002653,1,6
-nibbana,0.002653,1,6
 implied,0.002653,1,5
 farther,0.002541,1,6
 upwards,0.002541,1,6
@@ -251,6 +250,7 @@ faster,0.001975,1,23
 strengthen,0.001975,1,15
 inclusive,0.001975,1,24
 grace,0.001975,1,20
+nibbana,0.001975,1,41
 awaken,0.001935,1,26
 stance,0.001935,1,20
 lungs,0.001935,1,25
@@ -468,7 +468,6 @@ caught,0.001147,2,358
 engaged,0.001140,1,105
 tends,0.001140,1,83
 ill,0.001140,1,129
-sangha,0.001129,1,206
 large,0.001119,1,79
 pass,0.001119,1,88
 vast,0.001119,1,114
@@ -479,6 +478,7 @@ challenges,0.001098,1,103
 carry,0.001098,1,102
 focusing,0.001098,1,104
 concerns,0.001088,1,102
+sangha,0.001079,1,231
 day,0.001076,5,756
 torso,0.001069,1,109
 centered,0.001069,1,143

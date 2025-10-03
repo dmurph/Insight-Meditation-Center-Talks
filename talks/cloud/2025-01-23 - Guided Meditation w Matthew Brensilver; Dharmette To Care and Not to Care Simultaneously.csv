@@ -35,7 +35,7 @@ ruminative,0.010552,3,3
 abridged,0.010552,3,3
 problem-lessness,0.010552,3,3
 errorlessness,0.010552,3,3
-cūḷasuññata,0.010552,3,3
+culasunnata,0.010552,3,3
 transfixed,0.010552,3,3
 benevolent,0.010552,3,3
 agitation,0.010077,9,103
@@ -79,7 +79,6 @@ nihilism,0.007676,3,9
 modes,0.007676,3,17
 mechanisms,0.007676,3,7
 cast,0.007676,3,7
-anatta,0.007676,3,15
 perceptual,0.007676,3,8
 warms,0.007676,3,7
 february,0.007676,3,7
@@ -124,6 +123,7 @@ shadow,0.006112,3,18
 refined,0.006112,3,15
 perform,0.005969,3,19
 scope,0.005969,3,17
+anatta,0.005969,3,38
 lesser,0.005969,3,33
 trace,0.005836,3,20
 enjoy,0.005771,6,113
@@ -131,7 +131,6 @@ sutta,0.005674,6,307
 forms,0.005627,6,128
 depend,0.005598,3,27
 perceiving,0.005598,3,25
-samsara,0.005598,3,26
 infinite,0.005598,3,27
 sensory,0.005598,3,33
 confident,0.005598,3,23
@@ -155,6 +154,7 @@ self,0.004978,9,1111
 east,0.004949,3,33
 increase,0.004949,3,41
 apparently,0.004873,3,39
+samsara,0.004873,3,41
 compassion,0.004868,9,634
 equanimity,0.004792,6,458
 twice,0.004730,3,33

@@ -60,15 +60,14 @@ stuck,0.003965,4,120
 complaining,0.003875,2,25
 hang,0.003734,3,56
 clarity,0.003655,5,252
-vicikicchā,0.003503,1,1
-jañña,0.003503,1,1
-ñāṇa,0.003503,1,1
+vicikiccha,0.003503,1,1
+janna,0.003503,1,1
+nana,0.003503,1,1
 pa,0.003503,1,1
-sati-sampajañña,0.003503,1,1
+sati-sampajanna,0.003503,1,1
 in-the-background,0.003503,1,1
 snacking,0.003503,1,1
 aining,0.003503,1,1
-cliché,0.003503,1,1
 aloe,0.003503,1,1
 vera,0.003503,1,1
 revisited,0.003503,1,1
@@ -101,6 +100,7 @@ snack,0.003091,1,3
 inventory,0.003091,1,2
 impress,0.003091,1,4
 contemplations,0.003091,1,2
+cliche,0.003091,1,4
 coconut,0.003091,1,2
 blossoming,0.003091,1,2
 clear-cut,0.003091,1,3
@@ -154,7 +154,7 @@ personally,0.002463,2,58
 effort,0.002462,3,294
 indecisiveness,0.002440,1,7
 unsure,0.002440,1,6
-sampajañña,0.002440,1,8
+sampajanna,0.002440,1,8
 timer,0.002440,1,7
 nobody's,0.002440,1,8
 hedonic,0.002440,1,8
@@ -208,7 +208,6 @@ role,0.002189,2,100
 confidence,0.002168,2,156
 suttas,0.002148,2,171
 tuned,0.002137,1,11
-vedanā,0.002137,1,142
 showing,0.002129,2,95
 shows,0.002129,2,123
 avoid,0.002109,2,122
@@ -244,6 +243,7 @@ sentences,0.001981,1,17
 roll,0.001981,1,17
 providing,0.001981,1,23
 p,0.001981,1,16
+vedana,0.001981,1,152
 throwing,0.001981,1,20
 imaginary,0.001981,1,18
 nurture,0.001981,1,17
@@ -301,7 +301,6 @@ approaches,0.001756,1,25
 exactly,0.001753,3,230
 well-being,0.001753,3,536
 connected,0.001740,3,296
-pali,0.001721,2,160
 practices,0.001721,2,153
 words,0.001713,5,474
 separation,0.001697,1,39
@@ -362,6 +361,7 @@ defined,0.001466,1,40
 introduce,0.001466,1,38
 wow,0.001440,2,210
 ideas,0.001433,3,427
+pali,0.001429,2,216
 aligned,0.001429,1,50
 phrases,0.001411,1,85
 repeat,0.001411,1,43

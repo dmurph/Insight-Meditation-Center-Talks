@@ -174,7 +174,6 @@ line,0.003991,2,161
 listen,0.003991,2,172
 unpleasantness,0.003943,1,26
 approaches,0.003943,1,25
-nikaya,0.003943,1,26
 thread,0.003943,1,45
 intensity,0.003874,1,27
 overwhelmed,0.003874,1,25
@@ -242,6 +241,7 @@ behavior,0.002918,1,60
 thanks,0.002886,1,74
 enough,0.002878,6,728
 totally,0.002824,1,92
+nikaya,0.002824,1,69
 negative,0.002795,1,72
 dependent,0.002795,1,84
 curiosity,0.002795,1,99

@@ -7,7 +7,6 @@ subtle,0.013699,16,350
 gravitational,0.013660,4,8
 trampoline,0.013660,4,24
 expansive,0.013238,7,63
-samādhi,0.012619,7,213
 motion,0.012210,5,31
 pull,0.011553,9,131
 centered,0.011008,8,143
@@ -27,6 +26,7 @@ harmony,0.007296,4,111
 unified,0.007048,4,64
 connected,0.006998,9,296
 fisted,0.006830,2,11
+samadhi,0.006801,10,1513
 becoming,0.006793,9,298
 settleness,0.006540,2,11
 anxious,0.006313,3,35
@@ -87,7 +87,6 @@ odds,0.003592,1,5
 insistent,0.003592,1,4
 hallmark,0.003592,1,5
 gravity,0.003564,2,50
-jhāna,0.003564,2,232
 orient,0.003524,2,71
 retreats,0.003524,2,70
 working,0.003502,4,282
@@ -99,6 +98,7 @@ willful,0.003415,1,6
 needy,0.003415,1,5
 psychological,0.003409,2,69
 belly,0.003399,4,254
+jhana,0.003372,2,275
 momentum,0.003337,2,83
 constant,0.003302,2,70
 opposed,0.003302,2,75
@@ -164,7 +164,6 @@ operates,0.002442,1,27
 fist,0.002442,1,52
 meanings,0.002442,1,21
 instead,0.002428,4,439
-samadhi,0.002367,3,1300
 orientation,0.002363,2,179
 organizing,0.002354,1,58
 referring,0.002313,1,23

@@ -2,18 +2,15 @@ word,tfidf_score,talk_frequency,global_frequency
 patience,0.040154,15,329
 patient,0.029201,9,103
 traits,0.027289,5,14
+parami,0.021180,5,28
 restfulness,0.018885,3,4
 transaction,0.017416,3,5
 kingdom,0.016944,4,24
 2of5,0.015565,3,10
-parami,0.014346,3,19
 valued,0.014346,3,13
 lodge,0.014264,2,2
 rallies,0.014264,2,2
 sweat,0.012590,2,3
-thích,0.012590,2,3
-nhất,0.012590,2,3
-hạnh,0.012590,2,3
 frenzy,0.012590,2,7
 harden,0.012590,2,4
 absurd,0.011611,2,4
@@ -25,12 +22,14 @@ transactional,0.010916,2,6
 insofar,0.010916,2,6
 value,0.010772,6,145
 decision,0.010365,3,31
-pāramī,0.009936,2,9
 nervous,0.009592,3,53
 comprehend,0.009564,2,9
 priorities,0.009564,2,10
 valuing,0.008702,2,13
 harder,0.008412,3,56
+thich,0.008262,2,13
+nhat,0.008262,2,13
+hanh,0.008262,2,13
 presence,0.007557,5,207
 cannot,0.007420,4,129
 momentary,0.007152,2,25
@@ -132,7 +131,6 @@ imperfection,0.004621,1,10
 exhalation,0.004621,1,16
 bathroom,0.004621,1,13
 alarm,0.004621,1,12
-pāramīs,0.004621,1,9
 foreign,0.004621,1,8
 sort,0.004604,3,241
 receiving,0.004585,2,152
@@ -176,6 +174,7 @@ naive,0.003945,1,23
 young,0.003934,2,130
 appreciation,0.003934,2,203
 attune,0.003861,1,19
+paramis,0.003861,1,22
 dismissive,0.003861,1,20
 forgetting,0.003861,1,15
 satisfied,0.003784,1,17
@@ -358,7 +357,6 @@ matter,0.001217,1,224
 state,0.001208,1,483
 course,0.001203,2,650
 believe,0.001199,1,278
-samadhi,0.001199,1,1300
 fact,0.001190,1,225
 natural,0.001190,1,318
 real,0.001190,1,225
@@ -374,6 +372,7 @@ true,0.001057,1,387
 thing,0.001055,4,1366
 breathe,0.001033,1,408
 wisdom,0.001033,1,535
+samadhi,0.001033,1,1513
 hear,0.001026,1,379
 let's,0.001018,1,389
 arise,0.001010,1,350

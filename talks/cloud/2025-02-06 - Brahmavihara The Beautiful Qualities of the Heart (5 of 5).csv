@@ -1,7 +1,7 @@
 word,tfidf_score,talk_frequency,global_frequency
 equanimity,0.027857,43,458
-brahmaviharas,0.013911,7,18
 courage,0.012789,10,89
+brahmaviharas,0.012183,7,29
 farmer,0.011923,6,28
 ups,0.008905,6,22
 downs,0.008905,6,22
@@ -13,10 +13,10 @@ journey,0.007097,7,114
 yep,0.006778,4,21
 horse,0.006778,4,29
 taste,0.006651,6,99
-brahmavihara,0.006549,3,10
 unhappiness,0.006455,4,21
 son,0.006303,5,76
 toward,0.006239,7,152
+brahmavihara,0.005962,3,14
 horses,0.005962,3,19
 joy,0.005926,15,896
 giddiness,0.005706,2,2
@@ -33,7 +33,6 @@ benefactor,0.005083,3,28
 grandparent's,0.005036,2,3
 lawfulness,0.005036,2,3
 appropriate,0.004986,7,162
-mudita,0.004957,3,58
 turned,0.004864,5,80
 zone,0.004841,3,21
 compassion,0.004826,11,634
@@ -42,12 +41,12 @@ envy,0.004734,3,42
 lapse,0.004644,2,5
 journeys,0.004644,2,4
 phrases,0.004597,4,85
+mudita,0.004540,3,82
 fine,0.004240,6,148
 lining,0.004151,2,6
 villagers,0.004151,2,12
 outcomes,0.004151,2,12
 neutral,0.004014,3,52
-metta,0.003931,4,304
 noticing,0.003866,7,329
 fear,0.003865,8,441
 grief,0.003852,4,132
@@ -69,6 +68,7 @@ crowded,0.003481,2,13
 actions,0.003405,4,145
 dance,0.003389,2,23
 balance,0.003375,4,143
+metta,0.003315,4,445
 qualities,0.003314,6,326
 winds,0.003305,2,53
 enjoyment,0.003227,2,15

@@ -50,7 +50,6 @@ chanting,0.005318,2,11
 chapter,0.005139,2,25
 remain,0.005114,3,35
 reminder,0.004853,3,45
-sila,0.004839,2,21
 pauses,0.004711,2,14
 question,0.004687,9,590
 honest,0.004569,3,65
@@ -67,6 +66,7 @@ frustration,0.004126,2,31
 restless,0.004126,2,28
 verse,0.004126,2,45
 painful,0.004057,3,98
+sila,0.004050,2,42
 value,0.003993,4,145
 worry,0.003976,3,91
 legit,0.003966,1,1
@@ -178,7 +178,6 @@ day-to-day,0.002763,1,6
 conflicts,0.002763,1,9
 mirrors,0.002763,1,7
 predicament,0.002763,1,11
-brahmaviharas,0.002763,1,18
 neurotic,0.002763,1,6
 formally,0.002763,1,6
 cues,0.002763,1,8
@@ -215,6 +214,7 @@ influenced,0.002420,1,13
 overlay,0.002420,1,27
 pervades,0.002420,1,13
 steadying,0.002420,1,12
+brahmaviharas,0.002420,1,29
 showing,0.002410,2,95
 anyone,0.002388,2,109
 throughout,0.002388,2,90
@@ -239,7 +239,6 @@ pandemic,0.002297,1,15
 missed,0.002297,1,15
 determination,0.002297,1,16
 waste,0.002297,1,17
-mudita,0.002297,1,58
 quoting,0.002297,1,12
 overlap,0.002297,1,15
 dharma,0.002288,6,823
@@ -266,6 +265,7 @@ nicely,0.002147,1,23
 picking,0.002147,1,16
 bringing,0.002122,3,229
 exciting,0.002104,1,21
+mudita,0.002104,1,82
 dedicate,0.002104,1,20
 wouldn't,0.002080,2,128
 lineage,0.002063,1,22
@@ -310,12 +310,12 @@ afterwards,0.001778,1,29
 dedication,0.001778,1,35
 new,0.001769,4,543
 true,0.001763,3,387
-san,0.001753,1,47
 communities,0.001753,1,42
 observing,0.001753,1,54
 side,0.001746,2,234
 wholesome,0.001733,2,349
 okay,0.001728,6,1126
+san,0.001728,1,49
 trained,0.001728,1,41
 virtue,0.001728,1,80
 avoiding,0.001728,1,40
@@ -388,7 +388,6 @@ underneath,0.001380,1,86
 position,0.001380,1,60
 tried,0.001366,1,67
 preoccupation,0.001366,1,97
-metta,0.001366,1,304
 sure,0.001363,2,247
 she's,0.001352,1,113
 opening,0.001343,2,279
@@ -443,6 +442,7 @@ reference,0.001163,1,127
 else,0.001154,3,516
 lying,0.001152,1,89
 expand,0.001152,1,86
+metta,0.001152,1,445
 mostly,0.001142,1,95
 piece,0.001142,1,129
 busy,0.001132,1,91

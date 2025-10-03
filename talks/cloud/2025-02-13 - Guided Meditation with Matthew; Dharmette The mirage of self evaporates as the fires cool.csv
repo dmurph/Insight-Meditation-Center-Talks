@@ -1,5 +1,5 @@
 word,tfidf_score,talk_frequency,global_frequency
-māra,0.056381,10,109
+mara,0.048077,10,140
 host,0.043374,7,19
 mirage,0.036966,4,4
 evaporates,0.036966,4,4
@@ -11,8 +11,8 @@ self,0.021799,15,1111
 compulsivity,0.018589,3,9
 regenerative,0.018483,2,2
 hyperarousal,0.018483,2,2
-nibbāna,0.016914,3,35
 burning,0.016467,3,19
+nibbana,0.015011,3,41
 forget,0.014196,4,46
 melodrama,0.014144,2,5
 submit,0.014144,2,6
@@ -78,8 +78,7 @@ mother,0.007181,2,87
 groundlessness,0.007072,1,4
 visits,0.007072,1,5
 sacrifices,0.007072,1,5
-sakkāya-diṭṭhi,0.007072,1,4
-māra's,0.007072,1,9
+sakkaya-ditthi,0.007072,1,4
 claustrophobia,0.007072,1,6
 cooling,0.007072,1,5
 lay,0.007017,2,85
@@ -106,13 +105,13 @@ symptom,0.006196,1,14
 relinquishment,0.006196,1,16
 facts,0.006196,1,8
 alternatives,0.006196,1,7
+mara's,0.006196,1,12
 density,0.006196,1,10
 alluding,0.006196,1,8
 capture,0.006196,1,7
 attainment,0.006196,1,7
 children,0.006116,2,97
 presume,0.005987,1,8
-saṃsāra,0.005987,1,15
 lord,0.005803,1,12
 thomas,0.005803,1,9
 millions,0.005803,1,10
@@ -166,6 +165,7 @@ selfish,0.004404,1,30
 silly,0.004404,1,30
 system,0.004399,2,231
 refreshing,0.004335,1,32
+samsara,0.004268,1,41
 heart's,0.004204,1,35
 save,0.004204,1,69
 primarily,0.004204,1,29

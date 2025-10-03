@@ -2,10 +2,10 @@ word,tfidf_score,talk_frequency,global_frequency
 friendliness,0.072951,58,163
 friendly,0.054016,46,117
 goodwill,0.026156,38,427
-mettā,0.022456,14,141
 attitude,0.018456,22,188
 stranger,0.014688,6,10
 acts,0.014341,10,53
+metta,0.013012,14,445
 he's,0.012944,17,305
 well-wishing,0.012196,8,33
 belong,0.010573,8,49
@@ -15,7 +15,6 @@ december,0.008914,4,13
 animosity,0.008580,4,11
 emphasized,0.008482,6,37
 primary,0.007860,10,153
-theravāda,0.007807,4,27
 danger,0.007638,6,64
 bar,0.007600,4,20
 shines,0.007412,4,21
@@ -34,6 +33,7 @@ appropriate,0.006390,8,162
 half,0.006290,6,96
 alternative,0.006053,6,100
 simple,0.006017,18,574
+theravada,0.005910,4,50
 door,0.005886,6,105
 directed,0.005654,4,44
 abusing,0.005647,2,3
@@ -62,7 +62,7 @@ applicable,0.004654,2,6
 attitudes,0.004596,4,77
 including,0.004533,6,134
 who's,0.004497,6,167
-mitta,0.004457,2,12
+mitta,0.004457,2,13
 tried,0.004408,4,67
 matter,0.004366,8,224
 pebble,0.004290,2,9
@@ -70,13 +70,13 @@ sum,0.004290,2,9
 oneself,0.004226,6,175
 substantial,0.004145,2,11
 somatic,0.004145,2,18
-anukampā,0.004145,2,20
 welcomes,0.004145,2,13
 set,0.004067,6,194
 lowering,0.004017,2,14
 disciples,0.004017,2,11
 yes,0.003936,8,378
 half-smile,0.003903,2,12
+anukampa,0.003903,2,23
 contain,0.003800,2,13
 seen,0.003763,8,294
 gaze,0.003751,4,116

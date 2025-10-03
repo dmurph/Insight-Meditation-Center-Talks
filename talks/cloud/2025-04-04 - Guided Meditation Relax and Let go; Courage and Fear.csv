@@ -50,14 +50,13 @@ problem-solve,0.007382,1,1
 cataloging,0.007382,1,1
 coward,0.007382,1,1
 aquinas,0.007382,1,1
-adhitthana,0.007382,1,1
 control,0.007084,4,243
 afraid,0.007050,3,103
 suffering,0.007036,11,1420
 gesture,0.007036,2,36
-sangha,0.006854,3,206
 impulse,0.006818,2,36
 pervasive,0.006818,2,35
+sangha,0.006549,3,231
 poignency,0.006515,1,2
 effortlessness,0.006515,1,8
 patently,0.006515,1,2
@@ -72,6 +71,7 @@ trespass,0.006515,1,2
 marshaled,0.006515,1,2
 construed,0.006515,1,2
 martial,0.006515,1,3
+adhitthana,0.006515,1,2
 bravery,0.006515,1,2
 takes,0.006204,5,241
 solve,0.006099,2,59
@@ -103,7 +103,6 @@ correlated,0.005370,1,5
 height,0.005370,1,5
 plastic,0.005370,1,8
 st,0.005370,1,5
-dana,0.005370,1,10
 sensitivity,0.005247,2,90
 measure,0.005192,2,65
 clinging,0.005189,4,428
@@ -120,7 +119,6 @@ humor,0.004949,1,23
 desperation,0.004949,1,7
 linked,0.004949,1,7
 relinquish,0.004949,1,7
-paramis,0.004949,1,13
 worry,0.004934,2,91
 sensitive,0.004838,2,86
 study,0.004791,2,89
@@ -143,6 +141,7 @@ schools,0.004384,1,18
 wellspring,0.004384,1,17
 dense,0.004384,1,21
 helplessness,0.004384,1,19
+dana,0.004384,1,28
 folks,0.004366,2,118
 partially,0.004276,1,14
 sincere,0.004276,1,26
@@ -158,6 +157,7 @@ new,0.004115,5,543
 option,0.004083,1,17
 dissolution,0.004083,1,29
 attune,0.003997,1,19
+paramis,0.003997,1,22
 manifests,0.003916,1,18
 worrying,0.003916,1,17
 realized,0.003904,2,125
@@ -343,7 +343,6 @@ sure,0.001269,1,247
 fully,0.001269,1,284
 either,0.001241,1,227
 soften,0.001241,1,280
-samadhi,0.001241,1,1300
 natural,0.001232,1,318
 fact,0.001232,1,225
 stop,0.001205,1,308
@@ -359,6 +358,7 @@ goodness,0.001118,1,466
 guided,0.001110,3,774
 often,0.001110,3,1059
 seen,0.001086,1,294
+samadhi,0.001069,1,1513
 hear,0.001061,1,379
 settling,0.001030,1,507
 sit,0.000980,2,596

@@ -2,8 +2,8 @@ word,tfidf_score,talk_frequency,global_frequency
 unity,0.036365,13,51
 wholeness,0.026424,15,146
 weaving,0.023722,6,10
-jhāna,0.021575,11,232
 subject-object,0.020666,4,4
+jhana,0.020414,11,275
 subject,0.020074,10,99
 scooter,0.015815,4,15
 ekodi,0.015500,3,3
@@ -30,8 +30,8 @@ objective,0.007198,2,7
 apart,0.007192,4,76
 interferes,0.006695,2,14
 boundaries,0.006662,3,49
-pīti,0.006488,2,20
 characteristics,0.006397,4,160
+piti,0.006304,2,21
 swim,0.006137,2,18
 subjective,0.005985,2,74
 inclusion,0.005715,2,26
@@ -63,7 +63,7 @@ heater,0.004560,1,2
 reservation,0.004560,1,2
 non-anxious,0.004560,1,2
 parched,0.004560,1,3
-ekaggatā,0.004560,1,3
+ekaggata,0.004560,1,3
 contradicting,0.004560,1,2
 tranquility,0.004441,2,63
 lake,0.004324,2,114
@@ -74,7 +74,6 @@ reconditioning,0.004205,1,4
 becoming,0.004154,5,298
 intentionally,0.004112,2,40
 rock,0.004015,2,60
-samādhi,0.003968,2,213
 warmth,0.003966,3,155
 pillow,0.003954,1,11
 mainly,0.003954,1,5
@@ -89,6 +88,7 @@ ambitious,0.003758,1,5
 condoning,0.003758,1,5
 unsatisfying,0.003758,1,6
 showering,0.003758,1,7
+samadhi,0.003742,5,1513
 loosely,0.003599,1,6
 adjustment,0.003599,1,6
 thirsty,0.003599,1,8
@@ -153,7 +153,6 @@ operates,0.002688,1,27
 drinking,0.002688,1,24
 worldly,0.002688,1,38
 book,0.002688,2,192
-samadhi,0.002606,3,1300
 takes,0.002606,3,241
 beyond,0.002601,2,183
 tap,0.002590,1,20

@@ -1,5 +1,5 @@
 word,tfidf_score,talk_frequency,global_frequency
-mara,0.023948,6,31
+mara,0.018582,6,140
 volley,0.017859,3,3
 arrows,0.015790,5,56
 awoke,0.015763,3,4
@@ -428,7 +428,6 @@ found,0.001008,1,262
 sitting,0.001006,4,754
 either,0.001001,1,227
 ago,0.001001,1,264
-samadhi,0.001001,1,1300
 bring,0.000995,2,641
 fact,0.000993,1,225
 natural,0.000993,1,318
@@ -448,6 +447,7 @@ helpful,0.000895,1,561
 guided,0.000895,3,774
 arises,0.000889,1,349
 continue,0.000882,1,255
+samadhi,0.000862,1,1513
 small,0.000850,1,341
 together,0.000840,3,1016
 living,0.000837,1,345

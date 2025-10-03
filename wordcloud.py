@@ -3,6 +3,8 @@ import re
 import csv
 import math
 from collections import Counter, defaultdict
+from unidecode import unidecode
+
 
 def load_stop_words(filepath="stopwords.txt"):
     """Loads stop words from a text file."""
@@ -51,7 +53,11 @@ def tokenize(text):
     processed_text = preprocess_text(text)
     words = re.findall(r'\b[\w\'-]+\b', processed_text.lower())
     words = filter_numeric_strings(words)
-    return [word for word in words if word.lower() not in STOP_WORDS and not word.isdigit()]
+    
+    # Normalize words to their ASCII equivalent
+    normalized_words = [unidecode(word) for word in words]
+    
+    return [word for word in normalized_words if word.lower() not in STOP_WORDS and not word.isdigit()]
 
 def main():
     talks_dir = 'talks'

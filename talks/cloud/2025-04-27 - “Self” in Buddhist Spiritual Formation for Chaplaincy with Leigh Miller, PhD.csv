@@ -287,7 +287,6 @@ smiling,0.001317,2,19
 inquiry,0.001317,2,24
 creativity,0.001317,2,22
 equal,0.001317,2,22
-theravada,0.001317,2,23
 appear,0.001311,3,55
 try,0.001302,11,443
 challenge,0.001297,3,78
@@ -342,7 +341,6 @@ segue,0.001191,1,1
 karmapa,0.001191,1,1
 self-knowing,0.001191,1,1
 disclaimer,0.001191,1,1
-dogen,0.001191,1,1
 madhyamaka,0.001191,1,1
 intricate,0.001191,1,1
 inter-relational,0.001191,1,1
@@ -488,12 +486,12 @@ studying,0.001117,2,31
 extend,0.001117,2,29
 specific,0.001116,3,87
 conditions,0.001110,5,359
-sangha,0.001106,3,206
 offer,0.001103,7,342
 tibetan,0.001100,2,44
 regard,0.001100,2,48
 navigate,0.001100,2,33
 partner,0.001100,2,37
+theravada,0.001100,2,50
 particular,0.001088,8,429
 mountains,0.001083,2,35
 sound,0.001081,4,243
@@ -504,6 +502,7 @@ understand,0.001069,10,567
 violence,0.001067,2,61
 smaller,0.001067,2,32
 you've,0.001066,6,345
+sangha,0.001056,3,231
 hi,0.001052,2,36
 written,0.001052,2,40
 members,0.001052,2,44
@@ -515,6 +514,7 @@ bullet,0.001051,1,4
 vocation,0.001051,1,2
 anonymously,0.001051,1,2
 longtime,0.001051,1,2
+dogen,0.001051,1,2
 negation,0.001051,1,2
 de-emphasize,0.001051,1,2
 concretize,0.001051,1,2
@@ -1124,7 +1124,6 @@ later,0.000637,3,215
 somewhere,0.000635,2,104
 point,0.000632,8,746
 shall,0.000632,1,35
-samsara,0.000632,1,26
 dive,0.000632,1,20
 motivations,0.000632,1,21
 drawing,0.000632,1,24
@@ -1254,6 +1253,7 @@ appreciate,0.000557,4,409
 taking,0.000553,5,456
 want,0.000553,22,2082
 i'd,0.000552,4,426
+samsara,0.000550,1,41
 required,0.000550,1,29
 sources,0.000550,1,46
 trap,0.000550,1,37

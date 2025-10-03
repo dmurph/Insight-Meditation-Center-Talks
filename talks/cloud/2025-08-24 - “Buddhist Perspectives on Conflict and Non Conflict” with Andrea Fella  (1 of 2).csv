@@ -1,11 +1,11 @@
 word,tfidf_score,talk_frequency,global_frequency
 conflict,0.078243,75,302
-papañca,0.032068,18,34
+papanca,0.030866,18,35
 views,0.019275,23,266
 non-conflict,0.015657,8,14
 aversion,0.014858,27,438
 perspective,0.013842,17,145
-anāthapiṇḍika,0.012788,5,5
+anathapindika,0.012788,5,5
 andrea,0.012004,7,16
 state,0.011694,27,483
 conditioned,0.011391,12,89
@@ -35,7 +35,6 @@ externally,0.007073,5,22
 shall,0.006784,5,35
 reliance,0.006772,3,4
 fighting,0.006686,6,56
-satipatthana,0.006628,4,11
 basically,0.006362,7,94
 handout,0.006245,3,5
 enmity,0.006245,3,5
@@ -44,6 +43,7 @@ exploring,0.006167,7,78
 dominant,0.006076,4,19
 reactivity,0.005924,7,141
 morgan,0.005871,3,9
+satipatthana,0.005787,4,16
 created,0.005754,7,78
 desire,0.005570,11,521
 dukkha,0.005393,9,401
@@ -56,7 +56,6 @@ meeting,0.005109,8,178
 wars,0.004971,3,11
 constructed,0.004956,4,54
 experiencing,0.004953,9,172
-theravāda,0.004681,3,27
 arising,0.004630,10,284
 vexation,0.004515,2,4
 mediated,0.004515,2,3
@@ -92,6 +91,7 @@ fever,0.003563,2,8
 binds,0.003563,2,11
 actual,0.003560,4,82
 navigate,0.003543,3,33
+theravada,0.003543,3,50
 empty,0.003524,4,90
 confusion,0.003490,3,52
 phenomenon,0.003490,3,35
@@ -145,12 +145,12 @@ daishan,0.002558,1,1
 clashing,0.002558,1,1
 lashing,0.002558,1,1
 dhammachanda,0.002558,1,1
-kāmachanda,0.002558,1,1
+kamachanda,0.002558,1,1
 amok,0.002558,1,1
 motorcycles,0.002558,1,1
 replicated,0.002558,1,1
 proclaiming,0.002558,1,1
-anāthapiṇḍika's,0.002558,1,1
+anathapindika's,0.002558,1,1
 offending,0.002558,1,1
 palihawadana,0.002558,1,1
 causation,0.002558,1,1
@@ -217,7 +217,7 @@ perceive,0.002086,2,55
 contention,0.002082,1,3
 exposition,0.002082,1,3
 underlie,0.002082,1,6
-taṇhā,0.002082,1,4
+tanha,0.002082,1,4
 inappropriate,0.002082,1,3
 illusions,0.002082,1,7
 bare,0.002082,1,3
@@ -420,10 +420,8 @@ studying,0.001200,1,31
 wall,0.001200,1,37
 who's,0.001198,2,167
 taking,0.001188,5,456
-pāli,0.001181,1,55
 selfing,0.001181,1,100
 consciously,0.001163,1,29
-nikāya,0.001163,1,43
 therefore,0.001163,1,30
 highly,0.001163,1,33
 processes,0.001163,1,36
@@ -498,6 +496,7 @@ lens,0.000929,1,65
 online,0.000929,1,58
 goal,0.000919,1,91
 judging,0.000919,1,61
+nikaya,0.000919,1,69
 active,0.000919,1,61
 later,0.000912,2,215
 curiosity,0.000909,1,99
@@ -511,7 +510,6 @@ personally,0.000899,1,58
 interesting,0.000892,2,278
 experiences,0.000892,2,323
 history,0.000890,1,62
-metta,0.000881,1,304
 apply,0.000881,1,70
 tried,0.000881,1,67
 relief,0.000872,1,94
@@ -562,6 +560,7 @@ humans,0.000756,1,112
 folks,0.000756,1,118
 possible,0.000750,3,509
 words,0.000750,3,474
+metta,0.000743,1,445
 keeping,0.000743,1,89
 brought,0.000743,1,94
 english,0.000730,1,107
@@ -659,6 +658,7 @@ looking,0.000530,2,491
 associated,0.000530,1,170
 say,0.000526,10,2184
 alive,0.000522,1,182
+pali,0.000522,1,216
 number,0.000522,1,199
 upon,0.000518,1,196
 level,0.000518,1,233

@@ -1,7 +1,7 @@
 word,tfidf_score,talk_frequency,global_frequency
 listening,0.047110,50,180
 listen,0.031601,33,172
-rama,0.030187,8,8
+rama,0.026644,8,9
 nest,0.023694,10,42
 listener,0.021028,8,13
 audience,0.015684,9,136
@@ -217,7 +217,6 @@ grow,0.002241,3,226
 acquire,0.002241,1,15
 quotes,0.002241,1,11
 drifting,0.002241,1,15
-mahayana,0.002241,1,16
 bodhisattva,0.002241,1,19
 distressed,0.002241,1,16
 wellspring,0.002241,1,17
@@ -227,6 +226,7 @@ meditating,0.002191,3,213
 overlap,0.002186,1,15
 representation,0.002186,1,18
 stare,0.002186,1,14
+mahayana,0.002186,1,18
 logical,0.002186,1,16
 suggesting,0.002186,1,12
 angry,0.002173,2,174
@@ -356,7 +356,6 @@ comment,0.001466,1,85
 beautiful,0.001453,3,538
 ease,0.001453,3,509
 whose,0.001449,1,43
-jhāna,0.001432,1,232
 recognized,0.001432,1,48
 call,0.001431,3,366
 nice,0.001427,4,526
@@ -379,6 +378,7 @@ brief,0.001385,1,99
 friendly,0.001385,1,117
 adjust,0.001370,1,51
 show,0.001366,2,248
+jhana,0.001355,1,275
 invaluable,0.001355,1,68
 freedom,0.001355,3,596
 uses,0.001341,1,65

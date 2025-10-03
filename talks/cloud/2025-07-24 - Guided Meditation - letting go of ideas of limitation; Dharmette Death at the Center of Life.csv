@@ -19,7 +19,6 @@ overt,0.014601,2,5
 insofar,0.014601,2,6
 adaptive,0.014601,2,6
 mortal,0.013880,2,6
-nibbana,0.013880,2,6
 viewed,0.013880,2,6
 feature,0.013880,2,6
 deathless,0.013291,2,10
@@ -31,8 +30,8 @@ biases,0.011641,2,14
 logical,0.011052,2,16
 bored,0.010793,2,20
 notions,0.010331,2,24
+nibbana,0.010331,2,41
 security,0.010331,2,24
-samsara,0.010122,2,26
 die,0.009661,3,107
 imposes,0.009540,1,1
 contractive,0.009540,1,1
@@ -55,12 +54,13 @@ constrains,0.009540,1,1
 bulwark,0.009540,1,1
 reworked,0.009540,1,1
 highest,0.009243,2,35
+samsara,0.008812,2,41
 reiterate,0.008420,1,2
 enchanting,0.008420,1,2
 melancholy,0.008420,1,2
 forged,0.008420,1,2
 coping,0.008420,1,4
-hägglund,0.008420,1,2
+hagglund,0.008420,1,2
 presupposes,0.008420,1,2
 intelligible,0.008420,1,2
 poignency,0.008420,1,2
@@ -93,7 +93,6 @@ depart,0.007765,1,3
 flaws,0.007765,1,4
 contributed,0.007765,1,3
 emanation,0.007765,1,3
-mara's,0.007765,1,3
 forever,0.007327,2,68
 hating,0.007301,1,4
 follow-up,0.007301,1,4
@@ -103,7 +102,7 @@ seized,0.007301,1,5
 gates,0.007301,1,9
 resorting,0.007301,1,4
 accuracy,0.007301,1,5
-sakkāya-diṭṭhi,0.007301,1,4
+sakkaya-ditthi,0.007301,1,4
 appear,0.007004,2,55
 commitments,0.006940,1,9
 stake,0.006940,1,5
@@ -120,7 +119,7 @@ trajectory,0.006397,1,8
 meaningless,0.006397,1,8
 theoretical,0.006397,1,7
 consolation,0.006397,1,8
-mara,0.006397,1,31
+mara's,0.006397,1,12
 question,0.006264,5,590
 agendas,0.006181,1,8
 increasingly,0.006181,1,11
@@ -136,9 +135,6 @@ architecture,0.005991,1,14
 writer,0.005991,1,18
 believed,0.005991,1,10
 manufacture,0.005820,1,11
-thich,0.005820,1,10
-nhat,0.005820,1,10
-hanh,0.005820,1,10
 possession,0.005820,1,15
 reduction,0.005820,1,17
 actions,0.005694,2,145
@@ -149,6 +145,9 @@ engineering,0.005666,1,13
 psychologist,0.005666,1,11
 entails,0.005666,1,18
 preference,0.005526,1,15
+thich,0.005526,1,13
+nhat,0.005526,1,13
+hanh,0.005526,1,13
 impacted,0.005526,1,14
 self-view,0.005526,1,15
 firm,0.005396,1,14
@@ -167,6 +166,7 @@ critic,0.005165,1,51
 stabilizing,0.005061,1,28
 pretending,0.005061,1,26
 shaped,0.005061,1,17
+mara,0.004963,1,140
 chant,0.004963,1,24
 logic,0.004963,1,23
 melt,0.004871,1,22

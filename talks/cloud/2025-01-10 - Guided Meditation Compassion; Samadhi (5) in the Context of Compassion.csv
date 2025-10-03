@@ -1,14 +1,14 @@
 word,tfidf_score,talk_frequency,global_frequency
-samadhi,0.034506,39,1300
+samadhi,0.029737,39,1513
 compassion,0.014569,18,634
 deliberateness,0.011486,3,20
 care,0.011152,34,1221
 context,0.010841,9,169
-vipassanā,0.009875,4,77
 purpose,0.009865,8,224
 attitude,0.009662,7,188
 reverence,0.009378,3,28
 respect,0.009350,7,181
+vipassana,0.009048,4,87
 lightness,0.008588,4,74
 frontal,0.008568,2,4
 preparation,0.008549,3,27
@@ -28,7 +28,6 @@ association,0.005699,2,19
 accompanying,0.005476,2,25
 radiance,0.005476,2,23
 edges,0.005277,3,111
-karunā,0.005263,1,1
 care-feeling,0.005263,1,1
 conjoined,0.005263,1,1
 golly,0.005263,1,1
@@ -73,7 +72,6 @@ development,0.004139,2,56
 fifth,0.004042,2,47
 intentional,0.004042,2,51
 warmth,0.004040,3,155
-muditā,0.004028,1,24
 elder,0.004028,1,6
 combined,0.004028,1,4
 fable,0.004028,1,7
@@ -109,11 +107,11 @@ meet,0.003487,4,293
 child,0.003483,2,103
 special,0.003483,2,81
 concentrated,0.003483,2,85
-anukampā,0.003410,1,20
 wholeheartedly,0.003410,1,9
 challenging,0.003383,2,81
 abbot,0.003305,1,20
 toward,0.003289,2,152
+anukampa,0.003211,1,23
 grove,0.003211,1,16
 blanket,0.003211,1,11
 challenges,0.003170,2,103
@@ -129,6 +127,7 @@ fulfillment,0.003049,1,18
 discipline,0.003049,1,14
 robes,0.003049,1,20
 breaths,0.002989,3,181
+karuna,0.002977,1,33
 liberating,0.002977,1,22
 concentrating,0.002977,1,16
 attention,0.002973,11,1243
@@ -145,6 +144,7 @@ accompanied,0.002850,1,18
 decides,0.002850,1,17
 capacity,0.002837,3,316
 known,0.002837,3,195
+mudita,0.002792,1,82
 consequence,0.002792,1,21
 familiarity,0.002792,1,19
 awaken,0.002792,1,26
@@ -152,7 +152,6 @@ wide,0.002784,2,143
 wouldn't,0.002761,2,128
 atmosphere,0.002687,1,24
 deliberately,0.002687,1,40
-mettā,0.002639,1,141
 oxygen,0.002639,1,36
 embodiment,0.002639,1,27
 ritual,0.002639,1,46
@@ -283,6 +282,7 @@ high,0.001543,1,109
 usual,0.001543,1,106
 valuable,0.001543,1,93
 background,0.001529,1,110
+metta,0.001529,1,445
 breathe,0.001525,2,408
 people,0.001520,20,3076
 support,0.001505,3,554

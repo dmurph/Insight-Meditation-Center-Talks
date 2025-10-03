@@ -17,9 +17,9 @@ assertiveness,0.007854,2,6
 caring,0.007709,6,210
 english,0.007705,5,107
 appreciative,0.007596,3,81
-vipassanā,0.007596,3,77
 walking,0.007076,6,219
 attentiveness,0.006994,2,12
+vipassana,0.006960,3,87
 assert,0.006779,2,14
 vague,0.006586,2,12
 friendliness,0.006367,3,163
@@ -29,7 +29,6 @@ turning,0.005757,4,133
 presence,0.005719,5,207
 slowly,0.005710,4,106
 meanings,0.005616,2,21
-mettā,0.005413,2,141
 marveling,0.005398,1,1
 five-foot,0.005398,1,1
 ledges,0.005398,1,1
@@ -60,7 +59,6 @@ unbeknownst,0.004394,1,3
 began,0.004195,2,76
 rays,0.004131,1,7
 solstice,0.004131,1,5
-muditā,0.004131,1,24
 rocky,0.004131,1,5
 encompassing,0.004131,1,4
 available,0.004057,4,213
@@ -71,7 +69,6 @@ kindness,0.003969,5,530
 friendly,0.003963,2,117
 reciprocal,0.003927,1,5
 assertive,0.003927,1,5
-karuṇā,0.003927,1,14
 hung,0.003927,1,5
 graciously,0.003927,1,5
 scenery,0.003927,1,5
@@ -83,9 +80,7 @@ defensiveness,0.003760,1,7
 ripe,0.003760,1,6
 present,0.003740,14,1142
 infused,0.003619,1,8
-upekkhā,0.003619,1,10
 ready,0.003593,3,175
-anukampā,0.003497,1,20
 motivates,0.003497,1,8
 gracefully,0.003497,1,8
 fail,0.003497,1,11
@@ -94,19 +89,23 @@ quieted,0.003390,1,9
 warm,0.003342,2,90
 suffer,0.003342,2,133
 hears,0.003293,1,17
+anukampa,0.003293,1,23
 rocks,0.003293,1,12
 desert,0.003293,1,15
 tuned,0.003293,1,11
 manifestation,0.003293,1,12
 form,0.003247,4,277
 prominent,0.003206,1,17
+upekkha,0.003206,1,17
 non-reactive,0.003206,1,13
 softened,0.003206,1,15
 basic,0.003164,2,110
+metta,0.003137,2,445
 intended,0.003127,1,13
 duty,0.003127,1,22
 support,0.003088,6,554
 let's,0.003081,4,389
+karuna,0.003053,1,33
 attention,0.003049,11,1243
 fix,0.003003,2,145
 joy,0.002990,4,896
@@ -122,6 +121,7 @@ loving,0.002927,2,126
 instinct,0.002923,1,27
 wet,0.002923,1,29
 air,0.002903,2,167
+mudita,0.002864,1,82
 ultimately,0.002864,1,21
 awareness,0.002857,6,1240
 someone,0.002844,5,541
@@ -142,7 +142,6 @@ strangers,0.002660,1,22
 stayed,0.002660,1,23
 peacefulness,0.002660,1,22
 surprise,0.002660,1,22
-pali,0.002653,2,160
 must,0.002611,2,154
 light,0.002585,3,397
 stands,0.002573,1,26
@@ -183,6 +182,7 @@ interpret,0.002230,1,42
 tender,0.002230,1,48
 conceit,0.002230,1,56
 gentle,0.002219,2,244
+pali,0.002203,2,216
 cold,0.002202,1,52
 arose,0.002202,1,49
 ride,0.002202,1,55

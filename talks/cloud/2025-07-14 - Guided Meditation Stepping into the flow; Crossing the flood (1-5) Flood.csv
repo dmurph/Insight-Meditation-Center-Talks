@@ -55,7 +55,6 @@ mistaken,0.006512,1,6
 resorting,0.006512,1,4
 capacities,0.006461,2,56
 dear,0.006316,2,124
-pali,0.006272,3,160
 refused,0.006190,1,5
 multi-dimensional,0.006190,1,5
 opposites,0.006190,1,10
@@ -76,7 +75,6 @@ curious,0.005577,2,93
 morning's,0.005513,1,8
 stir,0.005513,1,12
 author,0.005513,1,11
-samyutta,0.005513,1,12
 differentiate,0.005513,1,8
 speech,0.005470,2,170
 pause,0.005367,2,154
@@ -88,6 +86,7 @@ forceful,0.005343,1,9
 channels,0.005343,1,12
 reflections,0.005317,2,94
 conversation,0.005268,2,124
+pali,0.005208,3,216
 mystery,0.005191,1,14
 fruitful,0.005191,1,12
 causes,0.005171,2,92
@@ -99,6 +98,7 @@ swept,0.004929,1,19
 poem,0.004901,2,329
 rational,0.004813,1,19
 resonate,0.004813,1,14
+samyutta,0.004813,1,18
 replied,0.004813,1,20
 collapsing,0.004813,1,15
 force,0.004775,2,116
@@ -115,7 +115,6 @@ bigger,0.004426,2,149
 relate,0.004426,2,132
 resentment,0.004344,1,31
 opening,0.004323,3,279
-nikaya,0.004266,1,26
 unpleasantness,0.004266,1,26
 broader,0.004266,1,24
 stayed,0.004193,1,23
@@ -166,6 +165,7 @@ sensual,0.003158,1,104
 details,0.003123,1,66
 begin,0.003109,4,555
 psychological,0.003090,1,69
+nikaya,0.003056,1,69
 recently,0.003056,1,55
 human,0.003056,3,420
 meditative,0.003024,1,76

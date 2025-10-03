@@ -1,9 +1,9 @@
 word,tfidf_score,talk_frequency,global_frequency
 greet,0.032779,8,22
 immeasurables,0.026557,5,8
-brahmaviharas,0.022727,5,18
-samadhi,0.017551,16,1300
+brahmaviharas,0.019905,5,29
 counting,0.017301,6,141
+samadhi,0.015125,16,1513
 appreciation,0.014397,8,203
 immeasurable,0.014241,3,11
 goodwill,0.014040,10,427
@@ -58,7 +58,6 @@ in-breath,0.005012,2,79
 wishes,0.005012,2,65
 zoom,0.005012,2,75
 disentangle,0.004993,1,5
-thanissaro,0.004993,1,36
 encompassing,0.004993,1,4
 greeted,0.004993,1,5
 perplexing,0.004993,1,4
@@ -80,6 +79,7 @@ apply,0.004495,2,70
 hindrances,0.004450,2,156
 pursuing,0.004375,1,12
 drifts,0.004375,1,8
+thanissaro,0.004375,1,39
 abodes,0.004375,1,13
 password,0.004375,1,9
 collectedness,0.004375,1,8
@@ -199,7 +199,6 @@ beings,0.002301,5,1026
 silent,0.002295,1,110
 touches,0.002271,1,55
 preoccupation,0.002248,1,97
-metta,0.002248,1,304
 leaving,0.002248,1,66
 return,0.002243,2,178
 cultivation,0.002225,1,107
@@ -228,6 +227,7 @@ unpleasant,0.001965,1,233
 helpful,0.001963,2,561
 stable,0.001947,1,103
 reference,0.001913,1,127
+metta,0.001896,1,445
 developing,0.001896,1,90
 quietly,0.001896,1,92
 keeping,0.001896,1,89

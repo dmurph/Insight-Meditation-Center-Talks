@@ -1,7 +1,7 @@
 word,tfidf_score,talk_frequency,global_frequency
-mettā,0.029397,18,141
 self-improvement,0.022999,8,9
 resistance,0.018145,17,119
+metta,0.017034,18,445
 welcomed,0.014772,7,14
 self-compassion,0.013614,6,15
 warm-heartedness,0.013542,7,50
@@ -251,7 +251,6 @@ artificial,0.001987,1,12
 manufacture,0.001987,1,11
 engineer,0.001987,1,16
 tangled,0.001987,1,19
-māra,0.001987,1,109
 shows,0.001980,2,123
 helpful,0.001959,4,561
 banner,0.001935,1,15
@@ -324,6 +323,7 @@ frustration,0.001695,1,31
 finds,0.001695,1,24
 fist,0.001695,1,52
 guiding,0.001695,1,21
+mara,0.001695,1,140
 born,0.001694,2,182
 amazing,0.001694,2,122
 turns,0.001694,2,183

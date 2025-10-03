@@ -1,7 +1,6 @@
 word,tfidf_score,talk_frequency,global_frequency
 counting,0.031475,11,141
 pm,0.025901,4,4
-samādhi,0.024866,10,213
 inhalation,0.021708,5,16
 daily,0.017930,11,152
 zoom,0.017406,7,75
@@ -10,6 +9,7 @@ hindrances,0.013247,6,156
 exhalation,0.012585,3,16
 frequently,0.012344,4,36
 pacific,0.012198,3,11
+samadhi,0.012195,13,1513
 independently,0.011430,2,3
 lethargy,0.011430,2,3
 sleep,0.010434,4,55
@@ -67,7 +67,6 @@ slight,0.004973,2,49
 mindfulness,0.004961,9,928
 conquer,0.004955,1,6
 out-breaths,0.004955,1,4
-thanissaro,0.004955,1,36
 occupied,0.004955,1,4
 sati,0.004861,2,89
 keeps,0.004735,3,136
@@ -89,6 +88,7 @@ imc,0.004343,3,158
 respecting,0.004342,1,10
 clicking,0.004342,1,8
 collectedness,0.004342,1,8
+thanissaro,0.004342,1,39
 gender,0.004342,1,7
 pursuing,0.004342,1,12
 explore,0.004203,2,101
@@ -138,7 +138,6 @@ extremely,0.003306,1,22
 overcome,0.003306,1,43
 discover,0.003286,2,190
 we'll,0.003278,6,557
-samadhi,0.003265,3,1300
 settled,0.003241,3,413
 here's,0.003234,2,160
 discourse,0.003190,1,56

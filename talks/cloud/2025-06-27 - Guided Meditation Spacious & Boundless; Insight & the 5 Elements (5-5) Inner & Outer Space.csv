@@ -4,7 +4,6 @@ boundless,0.017574,5,16
 motion,0.014560,5,31
 elements,0.013049,6,120
 outwards,0.011713,5,48
-mettā,0.011226,4,141
 foam,0.011195,2,2
 sky,0.010162,5,79
 vastness,0.009974,3,20
@@ -38,6 +37,7 @@ fluidity,0.006830,2,19
 spaces,0.006649,2,18
 explored,0.006649,2,13
 friendliness,0.006602,3,163
+metta,0.006505,4,445
 winds,0.006484,2,53
 nostrils,0.006484,2,15
 earth,0.006448,4,229
@@ -50,7 +50,6 @@ sensory,0.005939,2,33
 chant,0.005824,2,24
 relaxation,0.005784,3,62
 warmth,0.005729,4,155
-jhānas,0.005716,2,40
 attuning,0.005613,2,30
 largeness,0.005597,1,1
 boundlessly,0.005597,1,1
@@ -68,6 +67,7 @@ improbable,0.005597,1,1
 reactivity,0.005557,3,141
 allowing,0.005487,8,465
 diaphragm,0.005335,2,31
+jhanas,0.005335,2,57
 quality,0.005220,5,294
 nervous,0.005019,2,53
 son,0.004947,2,76
@@ -88,7 +88,7 @@ practical,0.004685,2,41
 artists,0.004556,1,3
 reverberations,0.004556,1,3
 whomever,0.004556,1,3
-dhātu,0.004556,1,3
+dhatu,0.004556,1,3
 potentiality,0.004556,1,3
 immeasurables,0.004556,1,8
 roughness,0.004556,1,4
@@ -103,7 +103,6 @@ cells,0.004283,1,4
 clay,0.004283,1,6
 immaterial,0.004283,1,5
 invade,0.004283,1,4
-brahmavihāras,0.004283,1,11
 applications,0.004283,1,4
 solid,0.004250,2,69
 external,0.004202,2,69
@@ -128,7 +127,6 @@ cathedral,0.003899,1,9
 conveys,0.003899,1,6
 homes,0.003899,1,6
 buildings,0.003899,1,9
-rāhula,0.003899,1,10
 agreeable,0.003899,1,7
 hardness,0.003899,1,8
 spontaneous,0.003899,1,7
@@ -151,7 +149,7 @@ whisper,0.003753,1,13
 potentially,0.003753,1,8
 cool,0.003704,2,98
 closeness,0.003626,1,8
-anattā,0.003626,1,23
+rahula,0.003626,1,12
 divisive,0.003626,1,12
 recap,0.003626,1,9
 upcoming,0.003626,1,8
@@ -172,6 +170,7 @@ surroundings,0.003415,1,10
 wordless,0.003415,1,14
 palm,0.003415,1,14
 nonetheless,0.003415,1,15
+brahmaviharas,0.003415,1,29
 storms,0.003415,1,13
 fixated,0.003415,1,18
 couple,0.003325,3,172
@@ -190,6 +189,7 @@ determination,0.003242,1,16
 flow,0.003203,3,352
 inner,0.003195,4,447
 roll,0.003166,1,17
+anatta,0.003166,1,38
 deepen,0.003166,1,14
 weight,0.003141,2,148
 sockets,0.003096,1,16

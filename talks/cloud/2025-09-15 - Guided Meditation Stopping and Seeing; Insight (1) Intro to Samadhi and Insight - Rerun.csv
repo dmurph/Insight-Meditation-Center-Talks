@@ -1,6 +1,6 @@
 word,tfidf_score,talk_frequency,global_frequency
-samādhi,0.073923,31,213
-vipassanā,0.029126,10,77
+samadhi,0.029686,33,1513
+vipassana,0.026688,10,87
 integrated,0.013448,4,39
 samatha,0.012490,3,17
 promote,0.012490,3,14
@@ -37,7 +37,6 @@ hedonist,0.005481,1,2
 filled,0.005412,3,102
 introduce,0.005197,2,38
 joy,0.005159,6,896
-samatha-vipassanā,0.005054,1,4
 variable,0.005054,1,5
 inaccessible,0.005054,1,3
 teaches,0.004883,2,55
@@ -45,6 +44,7 @@ normally,0.004769,2,47
 surface,0.004766,3,148
 follow-up,0.004752,1,4
 combined,0.004752,1,4
+samatha-vipassana,0.004752,1,6
 inconceivable,0.004752,1,5
 emphatic,0.004752,1,4
 contributions,0.004752,1,4
@@ -208,7 +208,6 @@ opens,0.002096,1,74
 shifts,0.002096,1,81
 able,0.002095,4,604
 deeper,0.002093,3,563
-samadhi,0.002088,2,1300
 home,0.002088,2,245
 session,0.002075,1,71
 grounding,0.002075,1,96
@@ -282,7 +281,6 @@ better,0.001557,3,611
 finally,0.001538,1,148
 year,0.001538,1,243
 gently,0.001534,2,393
-pali,0.001526,1,160
 safe,0.001515,3,407
 enough,0.001515,4,728
 greater,0.001502,1,216
@@ -308,6 +306,7 @@ benefit,0.001316,1,178
 done,0.001298,2,416
 within,0.001287,2,516
 spiritual,0.001277,1,555
+pali,0.001267,1,216
 part,0.001259,8,1376
 emotional,0.001248,1,222
 introduction,0.001235,2,274

@@ -13,7 +13,6 @@ breathing,0.012459,30,1983
 soars,0.011216,2,2
 nectar,0.010900,3,11
 muscles,0.009465,5,80
-samādhi,0.008615,4,213
 straining,0.008615,4,59
 metaphors,0.008590,3,32
 tautness,0.008583,2,7
@@ -31,6 +30,7 @@ preference,0.006497,2,15
 cloth,0.006497,2,41
 connect,0.006318,5,181
 bird,0.006315,3,76
+samadhi,0.005687,7,1513
 almost-metaphor,0.005608,1,1
 32nd,0.005608,1,1
 updraft,0.005608,1,1
@@ -84,7 +84,7 @@ fastest,0.003907,1,9
 however,0.003821,3,151
 sensing,0.003791,3,324
 confuse,0.003760,1,7
-vicāra,0.003760,1,15
+vicara,0.003760,1,15
 flap,0.003760,1,13
 grounding,0.003748,2,96
 experienced,0.003733,3,172
@@ -130,7 +130,6 @@ idea,0.002880,9,1145
 walks,0.002863,1,25
 suggested,0.002863,1,21
 muscle,0.002863,1,24
-samadhi,0.002828,3,1300
 orientation,0.002823,2,179
 interested,0.002823,2,118
 approaches,0.002812,1,25

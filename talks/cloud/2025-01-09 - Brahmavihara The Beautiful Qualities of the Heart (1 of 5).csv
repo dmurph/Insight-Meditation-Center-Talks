@@ -1,12 +1,12 @@
 word,tfidf_score,talk_frequency,global_frequency
 goodwill,0.018806,23,427
 benefactor,0.018056,8,28
-metta,0.014399,11,304
 phrases,0.012247,8,85
+metta,0.012145,11,445
 dear,0.011283,8,124
 beaming,0.010062,3,4
 brahma,0.009362,5,74
-brahmavihara,0.008724,3,10
+brahmavihara,0.007941,3,14
 broadly,0.007941,3,10
 viharas,0.007908,4,42
 crowd,0.007644,3,10
@@ -158,7 +158,6 @@ willingness,0.002853,2,70
 kindness,0.002794,5,530
 rachel,0.002764,1,10
 lewis,0.002764,1,8
-dana,0.002764,1,10
 brighten,0.002764,1,7
 uprooting,0.002764,1,8
 non-ill,0.002764,1,7
@@ -235,6 +234,7 @@ letters,0.002318,1,17
 traditionally,0.002318,1,10
 allowed,0.002310,2,108
 entering,0.002289,2,123
+dana,0.002257,1,28
 quotes,0.002257,1,11
 generations,0.002257,1,13
 live,0.002230,6,640
@@ -262,7 +262,6 @@ telling,0.002132,2,104
 talking,0.002118,5,445
 offered,0.002114,2,103
 thrill,0.002102,1,21
-theravada,0.002102,1,23
 align,0.002102,1,14
 directing,0.002102,1,23
 playful,0.002102,1,20
@@ -324,11 +323,11 @@ greed,0.001809,2,238
 taught,0.001795,2,162
 appreciative,0.001782,1,81
 interacting,0.001782,1,24
-vipassanā,0.001782,1,77
 alertness,0.001782,1,25
 expands,0.001782,1,36
 offering,0.001767,2,162
 treat,0.001755,1,31
+theravada,0.001755,1,50
 likes,0.001755,1,31
 emphasizing,0.001755,1,27
 compassion,0.001753,3,634
@@ -357,6 +356,7 @@ teachers,0.001648,2,193
 grateful,0.001633,1,40
 boundaries,0.001633,1,49
 lets,0.001633,1,34
+vipassana,0.001633,1,87
 small,0.001627,3,341
 participate,0.001611,1,59
 emptiness,0.001611,1,85
@@ -540,7 +540,6 @@ appropriate,0.000949,1,162
 lead,0.000949,1,198
 harm,0.000941,1,324
 fine,0.000941,1,148
-pali,0.000934,1,160
 intention,0.000934,1,190
 trying,0.000927,4,722
 concentration,0.000926,1,222
@@ -582,6 +581,7 @@ connection,0.000787,1,191
 spiritual,0.000781,1,555
 wow,0.000781,1,210
 attention,0.000781,4,1243
+pali,0.000775,1,216
 right,0.000770,8,2043
 outside,0.000758,1,195
 desire,0.000752,1,521

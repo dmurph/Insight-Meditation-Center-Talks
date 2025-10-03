@@ -2,7 +2,7 @@ word,tfidf_score,talk_frequency,global_frequency
 spaciousness,0.041448,29,214
 peripheral,0.019234,8,40
 space,0.015896,30,680
-samadhi,0.014475,19,1300
+samadhi,0.012475,19,1513
 breathing,0.010068,30,1983
 expansive,0.009129,5,63
 edges,0.009088,6,111
@@ -42,7 +42,7 @@ faster,0.004908,2,23
 wide,0.004794,4,143
 atmosphere,0.004628,2,24
 review,0.004545,2,30
-mahācittā,0.004532,1,1
+mahacitta,0.004532,1,1
 quiet,0.004494,7,436
 settling,0.004426,7,507
 spacious,0.004412,3,109

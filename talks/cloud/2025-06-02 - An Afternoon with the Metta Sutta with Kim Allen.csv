@@ -1,5 +1,5 @@
 word,tfidf_score,talk_frequency,global_frequency
-metta,0.071572,57,304
+metta,0.060367,57,445
 sutta,0.024504,25,307
 radiation,0.022316,8,19
 kim,0.017067,9,51
@@ -26,11 +26,10 @@ boundless,0.006867,3,16
 forest,0.006765,5,100
 formal,0.006633,4,35
 categories,0.006536,4,48
-nipata,0.006435,2,3
 shines,0.006334,3,21
 shining,0.006334,3,22
-theravada,0.006049,3,23
 resistance,0.005972,5,119
+nipata,0.005934,2,4
 politician,0.005934,2,4
 drawing,0.005801,3,24
 softening,0.005479,8,223
@@ -40,6 +39,7 @@ canon,0.005212,3,53
 tree,0.005182,4,112
 unbounded,0.005079,2,11
 evoke,0.005051,3,36
+theravada,0.005051,3,50
 front,0.004984,5,114
 afternoon,0.004972,4,65
 goodwill,0.004706,6,427
@@ -72,13 +72,12 @@ well-loved,0.003645,1,1
 slim,0.003645,1,1
 three-month,0.003645,1,1
 apparitions,0.003645,1,1
-mangala,0.003645,1,1
 non-canonical,0.003645,1,1
 straightish,0.003645,1,1
 symmetric,0.003645,1,1
 integrative,0.003645,1,1
 unintegrated,0.003645,1,1
-sammā-sati,0.003645,1,1
+samma-sati,0.003645,1,1
 discount,0.003645,1,1
 participant's,0.003645,1,1
 phrase,0.003619,3,90
@@ -94,6 +93,7 @@ amaravati,0.003217,1,3
 khuddaka,0.003217,1,2
 surveyed,0.003217,1,2
 orders,0.003217,1,2
+mangala,0.003217,1,3
 imitate,0.003217,1,2
 cardinal,0.003217,1,5
 kindle,0.003217,1,2
@@ -157,7 +157,6 @@ unburdened,0.002790,1,4
 mighty,0.002790,1,5
 solid,0.002768,2,69
 imagination,0.002706,2,88
-pali,0.002687,3,160
 packed,0.002652,1,6
 praises,0.002652,1,5
 theravadan,0.002652,1,5
@@ -232,6 +231,7 @@ warm,0.002257,2,90
 gentle,0.002248,3,244
 various,0.002236,2,91
 key,0.002236,2,87
+pali,0.002231,3,216
 component,0.002224,1,11
 promoting,0.002224,1,12
 downward,0.002224,1,10
@@ -357,7 +357,6 @@ encouraged,0.001684,1,28
 skilled,0.001684,1,32
 parent,0.001684,1,27
 simply,0.001669,3,298
-nikāya,0.001658,1,43
 arrived,0.001658,1,28
 religion,0.001658,1,72
 cage,0.001658,1,31
@@ -440,6 +439,7 @@ difficulty,0.001338,1,72
 gratitude,0.001338,1,98
 difference,0.001330,2,215
 belly,0.001320,2,254
+nikaya,0.001309,1,69
 attitudes,0.001309,1,77
 worth,0.001309,1,74
 conscious,0.001309,1,65
@@ -488,7 +488,6 @@ tense,0.001161,1,110
 naturally,0.001150,1,81
 reflections,0.001139,1,94
 meaningful,0.001128,1,88
-sangha,0.001128,1,206
 areas,0.001128,1,90
 vast,0.001118,1,114
 huge,0.001118,1,99
@@ -505,6 +504,7 @@ continuing,0.001088,1,76
 actions,0.001088,1,145
 safety,0.001088,1,116
 calm,0.001080,2,588
+sangha,0.001078,1,231
 lose,0.001078,1,114
 live,0.001069,3,640
 loving-kindness,0.001069,1,182

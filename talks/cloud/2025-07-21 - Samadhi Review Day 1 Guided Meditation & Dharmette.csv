@@ -1,8 +1,8 @@
 word,tfidf_score,talk_frequency,global_frequency
 count,0.080679,35,154
 counting,0.034960,14,141
-samadhi,0.018049,19,1300
 simplicity,0.016999,11,255
+samadhi,0.015555,19,1513
 beginnings,0.012333,3,22
 breathing,0.012136,29,1983
 newness,0.009976,2,4

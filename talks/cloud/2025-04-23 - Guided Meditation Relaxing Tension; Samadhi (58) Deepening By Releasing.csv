@@ -1,10 +1,10 @@
 word,tfidf_score,talk_frequency,global_frequency
 tension,0.025956,34,539
 pressure,0.025896,25,253
-jhāna,0.021041,11,232
+jhana,0.019909,11,275
 activation,0.015811,7,43
 progressive,0.015370,5,20
-samadhi,0.013552,16,1300
+samadhi,0.011679,16,1513
 relaxing,0.011598,14,364
 releases,0.011401,4,18
 keys,0.010996,3,7
@@ -17,7 +17,6 @@ fourth,0.009564,7,153
 involvement,0.009222,3,13
 tensions,0.007831,4,57
 happiness,0.007819,12,805
-jhānas,0.007718,3,40
 suffuse,0.007712,2,5
 tautness,0.007712,2,7
 mastery,0.007712,2,5
@@ -26,6 +25,7 @@ breathing,0.007462,20,1983
 calming,0.007398,4,123
 subtle,0.007352,8,350
 releasing,0.007239,4,78
+jhanas,0.007204,3,57
 sensitivity,0.007163,4,90
 disturbance,0.007020,2,13
 drifts,0.006757,2,8

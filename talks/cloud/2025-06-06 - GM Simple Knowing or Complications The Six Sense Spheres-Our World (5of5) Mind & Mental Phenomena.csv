@@ -1,5 +1,5 @@
 word,tfidf_score,talk_frequency,global_frequency
-vedanā,0.079092,29,142
+vedana,0.073332,29,152
 fetter,0.039024,12,71
 fetters,0.023170,8,31
 unpleasant,0.021538,16,233
@@ -72,7 +72,6 @@ stop,0.004377,6,308
 biggest,0.004261,2,32
 arisen,0.004261,2,33
 perceptions,0.004129,2,60
-pāli,0.004129,2,55
 gloom,0.003946,1,2
 pathways,0.003946,1,2
 chemistry,0.003946,1,3
@@ -97,12 +96,10 @@ attend,0.003602,2,56
 relating,0.003602,2,46
 danger,0.003558,2,64
 noticing,0.003462,4,329
-samādhi,0.003433,2,213
 eat,0.003433,2,68
 opaque,0.003421,1,7
 zoning,0.003421,1,4
 systematic,0.003421,1,4
-kalyāṇa,0.003421,1,9
 trouble,0.003356,2,52
 flavor,0.003356,2,57
 conditions,0.003335,4,359
@@ -115,7 +112,6 @@ pivotal,0.003252,1,5
 tracks,0.003252,1,5
 avoided,0.003252,1,5
 gratification,0.003252,1,12
-satipaṭṭhāna,0.003252,1,5
 every,0.003217,7,478
 negative,0.003177,2,72
 dependent,0.003177,2,84
@@ -124,7 +120,6 @@ moving,0.003166,4,217
 ying,0.003114,1,9
 chen,0.003114,1,9
 barbara,0.003114,1,12
-papañca,0.003114,1,34
 inclining,0.003114,1,6
 reacts,0.003114,1,6
 accompanies,0.003114,1,7
@@ -140,9 +135,11 @@ carefully,0.003112,2,56
 translation,0.003018,2,74
 dharma,0.003009,7,823
 chewing,0.002997,1,7
+papanca,0.002997,1,35
 evaluating,0.002997,1,9
 conceive,0.002997,1,12
 abilities,0.002997,1,8
+kalyana,0.002997,1,15
 realm,0.002988,2,111
 skillful,0.002959,2,130
 july,0.002896,1,9
@@ -183,6 +180,7 @@ charge,0.002529,1,18
 runs,0.002529,1,15
 knot,0.002529,1,23
 knots,0.002529,1,17
+satipatthana,0.002529,1,16
 wise,0.002483,3,383
 mix,0.002473,1,14
 injured,0.002473,1,17
@@ -217,7 +215,6 @@ power,0.002288,2,190
 habitual,0.002282,1,26
 flavors,0.002282,1,23
 resentment,0.002282,1,31
-mettā,0.002241,1,141
 origin,0.002241,1,27
 tendencies,0.002241,1,28
 energy,0.002238,3,405
@@ -286,6 +283,7 @@ brings,0.001852,2,190
 images,0.001847,1,53
 intense,0.001847,1,47
 description,0.001847,1,49
+pali,0.001824,2,216
 perceive,0.001824,1,55
 cycle,0.001824,1,48
 eating,0.001824,1,45
@@ -371,6 +369,8 @@ understood,0.001322,1,100
 possible,0.001311,3,509
 describe,0.001310,1,76
 expand,0.001299,1,86
+metta,0.001299,1,445
+samadhi,0.001295,2,1513
 hear,0.001286,2,379
 training,0.001276,1,186
 watching,0.001276,1,109

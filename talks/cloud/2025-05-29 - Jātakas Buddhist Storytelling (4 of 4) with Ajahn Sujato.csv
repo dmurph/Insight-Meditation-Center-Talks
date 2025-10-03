@@ -6,7 +6,7 @@ carpenters,0.028901,6,6
 foolish,0.026842,8,19
 devaputta,0.025508,6,8
 sugarcane,0.024084,5,5
-jātakas,0.022116,6,51
+jatakas,0.022116,6,51
 moha,0.021257,5,8
 deities,0.014744,4,14
 perish,0.014450,3,3
@@ -16,8 +16,8 @@ man,0.013139,8,125
 sea,0.012296,5,26
 families,0.011866,5,32
 stout,0.011762,3,6
-jātaka,0.011444,4,89
 men,0.011296,5,57
+jataka,0.011160,4,90
 spirits,0.011058,3,6
 climate,0.010899,4,17
 yakkha,0.010512,3,10
@@ -28,9 +28,9 @@ storytelling,0.009689,3,31
 southern,0.009689,3,11
 motifs,0.009634,2,2
 aryan,0.009634,2,2
-samuddavāṇija-jātaka,0.009634,2,2
+samuddavanija-jataka,0.009634,2,2
 sturdy,0.009634,2,2
-jambudīpa,0.009634,2,2
+jambudipa,0.009634,2,2
 isle,0.009634,2,2
 incensed,0.009634,2,2
 adorned,0.009634,2,2
@@ -50,7 +50,7 @@ merchants,0.008503,2,3
 haunted,0.008503,2,3
 yakkhas,0.008503,2,3
 splendor,0.008503,2,6
-avijjā,0.008503,2,3
+avijja,0.008503,2,3
 wave,0.008281,4,54
 kids,0.008063,4,59
 caravan,0.007841,2,43
@@ -91,9 +91,9 @@ wise,0.005350,6,383
 trees,0.005247,3,84
 rob,0.005216,2,28
 fault,0.004830,2,34
-kaṭṭhahāri-jātaka,0.004817,1,1
+katthahari-jataka,0.004817,1,1
 argued,0.004817,1,1
-indriya-jātaka,0.004817,1,1
+indriya-jataka,0.004817,1,1
 abduction,0.004817,1,1
 containing,0.004817,1,1
 profess,0.004817,1,1
@@ -111,7 +111,6 @@ disembarked,0.004817,1,1
 castaway,0.004817,1,1
 glistened,0.004817,1,1
 utterance,0.004817,1,1
-udana,0.004817,1,1
 scouts,0.004817,1,1
 horrified,0.004817,1,1
 pleasantly,0.004817,1,1
@@ -141,7 +140,7 @@ carpenter's,0.004817,1,1
 waist-deep,0.004817,1,1
 man-deep,0.004817,1,1
 ensnared,0.004817,1,1
-kokālika,0.004817,1,1
+kokalika,0.004817,1,1
 unrighteous,0.004817,1,1
 traders,0.004817,1,1
 votes,0.004817,1,1
@@ -160,6 +159,7 @@ proceeded,0.004251,1,2
 coconut,0.004251,1,2
 armed,0.004251,1,2
 uttered,0.004251,1,3
+udana,0.004251,1,2
 defenseless,0.004251,1,2
 abode,0.004251,1,2
 sang,0.004251,1,5
@@ -209,7 +209,6 @@ truthfully,0.003921,1,3
 depart,0.003921,1,3
 teacup,0.003921,1,3
 rolled,0.003921,1,3
-sāriputta,0.003921,1,10
 unknowing,0.003921,1,3
 twists,0.003921,1,3
 reasonably,0.003921,1,3
@@ -272,6 +271,7 @@ remained,0.003355,1,6
 utterly,0.003355,1,6
 climb,0.003355,1,9
 sweep,0.003355,1,7
+sariputta,0.003355,1,30
 refugees,0.003355,1,6
 dividing,0.003355,1,6
 bearing,0.003355,1,7
@@ -394,7 +394,6 @@ incredibly,0.002225,1,33
 fruit,0.002225,1,41
 master,0.002225,1,37
 doors,0.002225,1,41
-pāli,0.002225,1,55
 followed,0.002225,1,30
 audience,0.002225,1,136
 urge,0.002225,1,39
@@ -573,6 +572,7 @@ looking,0.000998,2,491
 within,0.000998,2,516
 changing,0.000990,1,378
 spiritual,0.000990,1,555
+pali,0.000983,1,216
 upon,0.000975,1,196
 level,0.000975,1,233
 outside,0.000961,1,195

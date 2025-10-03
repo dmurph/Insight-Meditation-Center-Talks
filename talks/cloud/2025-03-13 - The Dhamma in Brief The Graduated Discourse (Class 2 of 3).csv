@@ -1,5 +1,5 @@
 word,tfidf_score,talk_frequency,global_frequency
-upāli,0.040740,16,20
+upali,0.040740,16,20
 dhamma,0.037121,27,129
 discourse,0.032692,23,56
 graduated,0.024115,12,24
@@ -16,11 +16,10 @@ virtue,0.010056,8,80
 renunciation,0.009414,8,68
 marks,0.009057,5,16
 suttas,0.008847,10,171
-nigaṇṭha,0.008655,3,3
-nātaputta,0.008655,3,3
+nigantha,0.008655,3,3
+nataputta,0.008655,3,3
 explained,0.008159,5,18
 householder,0.008038,4,12
-dāna,0.008038,4,18
 audience,0.007994,6,136
 buddha,0.007689,41,1594
 degradation,0.007639,3,5
@@ -31,6 +30,7 @@ truths,0.007254,7,119
 action,0.007161,9,173
 person,0.006985,34,998
 monastics,0.006874,5,42
+dana,0.006854,4,28
 debate,0.006684,4,32
 gradual,0.006466,5,60
 bodily,0.006424,6,100
@@ -80,7 +80,6 @@ spheres,0.003738,2,31
 stock,0.003738,2,13
 considered,0.003674,4,72
 technical,0.003623,2,10
-sīla,0.003623,2,21
 deva,0.003623,2,28
 food,0.003544,5,182
 various,0.003539,4,91
@@ -111,6 +110,7 @@ change,0.003036,9,798
 retreat,0.003020,6,316
 cease,0.003002,2,32
 potential,0.002981,3,77
+sila,0.002946,2,42
 realization,0.002946,2,34
 similes,0.002946,2,54
 origin,0.002893,2,27
@@ -125,7 +125,7 @@ diagrams,0.002885,1,1
 charts,0.002885,1,1
 declares,0.002885,1,1
 leper,0.002885,1,1
-upāli's,0.002885,1,1
+upali's,0.002885,1,1
 indicative,0.002885,1,1
 encapsulate,0.002885,1,1
 expounds,0.002885,1,1
@@ -139,8 +139,7 @@ stainless,0.002885,1,1
 deduction,0.002885,1,1
 reverential,0.002885,1,1
 irrevocably,0.002885,1,1
-moggallāna,0.002885,1,1
-upālis,0.002885,1,1
+upalis,0.002885,1,1
 mahavira,0.002885,1,1
 hilariously,0.002885,1,1
 eulogy,0.002885,1,1
@@ -156,12 +155,12 @@ frame,0.002750,2,27
 he's,0.002747,4,305
 limited,0.002706,2,41
 quality,0.002690,5,294
-sangha,0.002679,3,206
 bunch,0.002665,2,27
 store,0.002665,2,39
 form,0.002603,6,277
 excited,0.002586,2,38
-saṅkhāra,0.002546,1,2
+sangha,0.002560,3,231
+sankhara,0.002546,1,2
 mitigates,0.002546,1,2
 wayne,0.002546,1,2
 beneficiaries,0.002546,1,2
@@ -184,6 +183,7 @@ dispensation,0.002546,1,2
 compacted,0.002546,1,2
 compact,0.002546,1,2
 unentangled,0.002546,1,4
+moggallana,0.002546,1,2
 asserts,0.002546,1,2
 assembly,0.002546,1,3
 defiled,0.002546,1,2
@@ -249,7 +249,6 @@ condensed,0.002208,1,5
 line,0.002196,3,161
 unless,0.002141,2,54
 drive,0.002141,2,62
-pali,0.002127,3,160
 terminology,0.002099,1,5
 encapsulates,0.002099,1,6
 guaranteed,0.002099,1,7
@@ -330,6 +329,7 @@ fame,0.001811,1,17
 awakens,0.001811,1,11
 sufficient,0.001811,1,11
 full,0.001801,4,255
+pali,0.001766,3,216
 shift,0.001766,3,217
 instant,0.001760,1,12
 realizes,0.001760,1,12
@@ -373,7 +373,6 @@ invites,0.001632,1,14
 talked,0.001626,3,233
 example,0.001598,4,339
 mundane,0.001596,1,17
-theravada,0.001596,1,23
 understandings,0.001596,1,15
 commonly,0.001596,1,16
 public,0.001596,1,25
@@ -449,12 +448,12 @@ dukkha,0.001352,2,401
 would,0.001348,17,1943
 offering,0.001341,2,162
 apparently,0.001332,1,39
+theravada,0.001332,1,50
 released,0.001332,1,33
 followed,0.001332,1,30
 transformation,0.001332,1,51
 ordinary,0.001331,2,175
 sits,0.001312,1,33
-nikāya,0.001312,1,43
 we'd,0.001312,1,35
 verbal,0.001312,1,39
 sound,0.001310,2,243
@@ -553,6 +552,7 @@ difficulty,0.001059,1,72
 gratitude,0.001059,1,98
 not-self,0.001036,1,162
 modern,0.001036,1,75
+nikaya,0.001036,1,69
 kept,0.001036,1,58
 human,0.001036,3,420
 god,0.001025,1,79

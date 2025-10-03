@@ -8,12 +8,12 @@ harm,0.012284,14,324
 interpersonal,0.011876,5,15
 reads,0.011534,4,7
 generative,0.009871,4,10
-paramis,0.009501,4,13
 wise,0.008525,13,383
 pillow,0.008133,3,11
 generous,0.008069,6,77
 abstain,0.007731,3,13
 well-being,0.007684,13,536
+paramis,0.007672,4,22
 volunteer,0.007672,4,27
 care,0.007285,33,1221
 renunciation,0.007225,5,68
@@ -334,7 +334,6 @@ field,0.001572,2,230
 ready,0.001572,2,175
 emphasized,0.001565,1,37
 freeing,0.001565,1,40
-san,0.001565,1,47
 gathered,0.001565,1,46
 humanity,0.001565,1,42
 oneself,0.001560,2,175
@@ -344,6 +343,7 @@ wholesome,0.001548,2,349
 satisfaction,0.001544,1,36
 broken,0.001544,1,42
 avoiding,0.001544,1,40
+san,0.001544,1,49
 fantasy,0.001544,1,37
 agree,0.001544,1,33
 answers,0.001544,1,33
@@ -431,7 +431,6 @@ nothing,0.001204,3,452
 found,0.001200,2,262
 order,0.001200,2,230
 difficulties,0.001196,1,139
-samadhi,0.001191,2,1300
 create,0.001191,2,238
 believe,0.001191,2,278
 distinction,0.001184,1,87
@@ -475,6 +474,7 @@ remember,0.001034,2,306
 developing,0.001029,1,90
 background,0.001029,1,110
 quietly,0.001029,1,92
+samadhi,0.001026,2,1513
 angry,0.001020,1,174
 taken,0.001020,1,88
 gone,0.001020,1,97

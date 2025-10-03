@@ -1,6 +1,5 @@
 word,tfidf_score,talk_frequency,global_frequency
 spaciousness,0.038798,14,214
-samādhi,0.020248,6,213
 plenty,0.019697,5,33
 preceded,0.017676,3,12
 tightened,0.017676,3,10
@@ -8,6 +7,7 @@ crowding,0.014306,2,4
 cultivation,0.011985,4,107
 inhalation,0.011784,2,16
 counting,0.011650,3,141
+samadhi,0.011458,9,1513
 exhalation,0.011387,2,16
 vague,0.010723,2,12
 constricted,0.010723,2,12
@@ -63,7 +63,6 @@ password,0.005892,1,9
 returning,0.005816,2,60
 respected,0.005518,1,9
 check,0.005491,2,104
-sangha,0.005440,2,206
 vast,0.005390,2,114
 allowing,0.005384,5,465
 crowded,0.005361,1,13
@@ -74,6 +73,7 @@ remaining,0.005219,1,13
 chronic,0.005219,1,13
 pauses,0.005219,1,14
 breathing,0.005206,8,1983
+sangha,0.005198,2,231
 background,0.005106,2,110
 subtly,0.005090,1,12
 rational,0.004971,1,19
@@ -88,9 +88,7 @@ worlds,0.004662,1,21
 worrying,0.004662,1,17
 emotionally,0.004572,1,23
 ruminating,0.004572,1,23
-jhānas,0.004487,1,40
 deliberately,0.004487,1,40
-samadhi,0.004432,3,1300
 daily,0.004424,2,152
 greetings,0.004406,1,24
 acknowledging,0.004406,1,22
@@ -98,6 +96,7 @@ flying,0.004406,1,26
 release,0.004389,2,166
 friday,0.004188,1,28
 attain,0.004188,1,30
+jhanas,0.004188,1,57
 nourishment,0.004188,1,42
 discovery,0.004122,1,51
 expecting,0.004122,1,28

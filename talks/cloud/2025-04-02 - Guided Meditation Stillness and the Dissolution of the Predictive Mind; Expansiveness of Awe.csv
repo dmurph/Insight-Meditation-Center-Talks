@@ -9,7 +9,7 @@ broadening,0.015217,3,9
 expansiveness,0.014647,3,10
 virtuosity,0.014563,2,2
 gymnast,0.014563,2,2
-sīla-paramasa,0.014563,2,2
+sila-paramasa,0.014563,2,2
 stars,0.013327,3,18
 eve,0.012854,2,4
 dissolution,0.012083,3,29
@@ -120,7 +120,6 @@ barbara,0.005072,1,12
 sweet,0.004966,2,85
 fall,0.004961,3,152
 alluding,0.004882,1,8
-vipassana,0.004882,1,10
 rituals,0.004882,1,13
 rang,0.004882,1,8
 chanting,0.004882,1,11
@@ -209,6 +208,7 @@ expect,0.003130,1,37
 expectation,0.003130,1,41
 expansion,0.003130,1,38
 music,0.003130,1,61
+vipassana,0.003130,1,87
 tranquility,0.003130,1,63
 meditator,0.003088,1,45
 dramatic,0.003047,1,43
@@ -368,7 +368,6 @@ moments,0.001261,1,240
 teacher,0.001242,1,329
 sitting,0.001230,4,754
 we'll,0.001229,2,557
-samadhi,0.001224,1,1300
 believe,0.001224,1,278
 meet,0.001206,1,293
 forward,0.001206,1,217
@@ -387,6 +386,7 @@ you've,0.001087,1,345
 present,0.001081,3,1142
 holding,0.001071,1,371
 happening,0.001068,2,915
+samadhi,0.001055,1,1513
 let's,0.001039,1,389
 sense,0.001037,13,2543
 recognize,0.001031,1,404

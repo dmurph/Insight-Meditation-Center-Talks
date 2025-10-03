@@ -2,8 +2,8 @@ word,tfidf_score,talk_frequency,global_frequency
 arc,0.052547,16,28
 enveloping,0.026916,5,5
 goodwill,0.023166,20,427
-metta,0.020397,11,304
 hologram,0.019580,5,11
+metta,0.017204,11,445
 friendliness,0.016932,8,163
 soak,0.013145,3,5
 ding,0.013145,3,9

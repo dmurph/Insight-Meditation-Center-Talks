@@ -1,6 +1,6 @@
 word,tfidf_score,talk_frequency,global_frequency
 devotion,0.075962,22,37
-saddhā,0.020658,5,24
+saddha,0.020022,5,25
 grasshopper,0.019132,3,3
 mary,0.018557,4,8
 heart's,0.017407,6,35
@@ -165,7 +165,6 @@ receptivity,0.003142,1,24
 studies,0.003142,1,31
 status,0.003142,1,33
 feed,0.003142,1,29
-pali,0.003134,2,160
 could,0.003130,11,1418
 shoulder,0.003089,1,30
 aspiration,0.003089,1,52
@@ -215,6 +214,7 @@ tuning,0.002635,1,48
 religious,0.002635,1,71
 striving,0.002635,1,63
 attention,0.002620,8,1243
+pali,0.002602,2,216
 jaw,0.002601,1,43
 reminder,0.002601,1,45
 eating,0.002601,1,45

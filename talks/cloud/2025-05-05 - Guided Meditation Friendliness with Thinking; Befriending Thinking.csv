@@ -20,7 +20,6 @@ relaxed,0.007854,8,268
 encourage,0.007818,4,59
 curiosity,0.007653,4,99
 unhelpful,0.007575,3,48
-vipassanā,0.007575,3,77
 focused,0.007552,5,134
 rehearsing,0.007500,2,7
 affectionate,0.007500,2,8
@@ -30,6 +29,7 @@ timer,0.007500,2,7
 enjoyable,0.007240,3,35
 recognition,0.007117,5,202
 stir,0.006975,2,12
+vipassana,0.006941,3,87
 cooking,0.006761,2,11
 mountain,0.006672,3,72
 contracted,0.006672,3,50
@@ -300,7 +300,6 @@ specific,0.001682,1,87
 tends,0.001682,1,83
 unwholesome,0.001682,1,176
 legs,0.001682,1,79
-sangha,0.001666,1,206
 pick,0.001666,1,79
 voice,0.001666,1,102
 warm,0.001666,1,90
@@ -317,6 +316,7 @@ everywhere,0.001606,1,98
 continuing,0.001606,1,76
 present,0.001598,6,1142
 calm,0.001595,2,588
+sangha,0.001592,1,231
 understood,0.001592,1,100
 appreciating,0.001592,1,128
 holding,0.001583,2,371

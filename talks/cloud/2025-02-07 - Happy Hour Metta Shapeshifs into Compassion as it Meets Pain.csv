@@ -1,6 +1,6 @@
 word,tfidf_score,talk_frequency,global_frequency
-metta,0.040754,23,304
 empathy,0.037465,14,73
+metta,0.034374,23,445
 friendliness,0.028315,14,163
 dear,0.024820,13,124
 pain,0.022003,27,489

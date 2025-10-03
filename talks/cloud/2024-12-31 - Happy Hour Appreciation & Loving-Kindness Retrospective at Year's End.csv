@@ -1,6 +1,6 @@
 word,tfidf_score,talk_frequency,global_frequency
-mettā,0.051592,23,141
 versions,0.031476,15,43
+metta,0.029895,23,445
 year,0.025487,23,243
 appreciation,0.022209,18,203
 nikki,0.020730,8,53
@@ -19,7 +19,6 @@ appreciating,0.009262,7,128
 silently,0.009136,4,25
 groups,0.009124,5,58
 past,0.008791,10,226
-saṅgha,0.008428,3,25
 dear,0.008302,5,124
 sharing,0.008232,6,135
 receive,0.008145,7,141
@@ -77,6 +76,7 @@ sake,0.004197,2,45
 reflections,0.004193,3,94
 conversation,0.004154,3,124
 previous,0.004011,2,36
+sangha,0.003969,3,231
 phone,0.003954,2,51
 discrimination,0.003949,1,2
 preferencing,0.003949,1,2

@@ -1,7 +1,7 @@
 word,tfidf_score,talk_frequency,global_frequency
 karmic,0.026844,9,32
-jhāna,0.019589,9,232
 spacious,0.018606,10,109
+jhana,0.018535,9,275
 equanimity,0.015623,12,458
 reactivity,0.015178,8,141
 disturbed,0.014858,4,11
@@ -9,8 +9,8 @@ equanimous,0.014587,6,75
 vast,0.014066,8,114
 field,0.013993,11,230
 overview,0.012417,4,23
-jhānas,0.011709,4,40
 message,0.011549,5,50
+jhanas,0.010929,4,57
 sky,0.010409,5,79
 meditates,0.010121,2,3
 viscosity,0.010121,2,4
@@ -95,7 +95,7 @@ regularity,0.004171,1,5
 coat,0.004171,1,5
 warms,0.004171,1,7
 lifts,0.004171,1,8
-sampajañña,0.003994,1,8
+sampajanna,0.003994,1,8
 inclinations,0.003994,1,9
 widening,0.003994,1,6
 absorptions,0.003994,1,6
@@ -103,7 +103,6 @@ depressing,0.003994,1,8
 drains,0.003994,1,6
 physicality,0.003994,1,8
 leaving,0.003950,2,66
-upekkhā,0.003844,1,10
 establishing,0.003844,1,8
 drifts,0.003844,1,8
 product,0.003844,1,9
@@ -121,6 +120,7 @@ assign,0.003600,1,11
 frequency,0.003600,1,15
 transparent,0.003600,1,17
 translators,0.003498,1,11
+upekkha,0.003405,1,17
 adjustments,0.003405,1,12
 oddly,0.003405,1,14
 fields,0.003405,1,16
@@ -131,6 +131,7 @@ underwater,0.003405,1,12
 metaphor,0.003331,2,114
 filled,0.003331,2,102
 meditating,0.003330,3,213
+samadhi,0.003322,4,1513
 subconscious,0.003321,1,13
 woods,0.003321,1,16
 longer,0.003248,4,290
@@ -165,7 +166,6 @@ troubled,0.002927,1,21
 opening,0.002913,3,279
 fear,0.002913,3,441
 call,0.002898,4,366
-samadhi,0.002891,3,1300
 changes,0.002886,2,134
 repeatedly,0.002875,1,25
 energetic,0.002875,1,29
@@ -221,7 +221,6 @@ larger,0.002228,1,56
 view,0.002220,2,365
 healthy,0.002220,2,256
 sees,0.002202,1,54
-samādhi,0.002202,1,213
 solid,0.002177,1,69
 influence,0.002177,1,57
 sati,0.002152,1,89

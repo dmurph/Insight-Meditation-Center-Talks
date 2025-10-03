@@ -1,9 +1,9 @@
 word,tfidf_score,talk_frequency,global_frequency
-samadhi,0.019048,26,1300
 immersion,0.017670,7,23
 awareness,0.017298,45,1240
 symptoms,0.017257,7,38
 love,0.016789,66,1462
+samadhi,0.016416,26,1513
 reconstructed,0.013075,3,3
 pool,0.011560,5,35
 wants,0.010315,11,216
@@ -94,7 +94,6 @@ evaporate,0.003335,1,6
 tenderly,0.003335,1,4
 physiological,0.003335,1,4
 maximum,0.003335,1,6
-brahma-viharas,0.003335,1,5
 obstacle,0.003335,1,4
 lower,0.003309,2,57
 favorite,0.003309,2,57
@@ -108,6 +107,7 @@ capacity,0.003133,4,316
 touch,0.003086,4,231
 delightful,0.003065,2,62
 exposed,0.003036,1,11
+brahma-viharas,0.003036,1,8
 oneness,0.003036,1,8
 almost,0.002995,8,551
 saw,0.002923,3,182

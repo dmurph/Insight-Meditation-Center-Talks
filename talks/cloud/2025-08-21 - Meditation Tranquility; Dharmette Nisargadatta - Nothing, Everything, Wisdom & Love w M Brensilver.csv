@@ -6,14 +6,14 @@ tormented,0.022761,3,4
 agent,0.020977,4,13
 tells,0.020777,6,50
 tranquility,0.018472,5,63
-vedanā,0.015733,3,142
+vedana,0.014587,3,152
 multiplicity,0.013993,2,4
 modeling,0.013156,2,5
 spotlight,0.013156,2,7
 submit,0.013156,2,6
 brightness,0.011560,3,62
 ceasing,0.011527,2,9
-vicāra,0.011527,2,15
+vicara,0.011527,2,15
 subtler,0.011527,2,15
 wisdom,0.011208,9,535
 vitakka,0.011138,2,19
@@ -31,7 +31,7 @@ species,0.009308,2,21
 brensilver,0.009263,3,89
 everythingness,0.008596,1,1
 phenomenological,0.008596,1,1
-vitakka-vicāra,0.008596,1,1
+vitakka-vicara,0.008596,1,1
 exploding,0.008596,1,1
 pervasively,0.008596,1,1
 airy,0.008596,1,1
@@ -53,9 +53,6 @@ chatted,0.008596,1,1
 love,0.008027,16,1462
 ordinary,0.007931,4,175
 tired,0.007821,2,38
-thích,0.007587,1,3
-nhất,0.007587,1,3
-hạnh,0.007587,1,3
 improvise,0.007587,1,2
 incoming,0.007587,1,2
 restfulness,0.007587,1,4
@@ -149,6 +146,9 @@ deepens,0.005105,1,12
 dense,0.005105,1,21
 space,0.005025,5,680
 tranquil,0.004979,1,17
+thich,0.004979,1,13
+nhat,0.004979,1,13
+hanh,0.004979,1,13
 bay,0.004979,1,13
 elaborate,0.004979,1,13
 dissolves,0.004979,1,13

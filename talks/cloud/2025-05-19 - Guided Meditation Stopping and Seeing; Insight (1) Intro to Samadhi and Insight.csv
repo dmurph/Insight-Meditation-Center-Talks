@@ -1,6 +1,6 @@
 word,tfidf_score,talk_frequency,global_frequency
-samadhi,0.034395,29,1300
-vipassanā,0.019856,6,77
+samadhi,0.029641,29,1513
+vipassana,0.018194,6,87
 integrated,0.015280,4,39
 promote,0.014192,3,14
 stopping,0.013034,4,52
@@ -35,7 +35,7 @@ teaches,0.005548,2,55
 happiness,0.005475,6,805
 normally,0.005419,2,47
 surface,0.005415,3,148
-passanā,0.005399,1,4
+passana,0.005399,1,4
 emphatic,0.005399,1,4
 contributions,0.005399,1,4
 rewards,0.005399,1,4
@@ -231,7 +231,6 @@ better,0.001770,3,611
 translated,0.001762,1,136
 year,0.001748,1,243
 gently,0.001742,2,393
-pali,0.001734,1,160
 happy,0.001724,5,786
 safe,0.001722,3,407
 enough,0.001721,4,728
@@ -257,6 +256,7 @@ benefit,0.001495,1,178
 done,0.001475,2,416
 within,0.001463,2,516
 spiritual,0.001450,1,555
+pali,0.001440,1,216
 emotional,0.001418,1,222
 past,0.001386,1,226
 healthy,0.001366,1,256

@@ -46,7 +46,6 @@ caring,0.005746,8,210
 circle,0.005728,5,79
 journey,0.005362,5,114
 folks,0.005355,6,118
-san,0.005334,4,47
 humanity,0.005334,4,42
 guys,0.005334,4,52
 facilitator,0.005327,2,3
@@ -55,6 +54,7 @@ rehabilitation,0.005327,2,3
 survivors,0.005327,2,3
 apology,0.005327,2,3
 deliverance,0.005327,2,3
+san,0.005259,4,49
 organization,0.005121,3,16
 victim,0.005121,3,19
 providing,0.005121,3,23
@@ -177,7 +177,7 @@ cavalry,0.003018,1,1
 immoral,0.003018,1,1
 tame,0.003018,1,1
 retribution,0.003018,1,1
-sāvatthī,0.003018,1,1
+savatthi,0.003018,1,1
 clod,0.003018,1,1
 predator,0.003018,1,1
 state's,0.003018,1,1
@@ -549,7 +549,6 @@ accepting,0.001394,1,37
 who've,0.001394,1,32
 decide,0.001373,1,53
 primarily,0.001373,1,29
-nikāya,0.001373,1,43
 authority,0.001373,1,34
 students,0.001353,1,103
 afterwards,0.001353,1,29
@@ -634,6 +633,7 @@ forest,0.001120,1,100
 reacting,0.001120,1,53
 happening,0.001107,5,915
 country,0.001096,1,70
+nikaya,0.001084,1,69
 fast,0.001084,1,62
 goal,0.001084,1,91
 human,0.001084,3,420

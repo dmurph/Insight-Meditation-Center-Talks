@@ -4,8 +4,8 @@ truth,0.025539,16,368
 veracity,0.023056,4,10
 bats,0.019945,3,5
 stickiness,0.019520,4,14
+parami,0.017895,4,28
 simplifies,0.015151,3,9
-parami,0.015151,3,19
 epistemic,0.015065,2,2
 honesty,0.014845,4,26
 indifference,0.013786,3,17
@@ -107,7 +107,6 @@ stem,0.005247,1,11
 owe,0.005247,1,8
 regarded,0.005247,1,10
 spiral,0.005247,1,7
-pāramī,0.005247,1,9
 undefended,0.005247,1,6
 radical,0.005189,2,82
 lack,0.005189,2,83
@@ -124,12 +123,10 @@ realm,0.005035,2,111
 child,0.004985,2,103
 belief,0.004985,2,122
 wholesome,0.004937,3,349
-pāramīs,0.004880,1,9
 obligation,0.004880,1,8
 presume,0.004880,1,8
 motivates,0.004880,1,8
 sends,0.004880,1,8
-saṃsāra,0.004880,1,15
 impact,0.004842,2,98
 thomas,0.004730,1,9
 annoying,0.004730,1,12
@@ -160,11 +157,11 @@ firm,0.004261,1,14
 answered,0.004166,1,17
 permission,0.004166,1,18
 philosopher,0.004166,1,17
-theravada,0.004166,1,23
 public,0.004166,1,25
 knew,0.004155,2,105
 substitute,0.004078,1,18
 abandoning,0.004078,1,26
+paramis,0.004078,1,22
 rage,0.004078,1,23
 honoring,0.004078,1,21
 approach,0.004051,2,179
@@ -208,10 +205,12 @@ united,0.003533,1,29
 didn't,0.003495,4,505
 parent,0.003479,1,27
 clothes,0.003479,1,36
+theravada,0.003479,1,50
 famous,0.003479,1,30
 regard,0.003479,1,48
 pervasive,0.003479,1,35
 urge,0.003479,1,39
+samsara,0.003479,1,41
 contemplation,0.003479,1,41
 patient,0.003427,1,103
 lies,0.003427,1,37
@@ -286,7 +285,6 @@ helping,0.002375,1,80
 effect,0.002375,1,119
 inviting,0.002331,1,118
 practitioners,0.002331,1,98
-sangha,0.002331,1,206
 others,0.002321,6,1015
 useful,0.002317,2,273
 strong,0.002300,2,340
@@ -295,6 +293,7 @@ movements,0.002268,1,92
 anyone,0.002268,1,109
 folks,0.002228,1,118
 lose,0.002228,1,114
+sangha,0.002228,1,231
 words,0.002210,3,474
 loving-kindness,0.002208,1,182
 guess,0.002208,1,107

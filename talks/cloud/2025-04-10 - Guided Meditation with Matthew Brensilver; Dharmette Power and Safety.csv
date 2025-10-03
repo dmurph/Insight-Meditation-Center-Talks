@@ -1,8 +1,8 @@
 word,tfidf_score,talk_frequency,global_frequency
 power,0.050097,25,190
 prestige,0.034564,5,6
-sila,0.023891,5,21
 insidious,0.023496,3,3
+sila,0.019993,5,42
 heritage,0.019125,3,5
 partaking,0.019125,3,5
 trustworthy,0.019125,3,5
@@ -15,7 +15,6 @@ measureless,0.015664,2,2
 potentize,0.015664,2,2
 million,0.014754,3,11
 banner,0.013955,3,15
-panna,0.013826,2,3
 revered,0.012750,2,4
 lineage,0.012223,3,22
 blessings,0.012223,3,29
@@ -28,6 +27,7 @@ waving,0.011395,2,11
 ajahn,0.011253,4,108
 protection,0.011198,3,33
 representing,0.010911,2,7
+panna,0.010503,2,10
 impacts,0.009556,2,11
 must,0.009470,5,154
 teacher,0.009354,7,329
@@ -146,7 +146,6 @@ impact,0.005035,2,98
 kornfield,0.004918,1,13
 maturation,0.004918,1,17
 ill,0.004894,2,129
-sangha,0.004848,2,206
 warm,0.004848,2,90
 manufacture,0.004778,1,11
 perfection,0.004778,1,19
@@ -159,6 +158,7 @@ helplessness,0.004652,1,19
 deepens,0.004652,1,12
 cultivates,0.004652,1,16
 folks,0.004633,2,118
+sangha,0.004633,2,231
 scene,0.004536,1,22
 egoic,0.004536,1,17
 vulnerability,0.004536,1,16
@@ -239,7 +239,6 @@ empty,0.002698,1,90
 potential,0.002698,1,77
 awake,0.002670,1,73
 slightly,0.002644,1,64
-samadhi,0.002633,2,1300
 ahead,0.002617,1,76
 realm,0.002617,1,111
 shared,0.002617,1,71
@@ -265,6 +264,7 @@ kindness,0.002303,2,530
 loving-kindness,0.002296,1,182
 love,0.002286,5,1462
 brought,0.002275,1,94
+samadhi,0.002269,2,1513
 dharmette,0.002259,3,313
 gone,0.002256,1,97
 theme,0.002217,1,103

@@ -55,7 +55,6 @@ calmly,0.004523,2,58
 anger,0.004480,4,344
 capacity,0.004466,5,316
 motivation,0.004457,2,52
-san,0.004393,2,47
 self-accepting,0.004387,1,2
 un-buddhist,0.004387,1,2
 asphalt,0.004387,1,2
@@ -65,6 +64,7 @@ one-time,0.004387,1,2
 foible,0.004387,1,2
 two-fold,0.004387,1,2
 instigates,0.004387,1,2
+san,0.004332,2,49
 offered,0.004148,3,103
 remarkable,0.004107,2,53
 room,0.004068,6,388
@@ -171,7 +171,6 @@ breathing,0.002577,7,1983
 evidence,0.002538,1,47
 intentionality,0.002538,1,30
 muscle,0.002538,1,24
-samadhi,0.002507,3,1300
 tendencies,0.002492,1,28
 finger,0.002492,1,22
 hasn't,0.002492,1,20
@@ -211,6 +210,7 @@ freeing,0.002197,1,40
 awareness,0.002192,5,1240
 area,0.002172,2,170
 represents,0.002166,1,41
+samadhi,0.002160,3,1513
 degree,0.002123,2,203
 recognize,0.002112,3,404
 critical,0.002108,1,38

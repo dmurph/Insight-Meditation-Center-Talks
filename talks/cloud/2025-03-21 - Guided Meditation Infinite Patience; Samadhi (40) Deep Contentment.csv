@@ -1,6 +1,6 @@
 word,tfidf_score,talk_frequency,global_frequency
 desires,0.018459,12,202
-samadhi,0.018119,19,1300
+samadhi,0.015614,19,1513
 infinite,0.015047,5,27
 patience,0.014904,7,329
 cozy,0.013741,5,34
@@ -24,9 +24,9 @@ stiller,0.006739,2,14
 treasure,0.006739,2,27
 quietly,0.006593,4,92
 forever,0.006535,3,68
-jhāna,0.006461,3,232
 periphery,0.006275,2,16
 normal,0.006116,6,176
+jhana,0.006113,3,275
 goodwill,0.006103,5,427
 travel,0.006019,2,19
 underneath,0.005923,3,86

@@ -1,6 +1,6 @@
 word,tfidf_score,talk_frequency,global_frequency
-samadhi,0.030632,27,1300
 global,0.029006,10,71
+samadhi,0.026398,27,1513
 deliberateness,0.019639,4,20
 temple,0.019298,6,55
 contentious,0.016480,3,5
@@ -40,7 +40,6 @@ connection,0.005592,4,191
 inwardly,0.005493,1,3
 two-week,0.005493,1,4
 aggressively,0.005493,1,3
-anapanasati,0.005493,1,3
 coasting,0.005493,1,10
 interrupt,0.005493,1,3
 unifies,0.005493,1,3
@@ -51,6 +50,7 @@ wherever,0.005490,3,99
 harmony,0.005244,2,111
 weeks,0.005223,3,114
 notice,0.005148,8,731
+anapanasati,0.004910,1,5
 assertive,0.004910,1,5
 diligent,0.004910,1,6
 warmhearted,0.004910,1,7

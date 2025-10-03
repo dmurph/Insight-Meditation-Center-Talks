@@ -1,9 +1,8 @@
 word,tfidf_score,talk_frequency,global_frequency
+jhana,0.042723,20,275
 peace,0.040774,63,619
-jhāna,0.040637,18,232
 flavors,0.018217,6,23
 nourishment,0.014171,5,42
-samādhi,0.011419,5,213
 characteristics,0.011044,6,160
 abides,0.010885,3,24
 viscosity,0.010498,2,4
@@ -13,14 +12,13 @@ edges,0.009937,5,111
 where's,0.009868,3,26
 selfless,0.009681,2,4
 lessons,0.009465,3,28
-jhānas,0.009109,3,40
 subset,0.009102,2,5
+jhanas,0.008502,3,57
 nerve,0.008285,2,9
 peaceful,0.007769,11,397
 practitioner,0.007502,4,97
 beyond,0.007485,5,183
 pervade,0.007469,2,10
-jhana,0.007064,2,43
 happiness,0.006922,9,805
 delights,0.006889,2,14
 equanimity,0.006752,5,458
@@ -28,6 +26,7 @@ fourth,0.006450,4,153
 degree,0.006349,5,203
 water,0.006271,6,462
 weekend,0.006072,2,22
+samadhi,0.006031,7,1513
 drink,0.005964,2,28
 search,0.005964,2,28
 experiencers,0.005947,1,1
@@ -232,7 +231,6 @@ shifts,0.002007,1,81
 muscles,0.002007,1,80
 grief,0.002007,1,132
 constantly,0.002007,1,92
-samadhi,0.001999,2,1300
 grounding,0.001987,1,96
 stronger,0.001987,1,82
 settled,0.001985,2,413

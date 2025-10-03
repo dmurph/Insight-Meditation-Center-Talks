@@ -2,13 +2,13 @@ word,tfidf_score,talk_frequency,global_frequency
 reorientation,0.022098,6,11
 mingling,0.016992,4,5
 well-being,0.016865,21,536
-jhanic,0.016763,5,11
 factors,0.015727,9,90
+jhanic,0.014681,5,15
 ritual,0.014479,6,46
 spreading,0.014099,7,59
 pleasure,0.012947,14,617
 happiness,0.011203,18,805
-jhāna,0.010962,6,232
+jhana,0.010372,6,275
 joy,0.009997,15,896
 tingling,0.009175,4,29
 kneading,0.009066,3,30
@@ -21,16 +21,15 @@ stages,0.008167,3,26
 breathing,0.007841,22,1983
 contentment,0.007589,5,284
 prefer,0.007480,4,45
-jhānas,0.007372,3,40
 dough,0.007366,2,6
 embodied,0.007117,5,119
+jhanas,0.006881,3,57
 sheet,0.006705,2,8
 tenderness,0.006668,3,56
 balloon,0.006454,2,13
 expect,0.006206,3,37
 quantum,0.005717,2,15
 application,0.005717,2,14
-samadhi,0.005663,7,1300
 usual,0.005643,4,106
 pleasures,0.005610,3,76
 charge,0.005445,2,18
@@ -45,6 +44,7 @@ beginner,0.005106,2,25
 placing,0.004914,2,32
 sublime,0.004914,2,26
 joyful,0.004914,2,29
+samadhi,0.004881,7,1513
 multi-week,0.004813,1,1
 assertively,0.004813,1,1
 enraptured,0.004813,1,1
@@ -330,7 +330,6 @@ emphasize,0.001518,1,78
 engaged,0.001504,1,105
 tends,0.001504,1,83
 helps,0.001491,2,265
-sangha,0.001490,1,206
 meaningful,0.001490,1,88
 confidence,0.001490,1,156
 touching,0.001476,1,85
@@ -346,6 +345,7 @@ everywhere,0.001436,1,98
 continue,0.001426,2,255
 movement,0.001426,2,356
 appreciating,0.001423,1,128
+sangha,0.001423,1,231
 understood,0.001423,1,100
 reasons,0.001411,1,86
 keeping,0.001398,1,89

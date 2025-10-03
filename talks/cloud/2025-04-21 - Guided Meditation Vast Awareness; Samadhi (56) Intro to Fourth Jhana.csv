@@ -1,7 +1,7 @@
 word,tfidf_score,talk_frequency,global_frequency
-jhana,0.055284,18,43
-jhanas,0.043529,11,17
 lucid,0.036021,10,23
+jhana,0.033434,18,275
+jhanas,0.027108,11,57
 fourth,0.021033,15,153
 vast,0.019030,12,114
 awareness,0.017788,39,1240
@@ -50,7 +50,6 @@ tremendous,0.005562,4,106
 whatsoever,0.005486,2,18
 preoccupation,0.005344,3,97
 cloud,0.005280,2,42
-samadhi,0.005216,6,1300
 edges,0.005184,3,111
 sensibilities,0.005171,1,1
 plateau,0.005171,1,1
@@ -77,6 +76,7 @@ stills,0.004564,1,5
 refreshment,0.004564,1,2
 metaphor,0.004507,3,114
 phenomenal,0.004506,2,45
+samadhi,0.004495,6,1513
 eyes,0.004288,9,497
 stability,0.004279,3,164
 images,0.004273,2,53

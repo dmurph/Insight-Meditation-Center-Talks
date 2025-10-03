@@ -1,8 +1,8 @@
 word,tfidf_score,talk_frequency,global_frequency
 affliction,0.030626,7,15
-rāhula,0.022727,5,10
 action,0.021596,12,173
 compass,0.021245,4,6
+rahula,0.021138,5,12
 reflection,0.020774,10,118
 speech,0.018875,9,170
 inspirations,0.016910,4,23
@@ -108,7 +108,6 @@ reverse,0.004228,1,8
 homework,0.004228,1,8
 reconnect,0.004097,1,10
 assess,0.004097,1,11
-sīla,0.004097,1,21
 reflective,0.004097,1,23
 respected,0.004097,1,9
 mindset,0.004097,1,10
@@ -164,6 +163,7 @@ joined,0.003395,1,19
 empathy,0.003395,1,73
 turns,0.003394,2,183
 buddha's,0.003394,2,155
+sila,0.003331,1,42
 discover,0.003312,2,190
 greetings,0.003272,1,24
 repeatedly,0.003272,1,25
@@ -269,7 +269,6 @@ simple,0.002046,3,574
 aside,0.002039,1,109
 warm,0.002020,1,90
 confidence,0.002020,1,156
-sangha,0.002020,1,206
 liberation,0.002001,1,113
 vast,0.002001,1,114
 shows,0.001983,1,123
@@ -279,6 +278,7 @@ rhythm,0.001965,1,106
 concerns,0.001947,1,102
 continuing,0.001947,1,76
 embodied,0.001930,1,119
+sangha,0.001930,1,231
 possible,0.001914,3,509
 leads,0.001913,1,165
 lying,0.001896,1,89

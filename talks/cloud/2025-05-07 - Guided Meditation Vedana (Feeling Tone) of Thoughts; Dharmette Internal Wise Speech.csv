@@ -2,10 +2,10 @@ word,tfidf_score,talk_frequency,global_frequency
 unpleasant,0.031726,20,233
 repetitive,0.026826,7,14
 planning,0.026116,12,51
-vedana,0.024188,6,10
 pleasant,0.022774,22,350
 speech,0.022011,13,170
 tone,0.020712,10,92
+vedana,0.017879,6,152
 internal,0.013105,7,88
 neither,0.012968,7,77
 weaknesses,0.012864,3,5
@@ -282,7 +282,6 @@ they're,0.001643,6,1054
 pick,0.001631,1,79
 practitioners,0.001631,1,98
 situations,0.001631,1,85
-sangha,0.001631,1,206
 content,0.001616,1,135
 tension,0.001596,2,539
 throughout,0.001586,1,90
@@ -291,6 +290,7 @@ form,0.001584,2,277
 arises,0.001573,2,349
 spread,0.001572,1,128
 everywhere,0.001572,1,98
+sangha,0.001558,1,231
 reasons,0.001544,1,86
 story,0.001538,2,624
 remember,0.001538,2,306
@@ -342,7 +342,6 @@ translated,0.001315,1,136
 fine,0.001305,1,148
 speak,0.001305,1,181
 gently,0.001301,2,393
-pali,0.001294,1,160
 aspects,0.001294,1,154
 pushing,0.001294,1,139
 keeps,0.001284,1,136
@@ -379,6 +378,7 @@ future,0.001108,1,210
 physical,0.001099,1,207
 mindful,0.001091,1,255
 connection,0.001091,1,191
+pali,0.001075,1,216
 alive,0.001075,1,182
 level,0.001067,1,233
 finding,0.001043,1,167

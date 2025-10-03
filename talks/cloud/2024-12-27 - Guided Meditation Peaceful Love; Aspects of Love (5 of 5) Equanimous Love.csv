@@ -6,14 +6,13 @@ year,0.012364,10,243
 grandparents,0.012190,3,5
 choices,0.010727,5,51
 kid,0.008951,4,38
-brahmavihāra,0.008812,2,4
-brahmavihāras,0.007640,2,11
 autonomy,0.007640,2,7
 warmhearted,0.007263,2,7
 self-centered,0.007263,2,8
 alarmed,0.007263,2,6
 dependent,0.007096,4,84
 gas,0.006955,2,11
+brahmavihara,0.006955,2,14
 parent,0.006916,3,27
 foundation,0.006884,5,134
 forms,0.006655,5,128
@@ -23,9 +22,9 @@ peaceful,0.006521,11,397
 impersonal,0.006468,2,11
 kids,0.006267,3,59
 aspects,0.006133,5,154
+brahmaviharas,0.006091,2,29
 indifference,0.006091,2,17
 caring,0.005941,5,210
-samādhi,0.005751,3,213
 relationship,0.005699,8,386
 exchange,0.005647,2,15
 rejection,0.005522,2,16
@@ -61,7 +60,6 @@ scraped,0.004406,1,2
 non-anxious,0.004406,1,2
 kiss,0.004406,1,5
 grandparent,0.004406,1,2
-ānāpānasati,0.004406,1,2
 end-of-the-year,0.004406,1,2
 gaze,0.004390,3,116
 activated,0.004291,2,70
@@ -83,7 +81,7 @@ she'll,0.003820,1,4
 exists,0.003747,2,51
 you'll,0.003724,4,216
 aspiring,0.003631,1,6
-satipaṭṭhāna,0.003631,1,5
+anapanasati,0.003631,1,5
 breathe,0.003616,5,408
 contained,0.003477,1,7
 oppressed,0.003477,1,6
@@ -94,7 +92,6 @@ strength,0.003404,2,79
 however,0.003401,3,151
 betrayal,0.003347,1,10
 abodes,0.003347,1,13
-upekkhā,0.003347,1,10
 drama,0.003347,1,8
 stronger,0.003336,2,82
 offer,0.003303,5,342
@@ -130,11 +127,13 @@ paths,0.003045,1,16
 exist,0.003034,2,91
 arms,0.003034,2,78
 emotional,0.003010,3,222
+upekkha,0.002965,1,17
 constriction,0.002891,1,16
 lovingly,0.002891,1,18
 letter,0.002891,1,15
 attracted,0.002824,1,23
 win,0.002824,1,47
+satipatthana,0.002824,1,16
 care,0.002800,9,1221
 new,0.002782,5,543
 instructions,0.002777,2,143
@@ -194,7 +193,6 @@ remains,0.002341,1,32
 who's,0.002339,2,167
 follow,0.002339,2,128
 adjusting,0.002305,1,29
-pāli,0.002305,1,55
 appreciated,0.002305,1,27
 primarily,0.002271,1,29
 possibilities,0.002271,1,27
@@ -210,6 +208,7 @@ staying,0.002181,2,190
 fell,0.002175,1,33
 vacation,0.002175,1,52
 wonderful,0.002173,4,475
+samadhi,0.002169,3,1513
 happened,0.002165,2,196
 softness,0.002145,1,36
 music,0.002145,1,61
@@ -397,6 +396,7 @@ associated,0.001034,1,170
 pressure,0.001026,1,253
 gentle,0.001026,1,244
 alive,0.001018,1,182
+pali,0.001018,1,216
 ability,0.001011,1,219
 without,0.001010,5,944
 parts,0.001003,1,209

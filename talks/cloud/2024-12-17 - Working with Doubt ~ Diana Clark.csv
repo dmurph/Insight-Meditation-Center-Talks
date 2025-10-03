@@ -36,7 +36,6 @@ stays,0.004918,4,35
 authority,0.004918,4,34
 instead,0.004893,14,439
 restlessness,0.004777,4,75
-therigatha,0.004771,2,3
 woman's,0.004771,2,3
 signature,0.004771,2,3
 hindrances,0.004608,5,156
@@ -51,6 +50,7 @@ experiences,0.004243,9,323
 voice,0.004183,5,102
 forever,0.004152,4,68
 hindrance,0.004140,3,41
+therigatha,0.004136,2,5
 stuckness,0.004136,2,11
 chances,0.004104,4,62
 questioner,0.004104,4,228
@@ -463,7 +463,6 @@ driving,0.000941,1,75
 objects,0.000941,1,88
 closer,0.000941,1,72
 comfort,0.000931,1,82
-metta,0.000931,1,304
 particular,0.000926,3,429
 turned,0.000922,1,80
 leading,0.000922,1,105
@@ -520,6 +519,7 @@ torso,0.000792,1,109
 leads,0.000792,1,165
 high,0.000792,1,109
 filled,0.000785,1,102
+metta,0.000785,1,445
 gone,0.000778,1,97
 mostly,0.000778,1,95
 cushion,0.000772,1,113

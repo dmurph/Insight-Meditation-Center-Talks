@@ -1,5 +1,5 @@
 word,tfidf_score,talk_frequency,global_frequency
-kalyāṇamittatā,0.039436,9,12
+kalyanamittata,0.039436,9,12
 friendship,0.034698,16,96
 milk,0.021909,5,13
 virtuous,0.018270,6,28
@@ -14,19 +14,18 @@ contagion,0.012358,3,8
 blending,0.012358,3,6
 goodness,0.012234,15,466
 holy,0.012180,4,24
-ānanda,0.010828,3,14
 longitudinal,0.010766,2,2
 reflection,0.010283,6,118
-sangha,0.009997,6,206
+ananda,0.010141,3,26
 gratitude,0.009880,5,98
 network,0.009592,3,27
+sangha,0.009552,6,231
 research,0.009515,4,51
 admirable,0.009503,2,3
 friendships,0.009354,3,29
 social,0.008907,5,112
-kalyāṇa-mitta,0.008763,2,4
+kalyana-mitta,0.008763,2,4
 buffer,0.008763,2,4
-kalyāṇa,0.008239,2,9
 fathom,0.008239,2,5
 accordance,0.008239,2,6
 wholesomeness,0.008097,3,29
@@ -41,6 +40,7 @@ companionship,0.007500,2,8
 friend,0.007350,7,310
 late,0.007347,3,47
 brightness,0.007240,3,62
+kalyana,0.007219,2,15
 half,0.007056,4,96
 land,0.006988,4,99
 study,0.006988,4,89
@@ -73,11 +73,11 @@ gladness,0.005398,2,48
 italian,0.005383,1,1
 heart-to-heart,0.005383,1,1
 privy,0.005383,1,1
-sāsana,0.005383,1,1
+sasana,0.005383,1,1
 remarked,0.005383,1,1
 comrades,0.005383,1,1
 predictor,0.005383,1,1
-mittatā,0.005383,1,1
+mittata,0.005383,1,1
 co-regulation,0.005383,1,1
 regulate,0.005383,1,1
 proximity,0.005383,1,1
@@ -87,7 +87,6 @@ synchrony,0.005383,1,1
 seamlessly,0.005383,1,1
 studies,0.005305,2,31
 soil,0.005305,2,48
-nikāya,0.004898,2,43
 excited,0.004826,2,38
 levels,0.004826,2,49
 internationally,0.004751,1,2
@@ -96,7 +95,7 @@ shouting,0.004751,1,2
 co-creator,0.004751,1,2
 dispensation,0.004751,1,2
 correlates,0.004751,1,2
-cankī,0.004751,1,2
+canki,0.004751,1,2
 attends,0.004751,1,2
 poured,0.004751,1,2
 inseparably,0.004751,1,2
@@ -120,7 +119,6 @@ calms,0.004119,1,6
 modeling,0.004119,1,5
 flourish,0.004119,1,6
 associates,0.004119,1,7
-aṅguttara,0.004119,1,6
 arrive,0.003996,2,58
 needed,0.003986,4,227
 aspects,0.003968,3,154
@@ -134,6 +132,7 @@ harmoniously,0.003916,1,6
 praises,0.003916,1,5
 psychological,0.003909,2,69
 modern,0.003867,2,75
+nikaya,0.003867,2,69
 breathed,0.003750,1,9
 recipient,0.003750,1,7
 attendant,0.003750,1,10
@@ -182,6 +181,7 @@ shorter,0.003118,1,14
 reveals,0.003118,1,17
 behaviors,0.003118,1,17
 impacted,0.003118,1,14
+anguttara,0.003118,1,15
 p,0.003045,1,16
 resonate,0.003045,1,14
 embrace,0.003045,1,20
@@ -228,7 +228,6 @@ nourishment,0.002565,1,42
 highlights,0.002565,1,32
 layers,0.002565,1,42
 protection,0.002565,1,33
-vipassanā,0.002525,1,77
 smooth,0.002525,1,30
 plant,0.002525,1,36
 majjhima,0.002525,1,30
@@ -248,6 +247,7 @@ nourished,0.002346,1,31
 fighting,0.002346,1,56
 showed,0.002346,1,46
 success,0.002346,1,56
+vipassana,0.002314,1,87
 guidance,0.002314,1,40
 principle,0.002314,1,65
 let's,0.002305,3,389
@@ -278,7 +278,6 @@ rich,0.002117,1,48
 out-breath,0.002092,1,65
 qualities,0.002084,2,326
 teaching,0.002073,3,477
-samādhi,0.002067,1,213
 in-breath,0.002067,1,79
 good,0.002052,19,1801
 lay,0.002044,1,85
@@ -444,6 +443,7 @@ helpful,0.000810,1,561
 seen,0.000792,1,294
 story,0.000786,1,624
 may,0.000784,6,2140
+samadhi,0.000780,1,1513
 hear,0.000774,1,379
 settling,0.000751,1,507
 life,0.000750,10,2289

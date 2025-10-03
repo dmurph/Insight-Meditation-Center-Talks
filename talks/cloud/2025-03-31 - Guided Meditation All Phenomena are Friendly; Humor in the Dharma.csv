@@ -46,7 +46,6 @@ temperamental,0.007730,1,1
 amusing,0.007730,1,1
 ajahns,0.007730,1,1
 george,0.007730,1,1
-kalyāṇamittā,0.007730,1,1
 testifies,0.007730,1,1
 re-acquiring,0.007730,1,1
 non-vigilance,0.007730,1,1
@@ -84,10 +83,10 @@ lists,0.006228,2,101
 told,0.006081,3,136
 sub,0.005915,1,5
 rewarded,0.005915,1,4
-jhānic,0.005915,1,4
 yogi,0.005915,1,5
 yogis,0.005915,1,5
 bounded,0.005915,1,5
+kalyanamitta,0.005915,1,6
 orbit,0.005915,1,13
 workshop,0.005915,1,8
 zooming,0.005915,1,4
@@ -125,6 +124,7 @@ beneath,0.004854,1,12
 practitioners,0.004785,2,98
 characteristics,0.004785,2,160
 dust,0.004716,1,14
+jhanic,0.004716,1,15
 mystery,0.004716,1,14
 smart,0.004716,1,14
 effortless,0.004716,1,35
@@ -204,7 +204,6 @@ pointed,0.003039,1,52
 bottom,0.003003,1,46
 fit,0.003003,1,58
 forget,0.002968,1,46
-jhāna,0.002934,1,232
 circle,0.002934,1,79
 join,0.002934,1,48
 share,0.002926,2,244
@@ -217,6 +216,7 @@ okay,0.002807,5,1126
 brensilver,0.002776,1,89
 worth,0.002776,1,74
 conscious,0.002776,1,65
+jhana,0.002776,1,275
 hurt,0.002747,1,60
 basically,0.002747,1,94
 retreat,0.002697,2,316

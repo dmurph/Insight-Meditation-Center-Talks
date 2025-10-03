@@ -2,17 +2,17 @@ word,tfidf_score,talk_frequency,global_frequency
 happiness,0.035555,48,805
 medicine,0.028037,12,82
 abides,0.017472,5,24
-jhāna,0.015221,7,232
+jhana,0.014402,7,275
 well-being,0.013381,14,536
 swayed,0.011456,2,2
 contentment,0.010838,6,284
 firing,0.010111,2,3
 zone,0.009720,3,21
-samadhi,0.009629,10,1300
 lake,0.009588,4,114
 aside,0.008947,5,109
 glowing,0.008766,2,5
 revolution,0.008766,2,5
+samadhi,0.008298,10,1513
 enters,0.008189,3,29
 hall,0.007703,3,45
 sweetness,0.007703,3,89
@@ -281,7 +281,6 @@ harm,0.001419,1,324
 profound,0.001419,1,195
 gently,0.001415,2,393
 food,0.001407,1,182
-pali,0.001407,1,160
 allowing,0.001404,2,465
 human,0.001371,2,420
 peaceful,0.001361,2,397
@@ -305,6 +304,7 @@ works,0.001205,1,155
 clarity,0.001195,1,252
 within,0.001187,2,516
 every,0.001178,2,478
+pali,0.001169,1,216
 ability,0.001160,1,219
 walk,0.001151,1,253
 emotional,0.001151,1,222

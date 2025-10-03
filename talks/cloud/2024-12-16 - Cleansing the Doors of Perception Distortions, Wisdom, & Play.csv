@@ -22,7 +22,6 @@ reliable,0.006144,5,33
 obscured,0.006090,3,7
 resolution,0.006086,4,16
 conventional,0.005925,4,24
-anatta,0.005442,3,15
 midnight,0.005442,3,7
 impressions,0.005442,3,7
 control,0.005385,9,243
@@ -42,6 +41,7 @@ minimizing,0.004402,2,3
 31st,0.004402,2,3
 visiting,0.004232,3,19
 liberating,0.004232,3,22
+anatta,0.004232,3,38
 chah,0.004232,3,25
 paragraphs,0.004060,2,4
 swing,0.004060,2,5
@@ -487,7 +487,6 @@ surprise,0.001229,1,22
 occasionally,0.001229,1,26
 seconds,0.001229,1,24
 loosen,0.001229,1,24
-pali,0.001226,2,160
 orienting,0.001208,1,31
 sooner,0.001208,1,24
 defining,0.001208,1,24
@@ -573,6 +572,7 @@ mountain,0.001030,1,72
 ending,0.001030,1,59
 integrity,0.001030,1,54
 habits,0.001030,1,54
+pali,0.001018,2,216
 ability,0.001010,2,219
 level,0.001010,2,233
 reactive,0.001005,1,62
@@ -663,7 +663,6 @@ translation,0.000842,1,74
 constantly,0.000842,1,92
 deeper,0.000841,3,563
 takes,0.000838,2,241
-samadhi,0.000838,2,1300
 talking,0.000834,3,445
 everyone,0.000834,3,410
 distinction,0.000833,1,87
@@ -736,6 +735,7 @@ high,0.000731,1,109
 make,0.000726,8,1247
 lying,0.000725,1,89
 brought,0.000725,1,94
+samadhi,0.000723,2,1513
 ways,0.000716,9,1055
 quickly,0.000712,1,91
 busy,0.000712,1,91

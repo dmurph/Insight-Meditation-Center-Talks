@@ -112,7 +112,6 @@ immersion,0.002709,2,23
 century,0.002709,2,20
 assumption,0.002646,2,17
 chinese,0.002646,2,14
-theravada,0.002587,2,23
 inform,0.002587,2,19
 sensation,0.002580,4,151
 absolutely,0.002575,3,64
@@ -173,7 +172,6 @@ redeem,0.002339,1,1
 accreted,0.002339,1,1
 habituated,0.002339,1,1
 shunyata,0.002339,1,1
-kensho,0.002339,1,1
 plunge,0.002339,1,1
 document,0.002339,1,1
 sencho,0.002339,1,1
@@ -227,6 +225,7 @@ exhales,0.002229,2,34
 you'd,0.002213,3,77
 legs,0.002192,3,79
 feet,0.002192,4,174
+theravada,0.002160,2,50
 incredibly,0.002160,2,33
 arms,0.002132,3,78
 sits,0.002128,2,33
@@ -257,6 +256,7 @@ declaration,0.002064,1,2
 beneficent,0.002064,1,2
 prompted,0.002064,1,2
 stalking,0.002064,1,2
+kensho,0.002064,1,2
 wagon,0.002064,1,2
 sutra,0.002064,1,2
 fourthly,0.002064,1,2
@@ -299,7 +299,6 @@ sigh,0.001904,1,11
 cruising,0.001904,1,3
 twofold,0.001904,1,3
 astray,0.001904,1,3
-koans,0.001904,1,4
 cluster,0.001904,1,3
 hegemony,0.001904,1,3
 valence,0.001904,1,4
@@ -311,7 +310,6 @@ daoism,0.001904,1,3
 pitfalls,0.001904,1,3
 coined,0.001904,1,3
 ideology,0.001904,1,3
-koan,0.001904,1,4
 strands,0.001904,1,3
 baseline,0.001904,1,3
 heritage,0.001904,1,5
@@ -341,10 +339,10 @@ critique,0.001790,1,5
 awry,0.001790,1,6
 intervene,0.001790,1,4
 debris,0.001790,1,4
+koans,0.001790,1,5
 provisional,0.001790,1,4
 william,0.001790,1,4
 reign,0.001790,1,6
-vedana,0.001790,1,10
 lenses,0.001790,1,4
 deconstructing,0.001790,1,4
 revelations,0.001790,1,5
@@ -354,6 +352,7 @@ earthquake,0.001790,1,4
 supermarket,0.001790,1,4
 robert,0.001790,1,6
 unlikely,0.001790,1,5
+koan,0.001790,1,5
 constructive,0.001790,1,4
 locate,0.001790,1,5
 reframe,0.001790,1,4
@@ -378,7 +377,6 @@ eastern,0.001701,1,5
 terminology,0.001701,1,5
 flash,0.001701,1,7
 wildly,0.001701,1,8
-anatta,0.001701,1,15
 alarmed,0.001701,1,6
 basket,0.001701,1,8
 overarching,0.001701,1,5
@@ -425,7 +423,6 @@ soaking,0.001568,1,7
 confuse,0.001568,1,7
 unpacking,0.001568,1,10
 reveal,0.001568,1,11
-vipassana,0.001568,1,10
 labeling,0.001568,1,7
 density,0.001568,1,10
 greatly,0.001568,1,10
@@ -455,7 +452,6 @@ absent,0.001515,1,14
 entity,0.001515,1,11
 isolated,0.001515,1,10
 inevitably,0.001515,1,9
-satipatthana,0.001515,1,11
 increasingly,0.001515,1,11
 lays,0.001515,1,9
 entirety,0.001515,1,9
@@ -519,7 +515,6 @@ everywhere,0.001396,2,98
 periods,0.001389,1,12
 streams,0.001389,1,17
 fires,0.001389,1,20
-mahayana,0.001389,1,16
 analyzing,0.001389,1,12
 profoundly,0.001389,1,12
 bother,0.001389,1,12
@@ -537,6 +532,7 @@ questions,0.001368,3,235
 space,0.001367,5,680
 restful,0.001355,1,15
 models,0.001355,1,13
+mahayana,0.001355,1,18
 extraordinary,0.001355,1,14
 secular,0.001355,1,76
 waste,0.001355,1,17
@@ -557,7 +553,10 @@ dipping,0.001323,1,14
 invites,0.001323,1,14
 shade,0.001323,1,14
 rational,0.001323,1,19
+satipatthana,0.001323,1,16
+vedana,0.001323,1,152
 throwing,0.001323,1,20
+anatta,0.001323,1,38
 zone,0.001323,1,21
 enjoyment,0.001323,1,15
 least,0.001318,3,202
@@ -707,6 +706,7 @@ asked,0.001006,2,194
 complex,0.001005,1,40
 expansion,0.001005,1,38
 principle,0.001005,1,65
+vipassana,0.001005,1,87
 participate,0.000992,1,59
 sides,0.000992,1,37
 exact,0.000992,1,38
@@ -808,7 +808,6 @@ comfort,0.000806,1,82
 empty,0.000806,1,90
 radical,0.000806,1,82
 emotion,0.000806,1,104
-metta,0.000806,1,304
 feelings,0.000804,2,294
 idea,0.000801,6,1145
 gil,0.000795,3,392
@@ -880,6 +879,7 @@ lying,0.000679,1,89
 expand,0.000679,1,86
 brought,0.000679,1,94
 background,0.000679,1,110
+metta,0.000679,1,445
 breathe,0.000678,2,408
 dharma,0.000675,3,823
 mostly,0.000674,1,95

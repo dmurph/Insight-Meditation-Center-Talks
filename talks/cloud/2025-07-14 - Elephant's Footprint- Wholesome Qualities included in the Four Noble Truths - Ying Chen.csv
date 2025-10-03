@@ -1,6 +1,6 @@
 word,tfidf_score,talk_frequency,global_frequency
-sariputta,0.039499,13,20
 truths,0.037543,28,119
+sariputta,0.033803,13,30
 noble,0.031645,31,263
 elephant's,0.026358,8,9
 footprint,0.022852,8,12
@@ -79,7 +79,6 @@ broader,0.003743,2,24
 enobling,0.003733,1,1
 tangibly,0.003733,1,1
 40-plus-year,0.003733,1,1
-parinibbana,0.003733,1,1
 documented,0.003733,1,1
 creed,0.003733,1,1
 articulating,0.003733,1,1
@@ -106,8 +105,9 @@ dedication,0.003347,2,35
 everywhere,0.003342,3,98
 wisely,0.003299,2,31
 electrons,0.003295,1,2
-kondañña,0.003295,1,2
+kondanna,0.003295,1,2
 beneficiaries,0.003295,1,2
+parinibbana,0.003295,1,2
 surface-level,0.003295,1,2
 chief,0.003295,1,2
 grind,0.003295,1,2
@@ -308,7 +308,6 @@ career,0.001839,1,25
 identification,0.001839,1,30
 worthy,0.001839,1,28
 experience,0.001835,19,2371
-pali,0.001834,2,160
 stop,0.001828,3,308
 begins,0.001814,3,280
 perspectives,0.001808,1,46
@@ -365,6 +364,7 @@ invited,0.001562,1,40
 ending,0.001542,1,59
 street,0.001542,1,57
 tender,0.001542,1,48
+pali,0.001523,2,216
 alive,0.001523,2,182
 react,0.001523,1,37
 arose,0.001523,1,49
@@ -451,7 +451,6 @@ practitioner,0.001177,1,97
 caught,0.001174,2,358
 reflections,0.001166,1,94
 bodies,0.001166,1,93
-sangha,0.001155,1,206
 compassion,0.001148,2,634
 suttas,0.001145,1,171
 liberation,0.001145,1,113
@@ -464,6 +463,7 @@ movements,0.001124,1,92
 avoid,0.001124,1,122
 challenges,0.001124,1,103
 thing,0.001104,8,1366
+sangha,0.001104,1,231
 reflect,0.001104,1,112
 embodied,0.001104,1,119
 lose,0.001104,1,114

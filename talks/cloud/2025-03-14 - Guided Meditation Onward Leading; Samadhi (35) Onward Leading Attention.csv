@@ -2,8 +2,8 @@ word,tfidf_score,talk_frequency,global_frequency
 onward,0.082167,26,56
 leading,0.045719,24,105
 faith,0.017499,9,172
-samadhi,0.016905,18,1300
 momentum,0.015884,8,83
+samadhi,0.014569,18,1513
 wants,0.014425,12,216
 wanes,0.011174,2,2
 confidence,0.010376,6,156
@@ -86,11 +86,11 @@ shoulders,0.003662,3,171
 society,0.003661,2,118
 starting,0.003634,3,143
 incline,0.003620,1,11
-saddhā,0.003620,1,24
 gracious,0.003620,1,8
 building,0.003591,2,87
 tense,0.003557,2,110
 self,0.003514,4,1111
+saddha,0.003508,1,25
 kick,0.003508,1,10
 daylong,0.003508,1,12
 quieter,0.003491,2,95
@@ -137,7 +137,6 @@ friday,0.002663,1,28
 chest,0.002639,2,143
 necessarily,0.002618,2,142
 relaxes,0.002580,1,29
-pāli,0.002580,1,55
 passed,0.002580,1,36
 skilled,0.002580,1,32
 heart's,0.002542,1,35
@@ -279,6 +278,7 @@ pressure,0.001149,1,253
 soft,0.001149,1,214
 next,0.001147,3,607
 number,0.001140,1,199
+pali,0.001140,1,216
 ability,0.001131,1,219
 emotional,0.001123,1,222
 pleasant,0.001098,1,350

@@ -62,7 +62,7 @@ peer,0.004480,1,3
 troublesome,0.004480,1,3
 bothersome,0.004480,1,3
 polished,0.004480,1,3
-kalyāṇa-mitta,0.004480,1,4
+kalyana-mitta,0.004480,1,4
 frank,0.004480,1,3
 synonyms,0.004480,1,3
 decades,0.004380,2,42
@@ -74,7 +74,6 @@ locations,0.004212,1,5
 signed,0.004212,1,4
 so-and-so,0.004212,1,5
 norms,0.004212,1,4
-kalyāṇa,0.004212,1,9
 associates,0.004212,1,7
 authenticity,0.004212,1,4
 beyond,0.004156,3,183
@@ -94,12 +93,13 @@ ribs,0.003834,1,7
 ringing,0.003834,1,6
 lottery,0.003834,1,6
 volunteering,0.003834,1,17
-mitta,0.003834,1,12
+mitta,0.003834,1,13
 listener,0.003834,1,13
 awake,0.003753,2,73
 news,0.003753,2,73
 globe,0.003690,1,19
 hesitant,0.003690,1,7
+kalyana,0.003690,1,15
 casual,0.003690,1,10
 slipping,0.003690,1,7
 divisiveness,0.003690,1,9
@@ -112,7 +112,6 @@ supporting,0.003607,2,88
 volunteers,0.003566,1,10
 divisive,0.003566,1,12
 stinginess,0.003566,1,21
-anguttara,0.003566,1,9
 relationships,0.003538,2,98
 europe,0.003456,1,10
 asia,0.003456,1,12
@@ -131,6 +130,7 @@ jealousy,0.003269,1,36
 gaining,0.003269,1,13
 softened,0.003269,1,15
 anybody,0.003255,2,112
+anguttara,0.003188,1,15
 share,0.003125,3,244
 soon,0.003115,2,138
 asking,0.003115,2,124
@@ -173,7 +173,6 @@ vulnerable,0.002759,1,29
 builds,0.002759,1,23
 figured,0.002759,1,19
 dry,0.002759,1,35
-nikaya,0.002759,1,26
 appropriate,0.002748,2,162
 translated,0.002748,2,136
 stretch,0.002712,1,26
@@ -263,6 +262,7 @@ perception,0.002020,1,147
 online,0.001998,1,58
 belly,0.001993,2,254
 already,0.001978,2,255
+nikaya,0.001977,1,69
 differently,0.001935,1,54
 appreciate,0.001930,3,409
 mean,0.001930,3,465

@@ -90,7 +90,6 @@ attitude,0.003190,4,188
 amazing,0.003164,4,122
 beautiful,0.003122,8,538
 deliberate,0.003105,2,34
-nikaya,0.003049,2,26
 savings,0.003041,1,1
 co-managing,0.003041,1,1
 bruni,0.003041,1,1
@@ -120,7 +119,6 @@ lever,0.003041,1,1
 anticlimactic,0.003041,1,1
 enchanted,0.003041,1,1
 gil-ism,0.003041,1,1
-atthakavagga,0.003041,1,1
 clauses,0.003041,1,1
 impudent,0.003041,1,1
 swollen,0.003041,1,1
@@ -157,8 +155,9 @@ favors,0.002684,1,2
 distortion,0.002684,1,20
 tiniest,0.002684,1,2
 tangibles,0.002684,1,2
+atthakavagga,0.002684,1,2
 deceitful,0.002684,1,2
-rāga,0.002684,1,3
+raga,0.002684,1,3
 confirmed,0.002684,1,2
 bolsters,0.002684,1,2
 night,0.002674,3,153
@@ -218,7 +217,6 @@ mysterious,0.002212,1,5
 multifaceted,0.002212,1,6
 dozen,0.002212,1,8
 pithy,0.002212,1,5
-nibbana,0.002212,1,6
 tail,0.002212,1,5
 changeable,0.002212,1,5
 coloring,0.002212,1,6
@@ -229,6 +227,7 @@ last,0.002203,8,463
 related,0.002189,3,134
 hear,0.002186,5,379
 known,0.002186,4,195
+nikaya,0.002185,2,69
 seeing,0.002146,8,800
 grasping,0.002139,2,97
 inspiration,0.002139,2,102
@@ -256,9 +255,7 @@ break,0.001993,2,76
 worked,0.001993,2,81
 happened,0.001978,3,196
 route,0.001970,1,9
-satipatthana,0.001970,1,11
 alarm,0.001970,1,12
-samyutta,0.001970,1,12
 seclusion,0.001970,1,14
 missing,0.001970,1,15
 consumed,0.001970,1,10
@@ -302,8 +299,10 @@ english,0.001736,2,107
 share,0.001727,3,244
 rather,0.001725,6,505
 announcement,0.001720,1,16
+satipatthana,0.001720,1,16
 chah,0.001720,1,25
 invisible,0.001720,1,17
+samyutta,0.001720,1,18
 onward,0.001720,1,56
 fading,0.001720,1,16
 vow,0.001720,1,25
@@ -327,6 +326,7 @@ mentioned,0.001677,2,107
 subtle,0.001664,3,350
 strengthen,0.001646,1,15
 stilling,0.001646,1,25
+nibbana,0.001646,1,41
 volunteer,0.001646,1,27
 ear,0.001646,1,26
 neighborhood,0.001646,1,16
@@ -532,7 +532,6 @@ change,0.001067,3,798
 completely,0.001061,2,248
 long,0.001051,5,589
 gather,0.001047,1,76
-metta,0.001047,1,304
 sure,0.001045,2,247
 agitated,0.001037,1,84
 gil,0.001033,3,392
@@ -596,6 +595,7 @@ reasons,0.000891,1,86
 still,0.000887,5,740
 else,0.000885,3,516
 metaphor,0.000883,1,114
+metta,0.000883,1,445
 keeping,0.000883,1,89
 perfect,0.000876,1,122
 gone,0.000876,1,97

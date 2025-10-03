@@ -13,7 +13,6 @@ operates,0.008711,3,27
 non-attachment,0.008543,2,8
 percentage,0.008543,2,5
 tripod,0.008121,2,7
-vipassana,0.007485,2,10
 attachment,0.007176,4,145
 lowering,0.007010,2,14
 maturation,0.007010,2,17
@@ -52,7 +51,7 @@ self-doubt,0.004926,1,2
 fluidly,0.004926,1,2
 unlimited,0.004926,1,2
 29th,0.004926,1,2
-samadhi,0.004691,5,1300
+vipassana,0.004798,2,87
 spreading,0.004672,2,59
 preferences,0.004672,2,47
 shape,0.004612,2,42
@@ -81,8 +80,9 @@ cling,0.004098,2,100
 musical,0.004060,1,5
 connectedness,0.004060,1,7
 culmination,0.004060,1,7
-sammā,0.004060,1,10
+samma,0.004060,1,10
 characterize,0.004060,1,6
+samadhi,0.004043,5,1513
 clearly,0.004013,5,386
 capacity,0.004012,4,316
 means,0.004008,8,572
@@ -336,7 +336,6 @@ orientation,0.001405,1,179
 appropriate,0.001394,1,162
 lead,0.001394,1,198
 aspects,0.001371,1,154
-pali,0.001371,1,160
 inside,0.001368,2,424
 record,0.001361,1,92
 resting,0.001350,1,165
@@ -376,6 +375,7 @@ changing,0.001147,1,378
 spiritual,0.001147,1,555
 attention,0.001146,4,1243
 next,0.001146,3,607
+pali,0.001139,1,216
 parts,0.001122,1,209
 walk,0.001122,1,253
 activity,0.001097,1,308

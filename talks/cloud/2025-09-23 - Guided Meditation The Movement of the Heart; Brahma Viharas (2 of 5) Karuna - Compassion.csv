@@ -1,7 +1,7 @@
 word,tfidf_score,talk_frequency,global_frequency
 empathy,0.031968,10,73
-karuna,0.024721,6,18
 tenderness,0.022704,8,56
+karuna,0.020856,6,33
 she'd,0.018745,5,18
 viharas,0.012787,4,42
 brahma,0.012111,4,74
@@ -14,7 +14,7 @@ broken,0.010710,4,42
 daughter,0.010197,3,30
 dementia,0.010004,2,4
 ada,0.010004,2,5
-limón,0.010004,2,5
+limon,0.010004,2,5
 nodded,0.010004,2,4
 suffering,0.009585,18,1420
 vessel,0.009405,2,9

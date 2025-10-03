@@ -9,14 +9,13 @@ wet,0.013834,8,29
 functions,0.013045,8,34
 characteristics,0.012851,13,160
 aha,0.012415,6,14
-vipassanā,0.011984,8,77
 supportive,0.011923,14,129
 passing,0.011596,10,86
+vipassana,0.010981,8,87
 impermanence,0.010674,10,144
 facilitate,0.009294,4,8
 plant,0.008988,6,36
 collected,0.008850,6,32
-samādhi,0.008585,7,213
 condition,0.008516,10,160
 progress,0.008468,6,40
 seeing,0.008451,30,800
@@ -30,6 +29,7 @@ discussing,0.006917,4,21
 stabilizing,0.006777,4,28
 transformed,0.006777,4,23
 obvious,0.006537,8,145
+samadhi,0.006478,14,1513
 amplifier,0.006388,2,2
 rewind,0.006388,2,2
 mini-arc,0.006388,2,2
@@ -102,7 +102,6 @@ sights,0.003794,2,18
 pop,0.003794,2,18
 clear,0.003779,12,504
 growing,0.003778,4,104
-samadhi,0.003758,7,1300
 collect,0.003700,2,15
 conditionality,0.003700,2,26
 easily,0.003679,4,97
@@ -142,13 +141,12 @@ wearing,0.003261,2,28
 roshi,0.003261,2,27
 muscle,0.003261,2,24
 daily,0.003216,4,152
-anā,0.003194,1,1
+ana,0.003194,1,1
 translated,0.003190,4,136
 appropriate,0.003190,4,162
 sorts,0.003147,2,28
 distinct,0.003147,2,24
 soil,0.003147,2,48
-pali,0.003139,4,160
 practices,0.003139,4,153
 concentration,0.003114,4,222
 interpretations,0.003094,2,28
@@ -184,6 +182,7 @@ clarity,0.002666,4,252
 base,0.002639,2,47
 striving,0.002639,2,63
 seeds,0.002639,2,63
+pali,0.002607,4,216
 jaw,0.002606,2,43
 relating,0.002573,2,46
 upright,0.002511,2,63
@@ -195,7 +194,7 @@ path,0.002478,6,779
 qualities,0.002473,4,326
 straining,0.002453,2,59
 received,0.002453,2,54
-passanā,0.002444,1,4
+passana,0.002444,1,4
 arriving,0.002425,2,60
 lay,0.002425,2,85
 breaths,0.002418,4,181

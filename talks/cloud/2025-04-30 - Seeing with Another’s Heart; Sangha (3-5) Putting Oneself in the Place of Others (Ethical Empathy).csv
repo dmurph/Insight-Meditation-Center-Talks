@@ -24,15 +24,15 @@ foundation,0.009322,7,134
 kindness,0.009231,13,530
 reflection,0.009223,6,118
 landing,0.009059,4,33
-sangha,0.008967,6,206
 therefore,0.008787,4,30
 benefactor,0.008604,3,28
 activate,0.008604,3,13
+sangha,0.008568,6,231
 yoniso,0.008524,2,4
-manasikāra,0.008524,2,8
+manasikara,0.008524,2,8
 theme,0.008199,6,103
 universal,0.007879,4,54
-kalyāṇamittatā,0.007861,2,12
+kalyanamittata,0.007861,2,12
 unto,0.007861,2,4
 felt-sense,0.007861,2,5
 challenging,0.007760,5,81
@@ -70,7 +70,6 @@ likewise,0.005024,2,29
 teaching,0.004957,8,477
 loves,0.004930,2,25
 greetings,0.004842,2,24
-mettā,0.004842,2,141
 buongiorno,0.004829,1,1
 buonasera,0.004829,1,1
 earthed,0.004829,1,1
@@ -82,7 +81,6 @@ nalaka,0.004829,1,1
 vein,0.004829,1,1
 insula,0.004829,1,1
 cingulate,0.004829,1,1
-māna,0.004829,1,1
 udayi,0.004829,1,1
 reflexive,0.004829,1,1
 essentially,0.004678,2,26
@@ -95,7 +93,7 @@ afternoons,0.004262,1,2
 ineffable,0.004262,1,2
 loyalty,0.004262,1,4
 birdsong,0.004262,1,2
-upakāraka,0.004262,1,5
+upakaraka,0.004262,1,5
 commandments,0.004262,1,2
 shalt,0.004262,1,3
 predates,0.004262,1,2
@@ -106,6 +104,7 @@ themself,0.004262,1,2
 underline,0.004262,1,2
 bridges,0.004262,1,2
 self-centeredness,0.004262,1,2
+mana,0.004262,1,3
 notch,0.004262,1,2
 phew,0.004262,1,2
 cornerstone,0.004262,1,2
@@ -167,7 +166,7 @@ hardness,0.003364,1,8
 educational,0.003364,1,6
 upbringing,0.003364,1,11
 enduring,0.003364,1,16
-mitta,0.003364,1,12
+mitta,0.003364,1,13
 trembling,0.003364,1,6
 hurtful,0.003364,1,6
 bread,0.003364,1,17
@@ -176,7 +175,6 @@ advises,0.003364,1,6
 afternoon,0.003293,2,65
 somebody,0.003289,3,318
 entanglement,0.003237,1,11
-ānanda,0.003237,1,14
 theoretical,0.003237,1,7
 moment-to-moment,0.003237,1,11
 neurons,0.003237,1,10
@@ -185,7 +183,6 @@ reactivity,0.003196,2,141
 minute,0.003164,2,80
 explore,0.003134,2,101
 entirety,0.003128,1,9
-anguttara,0.003128,1,9
 self-care,0.003128,1,10
 receiving,0.003104,2,152
 beings,0.003064,9,1026
@@ -193,6 +190,7 @@ someone,0.003052,6,541
 abdomen,0.003032,1,15
 flexibility,0.003032,1,10
 stretched,0.003032,1,13
+ananda,0.003032,1,26
 cover,0.003032,1,10
 commentarial,0.003032,1,11
 passivity,0.003032,1,15
@@ -218,11 +216,13 @@ application,0.002868,1,14
 explored,0.002868,1,13
 appreciating,0.002856,2,128
 buddha,0.002825,9,1594
+metta,0.002806,2,445
 brought,0.002806,2,94
 nikki,0.002797,1,53
 mirghafori,0.002797,1,17
 shining,0.002797,1,22
 friendships,0.002797,1,29
+anguttara,0.002797,1,15
 emphasizes,0.002797,1,12
 zone,0.002731,1,21
 aspirations,0.002731,1,21
@@ -247,7 +247,6 @@ ourself,0.002562,1,21
 sensed,0.002512,1,26
 intimately,0.002465,1,19
 embodiment,0.002421,1,27
-nikaya,0.002421,1,26
 profound,0.002392,2,195
 joys,0.002379,1,27
 stretch,0.002379,1,26
@@ -327,6 +326,7 @@ gratitude,0.001772,1,98
 stepping,0.001753,1,78
 types,0.001734,1,83
 modern,0.001734,1,75
+nikaya,0.001734,1,69
 directions,0.001734,1,52
 awareness,0.001704,4,1240
 experiences,0.001685,2,323

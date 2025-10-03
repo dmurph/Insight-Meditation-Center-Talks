@@ -1,7 +1,7 @@
 word,tfidf_score,talk_frequency,global_frequency
 inclusion,0.021794,8,26
-samadhi,0.020699,25,1300
 count,0.020091,10,154
+samadhi,0.017838,25,1513
 included,0.015114,9,82
 movements,0.014831,10,92
 receiving,0.012664,8,152
@@ -246,7 +246,6 @@ weren't,0.001714,1,77
 position,0.001714,1,60
 touches,0.001714,1,55
 grows,0.001714,1,70
-metta,0.001697,1,304
 contribute,0.001697,1,65
 relaxation,0.001697,1,62
 series,0.001693,2,247
@@ -296,6 +295,7 @@ thinking,0.001435,8,1621
 involves,0.001431,1,98
 lying,0.001431,1,89
 filled,0.001431,1,102
+metta,0.001431,1,445
 grounded,0.001431,1,115
 developing,0.001431,1,90
 keeping,0.001431,1,89

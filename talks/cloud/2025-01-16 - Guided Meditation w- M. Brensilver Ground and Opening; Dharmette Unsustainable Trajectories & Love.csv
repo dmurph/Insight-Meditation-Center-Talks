@@ -40,7 +40,7 @@ regrettable,0.008365,1,1
 errors,0.008365,1,1
 incompetence,0.008365,1,1
 imputes,0.008365,1,1
-renée,0.008365,1,1
+renee,0.008365,1,1
 diresta,0.008365,1,1
 exacerbate,0.008365,1,1
 authoritarianism,0.008365,1,1
@@ -187,7 +187,6 @@ conclusions,0.004529,1,18
 soul,0.004529,1,37
 ran,0.004529,1,16
 wrong,0.004443,3,315
-samsara,0.004437,1,26
 buddhas,0.004437,1,20
 paper,0.004437,1,27
 love,0.004394,9,1462
@@ -219,6 +218,7 @@ initially,0.003923,1,27
 crazy,0.003923,1,29
 uncertainty,0.003863,1,36
 burden,0.003863,1,30
+samsara,0.003863,1,41
 one's,0.003859,2,187
 permanent,0.003805,1,40
 dhammapada,0.003805,1,41
@@ -226,9 +226,9 @@ activation,0.003750,1,43
 saw,0.003740,2,182
 progress,0.003696,1,40
 effects,0.003696,1,42
-san,0.003696,1,47
 escape,0.003696,1,46
 opinions,0.003645,1,57
+san,0.003645,1,49
 success,0.003645,1,56
 riding,0.003645,1,48
 sort,0.003600,2,241

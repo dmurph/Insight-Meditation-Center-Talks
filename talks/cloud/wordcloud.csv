@@ -30,6 +30,7 @@ much,1611,344,0.064720
 buddha,1594,250,0.383901
 moment,1566,307,0.178514
 insight,1536,367,0.000000
+samadhi,1513,156,0.855506
 talk,1479,367,0.000000
 love,1462,260,0.344680
 back,1458,323,0.127710
@@ -43,7 +44,6 @@ thing,1366,295,0.218386
 lot,1358,320,0.137041
 oh,1322,232,0.458624
 well,1303,293,0.225189
-samadhi,1300,136,0.992707
 place,1269,284,0.256388
 take,1254,329,0.109304
 make,1247,296,0.215002
@@ -214,6 +214,7 @@ help,455,212,0.548776
 nothing,452,188,0.668920
 inner,447,158,0.842767
 talking,445,190,0.658338
+metta,445,66,1.715707
 gets,444,196,0.627247
 try,443,204,0.587242
 fear,441,135,1.000087
@@ -336,7 +337,6 @@ somehow,307,178,0.723578
 remember,306,155,0.861937
 he's,305,90,1.405552
 read,304,140,0.963719
-metta,304,48,2.034161
 whether,303,161,0.823957
 conflict,302,33,2.408854
 becoming,298,142,0.949535
@@ -368,6 +368,7 @@ opening,279,135,1.000087
 interesting,278,131,1.030165
 believe,278,136,0.992707
 form,277,151,0.888082
+jhana,275,44,2.121172
 emotions,275,123,1.093177
 introduction,274,204,0.587242
 turn,274,144,0.935549
@@ -426,7 +427,7 @@ level,233,111,1.195832
 though,233,148,0.908150
 talked,233,121,1.109571
 unpleasant,233,62,1.778227
-jhāna,232,39,2.241800
+sangha,231,64,1.746479
 touch,231,129,1.045549
 step,231,115,1.160430
 system,231,90,1.405552
@@ -466,6 +467,7 @@ moving,217,129,1.045549
 forward,217,138,0.978108
 shift,217,110,1.204881
 you'll,216,122,1.101341
+pali,216,110,1.204881
 greater,216,88,1.428025
 wants,216,103,1.270633
 later,215,128,1.053332
@@ -474,7 +476,6 @@ talks,215,105,1.251401
 friends,214,97,1.330651
 spaciousness,214,57,1.862311
 soft,214,109,1.214014
-samādhi,213,38,2.267776
 meditating,213,117,1.143188
 available,213,121,1.109571
 middle,212,126,1.069080
@@ -491,7 +492,6 @@ contact,209,83,1.486521
 problem,207,95,1.351485
 physical,207,107,1.232533
 presence,207,105,1.251401
-sangha,206,59,1.827824
 generosity,206,72,1.628696
 object,205,95,1.351485
 act,204,91,1.394502
@@ -629,7 +629,6 @@ line,161,82,1.498643
 choose,161,80,1.523335
 response,161,71,1.642682
 characteristics,160,59,1.827824
-pali,160,86,1.451015
 death,160,62,1.778227
 here's,160,84,1.474545
 condition,160,76,1.574629
@@ -659,6 +658,7 @@ primary,153,86,1.451015
 old,153,78,1.548653
 image,153,82,1.498643
 night,153,65,1.730975
+vedana,152,13,3.340412
 daily,152,83,1.486521
 fall,152,96,1.341014
 toward,152,58,1.844919
@@ -699,13 +699,12 @@ instructions,143,71,1.642682
 balance,143,64,1.746479
 starting,143,102,1.280389
 centered,143,65,1.730975
-vedanā,142,10,3.602777
 necessarily,142,92,1.383573
 alone,141,87,1.439454
 reactivity,141,52,1.954118
 receive,141,79,1.535914
-mettā,141,19,2.960923
 counting,141,27,2.609525
+mara,140,17,3.072149
 senses,139,52,1.954118
 pushing,139,86,1.451015
 difficulties,139,50,1.993339
@@ -870,7 +869,6 @@ anyone,109,62,1.778227
 torso,109,65,1.730975
 high,109,65,1.730975
 spacious,109,54,1.916378
-māra,109,10,3.602777
 ajahn,108,44,2.121172
 allowed,108,61,1.794488
 mentioned,107,72,1.628696
@@ -1046,6 +1044,7 @@ fixed,90,44,2.121172
 chat,90,56,1.880010
 developing,90,66,1.715707
 areas,90,59,1.827824
+jataka,90,12,3.420455
 phrase,90,52,1.954118
 titans,90,3,4.806750
 concept,89,54,1.916378
@@ -1058,7 +1057,6 @@ lying,89,66,1.715707
 sweetness,89,26,2.647265
 sati,89,40,2.216482
 courage,89,26,2.647265
-jātaka,89,11,3.507467
 meaningful,88,59,1.827824
 pass,88,60,1.811017
 taken,88,67,1.700669
@@ -1074,6 +1072,7 @@ distinction,87,51,1.973536
 versus,87,52,1.954118
 specific,87,58,1.844919
 key,87,60,1.811017
+vipassana,87,29,2.538066
 pieces,87,28,2.573157
 particularly,86,52,1.954118
 expand,86,66,1.715707
@@ -1115,6 +1114,7 @@ monastery,83,34,2.379001
 types,83,44,2.121172
 medicine,82,33,2.408854
 stronger,82,51,1.973536
+mudita,82,16,3.132773
 actual,82,47,2.055214
 comfort,82,48,2.034161
 radical,82,48,2.034161
@@ -1173,7 +1173,6 @@ potential,77,48,2.034161
 youtube,77,52,1.954118
 weren't,77,47,2.055214
 ends,77,54,1.916378
-vipassanā,77,23,2.769868
 serve,77,38,2.267776
 secular,76,12,3.420455
 break,76,53,1.935070
@@ -1278,6 +1277,7 @@ external,69,40,2.216482
 significant,69,49,2.013542
 instruction,69,39,2.241800
 solid,69,39,2.241800
+nikaya,69,44,2.121172
 save,69,25,2.686486
 intentions,69,39,2.241800
 encounter,69,57,1.862311
@@ -1445,7 +1445,6 @@ result,58,37,2.294444
 fit,58,37,2.294444
 opinion,58,21,2.860839
 birth,58,33,2.408854
-mudita,58,12,3.420455
 healing,58,39,2.241800
 bed,58,44,2.121172
 online,58,43,2.144162
@@ -1472,6 +1471,7 @@ bones,57,41,2.191790
 street,57,32,2.439626
 train,57,35,2.350014
 favorite,57,39,2.241800
+jhanas,57,22,2.814319
 dropping,57,40,2.216482
 lower,57,39,2.241800
 disconnected,57,33,2.408854
@@ -1505,7 +1505,6 @@ arrows,56,16,3.132773
 crossing,56,13,3.340412
 mei,56,10,3.602777
 books,55,39,2.241800
-pāli,55,24,2.727308
 recently,55,44,2.121172
 touches,55,47,2.055214
 ride,55,33,2.408854
@@ -1624,7 +1623,7 @@ transformation,51,24,2.727308
 choices,51,29,2.538066
 monkey,51,12,3.420455
 unity,51,15,3.197312
-jātakas,51,4,4.519067
+jatakas,51,4,4.519067
 message,50,34,2.379001
 neck,50,35,2.350014
 contracted,50,32,2.439626
@@ -1637,6 +1636,7 @@ wander,50,33,2.408854
 checking,50,36,2.321843
 gravity,50,39,2.241800
 length,50,27,2.609525
+theravada,50,24,2.727308
 tea,50,25,2.686486
 define,50,37,2.294444
 tells,50,34,2.379001
@@ -1670,6 +1670,7 @@ protect,49,35,2.350014
 independent,49,30,2.504164
 boundaries,49,29,2.538066
 conversations,49,33,2.408854
+san,49,28,2.573157
 exploration,49,31,2.471375
 pattern,49,23,2.769868
 chaplains,49,7,3.959452
@@ -1724,7 +1725,6 @@ attentional,47,16,3.132773
 abandon,47,22,2.814319
 added,47,29,2.538066
 base,47,32,2.439626
-san,47,27,2.609525
 statement,47,29,2.538066
 tiny,47,34,2.379001
 win,47,13,3.340412
@@ -1838,11 +1838,9 @@ activation,43,26,2.647265
 game,43,21,2.860839
 ring,43,20,2.909630
 flowers,43,25,2.686486
-nikāya,43,25,2.686486
 praise,43,24,2.727308
 meets,43,25,2.686486
 framework,43,22,2.814319
-jhana,43,11,3.507467
 overcome,43,18,3.014990
 layers,42,22,2.814319
 interpret,42,32,2.439626
@@ -1872,6 +1870,7 @@ events,42,26,2.647265
 limits,42,23,2.769868
 nest,42,9,3.708137
 decades,42,35,2.350014
+sila,42,18,3.014990
 francisco,42,23,2.769868
 communities,42,27,2.609525
 definition,42,27,2.609525
@@ -1903,6 +1902,7 @@ increase,41,23,2.769868
 tower,41,25,2.686486
 limited,41,23,2.769868
 purposes,41,26,2.647265
+nibbana,41,15,3.197312
 associations,41,28,2.573157
 resist,41,26,2.647265
 contemplation,41,24,2.727308
@@ -1911,6 +1911,7 @@ practical,41,31,2.471375
 hindrance,41,18,3.014990
 distraction,41,28,2.573157
 doors,41,24,2.727308
+samsara,41,24,2.727308
 internally,41,22,2.814319
 automatic,41,23,2.769868
 personality,41,21,2.860839
@@ -1925,7 +1926,6 @@ established,40,29,2.538066
 written,40,27,2.609525
 wondering,40,30,2.504164
 grateful,40,29,2.538066
-jhānas,40,18,3.014990
 joining,40,34,2.379001
 guidance,40,29,2.538066
 intentionally,40,35,2.350014
@@ -1967,6 +1967,7 @@ blessing,39,22,2.814319
 separation,39,21,2.860839
 store,39,24,2.727308
 roots,39,18,3.014990
+thanissaro,39,7,3.959452
 responsible,38,30,2.504164
 title,38,31,2.471375
 writing,38,28,2.573157
@@ -1999,6 +2000,7 @@ offers,38,32,2.439626
 ministry,38,6,4.113602
 pushed,38,25,2.686486
 worldly,38,17,3.072149
+anatta,38,13,3.340412
 coffee,38,22,2.814319
 highlight,38,27,2.609525
 symptoms,38,13,3.340412
@@ -2091,7 +2093,6 @@ miracle,36,13,3.340412
 satisfaction,36,28,2.573157
 clouds,36,19,2.960923
 frequently,36,22,2.814319
-thanissaro,36,4,4.519067
 formal,35,25,2.686486
 applying,35,23,2.769868
 continued,35,27,2.609525
@@ -2110,6 +2111,7 @@ map,35,16,3.132773
 we'd,35,25,2.686486
 brother,35,17,3.072149
 conclusion,35,33,2.408854
+papanca,35,7,3.959452
 allen,35,15,3.197312
 heart's,35,25,2.686486
 dedication,35,26,2.647265
@@ -2139,7 +2141,6 @@ effortless,35,10,3.602777
 phenomenon,35,25,2.686486
 highest,35,21,2.860839
 enjoyable,35,26,2.647265
-nibbāna,35,10,3.602777
 unnecessary,34,26,2.647265
 functions,34,18,3.014990
 authority,34,25,2.686486
@@ -2152,7 +2153,6 @@ thus,34,22,2.814319
 village,34,15,3.197312
 writes,34,23,2.769868
 poison,34,10,3.602777
-papañca,34,6,4.113602
 energies,34,22,2.814319
 transition,34,24,2.727308
 mode,34,22,2.814319
@@ -2219,6 +2219,7 @@ protection,33,22,2.814319
 tightening,33,24,2.727308
 arisen,33,22,2.814319
 relational,33,17,3.072149
+karuna,33,13,3.340412
 responses,33,20,2.909630
 rosemary,33,14,3.266305
 cows,33,9,3.708137
@@ -2314,7 +2315,6 @@ choosing,31,25,2.686486
 motion,31,17,3.072149
 accessible,31,23,2.769868
 alignment,31,11,3.507467
-mara,31,7,3.959452
 cage,31,25,2.686486
 decision,31,21,2.860839
 treat,31,24,2.727308
@@ -2384,6 +2384,7 @@ characteristic,30,18,3.014990
 crisis,30,12,3.420455
 variety,30,26,2.647265
 wilderness,30,14,3.266305
+sariputta,30,6,4.113602
 refraining,30,7,3.959452
 friendships,29,12,3.420455
 lips,29,19,2.960923
@@ -2447,6 +2448,7 @@ blessings,29,17,3.072149
 circumstance,29,14,3.266305
 hey,29,19,2.960923
 joyful,29,18,3.014990
+brahmaviharas,29,10,3.602777
 elephant,29,3,4.806750
 examples,28,20,2.909630
 represent,28,24,2.727308
@@ -2497,6 +2499,7 @@ reminded,28,22,2.814319
 loneliness,28,11,3.507467
 total,28,18,3.014990
 hoping,28,23,2.769868
+dana,28,11,3.507467
 priest,28,5,4.295924
 passion,28,13,3.340412
 benefactor,28,11,3.507467
@@ -2504,6 +2507,7 @@ comparing,28,20,2.909630
 endings,28,9,3.708137
 arc,28,10,3.602777
 deva,28,9,3.708137
+parami,28,11,3.507467
 depend,27,16,3.132773
 bunch,27,24,2.727308
 nun,27,16,3.132773
@@ -2516,6 +2520,7 @@ softer,27,22,2.814319
 intensity,27,20,2.909630
 quiets,27,17,3.072149
 interpretation,27,21,2.860839
+payasi,27,2,5.212215
 kassapa,27,2,5.212215
 company,27,16,3.132773
 topics,27,14,3.266305
@@ -2565,7 +2570,6 @@ origin,27,19,2.960923
 network,27,11,3.507467
 instinct,27,15,3.197312
 scattered,27,9,3.708137
-theravāda,27,10,3.602777
 understands,27,13,3.340412
 treasure,27,11,3.507467
 bodhisatta,27,4,4.519067
@@ -2591,7 +2595,6 @@ moon,26,17,3.072149
 suppose,26,18,3.014990
 horrible,26,18,3.014990
 hemp,26,1,5.905362
-nikaya,26,19,2.960923
 scholar,26,18,3.014990
 dinner,26,21,2.860839
 gap,26,17,3.072149
@@ -2629,7 +2632,6 @@ torpor,26,11,3.507467
 habitual,26,18,3.014990
 virtues,26,7,3.959452
 unpleasantness,26,19,2.960923
-samsara,26,16,3.132773
 fly,26,19,2.960923
 stages,26,13,3.340412
 illness,26,18,3.014990
@@ -2637,6 +2639,7 @@ tastes,26,14,3.266305
 pretending,26,16,3.132773
 foreground,26,13,3.340412
 insubstantial,26,11,3.507467
+ananda,26,9,3.708137
 cow,26,7,3.959452
 stimulus,26,6,4.113602
 rules,25,16,3.132773
@@ -2655,6 +2658,7 @@ career,25,20,2.909630
 impossible,25,17,3.072149
 shifted,25,23,2.769868
 proliferation,25,12,3.420455
+saddha,25,9,3.708137
 x,25,12,3.420455
 continuously,25,17,3.072149
 walks,25,18,3.014990
@@ -2695,7 +2699,6 @@ awkward,25,17,3.072149
 divided,25,15,3.197312
 divine,25,15,3.197312
 squares,25,5,4.295924
-saṅgha,25,9,3.708137
 interacting,24,23,2.769868
 holy,24,13,3.340412
 affected,24,18,3.014990
@@ -2706,7 +2709,6 @@ dealing,24,19,2.960923
 broader,24,19,2.960923
 stressed,24,14,3.266305
 factor,24,19,2.960923
-payasi,24,1,5.905362
 kingdom,24,11,3.507467
 south,24,18,3.014990
 gate,24,10,3.602777
@@ -2720,7 +2722,6 @@ loosen,24,20,2.909630
 broke,24,15,3.197312
 shut,24,17,3.072149
 muscle,24,18,3.014990
-saddhā,24,8,3.825920
 circling,24,5,4.295924
 atmosphere,24,18,3.014990
 laser,24,18,3.014990
@@ -2774,7 +2775,6 @@ distinct,24,20,2.909630
 finds,24,17,3.072149
 jigsaw,24,1,5.905362
 sujato,24,6,4.113602
-muditā,24,4,4.519067
 island,24,8,3.825920
 sequence,24,11,3.507467
 laypeople,24,10,3.602777
@@ -2815,7 +2815,6 @@ tough,23,15,3.197312
 aim,23,16,3.132773
 harmonious,23,19,2.960923
 standard,23,20,2.909630
-theravada,23,14,3.266305
 indian,23,14,3.266305
 builds,23,19,2.960923
 inspirations,23,8,3.825920
@@ -2844,7 +2843,6 @@ directing,23,14,3.266305
 grabbing,23,14,3.266305
 sink,23,18,3.014990
 speed,23,19,2.960923
-anattā,23,8,3.825920
 hiking,23,14,3.266305
 nicely,23,15,3.197312
 passes,23,15,3.197312
@@ -2861,6 +2859,7 @@ flavors,23,18,3.014990
 lucid,23,6,4.113602
 overview,23,15,3.197312
 humor,23,7,3.959452
+anukampa,23,10,3.602777
 naive,23,14,3.266305
 confident,23,16,3.132773
 smells,23,13,3.340412
@@ -2872,6 +2871,7 @@ strangers,22,20,2.909630
 addressed,22,19,2.960923
 kings,22,10,3.602777
 expressing,22,18,3.014990
+paramis,22,15,3.197312
 overwhelming,22,16,3.132773
 fits,22,18,3.014990
 melt,22,18,3.014990
@@ -2962,6 +2962,7 @@ extent,21,20,2.909630
 fills,21,19,2.960923
 criteria,21,5,4.295924
 register,21,16,3.132773
+piti,21,10,3.602777
 consequence,21,16,3.132773
 motivations,21,16,3.132773
 chose,21,19,2.960923
@@ -2997,7 +2998,6 @@ cultures,21,18,3.014990
 develops,21,18,3.014990
 abbess,21,5,4.295924
 discussing,21,15,3.197312
-sīla,21,9,3.708137
 exciting,21,16,3.132773
 faces,21,17,3.072149
 spiritually,21,13,3.340412
@@ -3022,7 +3022,6 @@ defilements,21,13,3.340412
 strategy,21,15,3.197312
 heart-mind,21,11,3.507467
 bases,21,13,3.340412
-sila,21,10,3.602777
 zone,21,13,3.340412
 grieve,21,14,3.266305
 appearances,21,11,3.507467
@@ -3045,7 +3044,6 @@ business,20,17,3.072149
 black,20,14,3.266305
 currently,20,14,3.266305
 stance,20,16,3.132773
-pīti,20,9,3.708137
 irc,20,14,3.266305
 promise,20,12,3.420455
 replied,20,13,3.340412
@@ -3128,13 +3126,11 @@ prioritize,20,9,3.708137
 communicate,20,12,3.420455
 dig,20,8,3.825920
 simultaneously,20,8,3.825920
-sariputta,20,3,4.806750
-anukampā,20,8,3.825920
 tangle,20,7,3.959452
 deliberateness,20,5,4.295924
 bucket,20,8,3.825920
 truthfulness,20,8,3.825920
-upāli,20,2,5.212215
+upali,20,2,5.212215
 attraction,20,2,5.212215
 bhutan,20,1,5.905362
 self-love,20,3,4.806750
@@ -3246,7 +3242,6 @@ brightening,19,2,5.212215
 disappearing,19,11,3.507467
 hells,19,2,5.212215
 helplessness,19,11,3.507467
-parami,19,7,3.959452
 paradox,18,12,3.420455
 spaces,18,11,3.507467
 brains,18,11,3.507467
@@ -3265,6 +3260,7 @@ picked,18,15,3.197312
 accompanied,18,15,3.197312
 casually,18,12,3.420455
 establish,18,17,3.072149
+samyutta,18,13,3.340412
 anytime,18,16,3.132773
 flip,18,13,3.340412
 imaginary,18,13,3.340412
@@ -3293,13 +3289,13 @@ shadow,18,12,3.420455
 tip,18,14,3.266305
 substitute,18,15,3.197312
 american,18,14,3.266305
+mahayana,18,12,3.420455
 ripple,18,13,3.340412
 simplifying,18,12,3.420455
 radio,18,9,3.708137
 produces,18,11,3.507467
 corners,18,17,3.072149
 lovingly,18,12,3.420455
-karuna,18,7,3.959452
 releases,18,13,3.340412
 party,18,12,3.420455
 uncomfortableness,18,10,3.602777
@@ -3332,13 +3328,11 @@ minister,18,6,4.113602
 chain,18,4,4.519067
 sucitto,18,11,3.507467
 uplifted,18,6,4.113602
-dāna,18,6,4.113602
 disappointment,18,14,3.266305
 ram,18,5,4.295924
 swamp,18,3,4.806750
 laughing,18,7,3.959452
 victory,18,5,4.295924
-brahmaviharas,18,6,4.113602
 nearly,17,13,3.340412
 authentic,17,12,3.420455
 philosophers,17,7,3.959452
@@ -3450,7 +3444,6 @@ threat,17,13,3.340412
 scope,17,13,3.340412
 continually,17,11,3.507467
 greeks,17,3,4.806750
-jhanas,17,4,4.519067
 victoria,17,2,5.212215
 climate,17,13,3.340412
 energized,17,10,3.602777
@@ -3469,6 +3462,7 @@ mirghafori,17,12,3.420455
 roll,17,13,3.340412
 egoic,17,12,3.420455
 nurture,17,13,3.340412
+upekkha,17,11,3.507467
 sexuality,17,6,4.113602
 complexity,17,12,3.420455
 poignancy,17,12,3.420455
@@ -3538,7 +3532,6 @@ creation,16,13,3.340412
 prepared,16,13,3.340412
 engineer,16,10,3.602777
 meditated,16,15,3.197312
-mahayana,16,11,3.507467
 logical,16,12,3.420455
 disappeared,16,14,3.266305
 navigating,16,11,3.507467
@@ -3566,6 +3559,7 @@ moisture,16,9,3.708137
 teeth,16,9,3.708137
 doorway,16,14,3.266305
 songs,16,9,3.708137
+satipatthana,16,13,3.340412
 shoot,16,5,4.295924
 worst,16,13,3.340412
 p,16,13,3.340412
@@ -3626,6 +3620,7 @@ suitable,15,7,3.959452
 regardless,15,15,3.197312
 judgmental,15,11,3.507467
 odd,15,12,3.420455
+jhanic,15,10,3.602777
 sand,15,11,3.507467
 freeze,15,12,3.420455
 load,15,3,4.806750
@@ -3656,7 +3651,7 @@ collapsing,15,13,3.340412
 request,15,12,3.420455
 dip,15,14,3.266305
 abstraction,15,4,4.519067
-vicāra,15,7,3.959452
+vicara,15,7,3.959452
 enjoyment,15,13,3.340412
 doubts,15,8,3.825920
 determined,15,14,3.266305
@@ -3720,6 +3715,8 @@ forcing,15,13,3.340412
 self-compassion,15,6,4.113602
 axle,15,4,4.519067
 imc's,15,14,3.266305
+anguttara,15,12,3.420455
+kalyana,15,7,3.959452
 softened,15,11,3.507467
 adopt,15,12,3.420455
 blizzard,15,4,4.519067
@@ -3728,7 +3725,6 @@ toes,15,12,3.420455
 collect,15,12,3.420455
 forgetting,15,15,3.197312
 refined,15,12,3.420455
-anatta,15,5,4.295924
 preference,15,12,3.420455
 regret,15,10,3.602777
 interpersonal,15,7,3.959452
@@ -3777,7 +3773,6 @@ disgust,15,5,4.295924
 wondered,15,10,3.602777
 ugly,15,11,3.507467
 perilous,15,3,4.806750
-saṃsāra,15,8,3.825920
 metaphysical,15,13,3.340412
 cute,15,7,3.959452
 canyon,15,5,4.295924
@@ -3918,6 +3913,7 @@ repetitive,14,5,4.295924
 ascetic,14,10,3.602777
 coexist,14,10,3.602777
 linger,14,11,3.507467
+brahmavihara,14,6,4.113602
 architecture,14,9,3.708137
 disembodied,14,6,4.113602
 nope,14,9,3.708137
@@ -3927,7 +3923,6 @@ interconnected,14,6,4.113602
 non-conflict,14,4,4.519067
 non-suffering,14,7,3.959452
 miracles,14,4,4.519067
-ānanda,14,7,3.959452
 tactile,14,7,3.959452
 sticky,14,12,3.420455
 insisting,14,7,3.959452
@@ -3947,7 +3942,6 @@ comparison,14,9,3.708137
 deities,14,4,4.519067
 university,14,9,3.708137
 thirst,14,9,3.708137
-karuṇā,14,5,4.295924
 westerners,14,8,3.825920
 stream-entry,14,5,4.295924
 pursuit,14,7,3.959452
@@ -3965,6 +3959,9 @@ properly,13,10,3.602777
 rituals,13,7,3.959452
 historical,13,11,3.507467
 meetings,13,10,3.602777
+thich,13,12,3.420455
+nhat,13,12,3.420455
+hanh,13,12,3.420455
 mortality,13,8,3.825920
 e,13,7,3.959452
 storms,13,10,3.602777
@@ -3981,7 +3978,6 @@ divide,13,12,3.420455
 ruin,13,5,4.295924
 raining,13,10,3.602777
 steal,13,7,3.959452
-paramis,13,7,3.959452
 foster,13,10,3.602777
 inadequacy,13,10,3.602777
 kittens,13,8,3.825920
@@ -4051,6 +4047,7 @@ entertainment,13,9,3.708137
 chronic,13,11,3.507467
 demand,13,12,3.420455
 gaining,13,11,3.507467
+mitta,13,6,4.113602
 sank,13,7,3.959452
 disturbance,13,6,4.113602
 convince,13,13,3.340412
@@ -4122,6 +4119,7 @@ orbit,13,4,4.519067
 chooses,13,5,4.295924
 foibles,13,5,4.295924
 hopeless,13,6,4.113602
+naga,13,2,5.212215
 colleague,13,9,3.708137
 carries,13,13,3.340412
 devoted,13,10,3.602777
@@ -4165,7 +4163,6 @@ threw,12,8,3.825920
 lamp,12,6,4.113602
 lord,12,9,3.708137
 nap,12,8,3.825920
-samyutta,12,8,3.825920
 explains,12,9,3.708137
 quoting,12,12,3.420455
 insufficient,12,7,3.959452
@@ -4203,6 +4200,7 @@ valley,12,10,3.602777
 fog,12,8,3.825920
 oppression,12,8,3.825920
 agitating,12,10,3.602777
+mara's,12,7,3.959452
 oldest,12,9,3.708137
 la,12,7,3.959452
 thick,12,10,3.602777
@@ -4215,6 +4213,7 @@ expressions,12,11,3.507467
 suggesting,12,12,3.420455
 eggs,12,5,4.295924
 demonstrate,12,8,3.825920
+rahula,12,8,3.825920
 zones,12,11,3.507467
 preventing,12,8,3.825920
 yellow,12,7,3.959452
@@ -4246,7 +4245,6 @@ bubble,12,8,3.825920
 profoundly,12,11,3.507467
 divisive,12,8,3.825920
 diamond,12,5,4.295924
-mitta,12,6,4.113602
 scientists,12,10,3.602777
 movies,12,7,3.959452
 promoting,12,10,3.602777
@@ -4309,16 +4307,16 @@ cry,12,12,3.420455
 life's,12,9,3.708137
 partial,12,7,3.959452
 overcoming,12,9,3.708137
+sanna,12,6,4.113602
 channels,12,9,3.708137
 devadatta,12,5,4.295924
 approached,12,11,3.507467
 elated,12,7,3.959452
-kalyāṇamittatā,12,3,4.806750
+kalyanamittata,12,3,4.806750
 emphasizes,12,12,3.420455
 man's,12,4,4.519067
 prescription,12,2,5.212215
 evaluation,12,7,3.959452
-naga,12,1,5.905362
 cheek,12,4,4.519067
 accomplished,12,8,3.825920
 tires,12,2,5.212215
@@ -4329,10 +4327,9 @@ realizes,12,10,3.602777
 blow,12,10,3.602777
 alarm,12,8,3.825920
 stockade,12,1,5.905362
-māluṅkyāputta,12,1,5.905362
+malunkyaputta,12,1,5.905362
 collins,12,3,4.806750
 jail,12,4,4.519067
-ananda,12,2,5.212215
 device,12,5,4.295924
 gratification,12,5,4.295924
 characters,12,11,3.507467
@@ -4348,7 +4345,6 @@ forced,11,8,3.825920
 flexible,11,10,3.602777
 sex,11,11,3.507467
 persist,11,11,3.507467
-jhanic,11,6,4.113602
 continual,11,10,3.602777
 moment-to-moment,11,7,3.959452
 manufacture,11,10,3.602777
@@ -4455,7 +4451,6 @@ u,11,7,3.959452
 southern,11,7,3.959452
 vacillation,11,5,4.295924
 independence,11,7,3.959452
-satipatthana,11,8,3.825920
 sounded,11,9,3.708137
 refuges,11,10,3.602777
 stuckness,11,4,4.519067
@@ -4546,7 +4541,6 @@ penetrate,11,10,3.602777
 binds,11,6,4.113602
 wars,11,8,3.825920
 beset,11,5,4.295924
-brahmavihāras,11,4,4.519067
 hologram,11,5,4.295924
 station,11,4,4.519067
 supernatural,11,7,3.959452
@@ -4587,12 +4581,13 @@ savor,11,7,3.959452
 malleable,11,8,3.825920
 harmless,11,6,4.113602
 sabbe,11,1,5.905362
-sattā,11,1,5.905362
+satta,11,1,5.905362
 fulfilling,11,6,4.113602
 fisted,11,5,4.295924
 player,11,5,4.295924
 slave,11,4,4.519067
 tassajara,11,6,4.113602
+kalama,11,7,3.959452
 deadening,11,6,4.113602
 interdisciplinary,11,3,4.806750
 exception,11,11,3.507467
@@ -4609,9 +4604,6 @@ defines,10,8,3.825920
 korea,10,4,4.519067
 europe,10,9,3.708137
 bonds,10,7,3.959452
-thich,10,10,3.602777
-nhat,10,10,3.602777
-hanh,10,10,3.602777
 published,10,8,3.825920
 serenity,10,3,4.806750
 teeny,10,8,3.825920
@@ -4635,7 +4627,6 @@ pleased,10,9,3.708137
 accustomed,10,9,3.708137
 projects,10,9,3.708137
 mindset,10,9,3.708137
-vedana,10,4,4.519067
 badly,10,6,4.113602
 stole,10,3,4.806750
 guides,10,10,3.602777
@@ -4709,7 +4700,6 @@ expansiveness,10,7,3.959452
 titled,10,10,3.602777
 resides,10,8,3.825920
 prior,10,9,3.708137
-rāhula,10,6,4.113602
 progressively,10,5,4.295924
 paraphrasing,10,4,4.519067
 afflictive,10,8,3.825920
@@ -4813,7 +4803,7 @@ eight-fold,10,8,3.825920
 amongst,10,8,3.825920
 passages,10,5,4.295924
 guidelines,10,5,4.295924
-dana,10,5,4.295924
+panna,10,7,3.959452
 cover,10,9,3.708137
 skeptical,10,6,4.113602
 freshness,10,7,3.959452
@@ -4827,7 +4817,6 @@ answering,10,8,3.825920
 positions,10,9,3.708137
 rut,10,3,4.806750
 dreaming,10,6,4.113602
-vipassana,10,7,3.959452
 affective,10,9,3.708137
 fertile,10,6,4.113602
 manifestations,10,6,4.113602
@@ -4849,7 +4838,6 @@ cheeks,10,10,3.602777
 acquired,10,7,3.959452
 imperfection,10,8,3.825920
 teacher's,10,8,3.825920
-brahmavihara,10,4,4.519067
 strings,10,7,3.959452
 crowd,10,7,3.959452
 eco-chaplaincy,10,7,3.959452
@@ -4865,16 +4853,14 @@ neat,10,7,3.959452
 imply,10,8,3.825920
 contacts,10,9,3.708137
 respecting,10,7,3.959452
-liên,10,1,5.905362
+lien,10,1,5.905362
 beloved,10,7,3.959452
 objectification,10,5,4.295924
 cleared,10,9,3.708137
 attendant,10,6,4.113602
 technical,10,9,3.708137
 recognitions,10,5,4.295924
-saññā,10,6,4.113602
 justify,10,10,3.602777
-upekkhā,10,7,3.959452
 fleeting,10,5,4.295924
 adjective,10,3,4.806750
 matures,10,7,3.959452
@@ -4891,16 +4877,15 @@ served,10,5,4.295924
 unskillfully,10,3,4.806750
 chin,10,9,3.708137
 reward,10,8,3.825920
-sukhī,10,1,5.905362
+sukhi,10,1,5.905362
 hontu,10,1,5.905362
-sammā,10,5,4.295924
+samma,10,5,4.295924
 statements,10,8,3.825920
 comings,10,7,3.959452
 goings,10,7,3.959452
 whispering,10,8,3.825920
 kevatta,10,1,5.905362
 counts,10,6,4.113602
-sāriputta,10,3,4.806750
 tale,10,7,3.959452
 reaches,10,8,3.825920
 gambling,10,5,4.295924
@@ -4941,6 +4926,7 @@ orientations,9,9,3.708137
 reify,9,7,3.959452
 row,9,5,4.295924
 knower,9,6,4.113602
+kumara,9,2,5.212215
 brahmans,9,3,4.806750
 abusive,9,5,4.295924
 declare,9,7,3.959452
@@ -4992,6 +4978,7 @@ aperture,9,7,3.959452
 benefiting,9,5,4.295924
 sleepy,9,6,4.113602
 route,9,8,3.825920
+rama,9,2,5.212215
 faint,9,8,3.825920
 transforms,9,8,3.825920
 spell,9,8,3.825920
@@ -5039,8 +5026,6 @@ preserved,9,8,3.825920
 chicken,9,6,4.113602
 cascade,9,6,4.113602
 grabs,9,6,4.113602
-anguttara,9,8,3.825920
-kalyāṇa,9,4,4.519067
 divisiveness,9,7,3.959452
 preferred,9,9,3.708137
 error,9,3,4.806750
@@ -5059,7 +5044,6 @@ pebble,9,7,3.959452
 ripples,9,8,3.825920
 okayness,9,6,4.113602
 barely,9,8,3.825920
-pāramīs,9,8,3.825920
 scenario,9,8,3.825920
 numbing,9,4,4.519067
 consistent,9,7,3.959452
@@ -5157,11 +5141,11 @@ positioning,9,6,4.113602
 70s,9,7,3.959452
 pastoral,9,4,4.519067
 latin,9,9,3.708137
+apannaka,9,2,5.212215
 conflicts,9,6,4.113602
 honeyball,9,3,4.806750
 argument,9,8,3.825920
 caste,9,2,5.212215
-māra's,9,4,4.519067
 quarrels,9,3,4.806750
 barriers,9,8,3.825920
 jewel,9,6,4.113602
@@ -5199,7 +5183,6 @@ net,9,4,4.519067
 climb,9,6,4.113602
 reasoning,9,5,4.295924
 dime,9,5,4.295924
-pāramī,9,6,4.113602
 kodo,9,1,5.905362
 conlin,9,1,5.905362
 inclinations,9,6,4.113602
@@ -5222,6 +5205,7 @@ vepacitti,9,1,5.905362
 non-anger,9,3,4.806750
 sarva,9,1,5.905362
 galle,9,1,5.905362
+stupa,9,1,5.905362
 medhanandi,9,1,5.905362
 fictitious,9,1,5.905362
 profession,8,5,4.295924
@@ -5242,7 +5226,6 @@ lend,8,8,3.825920
 parcel,8,8,3.825920
 rapids,8,4,4.519067
 venable,8,1,5.905362
-kumara,8,1,5.905362
 ascetics,8,5,4.295924
 committing,8,5,4.295924
 blew,8,4,4.519067
@@ -5313,7 +5296,6 @@ unify,8,6,4.113602
 self-centered,8,5,4.295924
 nesting,8,4,4.519067
 interference,8,7,3.959452
-rama,8,1,5.905362
 filters,8,6,4.113602
 protests,8,6,4.113602
 confess,8,4,4.519067
@@ -5473,6 +5455,7 @@ immerse,8,4,4.519067
 infused,8,7,3.959452
 idiosyncratic,8,5,4.295924
 owe,8,6,4.113602
+brahma-viharas,8,6,4.113602
 woke,8,8,3.825920
 presume,8,8,3.825920
 meaningless,8,7,3.959452
@@ -5530,7 +5513,6 @@ shinzen,8,7,3.959452
 stresses,8,8,3.825920
 expanded,8,8,3.825920
 suicide,8,1,5.905362
-apaṇṇaka,8,2,5.212215
 ashoka,8,2,5.212215
 excessive,8,7,3.959452
 shaking,8,7,3.959452
@@ -5564,8 +5546,9 @@ fred,8,3,4.806750
 yay,8,4,4.519067
 latch,8,6,4.113602
 physicality,8,6,4.113602
-manasikāra,8,2,5.212215
+manasikara,8,2,5.212215
 dreams,8,6,4.113602
+asavas,8,2,5.212215
 signless,8,1,5.905362
 acquiring,8,7,3.959452
 cream,8,4,4.519067
@@ -5581,7 +5564,6 @@ moha,8,2,5.212215
 burns,8,4,4.519067
 knowledges,8,2,5.212215
 lifts,8,5,4.295924
-kalama,8,5,4.295924
 eons,8,3,4.806750
 depressing,8,6,4.113602
 locking,8,2,5.212215
@@ -5595,7 +5577,7 @@ obligation,8,8,3.825920
 dozen,8,5,4.295924
 welwood,8,2,5.212215
 undergraduate,8,3,4.806750
-sampajañña,8,6,4.113602
+sampajanna,8,6,4.113602
 neil,8,3,4.806750
 cups,8,2,5.212215
 acknowledgment,8,7,3.959452
@@ -5615,7 +5597,7 @@ welling,8,6,4.113602
 mist,8,2,5.212215
 motivates,8,8,3.825920
 marching,8,3,4.806750
-nidānakathā,8,2,5.212215
+nidanakatha,8,2,5.212215
 buddhacarita,8,2,5.212215
 aching,8,7,3.959452
 goose,8,2,5.212215
@@ -5922,7 +5904,6 @@ chopping,7,5,4.295924
 promises,7,6,4.113602
 illusions,7,3,4.806750
 warmhearted,7,5,4.295924
-upekkha,7,4,4.519067
 drawbacks,7,2,5.212215
 disliking,7,7,3.959452
 inertia,7,4,4.519067
@@ -5982,10 +5963,9 @@ warmed,7,7,3.959452
 hits,7,5,4.295924
 chewing,7,7,3.959452
 particularity,7,3,4.806750
-nālandā,7,1,5.905362
+nalanda,7,1,5.905362
 mango,7,3,4.806750
 suffuses,7,1,5.905362
-āsavas,7,1,5.905362
 crows,7,4,4.519067
 unsustainable,7,3,4.806750
 non-duality,7,3,4.806750
@@ -6015,7 +5995,7 @@ connectedness,7,5,4.295924
 gun,7,3,4.806750
 lingering,7,5,4.295924
 messiness,7,2,5.212215
-saṅgaha,7,2,5.212215
+sangaha,7,2,5.212215
 fake,7,5,4.295924
 ping,7,3,4.806750
 frenzy,7,2,5.212215
@@ -6056,7 +6036,7 @@ intoxicated,7,5,4.295924
 reads,7,3,4.806750
 claims,7,4,4.519067
 dramas,7,4,4.519067
-padhāna,7,1,5.905362
+padhana,7,1,5.905362
 quarreling,7,1,5.905362
 misogynistic,7,1,5.905362
 juiciness,7,2,5.212215
@@ -6139,7 +6119,6 @@ rubbing,6,5,4.295924
 anxieties,6,6,4.113602
 landmarks,6,3,4.806750
 sacredness,6,5,4.295924
-nibbana,6,5,4.295924
 reorient,6,5,4.295924
 ticket,6,5,4.295924
 pounding,6,3,4.806750
@@ -6244,7 +6223,6 @@ intrinsically,6,5,4.295924
 chill,6,5,4.295924
 shortly,6,5,4.295924
 soup,6,6,4.113602
-saṃyutta,6,5,4.295924
 attributed,6,5,4.295924
 quote-unquote,6,5,4.295924
 conference,6,5,4.295924
@@ -6400,7 +6378,6 @@ absorptions,6,6,4.113602
 breakfast,6,5,4.295924
 calmed,6,4,4.519067
 controlled,6,5,4.295924
-paññā,6,4,4.519067
 managing,6,6,4.113602
 swinging,6,3,4.806750
 mutually,6,6,4.113602
@@ -6425,7 +6402,7 @@ butterfly,6,3,4.806750
 naturalist,6,4,4.519067
 opposition,6,4,4.519067
 disparate,6,4,4.519067
-h₂o,6,2,5.212215
+h2o,6,2,5.212215
 hydrogen,6,3,4.806750
 divisions,6,4,4.519067
 numb,6,3,4.806750
@@ -6439,7 +6416,6 @@ recording,6,6,4.113602
 dedicating,6,5,4.295924
 bothered,6,3,4.806750
 sermon,6,3,4.806750
-kalyana,6,3,4.806750
 stagnation,6,3,4.806750
 excluded,6,4,4.519067
 whirlpool,6,5,4.295924
@@ -6490,17 +6466,18 @@ confirms,6,2,5.212215
 governing,6,3,4.806750
 instructed,6,6,4.113602
 canonical,6,5,4.295924
+digha,6,5,4.295924
 proceed,6,5,4.295924
 brahmadatta,6,4,4.519067
 untouched,6,5,4.295924
 intimidated,6,5,4.295924
-aṅguttara,6,4,4.519067
 exchanged,6,4,4.519067
 perplexity,6,3,4.806750
 detachment,6,4,4.519067
 compound,6,5,4.295924
 heartwood,6,2,5.212215
 mercy,6,5,4.295924
+kalyanamitta,6,4,4.519067
 assertiveness,6,5,4.295924
 loops,6,6,4.113602
 lash,6,3,4.806750
@@ -6587,6 +6564,7 @@ antenna,6,3,4.806750
 coordination,6,1,5.905362
 traced,6,4,4.519067
 rode,6,2,5.212215
+samatha-vipassana,6,4,4.519067
 chernikoff,6,2,5.212215
 dan,6,4,4.519067
 transference,6,4,4.519067
@@ -6659,7 +6637,6 @@ freud,6,3,4.806750
 stimulus-response,6,2,5.212215
 rude,6,2,5.212215
 sites,6,1,5.905362
-stupa,6,1,5.905362
 pictorial,6,1,5.905362
 blindfolded,6,2,5.212215
 lover,6,1,5.905362
@@ -6889,8 +6866,10 @@ alienation,5,5,4.295924
 proliferate,5,4,4.519067
 unfolded,5,5,4.295924
 imaginative,5,4,4.519067
+pandita,5,4,4.519067
 apparent,5,5,4.295924
 physics,5,5,4.295924
+therigatha,5,4,4.519067
 begging,5,3,4.806750
 urgent,5,4,4.519067
 coworker,5,5,4.295924
@@ -7043,9 +7022,11 @@ boys,5,4,4.519067
 raising,5,5,4.295924
 eastern,5,5,4.295924
 terminology,5,5,4.295924
+koans,5,4,4.519067
 revelations,5,4,4.519067
 risky,5,4,4.519067
 vertical,5,3,4.806750
+koan,5,4,4.519067
 script,5,4,4.519067
 involving,5,5,4.295924
 disliked,5,2,5.212215
@@ -7096,7 +7077,6 @@ consistency,5,4,4.519067
 merge,5,5,4.295924
 hesitating,5,5,4.295924
 extends,5,5,4.295924
-brahma-viharas,5,4,4.519067
 colored,5,5,4.295924
 predictive,5,3,4.806750
 tranquilizing,5,3,4.806750
@@ -7160,7 +7140,7 @@ synonym,5,4,4.519067
 injustices,5,3,4.806750
 lessening,5,5,4.295924
 kiss,5,2,5.212215
-satipaṭṭhāna,5,5,4.295924
+anapanasati,5,5,4.295924
 encompasses,5,5,4.295924
 trivial,5,4,4.519067
 consequential,5,5,4.295924
@@ -7192,10 +7172,11 @@ beasts,5,3,4.806750
 curry,5,2,5.212215
 wares,5,1,5.905362
 pots,5,3,4.806750
+stupas,5,3,4.806750
 folk,5,3,4.806750
 embraced,5,4,4.519067
 enjoys,5,5,4.295924
-mahākaccāna,5,1,5.905362
+mahakaccana,5,1,5.905362
 quarrel,5,2,5.212215
 recluses,5,4,4.519067
 implied,5,5,4.295924
@@ -7206,8 +7187,7 @@ self-interest,5,4,4.519067
 undisturbed,5,4,4.519067
 exalted,5,3,4.806750
 well-developed,5,5,4.295924
-upakāraka,5,2,5.212215
-kalyāṇamitta,5,3,4.806750
+upakaraka,5,2,5.212215
 decreases,5,4,4.519067
 assertive,5,5,4.295924
 jaws,5,5,4.295924
@@ -7438,11 +7418,11 @@ dwells,5,2,5.212215
 requirements,5,2,5.212215
 choppy,5,4,4.519067
 ada,5,3,4.806750
-limón,5,3,4.806750
+limon,5,3,4.806750
 maid,5,2,5.212215
 dancers,5,2,5.212215
 archaeology,5,1,5.905362
-vīṇā,5,1,5.905362
+vina,5,1,5.905362
 exclaimed,5,3,4.806750
 kingdoms,5,1,5.905362
 purposefulness,5,1,5.905362
@@ -7459,7 +7439,7 @@ milarepa,5,1,5.905362
 nonpartisan,5,1,5.905362
 barclay,5,1,5.905362
 zeal,5,1,5.905362
-anāthapiṇḍika,5,1,5.905362
+anathapindika,5,1,5.905362
 launching,5,1,5.905362
 legal,4,4,4.519067
 strictly,4,4,4.519067
@@ -7477,7 +7457,7 @@ christ,4,4,4.519067
 politician,4,3,4.806750
 rites,4,3,4.806750
 nunneries,4,2,5.212215
-kalyāṇa-mitta,4,3,4.806750
+kalyana-mitta,4,3,4.806750
 contradiction,4,3,4.806750
 batteries,4,4,4.519067
 minded,4,2,5.212215
@@ -7575,7 +7555,7 @@ breadth,4,4,4.519067
 austerity,4,3,4.806750
 nutrition,4,2,5.212215
 arisings,4,4,4.519067
-passanā,4,4,4.519067
+passana,4,4,4.519067
 emphatic,4,4,4.519067
 contributions,4,4,4.519067
 rewards,4,4,4.519067
@@ -7699,7 +7679,6 @@ hellos,4,3,4.806750
 mat,4,4,4.519067
 exercises,4,4,4.519067
 prime,4,4,4.519067
-pandita,4,3,4.806750
 nails,4,4,4.519067
 likens,4,4,4.519067
 awoke,4,2,5.212215
@@ -7884,14 +7863,12 @@ cruise,4,3,4.806750
 intervene,4,4,4.519067
 debris,4,4,4.519067
 wellness,4,3,4.806750
-koans,4,3,4.806750
 ruts,4,1,5.905362
 advaita,4,2,5.212215
 vedanta,4,2,5.212215
 deconstructing,4,4,4.519067
 earthquake,4,4,4.519067
 supermarket,4,4,4.519067
-koan,4,3,4.806750
 psychotherapeutic,4,3,4.806750
 induce,4,3,4.806750
 acclimatize,4,4,4.519067
@@ -7974,7 +7951,7 @@ hating,4,4,4.519067
 coping,4,2,5.212215
 metaphysics,4,3,4.806750
 flaws,4,3,4.806750
-sakkāya-diṭṭhi,4,4,4.519067
+sakkaya-ditthi,4,4,4.519067
 well-rooted,4,3,4.806750
 alphabetical,4,4,4.519067
 hometown,4,4,4.519067
@@ -7989,7 +7966,6 @@ bounds,4,4,4.519067
 dogmatism,4,2,5.212215
 fundamentalism,4,2,5.212215
 warm-hearted,4,4,4.519067
-jhānic,4,4,4.519067
 leonard,4,4,4.519067
 soaked,4,2,5.212215
 witnessed,4,4,4.519067
@@ -8041,7 +8017,6 @@ strategize,4,1,5.905362
 breakthrough,4,4,4.519067
 manufactured,4,4,4.519067
 cats,4,4,4.519067
-brahmavihāra,4,2,5.212215
 alleviated,4,4,4.519067
 pity,4,4,4.519067
 relieved,4,4,4.519067
@@ -8073,11 +8048,9 @@ adopting,4,2,5.212215
 unfailing,4,1,5.905362
 conveyed,4,4,4.519067
 dish,4,4,4.519067
-dīgha,4,4,4.519067
 elaboration,4,4,4.519067
 eaten,4,3,4.806750
 departed,4,4,4.519067
-stupas,4,3,4.806750
 sexy,4,2,5.212215
 off-putting,4,3,4.806750
 quantity,4,3,4.806750
@@ -8087,12 +8060,12 @@ day's,4,3,4.806750
 proclaim,4,1,5.905362
 weapon,4,4,4.519067
 dispute,4,3,4.806750
-taṇhā,4,3,4.806750
+tanha,4,3,4.806750
 tinged,4,2,5.212215
 proliferations,4,2,5.212215
 praising,4,4,4.519067
 formula,4,4,4.519067
-tathāgatas,4,2,5.212215
+tathagatas,4,2,5.212215
 non-identification,4,4,4.519067
 insistent,4,4,4.519067
 deconstruct,4,3,4.806750
@@ -8194,13 +8167,13 @@ midday,4,3,4.806750
 straw,4,3,4.806750
 hillside,4,4,4.519067
 regards,4,3,4.806750
-āsava,4,2,5.212215
+asava,4,2,5.212215
 retinue,4,2,5.212215
 thirty-three,4,2,5.212215
 creator,4,2,5.212215
 archaeological,4,2,5.212215
 sober,4,4,4.519067
-bāhiya,4,2,5.212215
+bahiya,4,2,5.212215
 duality,4,2,5.212215
 misunderstanding,4,4,4.519067
 timing,4,4,4.519067
@@ -8284,6 +8257,7 @@ mind-made,4,2,5.212215
 scratching,4,4,4.519067
 pack,4,3,4.806750
 male,4,3,4.806750
+nipata,4,3,4.806750
 unhindered,4,2,5.212215
 reprove,4,3,4.806750
 hero's,4,3,4.806750
@@ -8313,10 +8287,10 @@ roses,4,3,4.806750
 harden,4,2,5.212215
 twig,4,3,4.806750
 susceptible,4,2,5.212215
-sāraṇīya-dhammas,4,1,5.905362
+saraniya-dhammas,4,1,5.905362
 equality,4,2,5.212215
-atthacariyā,4,2,5.212215
-samānattatā,4,2,5.212215
+atthacariya,4,2,5.212215
+samanattata,4,2,5.212215
 rampage,4,1,5.905362
 warriors,4,4,4.519067
 impervious,4,2,5.212215
@@ -8349,7 +8323,7 @@ recommends,4,2,5.212215
 abhaya,4,1,5.905362
 funeral,4,3,4.806750
 slipped,4,3,4.806750
-hanumān,4,1,5.905362
+hanuman,4,1,5.905362
 reorganizing,4,2,5.212215
 ditch,4,2,5.212215
 tensed,4,3,4.806750
@@ -8360,7 +8334,6 @@ adaptability,4,3,4.806750
 oakes,4,1,5.905362
 buffer,4,3,4.806750
 two-week,4,3,4.806750
-samatha-vipassanā,4,3,4.806750
 additive,4,1,5.905362
 storehouse,4,2,5.212215
 ionic,4,2,5.212215
@@ -8438,6 +8411,7 @@ distinguishes,4,4,4.519067
 particularities,4,4,4.519067
 whisperer,4,2,5.212215
 bite,4,3,4.806750
+cliche,4,2,5.212215
 podolske,4,1,5.905362
 criterion,4,2,5.212215
 bummer,4,2,5.212215
@@ -8526,10 +8500,11 @@ furrowing,4,2,5.212215
 destinations,4,1,5.905362
 pro-attitude,4,1,5.905362
 non-remorse,4,1,5.905362
+pamojja,4,1,5.905362
 biochemist,4,2,5.212215
 allison,4,1,5.905362
 spins,4,2,5.212215
-chöd,4,1,5.905362
+chod,4,1,5.905362
 ginormous,4,2,5.212215
 corporations,4,1,5.905362
 adolescence,4,1,5.905362
@@ -8599,6 +8574,7 @@ uprooted,3,2,5.212215
 showers,3,3,4.806750
 itchy,3,3,4.806750
 distribution,3,2,5.212215
+atman,3,3,4.806750
 rides,3,3,4.806750
 parade,3,3,4.806750
 hindu,3,3,4.806750
@@ -8683,7 +8659,6 @@ freeways,3,2,5.212215
 renewed,3,3,4.806750
 custom,3,3,4.806750
 earth-touching,3,3,4.806750
-mara's,3,3,4.806750
 goddess,3,2,5.212215
 antlers,3,2,5.212215
 intermediate,3,3,4.806750
@@ -8776,6 +8751,7 @@ tortured,3,3,4.806750
 deliverance,3,2,5.212215
 non-violent,3,3,4.806750
 murder,3,3,4.806750
+mala,3,2,5.212215
 thunder,3,3,4.806750
 thoughtless,3,3,4.806750
 chah's,3,3,4.806750
@@ -9018,6 +8994,7 @@ championing,3,3,4.806750
 clear-cut,3,2,5.212215
 abortion,3,2,5.212215
 writings,3,2,5.212215
+atta,3,3,4.806750
 enterprise,3,3,4.806750
 intermingling,3,2,5.212215
 alexander,3,1,5.905362
@@ -9222,13 +9199,12 @@ oral,3,3,4.806750
 resonances,3,3,4.806750
 grudge,3,3,4.806750
 nirvana,3,3,4.806750
-ṭhānissaro,3,3,4.806750
 riff,3,3,4.806750
-chögyam,3,3,4.806750
+chogyam,3,3,4.806750
 grandkids,3,3,4.806750
 pops,3,3,4.806750
 wholly,3,1,5.905362
-ekaggatā,3,2,5.212215
+ekaggata,3,2,5.212215
 feather,3,3,4.806750
 feathers,3,3,4.806750
 unconcerned,3,3,4.806750
@@ -9257,7 +9233,7 @@ exposition,3,3,4.806750
 multiply,3,2,5.212215
 artists,3,3,4.806750
 whomever,3,3,4.806750
-dhātu,3,3,4.806750
+dhatu,3,3,4.806750
 atoms,3,2,5.212215
 awe-inspiring,3,2,5.212215
 lethargy,3,2,5.212215
@@ -9329,9 +9305,6 @@ enmeshed,3,2,5.212215
 masquerade,3,2,5.212215
 intolerance,3,2,5.212215
 blunt,3,3,4.806750
-thích,3,2,5.212215
-nhất,3,2,5.212215
-hạnh,3,2,5.212215
 literary,3,3,4.806750
 illuminated,3,3,4.806750
 congealed,3,3,4.806750
@@ -9360,7 +9333,6 @@ characterization,3,3,4.806750
 unquestionable,3,1,5.905362
 incomprehensible,3,2,5.212215
 cube,3,3,4.806750
-pāyāsi,3,1,5.905362
 wagons,3,1,5.905362
 muddy,3,3,4.806750
 devoured,3,1,5.905362
@@ -9424,7 +9396,7 @@ ruminative,3,1,5.905362
 abridged,3,1,5.905362
 problem-lessness,3,1,5.905362
 errorlessness,3,1,5.905362
-cūḷasuññata,3,1,5.905362
+culasunnata,3,1,5.905362
 transfixed,3,1,5.905362
 benevolent,3,1,5.905362
 snagging,3,2,5.212215
@@ -9439,7 +9411,6 @@ shawl,3,3,4.806750
 towel,3,2,5.212215
 indistinct,3,3,4.806750
 registers,3,2,5.212215
-anukampa,3,2,5.212215
 beaten,3,2,5.212215
 upheaval,3,3,4.806750
 neighboring,3,3,4.806750
@@ -9605,7 +9576,7 @@ perish,3,1,5.905362
 acquaintance,3,3,4.806750
 truthfully,3,3,4.806750
 rolled,3,3,4.806750
-avijjā,3,2,5.212215
+avijja,3,2,5.212215
 unknowing,3,3,4.806750
 hides,3,1,5.905362
 twists,3,3,4.806750
@@ -9653,6 +9624,7 @@ angles,3,3,4.806750
 crystal,3,3,4.806750
 frames,3,3,4.806750
 transmission,3,3,4.806750
+rupa,3,3,4.806750
 cognized,3,1,5.905362
 tugs,3,2,5.212215
 crowdsourced,3,2,5.212215
@@ -9672,7 +9644,7 @@ daylight,3,3,4.806750
 tandem,3,3,4.806750
 barks,3,1,5.905362
 borrowing,3,3,4.806750
-rāga,3,2,5.212215
+raga,3,2,5.212215
 biofeedback,3,3,4.806750
 s's,3,2,5.212215
 mattress,3,3,4.806750
@@ -9720,8 +9692,8 @@ unblemished,3,2,5.212215
 anticipating,3,3,4.806750
 karaniya,3,1,5.905362
 amaravati,3,2,5.212215
-nipata,3,2,5.212215
 paritta,3,1,5.905362
+mangala,3,2,5.212215
 magically,3,3,4.806750
 incompatible,3,3,4.806750
 affirmed,3,3,4.806750
@@ -9744,15 +9716,15 @@ uncontrollability,3,3,4.806750
 excessively,3,3,4.806750
 indication,3,3,4.806750
 evenly,3,3,4.806750
-nigaṇṭha,3,1,5.905362
-nātaputta,3,1,5.905362
+nigantha,3,1,5.905362
+nataputta,3,1,5.905362
 setup,3,3,4.806750
 penetrates,3,3,4.806750
 tentative,3,3,4.806750
 flicker,3,3,4.806750
 compulsions,3,3,4.806750
 weaker,3,3,4.806750
-陈颖,3,3,4.806750
+Chen Ying ,3,3,4.806750
 pervasiveness,3,3,4.806750
 non-grasping,3,2,5.212215
 inflict,3,3,4.806750
@@ -9775,6 +9747,7 @@ endearment,3,2,5.212215
 non-referentiality,3,1,5.905362
 nephew,3,3,4.806750
 pacing,3,3,4.806750
+mana,3,2,5.212215
 masquerades,3,2,5.212215
 compromised,3,3,4.806750
 primitive,3,3,4.806750
@@ -9784,7 +9757,6 @@ abyss,3,2,5.212215
 currency,3,2,5.212215
 wrongly,3,2,5.212215
 willpower,3,3,4.806750
-panna,3,2,5.212215
 interests,3,3,4.806750
 normalized,3,2,5.212215
 peeling,3,2,5.212215
@@ -9835,7 +9807,6 @@ aggravate,3,1,5.905362
 fortress,3,2,5.212215
 mannequin,3,1,5.905362
 recipe,3,3,4.806750
-kālāma,3,2,5.212215
 khon,3,1,5.905362
 indifferent,3,3,4.806750
 precarious,3,2,5.212215
@@ -9875,10 +9846,10 @@ never-ending,3,3,4.806750
 non-hatred,3,3,4.806750
 empowering,3,3,4.806750
 abandonment,3,3,4.806750
-kaṭṭhahāri,3,2,5.212215
+katthahari,3,2,5.212215
 linguistically,3,3,4.806750
-vasabhakhattiyā,3,1,5.905362
-nāgamuṇḍā,3,1,5.905362
+vasabhakhattiya,3,1,5.905362
+nagamunda,3,1,5.905362
 gardens,3,2,5.212215
 woman's,3,2,5.212215
 allegory,3,2,5.212215
@@ -9946,7 +9917,6 @@ aliens,3,1,5.905362
 dn,3,1,5.905362
 sn,3,1,5.905362
 conflict-free,3,1,5.905362
-anapanasati,3,3,4.806750
 unifies,3,3,4.806750
 overcomes,3,3,4.806750
 stimulation,3,3,4.806750
@@ -9972,6 +9942,7 @@ legends,3,3,4.806750
 harnessed,3,3,4.806750
 jerk,3,2,5.212215
 wonderfulness,3,3,4.806750
+maha,3,3,4.806750
 symphony,3,1,5.905362
 swamps,3,1,5.905362
 tissa,3,1,5.905362
@@ -9984,7 +9955,7 @@ restart,3,3,4.806750
 heartbreaking,3,3,4.806750
 portal,3,3,4.806750
 uncle,3,2,5.212215
-padāna,3,1,5.905362
+padana,3,1,5.905362
 taints,3,2,5.212215
 vessantara,3,1,5.905362
 omniscience,3,2,5.212215
@@ -9997,7 +9968,6 @@ torments,3,2,5.212215
 exile,3,2,5.212215
 varied,3,3,4.806750
 spontaneity,3,1,5.905362
-cliche,3,1,5.905362
 startling,3,3,4.806750
 performative,3,1,5.905362
 bedroom,3,2,5.212215
@@ -10084,7 +10054,6 @@ iniquity,3,1,5.905362
 penny,3,1,5.905362
 suspected,3,1,5.905362
 suspicions,3,1,5.905362
-stūpa,3,1,5.905362
 priest's,3,1,5.905362
 brahman's,3,1,5.905362
 ordeal,3,1,5.905362
@@ -10115,7 +10084,7 @@ shasta,3,1,5.905362
 ford,3,1,5.905362
 bulls,3,1,5.905362
 calf,3,1,5.905362
-darśana,3,1,5.905362
+darsana,3,1,5.905362
 seon,3,1,5.905362
 buddhahood,3,1,5.905362
 enact,3,3,4.806750
@@ -10137,9 +10106,9 @@ div,3,1,5.905362
 nimitta,3,1,5.905362
 enlivened,3,2,5.212215
 legible,3,2,5.212215
-therigatha,3,2,5.212215
 vasetthi,3,1,5.905362
 plurality,3,2,5.212215
+yama,3,1,5.905362
 tusita,3,1,5.905362
 suffusion,3,2,5.212215
 impartially,3,3,4.806750
@@ -10194,7 +10163,7 @@ shop's,3,1,5.905362
 gingerbread,3,1,5.905362
 not-so-wholesome,3,1,5.905362
 hurdle,3,1,5.905362
-piyavājā,3,1,5.905362
+piyavaja,3,1,5.905362
 sustains,3,3,4.806750
 encapsulations,3,1,5.905362
 factory,3,1,5.905362
@@ -10550,8 +10519,7 @@ elemental,2,2,5.212215
 selflessness,2,2,5.212215
 lifeless,2,2,5.212215
 mudra,2,2,5.212215
-paṭācārā,2,2,5.212215
-therīgāthā,2,2,5.212215
+patacara,2,2,5.212215
 pours,2,2,5.212215
 poured,2,2,5.212215
 flowed,2,2,5.212215
@@ -10649,6 +10617,8 @@ commandment,2,2,5.212215
 carelessness,2,1,5.905362
 intoxicant,2,2,5.212215
 enhanced,2,2,5.212215
+atthakavagga,2,2,5.212215
+kama,2,2,5.212215
 bailing,2,1,5.905362
 not-wanting,2,1,5.905362
 self-focused,2,2,5.212215
@@ -10705,6 +10675,7 @@ vocation,2,2,5.212215
 anonymously,2,2,5.212215
 longtime,2,2,5.212215
 dispense,2,1,5.905362
+dogen,2,2,5.212215
 negation,2,2,5.212215
 de-emphasize,2,2,5.212215
 concretize,2,2,5.212215
@@ -10845,7 +10816,7 @@ passionately,2,2,5.212215
 enabling,2,2,5.212215
 uninterested,2,2,5.212215
 diogenes,2,1,5.905362
-laërtius,2,1,5.905362
+laertius,2,1,5.905362
 3rd,2,2,5.212215
 tragedian,2,1,5.905362
 fleshly,2,1,5.905362
@@ -10867,6 +10838,7 @@ worded,2,2,5.212215
 outrageous,2,2,5.212215
 recoiling,2,2,5.212215
 over-striving,2,2,5.212215
+silananda,2,2,5.212215
 officer,2,2,5.212215
 necessities,2,2,5.212215
 luxuries,2,2,5.212215
@@ -10912,6 +10884,7 @@ declaration,2,2,5.212215
 beneficent,2,2,5.212215
 prompted,2,2,5.212215
 stalking,2,2,5.212215
+kensho,2,2,5.212215
 overturns,2,1,5.905362
 wagon,2,2,5.212215
 sutra,2,2,5.212215
@@ -10989,6 +10962,7 @@ children's,2,2,5.212215
 baited,2,2,5.212215
 conceivable,2,2,5.212215
 steadfast,2,2,5.212215
+upaya,2,2,5.212215
 sleeper,2,1,5.905362
 suggestible,2,1,5.905362
 morally,2,2,5.212215
@@ -11037,7 +11011,7 @@ staggering,2,2,5.212215
 peering,2,2,5.212215
 locked-in,2,2,5.212215
 proffered,2,2,5.212215
-sīla-paramasa,2,1,5.905362
+sila-paramasa,2,1,5.905362
 sailor,2,2,5.212215
 17th,2,2,5.212215
 anyways,2,2,5.212215
@@ -11082,7 +11056,7 @@ reiterate,2,2,5.212215
 enchanting,2,2,5.212215
 melancholy,2,2,5.212215
 forged,2,2,5.212215
-hägglund,2,2,5.212215
+hagglund,2,2,5.212215
 presupposes,2,2,5.212215
 intelligible,2,2,5.212215
 poignency,2,2,5.212215
@@ -11110,7 +11084,7 @@ joyous,2,2,5.212215
 molten,2,2,5.212215
 humidity,2,2,5.212215
 potentialities,2,2,5.212215
-upādāna,2,2,5.212215
+upadana,2,2,5.212215
 emit,2,2,5.212215
 fanciful,2,2,5.212215
 shimmering,2,2,5.212215
@@ -11126,13 +11100,14 @@ one-pointedly,2,2,5.212215
 conniving,2,2,5.212215
 irreducible,2,2,5.212215
 pessimist,2,1,5.905362
+moggallana,2,2,5.212215
 de,2,2,5.212215
 explanatory,2,2,5.212215
 carnival,2,2,5.212215
 self-aggrandizing,2,2,5.212215
 ungovernability,2,2,5.212215
 joking,2,2,5.212215
-chödrön,2,2,5.212215
+chodron,2,2,5.212215
 purchases,2,1,5.905362
 punitive,2,1,5.905362
 re-member,2,1,5.905362
@@ -11202,7 +11177,7 @@ prolific,2,2,5.212215
 tops,2,2,5.212215
 complicating,2,2,5.212215
 operation,2,2,5.212215
-nāma-rūpa,2,2,5.212215
+nama-rupa,2,2,5.212215
 reset,2,2,5.212215
 clouded,2,2,5.212215
 lookout,2,2,5.212215
@@ -11234,7 +11209,6 @@ self-help,2,1,5.905362
 bookstore,2,2,5.212215
 reifies,2,2,5.212215
 lumped,2,2,5.212215
-sanna,2,1,5.905362
 veils,2,2,5.212215
 16th,2,2,5.212215
 headphones,2,1,5.905362
@@ -11254,10 +11228,9 @@ thanked,2,2,5.212215
 scraped,2,2,5.212215
 non-anxious,2,2,5.212215
 grandparent,2,2,5.212215
-ānāpānasati,2,2,5.212215
 end-of-the-year,2,2,5.212215
 misery,2,2,5.212215
-paṭiccasamuppāda,2,2,5.212215
+paticcasamuppada,2,2,5.212215
 mingled,2,2,5.212215
 vanishing,2,2,5.212215
 permitted,2,2,5.212215
@@ -11334,10 +11307,10 @@ courteous,2,1,5.905362
 wags,2,2,5.212215
 asserts,2,2,5.212215
 rods,2,2,5.212215
-papañca-saññā-saṅkhā,2,1,5.905362
-mahākaccāna's,2,1,5.905362
+papanca-sanna-sankha,2,1,5.905362
+mahakaccana's,2,1,5.905362
 trunk,2,2,5.212215
-tathāgata,2,2,5.212215
+tathagata,2,2,5.212215
 expound,2,2,5.212215
 proliferated,2,2,5.212215
 cognizable,2,2,5.212215
@@ -11351,7 +11324,6 @@ battered,2,2,5.212215
 inextricably,2,2,5.212215
 reverberate,2,2,5.212215
 checks,2,2,5.212215
-digha,2,1,5.905362
 deceiving,2,2,5.212215
 liberation-supporting,2,1,5.905362
 prioritizes,2,2,5.212215
@@ -11434,6 +11406,7 @@ detaching,2,2,5.212215
 kicks,2,2,5.212215
 palette,2,2,5.212215
 successor,2,1,5.905362
+parinibbana,2,2,5.212215
 knee-deep,2,2,5.212215
 expounded,2,2,5.212215
 vibrant,2,2,5.212215
@@ -11573,12 +11546,12 @@ ayoniso,2,1,5.905362
 ft,2,1,5.905362
 universes,2,2,5.212215
 fisherman,2,2,5.212215
-pāvārika's,2,1,5.905362
+pavarika's,2,1,5.905362
 unbeliever,2,1,5.905362
-gandhāran,2,1,5.905362
-maṇikā,2,1,5.905362
+gandharan,2,1,5.905362
+manika,2,1,5.905362
 shaves,2,2,5.212215
-tathāgata's,2,1,5.905362
+tathagata's,2,1,5.905362
 garlands,2,2,5.212215
 sample,2,2,5.212215
 erect,2,2,5.212215
@@ -11596,7 +11569,8 @@ sharpen,2,2,5.212215
 establishments,2,2,5.212215
 drunken,2,2,5.212215
 determining,2,2,5.212215
-viññāṇa,2,2,5.212215
+vinnana,2,2,5.212215
+udana,2,2,5.212215
 paraphrased,2,2,5.212215
 desired,2,2,5.212215
 liquidity,2,2,5.212215
@@ -11672,13 +11646,13 @@ heel,2,2,5.212215
 motifs,2,1,5.905362
 aryan,2,1,5.905362
 construed,2,2,5.212215
-samuddavāṇija-jātaka,2,1,5.905362
+samuddavanija-jataka,2,1,5.905362
 interfered,2,2,5.212215
 league,2,2,5.212215
 coconut,2,2,5.212215
 sturdy,2,1,5.905362
 armed,2,2,5.212215
-jambudīpa,2,1,5.905362
+jambudipa,2,1,5.905362
 defenseless,2,2,5.212215
 isle,2,1,5.905362
 incensed,2,1,5.905362
@@ -11707,7 +11681,7 @@ invariance,2,1,5.905362
 micro,2,2,5.212215
 incorporated,2,2,5.212215
 editions,2,2,5.212215
-cankī,2,2,5.212215
+canki,2,2,5.212215
 epistemological,2,2,5.212215
 efficacy,2,2,5.212215
 kamma,2,1,5.905362
@@ -11718,7 +11692,7 @@ lush,2,2,5.212215
 reprieve,2,2,5.212215
 xy,2,1,5.905362
 niraya,2,1,5.905362
-avīci,2,2,5.212215
+avici,2,2,5.212215
 sustenance,2,2,5.212215
 self-deprecating,2,2,5.212215
 throes,2,2,5.212215
@@ -11737,8 +11711,6 @@ dissipated,2,2,5.212215
 quicksand,2,2,5.212215
 glomming,2,2,5.212215
 wears,2,2,5.212215
-attā,2,2,5.212215
-ātman,2,2,5.212215
 irritate,2,2,5.212215
 ramifications,2,2,5.212215
 ceo,2,2,5.212215
@@ -11775,7 +11747,7 @@ expressly,2,1,5.905362
 vegetarians,2,1,5.905362
 aced,2,1,5.905362
 18th,2,2,5.212215
-saṅkhittena,2,1,5.905362
+sankhittena,2,1,5.905362
 implying,2,2,5.212215
 tailored,2,1,5.905362
 supersaturated,2,1,5.905362
@@ -11783,8 +11755,7 @@ zap,2,1,5.905362
 preparations,2,2,5.212215
 chart,2,2,5.212215
 congratulations,2,2,5.212215
-rūpa,2,2,5.212215
-saṅkhāra,2,2,5.212215
+sankhara,2,2,5.212215
 resolves,2,2,5.212215
 shaft,2,2,5.212215
 fundamentals,2,2,5.212215
@@ -11795,7 +11766,7 @@ constrained,2,2,5.212215
 grind,2,2,5.212215
 anew,2,2,5.212215
 convinces,2,2,5.212215
-kondañña,2,2,5.212215
+kondanna,2,2,5.212215
 expertise,2,2,5.212215
 checkbook,2,2,5.212215
 popped,2,2,5.212215
@@ -11809,7 +11780,7 @@ grr,2,1,5.905362
 favors,2,2,5.212215
 deceitful,2,2,5.212215
 overtaken,2,1,5.905362
-samatha-vipassana,2,1,5.905362
+samadhi-vipassana,2,2,5.212215
 undoing,2,2,5.212215
 leapfrog,2,1,5.905362
 desensitizing,2,2,5.212215
@@ -11909,7 +11880,6 @@ saranam,2,1,5.905362
 gachhami,2,1,5.905362
 encompassed,2,1,5.905362
 berries,2,1,5.905362
-mala,2,1,5.905362
 scheduled,2,2,5.212215
 introverts,2,1,5.905362
 accidental,2,2,5.212215
@@ -11952,7 +11922,7 @@ bridges,2,2,5.212215
 distressful,2,1,5.905362
 unyielding,2,1,5.905362
 hirschfield,2,1,5.905362
-haydarpaşa,2,1,5.905362
+haydarpasa,2,1,5.905362
 figs,2,1,5.905362
 bandaged,2,2,5.212215
 thrilling,2,2,5.212215
@@ -11974,14 +11944,14 @@ surfacing,2,2,5.212215
 blockages,2,2,5.212215
 pettiness,2,1,5.905362
 disperse,2,1,5.905362
+saraniya,2,2,5.212215
 smilingly,2,1,5.905362
 fostering,2,2,5.212215
-vatthūni,2,1,5.905362
+vatthuni,2,1,5.905362
 equals,2,2,5.212215
 encouragingly,2,2,5.212215
 ensures,2,2,5.212215
 exuding,2,2,5.212215
-mana,2,1,5.905362
 steph,2,2,5.212215
 towers,2,1,5.905362
 debased,2,1,5.905362
@@ -12057,6 +12027,7 @@ strokes,2,2,5.212215
 urges,2,2,5.212215
 materialistic,2,1,5.905362
 theistic,2,2,5.212215
+adhitthana,2,2,5.212215
 preferable,2,1,5.905362
 novels,2,2,5.212215
 stables,2,1,5.905362
@@ -12087,7 +12058,7 @@ mommy,2,1,5.905362
 geoff,2,1,5.905362
 becomings,2,1,5.905362
 non-perception,2,2,5.212215
-bơ,2,1,5.905362
+bo,2,1,5.905362
 proactive,2,1,5.905362
 analyzes,2,2,5.212215
 scrolled,2,1,5.905362
@@ -12122,7 +12093,7 @@ mentors,2,2,5.212215
 15-20,2,2,5.212215
 bhagavato,2,2,5.212215
 arahato,2,2,5.212215
-sammāsambuddhassa,2,2,5.212215
+sammasambuddhassa,2,2,5.212215
 sluggishness,2,2,5.212215
 punchline,2,2,5.212215
 lobha,2,1,5.905362
@@ -12130,7 +12101,7 @@ fleshed,2,2,5.212215
 instinctive,2,2,5.212215
 somatically,2,2,5.212215
 patently,2,2,5.212215
-jāṇussoṇi,2,1,5.905362
+janussoni,2,1,5.905362
 hair-raising,2,1,5.905362
 deactivation,2,1,5.905362
 self-protective,2,2,5.212215
@@ -12168,11 +12139,11 @@ bodh,2,2,5.212215
 gaya,2,2,5.212215
 offspring,2,2,5.212215
 degraded,2,1,5.905362
-viḍūḍabha,2,1,5.905362
+vidudabha,2,1,5.905362
 wherefore,2,1,5.905362
 sovereignty,2,2,5.212215
 merrily,2,1,5.905362
-kaṭṭhavāhana,2,1,5.905362
+katthavahana,2,1,5.905362
 collector,2,1,5.905362
 fairy,2,2,5.212215
 romance,2,2,5.212215
@@ -12207,6 +12178,7 @@ literacy,2,1,5.905362
 supervisor,2,1,5.905362
 intersecting,2,1,5.905362
 magnified,2,1,5.905362
+paramitas,2,2,5.212215
 bookends,2,1,5.905362
 incarnations,2,2,5.212215
 uncountable,2,2,5.212215
@@ -12232,7 +12204,6 @@ sprained,2,2,5.212215
 salty,2,2,5.212215
 incompetent,2,1,5.905362
 consists,2,2,5.212215
-mahāyāna,2,2,5.212215
 sync,2,2,5.212215
 detour,2,2,5.212215
 productions,2,2,5.212215
@@ -12241,7 +12212,7 @@ catherine,2,1,5.905362
 5-10,2,2,5.212215
 lou,2,1,5.905362
 weekly,2,2,5.212215
-majjhattatā,2,1,5.905362
+majjhattata,2,1,5.905362
 karissa,2,1,5.905362
 cindy,2,2,5.212215
 refreshment,2,2,5.212215
@@ -12315,7 +12286,6 @@ woo,2,2,5.212215
 usefully,2,2,5.212215
 futon,2,1,5.905362
 monsters,2,2,5.212215
-mahā,2,2,5.212215
 gladdening,2,2,5.212215
 cushions,2,2,5.212215
 denies,2,1,5.905362
@@ -12357,7 +12327,7 @@ archetypes,2,2,5.212215
 establishes,2,2,5.212215
 spilling,2,2,5.212215
 intuit,2,2,5.212215
-anupassanā,2,2,5.212215
+anupassana,2,2,5.212215
 anu,2,2,5.212215
 greenery,2,2,5.212215
 well-practiced,2,2,5.212215
@@ -12463,7 +12433,7 @@ overlooking,2,2,5.212215
 1930s,2,2,5.212215
 catalogs,2,1,5.905362
 tahoe,2,1,5.905362
-dhānañjānī,2,1,5.905362
+dhananjani,2,1,5.905362
 contemplatives,2,2,5.212215
 thermometer,2,2,5.212215
 sleeves,2,2,5.212215
@@ -12531,7 +12501,7 @@ kinsman,2,1,5.905362
 heedless,2,1,5.905362
 denigration,2,1,5.905362
 satanic,2,1,5.905362
-muñja,2,1,5.905362
+munja,2,1,5.905362
 amplifier,2,1,5.905362
 rewind,2,1,5.905362
 mini-arc,2,1,5.905362
@@ -12623,6 +12593,7 @@ confucius,2,1,5.905362
 jade,2,1,5.905362
 sensuous,2,2,5.212215
 weekday,2,2,5.212215
+nama,2,2,5.212215
 ingrained,2,2,5.212215
 potatoes,2,1,5.905362
 mbsr,2,2,5.212215
@@ -12660,16 +12631,17 @@ measureless,2,1,5.905362
 potentize,2,1,5.905362
 partake,2,2,5.212215
 sinhala,2,1,5.905362
-kaṭāhaka,2,1,5.905362
+katahaka,2,1,5.905362
 1880-something,2,1,5.905362
 villain,2,1,5.905362
 punch,2,1,5.905362
 inscription,2,1,5.905362
-brāhmaṇo,2,1,5.905362
-jātakaṃ,2,1,5.905362
+yam,2,1,5.905362
+brahmano,2,1,5.905362
+jatakam,2,1,5.905362
 guardian,2,2,5.212215
 forbore,2,1,5.905362
-dūta,2,1,5.905362
+duta,2,1,5.905362
 infancy,2,1,5.905362
 encapsulating,2,1,5.905362
 mnemonic,2,1,5.905362
@@ -12795,7 +12767,6 @@ laureate,2,1,5.905362
 misperception,2,1,5.905362
 doll,2,1,5.905362
 inputted,2,1,5.905362
-rahula,2,2,5.212215
 verify,2,1,5.905362
 surrendered,2,2,5.212215
 doing-ness,2,1,5.905362
@@ -12849,13 +12820,10 @@ akusala,2,1,5.905362
 correlate,2,1,5.905362
 ordains,2,1,5.905362
 impurity,2,2,5.212215
-pamojja,2,1,5.905362
-yāma,2,1,5.905362
 angelic,2,1,5.905362
 attains,2,1,5.905362
 fingernail,2,1,5.905362
-brahma-vihāras,2,1,5.905362
-jhāna-esque,2,1,5.905362
+jhana-esque,2,1,5.905362
 mind-corrupted,2,1,5.905362
 nakula's,2,1,5.905362
 well-off,2,1,5.905362
@@ -12863,7 +12831,6 @@ ornament,2,1,5.905362
 reappears,2,1,5.905362
 brahma's,2,1,5.905362
 truth-telling,2,2,5.212215
-pāmojja,2,1,5.905362
 uncovering,2,2,5.212215
 clouding,2,2,5.212215
 cherishing,2,1,5.905362
@@ -12887,7 +12854,6 @@ posts,2,2,5.212215
 meat,2,1,5.905362
 performers,2,2,5.212215
 numbered,2,1,5.905362
-maṅgala,2,1,5.905362
 interviews,2,2,5.212215
 relish,2,1,5.905362
 violate,2,1,5.905362
@@ -12912,7 +12878,6 @@ mit,2,1,5.905362
 haunts,2,2,5.212215
 qualitative,2,2,5.212215
 publish,2,2,5.212215
-saṅ,2,1,5.905362
 gaha,2,1,5.905362
 like-hearted,2,2,5.212215
 seawater,2,1,5.905362
@@ -12962,7 +12927,7 @@ german,1,1,5.905362
 schadenfreude,1,1,5.905362
 drunkard's,1,1,5.905362
 mlodinow,1,1,5.905362
-āgamas,1,1,5.905362
+agamas,1,1,5.905362
 presuppositions,1,1,5.905362
 colonial,1,1,5.905362
 confines,1,1,5.905362
@@ -13044,8 +13009,7 @@ beggars,1,1,5.905362
 unappetizing,1,1,5.905362
 gavampati,1,1,5.905362
 grudgingly,1,1,5.905362
-kaccāna,1,1,5.905362
-atman,1,1,5.905362
+kaccana,1,1,5.905362
 misbehaving,1,1,5.905362
 sells,1,1,5.905362
 coca-cola,1,1,5.905362
@@ -13090,7 +13054,7 @@ feckless,1,1,5.905362
 spiderweb,1,1,5.905362
 roaring,1,1,5.905362
 spiderwebs,1,1,5.905362
-non-mettā,1,1,5.905362
+non-metta,1,1,5.905362
 squeaky,1,1,5.905362
 robots,1,1,5.905362
 airlines,1,1,5.905362
@@ -13220,7 +13184,6 @@ tempter,1,1,5.905362
 parental,1,1,5.905362
 testings,1,1,5.905362
 survives,1,1,5.905362
-jataka,1,1,5.905362
 entourage,1,1,5.905362
 logs,1,1,5.905362
 stab,1,1,5.905362
@@ -13375,7 +13338,7 @@ cavalry,1,1,5.905362
 immoral,1,1,5.905362
 tame,1,1,5.905362
 retribution,1,1,5.905362
-sāvatthī,1,1,5.905362
+savatthi,1,1,5.905362
 clod,1,1,5.905362
 predator,1,1,5.905362
 state's,1,1,5.905362
@@ -13387,7 +13350,6 @@ birder,1,1,5.905362
 falcon's,1,1,5.905362
 falconry,1,1,5.905362
 perches,1,1,5.905362
-mālā,1,1,5.905362
 zen-style,1,1,5.905362
 sunshiny,1,1,5.905362
 south-facing,1,1,5.905362
@@ -13484,7 +13446,7 @@ pre-brahmanical,1,1,5.905362
 brahmanas,1,1,5.905362
 interoception,1,1,5.905362
 decentering,1,1,5.905362
-kāya,1,1,5.905362
+kaya,1,1,5.905362
 mythopoetic,1,1,5.905362
 assailed,1,1,5.905362
 skeletons,1,1,5.905362
@@ -13548,7 +13510,6 @@ dawdling,1,1,5.905362
 ostriched,1,1,5.905362
 off-balance,1,1,5.905362
 probing,1,1,5.905362
-saddha,1,1,5.905362
 deluge,1,1,5.905362
 patterned,1,1,5.905362
 unchanged,1,1,5.905362
@@ -13619,8 +13580,6 @@ non-heedlessness,1,1,5.905362
 impaired,1,1,5.905362
 inebriated,1,1,5.905362
 enhancement,1,1,5.905362
-aṭṭhakavagga,1,1,5.905362
-kama,1,1,5.905362
 mortal's,1,1,5.905362
 pained,1,1,5.905362
 sidestepping,1,1,5.905362
@@ -13728,7 +13687,6 @@ segue,1,1,5.905362
 karmapa,1,1,5.905362
 self-knowing,1,1,5.905362
 disclaimer,1,1,5.905362
-dogen,1,1,5.905362
 madhyamaka,1,1,5.905362
 intricate,1,1,5.905362
 inter-relational,1,1,5.905362
@@ -13838,7 +13796,7 @@ outlines,1,1,5.905362
 reapply,1,1,5.905362
 predominates,1,1,5.905362
 gophers,1,1,5.905362
-upacāra,1,1,5.905362
+upacara,1,1,5.905362
 cara,1,1,5.905362
 envelops,1,1,5.905362
 particles,1,1,5.905362
@@ -13921,13 +13879,11 @@ theologians,1,1,5.905362
 legalism,1,1,5.905362
 beholden,1,1,5.905362
 over-negated,1,1,5.905362
-atta,1,1,5.905362
 muddied,1,1,5.905362
 victorian-type,1,1,5.905362
 hallmarks,1,1,5.905362
 mel,1,1,5.905362
 weitsman,1,1,5.905362
-pañña,1,1,5.905362
 drinker,1,1,5.905362
 sona's,1,1,5.905362
 herodotus,1,1,5.905362
@@ -14022,7 +13978,6 @@ dreamt,1,1,5.905362
 incubates,1,1,5.905362
 panelist,1,1,5.905362
 panelists,1,1,5.905362
-silananda,1,1,5.905362
 military-industrial,1,1,5.905362
 corrupt,1,1,5.905362
 aggadhamma,1,1,5.905362
@@ -14096,7 +14051,6 @@ redeem,1,1,5.905362
 accreted,1,1,5.905362
 habituated,1,1,5.905362
 shunyata,1,1,5.905362
-kensho,1,1,5.905362
 plunge,1,1,5.905362
 document,1,1,5.905362
 sencho,1,1,5.905362
@@ -14245,7 +14199,6 @@ grating,1,1,5.905362
 abated,1,1,5.905362
 meter,1,1,5.905362
 choicelessness,1,1,5.905362
-piti,1,1,5.905362
 p-i-t-i,1,1,5.905362
 sidewalks,1,1,5.905362
 deaden,1,1,5.905362
@@ -14262,9 +14215,7 @@ reconfiguration,1,1,5.905362
 egregious,1,1,5.905362
 incoherence,1,1,5.905362
 sampled,1,1,5.905362
-brahma-vihārās,1,1,5.905362
 constellations,1,1,5.905362
-upāya,1,1,5.905362
 assimilating,1,1,5.905362
 dumb,1,1,5.905362
 recklessly,1,1,5.905362
@@ -14361,7 +14312,7 @@ non-settledness,1,1,5.905362
 rivulet,1,1,5.905362
 deserts,1,1,5.905362
 hydrodynamics,1,1,5.905362
-nīvaraṇa,1,1,5.905362
+nivarana,1,1,5.905362
 objectives,1,1,5.905362
 blankets,1,1,5.905362
 refrigerators,1,1,5.905362
@@ -14449,7 +14400,7 @@ quantumly,1,1,5.905362
 byproducts,1,1,5.905362
 combines,1,1,5.905362
 ekka,1,1,5.905362
-gatā,1,1,5.905362
+gata,1,1,5.905362
 gulps,1,1,5.905362
 t-shirt,1,1,5.905362
 fastidious,1,1,5.905362
@@ -14460,7 +14411,6 @@ spy,1,1,5.905362
 crook,1,1,5.905362
 agony,1,1,5.905362
 inevitability,1,1,5.905362
-moggallana,1,1,5.905362
 controversial,1,1,5.905362
 primatologist,1,1,5.905362
 frans,1,1,5.905362
@@ -14536,7 +14486,6 @@ stripes,1,1,5.905362
 beak,1,1,5.905362
 puzzle-doing,1,1,5.905362
 300-piece,1,1,5.905362
-papanca,1,1,5.905362
 grouping,1,1,5.905362
 right-and-wrong,1,1,5.905362
 escher,1,1,5.905362
@@ -14580,7 +14529,7 @@ conceiver,1,1,5.905362
 convoluted,1,1,5.905362
 obstructed,1,1,5.905362
 name-and-form,1,1,5.905362
-ānanda's,1,1,5.905362
+ananda's,1,1,5.905362
 tropical,1,1,5.905362
 wafting,1,1,5.905362
 brochure,1,1,5.905362
@@ -14623,7 +14572,7 @@ globed,1,1,5.905362
 creeks,1,1,5.905362
 sunbathe,1,1,5.905362
 universalization,1,1,5.905362
-vipassanā-jhāna,1,1,5.905362
+vipassana-jhana,1,1,5.905362
 sya,1,1,5.905362
 sums,1,1,5.905362
 denseness,1,1,5.905362
@@ -14688,7 +14637,7 @@ advice-giving,1,1,5.905362
 intolerable,1,1,5.905362
 everythingness,1,1,5.905362
 phenomenological,1,1,5.905362
-vitakka-vicāra,1,1,5.905362
+vitakka-vicara,1,1,5.905362
 exploding,1,1,5.905362
 pervasively,1,1,5.905362
 airy,1,1,5.905362
@@ -14749,7 +14698,6 @@ distributing,1,1,5.905362
 844-hope-sf,1,1,5.905362
 844-467-3734,1,1,5.905362
 contingency,1,1,5.905362
-upaya,1,1,5.905362
 bilingual,1,1,5.905362
 sro,1,1,5.905362
 ushers,1,1,5.905362
@@ -14782,7 +14730,6 @@ suspendable,1,1,5.905362
 de-escalated,1,1,5.905362
 lurch,1,1,5.905362
 sauntering,1,1,5.905362
-à,1,1,5.905362
 sainte,1,1,5.905362
 terre,1,1,5.905362
 saunterers,1,1,5.905362
@@ -14810,10 +14757,9 @@ bowl-like,1,1,5.905362
 katagaha,1,1,5.905362
 kata,1,1,5.905362
 kaligaha,1,1,5.905362
-paṇṇaka,1,1,5.905362
-pañhā,1,1,5.905362
+pannaka,1,1,5.905362
+panha,1,1,5.905362
 precedent,1,1,5.905362
-kumāra,1,1,5.905362
 wreathed,1,1,5.905362
 swiftly,1,1,5.905362
 caravan's,1,1,5.905362
@@ -14823,8 +14769,8 @@ underway,1,1,5.905362
 restarted,1,1,5.905362
 merchandise,1,1,5.905362
 astute,1,1,5.905362
-bārāṇasī,1,1,5.905362
-kāsī,1,1,5.905362
+baranasi,1,1,5.905362
+kasi,1,1,5.905362
 reigned,1,1,5.905362
 merchant's,1,1,5.905362
 second-mover,1,1,5.905362
@@ -14834,7 +14780,7 @@ tradesmen,1,1,5.905362
 devadatta's,1,1,5.905362
 teamed,1,1,5.905362
 corruptible,1,1,5.905362
-ajātasattu,1,1,5.905362
+ajatasattu,1,1,5.905362
 nemesis,1,1,5.905362
 originate,1,1,5.905362
 inscriptions,1,1,5.905362
@@ -14868,7 +14814,7 @@ impolite,1,1,5.905362
 teaching's,1,1,5.905362
 khandhas,1,1,5.905362
 proponent,1,1,5.905362
-nānusenti,1,1,5.905362
+nanusenti,1,1,5.905362
 furrows,1,1,5.905362
 brawls,1,1,5.905362
 recrimination,1,1,5.905362
@@ -14878,7 +14824,7 @@ eradicating,1,1,5.905362
 mind-objects,1,1,5.905362
 besetting,1,1,5.905362
 254-255,1,1,5.905362
-nippapañca,1,1,5.905362
+nippapanca,1,1,5.905362
 non-proliferation,1,1,5.905362
 sakka's,1,1,5.905362
 prejudiced,1,1,5.905362
@@ -14892,9 +14838,9 @@ over-elation,1,1,5.905362
 shorten,1,1,5.905362
 elation,1,1,5.905362
 prattle,1,1,5.905362
-tatramajjhattatā,1,1,5.905362
+tatramajjhattata,1,1,5.905362
 majjha,1,1,5.905362
-tā,1,1,5.905362
+ta,1,1,5.905362
 poise,1,1,5.905362
 buffeted,1,1,5.905362
 sensitizing,1,1,5.905362
@@ -14903,8 +14849,7 @@ dues,1,1,5.905362
 vastly,1,1,5.905362
 rooting,1,1,5.905362
 pebbles,1,1,5.905362
-kalyāṇa-mittatā,1,1,5.905362
-mittā,1,1,5.905362
+kalyana-mittata,1,1,5.905362
 good-hearted,1,1,5.905362
 safeguards,1,1,5.905362
 counsels,1,1,5.905362
@@ -14922,7 +14867,7 @@ clinginess,1,1,5.905362
 craving-based,1,1,5.905362
 flatters,1,1,5.905362
 corrects,1,1,5.905362
-cāga,1,1,5.905362
+caga,1,1,5.905362
 overpower,1,1,5.905362
 open-handedness,1,1,5.905362
 open-hearted,1,1,5.905362
@@ -15033,7 +14978,6 @@ self-speech,1,1,5.905362
 owes,1,1,5.905362
 disenfranchised,1,1,5.905362
 submission,1,1,5.905362
-karunā,1,1,5.905362
 care-feeling,1,1,5.905362
 conjoined,1,1,5.905362
 golly,1,1,5.905362
@@ -15048,8 +14992,7 @@ sal,1,1,5.905362
 appointing,1,1,5.905362
 pointedly,1,1,5.905362
 successors,1,1,5.905362
-parinibbāna,1,1,5.905362
-nyānamoli's,1,1,5.905362
+nyanamoli's,1,1,5.905362
 yields,1,1,5.905362
 understatement,1,1,5.905362
 departure,1,1,5.905362
@@ -15099,11 +15042,11 @@ menagerie,1,1,5.905362
 looseness,1,1,5.905362
 kornfield's,1,1,5.905362
 furious,1,1,5.905362
-entrées,1,1,5.905362
+entrees,1,1,5.905362
 retreated,1,1,5.905362
 condemned,1,1,5.905362
 baye,1,1,5.905362
-shōhaku,1,1,5.905362
+shohaku,1,1,5.905362
 okumura,1,1,5.905362
 thrust,1,1,5.905362
 batted,1,1,5.905362
@@ -15134,7 +15077,7 @@ iii,1,1,5.905362
 deck,1,1,5.905362
 titanic,1,1,5.905362
 quakers,1,1,5.905362
-mahācittā,1,1,5.905362
+mahacitta,1,1,5.905362
 pagoda,1,1,5.905362
 intends,1,1,5.905362
 prodigy,1,1,5.905362
@@ -15152,10 +15095,10 @@ self-denial,1,1,5.905362
 fanning,1,1,5.905362
 surfacy,1,1,5.905362
 bathe,1,1,5.905362
-kṣānti,1,1,5.905362
+ksanti,1,1,5.905362
 acrobat,1,1,5.905362
 etymological,1,1,5.905362
-kṣam,1,1,5.905362
+ksam,1,1,5.905362
 feces,1,1,5.905362
 pus,1,1,5.905362
 largess,1,1,5.905362
@@ -15227,7 +15170,7 @@ self-clinging,1,1,5.905362
 positing,1,1,5.905362
 modalities,1,1,5.905362
 governs,1,1,5.905362
-kāra,1,1,5.905362
+kara,1,1,5.905362
 manasi,1,1,5.905362
 aquatic,1,1,5.905362
 stark,1,1,5.905362
@@ -15261,7 +15204,7 @@ tushita,1,1,5.905362
 upstairs,1,1,5.905362
 reappeared,1,1,5.905362
 sailors,1,1,5.905362
-rājagaha,1,1,5.905362
+rajagaha,1,1,5.905362
 principal,1,1,5.905362
 despises,1,1,5.905362
 kamala,1,1,5.905362
@@ -15282,7 +15225,6 @@ iphone,1,1,5.905362
 conflicting,1,1,5.905362
 neurological,1,1,5.905362
 eardrum,1,1,5.905362
-udāna,1,1,5.905362
 digits,1,1,5.905362
 bust,1,1,5.905362
 zen-like,1,1,5.905362
@@ -15401,11 +15343,10 @@ shockingly,1,1,5.905362
 v-e-d-a-n-a,1,1,5.905362
 v's,1,1,5.905362
 w's,1,1,5.905362
-wedanā,1,1,5.905362
+wedana,1,1,5.905362
 co-guiding,1,1,5.905362
 utmost,1,1,5.905362
 inspirationally,1,1,5.905362
-pāḷi,1,1,5.905362
 kites,1,1,5.905362
 kiting,1,1,5.905362
 fancifully,1,1,5.905362
@@ -15432,9 +15373,9 @@ over-prioritizing,1,1,5.905362
 unfragmented,1,1,5.905362
 synthesize,1,1,5.905362
 whololeness,1,1,5.905362
-kaṭṭhahāri-jātaka,1,1,5.905362
+katthahari-jataka,1,1,5.905362
 argued,1,1,5.905362
-indriya-jātaka,1,1,5.905362
+indriya-jataka,1,1,5.905362
 abduction,1,1,5.905362
 containing,1,1,5.905362
 profess,1,1,5.905362
@@ -15452,7 +15393,6 @@ disembarked,1,1,5.905362
 castaway,1,1,5.905362
 glistened,1,1,5.905362
 utterance,1,1,5.905362
-udana,1,1,5.905362
 scouts,1,1,5.905362
 horrified,1,1,5.905362
 pleasantly,1,1,5.905362
@@ -15482,7 +15422,7 @@ carpenter's,1,1,5.905362
 waist-deep,1,1,5.905362
 man-deep,1,1,5.905362
 ensnared,1,1,5.905362
-kokālika,1,1,5.905362
+kokalika,1,1,5.905362
 unrighteous,1,1,5.905362
 traders,1,1,5.905362
 votes,1,1,5.905362
@@ -15490,7 +15430,7 @@ alpha,1,1,5.905362
 asuba,1,1,5.905362
 unmetabolized,1,1,5.905362
 ida,1,1,5.905362
-paccayatā,1,1,5.905362
+paccayata,1,1,5.905362
 this-that,1,1,5.905362
 acknowledgement,1,1,5.905362
 concurrent,1,1,5.905362
@@ -15507,7 +15447,7 @@ tucker,1,1,5.905362
 virginia,1,1,5.905362
 verifying,1,1,5.905362
 gati,1,1,5.905362
-mahādukkhakkhandha,1,1,5.905362
+mahadukkhakkhandha,1,1,5.905362
 charcoal,1,1,5.905362
 cesspit,1,1,5.905362
 scanty,1,1,5.905362
@@ -15580,7 +15520,6 @@ dissipating,1,1,5.905362
 nuisance,1,1,5.905362
 fundamentalists,1,1,5.905362
 birkenstocks,1,1,5.905362
-sīlānanda,1,1,5.905362
 not-soul,1,1,5.905362
 phenomenologist,1,1,5.905362
 brushes,1,1,5.905362
@@ -15638,7 +15577,7 @@ cans,1,1,5.905362
 freaking,1,1,5.905362
 over-exuberance,1,1,5.905362
 martin's,1,1,5.905362
-jīvaka,1,1,5.905362
+jivaka,1,1,5.905362
 squawking,1,1,5.905362
 populace,1,1,5.905362
 vegetarianism,1,1,5.905362
@@ -15649,7 +15588,7 @@ amphibians,1,1,5.905362
 pertain,1,1,5.905362
 advertised,1,1,5.905362
 pericope,1,1,5.905362
-dhammaṁ,1,1,5.905362
+dhammam,1,1,5.905362
 concise,1,1,5.905362
 speculating,1,1,5.905362
 shortened,1,1,5.905362
@@ -15669,7 +15608,7 @@ marches,1,1,5.905362
 teases,1,1,5.905362
 exhortation,1,1,5.905362
 execute,1,1,5.905362
-māluṅkyāputta's,1,1,5.905362
+malunkyaputta's,1,1,5.905362
 muddled,1,1,5.905362
 ruminate,1,1,5.905362
 layperson's,1,1,5.905362
@@ -15732,14 +15671,12 @@ lever,1,1,5.905362
 anticlimactic,1,1,5.905362
 enchanted,1,1,5.905362
 gil-ism,1,1,5.905362
-atthakavagga,1,1,5.905362
 clauses,1,1,5.905362
 impudent,1,1,5.905362
 swollen,1,1,5.905362
 passionless,1,1,5.905362
 me-ing,1,1,5.905362
 semi-adequate,1,1,5.905362
-samadhi-vipassana,1,1,5.905362
 self-transcendence,1,1,5.905362
 unhealed,1,1,5.905362
 enforced,1,1,5.905362
@@ -15786,7 +15723,7 @@ parks,1,1,5.905362
 treading,1,1,5.905362
 retroflection,1,1,5.905362
 conflict-avoidant,1,1,5.905362
-chödrön's,1,1,5.905362
+chodron's,1,1,5.905362
 jeering,1,1,5.905362
 scorned,1,1,5.905362
 despised,1,1,5.905362
@@ -15857,13 +15794,12 @@ well-loved,1,1,5.905362
 slim,1,1,5.905362
 three-month,1,1,5.905362
 apparitions,1,1,5.905362
-mangala,1,1,5.905362
 non-canonical,1,1,5.905362
 straightish,1,1,5.905362
 symmetric,1,1,5.905362
 integrative,1,1,5.905362
 unintegrated,1,1,5.905362
-sammā-sati,1,1,5.905362
+samma-sati,1,1,5.905362
 discount,1,1,5.905362
 participant's,1,1,5.905362
 hamstrings,1,1,5.905362
@@ -15919,7 +15855,7 @@ diagrams,1,1,5.905362
 charts,1,1,5.905362
 declares,1,1,5.905362
 leper,1,1,5.905362
-upāli's,1,1,5.905362
+upali's,1,1,5.905362
 indicative,1,1,5.905362
 encapsulate,1,1,5.905362
 expounds,1,1,5.905362
@@ -15933,8 +15869,7 @@ stainless,1,1,5.905362
 deduction,1,1,5.905362
 reverential,1,1,5.905362
 irrevocably,1,1,5.905362
-moggallāna,1,1,5.905362
-upālis,1,1,5.905362
+upalis,1,1,5.905362
 mahavira,1,1,5.905362
 hilariously,1,1,5.905362
 eulogy,1,1,5.905362
@@ -16044,23 +15979,22 @@ mapping,1,1,5.905362
 implant,1,1,5.905362
 blanking,1,1,5.905362
 succinctly,1,1,5.905362
-sāraṇīya,1,1,5.905362
 ado,1,1,5.905362
 indra's,1,1,5.905362
 heart-expanding,1,1,5.905362
-piyavācā,1,1,5.905362
+piyavaca,1,1,5.905362
 equitable,1,1,5.905362
-kāyakamma,1,1,5.905362
-vacīkamma,1,1,5.905362
+kayakamma,1,1,5.905362
+vacikamma,1,1,5.905362
 manokamma,1,1,5.905362
-sādhāraṇa-bhogitā,1,1,5.905362
+sadharana-bhogita,1,1,5.905362
 diacritics,1,1,5.905362
 non-possessiveness,1,1,5.905362
 non-jealousy,1,1,5.905362
-sīla-sāmaññatā,1,1,5.905362
-diṭṭhi-sāmaññatā,1,1,5.905362
-diṭṭhi,1,1,5.905362
-sāmaññatā,1,1,5.905362
+sila-samannata,1,1,5.905362
+ditthi-samannata,1,1,5.905362
+ditthi,1,1,5.905362
+samannata,1,1,5.905362
 upholds,1,1,5.905362
 til,1,1,5.905362
 small-minded,1,1,5.905362
@@ -16093,7 +16027,7 @@ ill-advised,1,1,5.905362
 baked,1,1,5.905362
 dwarfed,1,1,5.905362
 monk's,1,1,5.905362
-ryōkan's,1,1,5.905362
+ryokan's,1,1,5.905362
 interchangeably,1,1,5.905362
 glancing,1,1,5.905362
 impulsivity,1,1,5.905362
@@ -16121,9 +16055,9 @@ hardwood,1,1,5.905362
 gems,1,1,5.905362
 lamenting,1,1,5.905362
 osho,1,1,5.905362
-miga-saṅgha,1,1,5.905362
-kāka-saṅgha,1,1,5.905362
-deva-saṅgha,1,1,5.905362
+miga-sangha,1,1,5.905362
+kaka-sangha,1,1,5.905362
+deva-sangha,1,1,5.905362
 robed,1,1,5.905362
 donned,1,1,5.905362
 rectangle,1,1,5.905362
@@ -16152,7 +16086,6 @@ flailing,1,1,5.905362
 enobling,1,1,5.905362
 tangibly,1,1,5.905362
 40-plus-year,1,1,5.905362
-parinibbana,1,1,5.905362
 documented,1,1,5.905362
 creed,1,1,5.905362
 articulating,1,1,5.905362
@@ -16313,7 +16246,6 @@ defeatist,1,1,5.905362
 romantics,1,1,5.905362
 urging,1,1,5.905362
 rousing,1,1,5.905362
-adhiṭṭhāna,1,1,5.905362
 forsaking,1,1,5.905362
 forsake,1,1,5.905362
 brainless,1,1,5.905362
@@ -16371,7 +16303,6 @@ policeman,1,1,5.905362
 parked,1,1,5.905362
 marathon,1,1,5.905362
 critiqued,1,1,5.905362
-dōgen,1,1,5.905362
 junctures,1,1,5.905362
 abort,1,1,5.905362
 recriminations,1,1,5.905362
@@ -16380,8 +16311,7 @@ hops,1,1,5.905362
 masked,1,1,5.905362
 chorus,1,1,5.905362
 pantomiming,1,1,5.905362
-rāma,1,1,5.905362
-sītā,1,1,5.905362
+sita,1,1,5.905362
 haranguing,1,1,5.905362
 digression,1,1,5.905362
 youngsters,1,1,5.905362
@@ -16425,7 +16355,7 @@ self-consumed,1,1,5.905362
 opinionatedness,1,1,5.905362
 self-study,1,1,5.905362
 gigantic,1,1,5.905362
-wisława,1,1,5.905362
+wislawa,1,1,5.905362
 szymborska,1,1,5.905362
 prize-winning,1,1,5.905362
 alterations,1,1,5.905362
@@ -16473,7 +16403,7 @@ reorganization,1,1,5.905362
 amputation,1,1,5.905362
 phantom,1,1,5.905362
 quench,1,1,5.905362
-vīrya,1,1,5.905362
+virya,1,1,5.905362
 sourced,1,1,5.905362
 wordlessly,1,1,5.905362
 naivety,1,1,5.905362
@@ -16506,7 +16436,7 @@ teaser,1,1,5.905362
 pomo,1,1,5.905362
 prana,1,1,5.905362
 invokes,1,1,5.905362
-ātāpī,1,1,5.905362
+atapi,1,1,5.905362
 perfected,1,1,5.905362
 x3,1,1,5.905362
 post-european,1,1,5.905362
@@ -16541,11 +16471,11 @@ misinformation,1,1,5.905362
 italian,1,1,5.905362
 heart-to-heart,1,1,5.905362
 privy,1,1,5.905362
-sāsana,1,1,5.905362
+sasana,1,1,5.905362
 remarked,1,1,5.905362
 comrades,1,1,5.905362
 predictor,1,1,5.905362
-mittatā,1,1,5.905362
+mittata,1,1,5.905362
 co-regulation,1,1,5.905362
 regulate,1,1,5.905362
 proximity,1,1,5.905362
@@ -16582,7 +16512,7 @@ composting,1,1,5.905362
 transmutes,1,1,5.905362
 blockers,1,1,5.905362
 shamed,1,1,5.905362
-alagaddūpama,1,1,5.905362
+alagaddupama,1,1,5.905362
 scooper,1,1,5.905362
 scooping,1,1,5.905362
 outrun,1,1,5.905362
@@ -16617,20 +16547,19 @@ transferring,1,1,5.905362
 paternity,1,1,5.905362
 unreasonable,1,1,5.905362
 twelfth,1,1,5.905362
-bhaddasāla,1,1,5.905362
+bhaddasala,1,1,5.905362
 intertextuality,1,1,5.905362
-mahānāma,1,1,5.905362
+mahanama,1,1,5.905362
 sakya,1,1,5.905362
 servile,1,1,5.905362
 rank,1,1,5.905362
-mahānāma's,1,1,5.905362
+mahanama's,1,1,5.905362
 bygone,1,1,5.905362
 gatherer,1,1,5.905362
 sakyans,1,1,5.905362
 slighted,1,1,5.905362
-muṇḍā,1,1,5.905362
+munda,1,1,5.905362
 non-indo-european,1,1,5.905362
-nāga,1,1,5.905362
 pre-vedic,1,1,5.905362
 anthropology,1,1,5.905362
 lower-caste,1,1,5.905362
@@ -16648,7 +16577,7 @@ viceroy,1,1,5.905362
 stick-bearer,1,1,5.905362
 righteously,1,1,5.905362
 fare,1,1,5.905362
-mahāmāyā,1,1,5.905362
+mahamaya,1,1,5.905362
 suddhodana,1,1,5.905362
 disney,1,1,5.905362
 smiting,1,1,5.905362
@@ -16677,7 +16606,7 @@ groomed,1,1,5.905362
 childbirth,1,1,5.905362
 deadheaded,1,1,5.905362
 charioteer,1,1,5.905362
-sādhu,1,1,5.905362
+sadhu,1,1,5.905362
 fomo,1,1,5.905362
 insecurities,1,1,5.905362
 verdicts,1,1,5.905362
@@ -16771,7 +16700,6 @@ chiropractic,1,1,5.905362
 accelerated,1,1,5.905362
 royalty,1,1,5.905362
 forks,1,1,5.905362
-paramitas,1,1,5.905362
 kalu,1,1,5.905362
 bugs,1,1,5.905362
 paramita,1,1,5.905362
@@ -16852,7 +16780,6 @@ self-construct,1,1,5.905362
 editing,1,1,5.905362
 heartfully,1,1,5.905362
 donors,1,1,5.905362
-samādhi-vipassanā,1,1,5.905362
 colorado,1,1,5.905362
 amps,1,1,5.905362
 action-related,1,1,5.905362
@@ -17186,8 +17113,6 @@ saps,1,1,5.905362
 relatable,1,1,5.905362
 derives,1,1,5.905362
 wade,1,1,5.905362
-kōan,1,1,5.905362
-kōans,1,1,5.905362
 compute,1,1,5.905362
 marveling,1,1,5.905362
 five-foot,1,1,5.905362
@@ -17296,7 +17221,7 @@ watery,1,1,5.905362
 overflowed,1,1,5.905362
 scriptural,1,1,5.905362
 underpinnings,1,1,5.905362
-kāyagatāsati,1,1,5.905362
+kayagatasati,1,1,5.905362
 asthma,1,1,5.905362
 orthodoxy,1,1,5.905362
 pretense,1,1,5.905362
@@ -17308,7 +17233,6 @@ sentience,1,1,5.905362
 anna,1,1,5.905362
 karenina,1,1,5.905362
 charted,1,1,5.905362
-asavas,1,1,5.905362
 lerner,1,1,5.905362
 explode,1,1,5.905362
 unemotional,1,1,5.905362
@@ -17511,7 +17435,7 @@ cedary,1,1,5.905362
 icy,1,1,5.905362
 co-joined,1,1,5.905362
 settlement,1,1,5.905362
-jhānic-like,1,1,5.905362
+jhanic-like,1,1,5.905362
 9-to-5,1,1,5.905362
 stumbles,1,1,5.905362
 bald-pated,1,1,5.905362
@@ -17522,8 +17446,7 @@ reasoners,1,1,5.905362
 logicians,1,1,5.905362
 experientialists,1,1,5.905362
 colder,1,1,5.905362
-yathābhūtañāṇadassana,1,1,5.905362
-paṇḍita,1,1,5.905362
+yathabhutananadassana,1,1,5.905362
 well-respected,1,1,5.905362
 controllable,1,1,5.905362
 fluctuations,1,1,5.905362
@@ -17688,13 +17611,12 @@ hyper-alert,1,1,5.905362
 asynchronously,1,1,5.905362
 ride-shares,1,1,5.905362
 gobbledygook,1,1,5.905362
-māra-vijaya,1,1,5.905362
+mara-vijaya,1,1,5.905362
 semester-long,1,1,5.905362
-nerañjarā,1,1,5.905362
+neranjara,1,1,5.905362
 confronts,1,1,5.905362
 ensues,1,1,5.905362
 exemplars,1,1,5.905362
-nipāta,1,1,5.905362
 powerpoint,1,1,5.905362
 factually,1,1,5.905362
 tempt,1,1,5.905362
@@ -17704,7 +17626,7 @@ frighten,1,1,5.905362
 stomp,1,1,5.905362
 annotations,1,1,5.905362
 suta,1,1,5.905362
-nirañjarā,1,1,5.905362
+niranjara,1,1,5.905362
 strenuously,1,1,5.905362
 epithet,1,1,5.905362
 verge,1,1,5.905362
@@ -17735,7 +17657,7 @@ thereupon,1,1,5.905362
 sullen,1,1,5.905362
 sung,1,1,5.905362
 epithets,1,1,5.905362
-pāpima,1,1,5.905362
+papima,1,1,5.905362
 wicked,1,1,5.905362
 shrouds,1,1,5.905362
 goblin,1,1,5.905362
@@ -17743,7 +17665,7 @@ troll,1,1,5.905362
 conquering,1,1,5.905362
 resonant,1,1,5.905362
 disarray,1,1,5.905362
-anā,1,1,5.905362
+ana,1,1,5.905362
 waypoints,1,1,5.905362
 pressured,1,1,5.905362
 detract,1,1,5.905362
@@ -17879,7 +17801,6 @@ nalaka,1,1,5.905362
 vein,1,1,5.905362
 insula,1,1,5.905362
 cingulate,1,1,5.905362
-māna,1,1,5.905362
 udayi,1,1,5.905362
 reflexive,1,1,5.905362
 ego-survival,1,1,5.905362
@@ -18002,7 +17923,6 @@ moans,1,1,5.905362
 cane,1,1,5.905362
 chrysanthemum,1,1,5.905362
 earthbound,1,1,5.905362
-nāma,1,1,5.905362
 courtesies,1,1,5.905362
 massager,1,1,5.905362
 falconer's,1,1,5.905362
@@ -18077,19 +17997,15 @@ calibrated,1,1,5.905362
 coupled,1,1,5.905362
 emulating,1,1,5.905362
 diverge,1,1,5.905362
-apanṇaka,1,1,5.905362
 outstretched,1,1,5.905362
 guitar-like,1,1,5.905362
-yaṃ,1,1,5.905362
-avādesi,1,1,5.905362
+avadesi,1,1,5.905362
 rakkhita,1,1,5.905362
-aṅgavijjā,1,1,5.905362
+angavijja,1,1,5.905362
 pitaka,1,1,5.905362
 suttacentral,1,1,5.905362
-stūpas,1,1,5.905362
 1880s,1,1,5.905362
-yam,1,1,5.905362
-avādayi,1,1,5.905362
+avadayi,1,1,5.905362
 purohita,1,1,5.905362
 conman,1,1,5.905362
 aromatics,1,1,5.905362
@@ -18237,15 +18153,14 @@ forebears,1,1,5.905362
 matthieu,1,1,5.905362
 ricard,1,1,5.905362
 link's,1,1,5.905362
-vicikicchā,1,1,5.905362
-jañña,1,1,5.905362
-ñāṇa,1,1,5.905362
+vicikiccha,1,1,5.905362
+janna,1,1,5.905362
+nana,1,1,5.905362
 pa,1,1,5.905362
-sati-sampajañña,1,1,5.905362
+sati-sampajanna,1,1,5.905362
 in-the-background,1,1,5.905362
 snacking,1,1,5.905362
 aining,1,1,5.905362
-cliché,1,1,5.905362
 aloe,1,1,5.905362
 vera,1,1,5.905362
 revisited,1,1,5.905362
@@ -18273,7 +18188,6 @@ strainful,1,1,5.905362
 bottlenecked,1,1,5.905362
 refreshes,1,1,5.905362
 mahasiddhas,1,1,5.905362
-maha,1,1,5.905362
 siddhi,1,1,5.905362
 adepts,1,1,5.905362
 rectangles,1,1,5.905362
@@ -18387,7 +18301,7 @@ regrettable,1,1,5.905362
 errors,1,1,5.905362
 incompetence,1,1,5.905362
 imputes,1,1,5.905362
-renée,1,1,5.905362
+renee,1,1,5.905362
 diresta,1,1,5.905362
 exacerbate,1,1,5.905362
 authoritarianism,1,1,5.905362
@@ -18430,7 +18344,6 @@ temperamental,1,1,5.905362
 amusing,1,1,5.905362
 ajahns,1,1,5.905362
 george,1,1,5.905362
-kalyāṇamittā,1,1,5.905362
 testifies,1,1,5.905362
 re-acquiring,1,1,5.905362
 non-vigilance,1,1,5.905362
@@ -18508,8 +18421,6 @@ catalyst,1,1,5.905362
 parted,1,1,5.905362
 counteracts,1,1,5.905362
 overcharging,1,1,5.905362
-nama,1,1,5.905362
-rupa,1,1,5.905362
 arrayed,1,1,5.905362
 palate,1,1,5.905362
 tingly,1,1,5.905362
@@ -18650,7 +18561,6 @@ problem-solve,1,1,5.905362
 cataloging,1,1,5.905362
 coward,1,1,5.905362
 aquinas,1,1,5.905362
-adhitthana,1,1,5.905362
 anglican,1,1,5.905362
 digestible,1,1,5.905362
 task-focused,1,1,5.905362
@@ -18831,15 +18741,14 @@ steven,1,1,5.905362
 truthtelling,1,1,5.905362
 grandma's,1,1,5.905362
 planes,1,1,5.905362
-kāma,1,1,5.905362
 sugati,1,1,5.905362
-tāvatiṃsa,1,1,5.905362
+tavatimsa,1,1,5.905362
 creations,1,1,5.905362
 ascendingly,1,1,5.905362
 equate,1,1,5.905362
 unswerving,1,1,5.905362
-sotāpanna,1,1,5.905362
-anupubbikathā,1,1,5.905362
+sotapanna,1,1,5.905362
+anupubbikatha,1,1,5.905362
 maternal,1,1,5.905362
 devanussati,1,1,5.905362
 unperturbed,1,1,5.905362
@@ -18848,11 +18757,11 @@ osmosis,1,1,5.905362
 emulate,1,1,5.905362
 multi-life,1,1,5.905362
 affinities,1,1,5.905362
-cāgānussati,1,1,5.905362
+caganussati,1,1,5.905362
 successively,1,1,5.905362
 outright,1,1,5.905362
 goad,1,1,5.905362
-puñña,1,1,5.905362
+punna,1,1,5.905362
 past-life,1,1,5.905362
 regression,1,1,5.905362
 customs,1,1,5.905362
@@ -18863,8 +18772,7 @@ clairvoyant,1,1,5.905362
 afar,1,1,5.905362
 consequently,1,1,5.905362
 wretch,1,1,5.905362
-śāntideva,1,1,5.905362
-yama,1,1,5.905362
+santideva,1,1,5.905362
 hell-being,1,1,5.905362
 irked,1,1,5.905362
 unduly,1,1,5.905362
@@ -18961,7 +18869,6 @@ overlooks,1,1,5.905362
 interconnects,1,1,5.905362
 jam,1,1,5.905362
 denver,1,1,5.905362
-kenshō,1,1,5.905362
 satori,1,1,5.905362
 unitive,1,1,5.905362
 prayed,1,1,5.905362
@@ -18973,7 +18880,6 @@ dubliners,1,1,5.905362
 duffy,1,1,5.905362
 rolfers,1,1,5.905362
 giveaway,1,1,5.905362
-pāramitās,1,1,5.905362
 eckhart,1,1,5.905362
 tolle,1,1,5.905362
 l,1,1,5.905362
@@ -19042,7 +18948,7 @@ alchemists,1,1,5.905362
 endeavored,1,1,5.905362
 11th-century,1,1,5.905362
 machig,1,1,5.905362
-labdrön,1,1,5.905362
+labdron,1,1,5.905362
 tsultrim,1,1,5.905362
 allione,1,1,5.905362
 fanged,1,1,5.905362
@@ -19065,7 +18971,7 @@ reforming,1,1,5.905362
 reshaping,1,1,5.905362
 contended,1,1,5.905362
 academia,1,1,5.905362
-ājīva,1,1,5.905362
+ajiva,1,1,5.905362
 five-point,1,1,5.905362
 cheesemonger,1,1,5.905362
 revising,1,1,5.905362
@@ -19088,11 +18994,11 @@ belittling,1,1,5.905362
 disingenuous,1,1,5.905362
 archery,1,1,5.905362
 fester,1,1,5.905362
-anavākula,1,1,5.905362
+anavakula,1,1,5.905362
 ca,1,1,5.905362
-kammantā,1,1,5.905362
+kammanta,1,1,5.905362
 sujato's,1,1,5.905362
-nārada,1,1,5.905362
+narada,1,1,5.905362
 thera's,1,1,5.905362
 policies,1,1,5.905362
 hierarchies,1,1,5.905362
@@ -19101,7 +19007,7 @@ syndrome,1,1,5.905362
 yearly,1,1,5.905362
 reviews,1,1,5.905362
 boo-boos,1,1,5.905362
-kammārāmatā,1,1,5.905362
+kammaramata,1,1,5.905362
 covetous,1,1,5.905362
 relishes,1,1,5.905362
 medicant,1,1,5.905362
@@ -19256,7 +19162,6 @@ medha,1,1,5.905362
 nandi,1,1,5.905362
 10-precept,1,1,5.905362
 taiwan,1,1,5.905362
-saraniya,1,1,5.905362
 hermitage,1,1,5.905362
 ontario,1,1,5.905362
 proto-hinduism,1,1,5.905362
@@ -19269,7 +19174,7 @@ dials,1,1,5.905362
 furrowed,1,1,5.905362
 cozier,1,1,5.905362
 glues,1,1,5.905362
-saṅgahavatthūni,1,1,5.905362
+sangahavatthuni,1,1,5.905362
 helpfully,1,1,5.905362
 aiding,1,1,5.905362
 happenstance,1,1,5.905362
@@ -19360,8 +19265,8 @@ daring,1,1,5.905362
 differs,1,1,5.905362
 perceptive,1,1,5.905362
 sutamaya,1,1,5.905362
-cintāmaya,1,1,5.905362
-bhāvanāmaya,1,1,5.905362
+cintamaya,1,1,5.905362
+bhavanamaya,1,1,5.905362
 hark,1,1,5.905362
 haphazard,1,1,5.905362
 not-very-useful,1,1,5.905362
@@ -19410,12 +19315,12 @@ daishan,1,1,5.905362
 clashing,1,1,5.905362
 lashing,1,1,5.905362
 dhammachanda,1,1,5.905362
-kāmachanda,1,1,5.905362
+kamachanda,1,1,5.905362
 amok,1,1,5.905362
 motorcycles,1,1,5.905362
 replicated,1,1,5.905362
 proclaiming,1,1,5.905362
-anāthapiṇḍika's,1,1,5.905362
+anathapindika's,1,1,5.905362
 offending,1,1,5.905362
 palihawadana,1,1,5.905362
 causation,1,1,5.905362

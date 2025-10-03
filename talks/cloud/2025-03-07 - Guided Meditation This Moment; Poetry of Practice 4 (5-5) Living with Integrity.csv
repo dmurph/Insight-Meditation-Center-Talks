@@ -64,7 +64,6 @@ medha,0.005153,1,1
 nandi,0.005153,1,1
 10-precept,0.005153,1,1
 taiwan,0.005153,1,1
-saraniya,0.005153,1,1
 hermitage,0.005153,1,1
 ontario,0.005153,1,1
 proto-hinduism,0.005153,1,1
@@ -81,6 +80,7 @@ publish,0.004548,1,2
 preceding,0.004548,1,2
 canadian,0.004548,1,2
 borders,0.004548,1,2
+saraniya,0.004548,1,2
 redefined,0.004548,1,2
 judeo-christian,0.004548,1,4
 bending,0.004548,1,2
@@ -92,12 +92,12 @@ live,0.004535,9,640
 tuning,0.004258,2,48
 spend,0.004206,4,162
 heavy-handed,0.004194,1,3
-pandita,0.004194,1,4
 chah's,0.004194,1,3
 stanza,0.004194,1,3
 baking,0.004194,1,4
 dharma,0.003964,8,823
 dare,0.003943,1,4
+pandita,0.003943,1,5
 brahmanism,0.003943,1,5
 mr,0.003943,1,5
 specifics,0.003943,1,4
@@ -189,7 +189,6 @@ offering,0.002396,2,162
 others,0.002381,9,1015
 audience,0.002380,1,136
 bhikkhu,0.002380,1,66
-pāli,0.002380,1,55
 one's,0.002377,2,187
 choosing,0.002344,1,31
 bias,0.002344,1,33
@@ -314,6 +313,7 @@ clarity,0.001076,1,252
 associated,0.001067,1,170
 mindful,0.001067,1,255
 experience,0.001067,8,2371
+pali,0.001051,1,216
 walk,0.001036,1,253
 finding,0.001020,1,167
 couple,0.001020,1,172

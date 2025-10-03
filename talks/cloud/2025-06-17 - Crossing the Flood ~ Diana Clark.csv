@@ -68,7 +68,6 @@ dawdling,0.003921,1,1
 ostriched,0.003921,1,1
 off-balance,0.003921,1,1
 probing,0.003921,1,1
-saddha,0.003921,1,1
 deluge,0.003921,1,1
 patterned,0.003921,1,1
 unchanged,0.003921,1,1
@@ -165,6 +164,7 @@ encounter,0.002473,2,69
 difficult,0.002466,4,323
 minimum,0.002462,1,11
 preferred,0.002462,1,9
+saddha,0.002462,1,25
 cruel,0.002462,1,11
 situations,0.002427,2,85
 areas,0.002427,2,90
@@ -233,7 +233,6 @@ stretch,0.001932,1,26
 worthy,0.001932,1,28
 favor,0.001932,1,23
 loosen,0.001932,1,24
-pali,0.001927,2,160
 tend,0.001927,2,129
 took,0.001912,2,151
 dinner,0.001900,1,26
@@ -288,6 +287,7 @@ physically,0.001620,1,44
 wow,0.001612,2,210
 pressure,0.001612,2,253
 number,0.001600,2,199
+pali,0.001600,2,216
 disconnected,0.001600,1,57
 occurs,0.001600,1,36
 sudden,0.001600,1,62

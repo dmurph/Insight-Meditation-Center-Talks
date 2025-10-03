@@ -1,10 +1,10 @@
 word,tfidf_score,talk_frequency,global_frequency
 pleasure,0.042276,50,617
 gladness,0.022064,10,48
-samadhi,0.017014,23,1300
 lightest,0.016108,6,16
 beingness,0.015326,5,10
 external,0.014865,9,69
+samadhi,0.014662,23,1513
 cat,0.014006,6,33
 stroking,0.011802,4,12
 medicine,0.010770,6,82
@@ -150,7 +150,6 @@ removed,0.002614,1,15
 application,0.002614,1,14
 banner,0.002614,1,15
 involves,0.002557,2,98
-mudita,0.002549,1,58
 lost,0.002537,3,242
 inner,0.002512,4,447
 small,0.002512,4,341
@@ -167,6 +166,7 @@ imc's,0.002434,1,15
 across,0.002427,2,148
 enjoy,0.002407,2,113
 critic,0.002382,1,51
+mudita,0.002334,1,82
 represented,0.002334,1,23
 category,0.002289,1,24
 lifting,0.002289,1,23

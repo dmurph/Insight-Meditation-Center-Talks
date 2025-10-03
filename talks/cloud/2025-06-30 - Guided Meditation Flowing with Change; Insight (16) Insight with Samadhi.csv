@@ -1,5 +1,4 @@
 word,tfidf_score,talk_frequency,global_frequency
-samādhi,0.026583,13,213
 river,0.024428,14,330
 change,0.022412,36,798
 flowing,0.019936,13,144
@@ -8,6 +7,7 @@ unified,0.015989,8,64
 breathing,0.014984,38,1983
 impermanence,0.014237,8,144
 inconstancy,0.011935,5,74
+samadhi,0.011571,15,1513
 shifting,0.011431,7,137
 current,0.010677,6,113
 tahoe,0.010650,2,2
@@ -35,7 +35,7 @@ compelling,0.005650,2,20
 fortunate,0.005540,2,27
 co-joined,0.005325,1,1
 settlement,0.005325,1,1
-jhānic-like,0.005325,1,1
+jhanic-like,0.005325,1,1
 absorbed,0.005286,3,112
 cares,0.005159,2,24
 extended,0.004995,2,28
@@ -60,7 +60,6 @@ becoming,0.004281,5,298
 randomly,0.004075,1,5
 apparatus,0.004075,1,4
 ever-changing,0.004075,1,4
-jhānic,0.004075,1,4
 changes,0.004021,3,134
 deep,0.003982,12,1007
 broadcasting,0.003874,1,6
@@ -92,6 +91,7 @@ stay,0.003421,6,560
 gentle,0.003284,3,244
 soft,0.003284,3,214
 strong,0.003251,4,340
+jhanic,0.003249,1,15
 allowed,0.003236,2,108
 entering,0.003207,2,123
 allows,0.003179,4,325
@@ -212,7 +212,6 @@ opens,0.001797,1,74
 constantly,0.001797,1,92
 shifts,0.001797,1,81
 deeper,0.001795,3,563
-samadhi,0.001790,2,1300
 home,0.001790,2,245
 believe,0.001790,2,278
 grounding,0.001780,1,96
@@ -282,7 +281,6 @@ lead,0.001330,1,198
 care,0.001327,4,1221
 year,0.001319,1,243
 play,0.001319,1,169
-pali,0.001308,1,160
 allowing,0.001305,2,465
 record,0.001298,1,92
 concentration,0.001298,1,222
@@ -318,6 +316,7 @@ happens,0.001140,2,406
 degree,0.001137,1,203
 talks,0.001128,1,215
 mindful,0.001103,1,255
+pali,0.001086,1,216
 makes,0.001086,2,404
 upon,0.001078,1,196
 ability,0.001078,1,219

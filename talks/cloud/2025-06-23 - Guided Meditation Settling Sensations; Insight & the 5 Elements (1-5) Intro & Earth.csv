@@ -8,10 +8,10 @@ sayadaw,0.012901,3,10
 noticing,0.012588,11,329
 heaviness,0.011856,4,33
 myanmar,0.011823,2,2
-anattā,0.011489,3,23
 framework,0.011269,4,43
 intro,0.010533,3,23
 mahasi,0.010435,2,3
+anatta,0.010031,3,38
 roughness,0.009623,2,4
 dawn,0.009602,3,27
 skin,0.009409,4,61
@@ -51,7 +51,7 @@ pre-brahmanical,0.005911,1,1
 brahmanas,0.005911,1,1
 interoception,0.005911,1,1
 decentering,0.005911,1,1
-kāya,0.005911,1,1
+kaya,0.005911,1,1
 mythopoetic,0.005911,1,1
 assailed,0.005911,1,1
 skeletons,0.005911,1,1
@@ -75,8 +75,7 @@ upanishads,0.005217,1,3
 disidentification,0.005217,1,3
 life-denying,0.005217,1,3
 mudra,0.005217,1,2
-paṭācārā,0.005217,1,2
-therīgāthā,0.005217,1,2
+patacara,0.005217,1,2
 pours,0.005217,1,2
 harvest,0.005217,1,3
 poured,0.005217,1,2
@@ -97,7 +96,6 @@ lip,0.004812,1,3
 sediment,0.004812,1,3
 casting,0.004812,1,3
 anecdote,0.004812,1,3
-pandita,0.004812,1,4
 non-separation,0.004812,1,9
 nod,0.004812,1,3
 earth-touching,0.004812,1,3
@@ -111,9 +109,11 @@ proliferate,0.004524,1,5
 exercises,0.004524,1,4
 imaginative,0.004524,1,5
 prime,0.004524,1,4
+pandita,0.004524,1,5
 statues,0.004524,1,4
 nails,0.004524,1,4
 likens,0.004524,1,4
+therigatha,0.004524,1,5
 settledness,0.004437,2,75
 central,0.004437,2,70
 forces,0.004437,2,74
@@ -128,7 +128,6 @@ shortly,0.004300,1,6
 perceptual,0.004300,1,8
 physics,0.004300,1,5
 materials,0.004300,1,5
-saṃyutta,0.004300,1,6
 attributed,0.004300,1,6
 flame,0.004300,1,12
 fire,0.004293,2,115
@@ -140,7 +139,6 @@ hip,0.004118,1,6
 soup,0.004118,1,6
 shakes,0.004118,1,7
 advises,0.004118,1,6
-rāhula,0.004118,1,10
 farmers,0.004118,1,10
 lamp,0.004118,1,12
 touches,0.004115,2,55
@@ -154,6 +152,7 @@ function,0.003837,2,71
 reconnecting,0.003830,1,9
 organic,0.003830,1,11
 impersonal,0.003830,1,11
+rahula,0.003830,1,12
 homework,0.003830,1,8
 considered,0.003764,2,72
 spaciousness,0.003728,2,214
@@ -172,7 +171,6 @@ meetings,0.003606,1,13
 method,0.003606,1,12
 poetic,0.003606,1,12
 observation,0.003606,1,13
-māra,0.003606,1,109
 myths,0.003606,1,14
 sleeping,0.003606,1,12
 level,0.003591,3,233
@@ -192,6 +190,7 @@ lived,0.003375,2,115
 invitation,0.003346,2,124
 firm,0.003344,1,14
 sophisticated,0.003344,1,16
+samyutta,0.003344,1,18
 covering,0.003270,1,17
 texture,0.003270,1,14
 tip,0.003270,1,18
@@ -210,6 +209,7 @@ burma,0.003075,1,21
 commentaries,0.003075,1,30
 projections,0.003075,1,23
 belonging,0.003075,1,23
+mara,0.003075,1,140
 buddha's,0.003075,2,155
 warmth,0.003025,2,155
 table,0.003018,1,29
@@ -245,7 +245,6 @@ perceptions,0.002730,1,60
 buddha,0.002690,7,1594
 there'll,0.002689,1,30
 processes,0.002689,1,36
-nikāya,0.002689,1,43
 late,0.002689,1,47
 formal,0.002689,1,35
 afterwards,0.002650,1,29
@@ -306,6 +305,7 @@ went,0.002124,2,295
 met,0.002123,1,69
 not-self,0.002123,1,162
 attitudes,0.002123,1,77
+nikaya,0.002123,1,69
 bed,0.002123,1,58
 later,0.002109,2,215
 internal,0.002101,1,88
@@ -332,11 +332,11 @@ explore,0.001918,1,101
 practitioner,0.001864,1,97
 doubt,0.001864,1,146
 sat,0.001864,1,70
-sangha,0.001830,1,206
 reality,0.001813,1,115
 shows,0.001796,1,123
 form,0.001778,2,277
 introduction,0.001763,3,274
+sangha,0.001748,1,231
 folks,0.001748,1,118
 gaze,0.001733,1,116
 reasons,0.001733,1,86

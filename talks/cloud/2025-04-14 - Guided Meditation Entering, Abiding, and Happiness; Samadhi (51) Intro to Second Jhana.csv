@@ -1,5 +1,5 @@
 word,tfidf_score,talk_frequency,global_frequency
-jhāna,0.042122,18,232
+jhana,0.046498,21,275
 happiness,0.030293,38,805
 abiding,0.024515,9,56
 abides,0.018804,5,24
@@ -8,7 +8,6 @@ abide,0.013638,4,55
 resting,0.011925,8,165
 joy,0.011097,13,896
 intro,0.010984,3,23
-jhana,0.010984,3,43
 sweeter,0.010881,2,3
 equanimous,0.010456,4,75
 entering,0.009281,5,123
@@ -28,7 +27,6 @@ nonverbal,0.006819,2,33
 recognition,0.006520,4,202
 birds,0.006414,2,32
 sweet,0.006305,3,85
-jhānas,0.006294,2,40
 characteristic,0.006294,2,30
 oaks,0.006164,1,1
 briefest,0.006164,1,1
@@ -38,6 +36,7 @@ excitation,0.006164,1,1
 spirit,0.006119,3,98
 discursive,0.005973,2,57
 diaphragm,0.005875,2,31
+jhanas,0.005875,2,57
 energies,0.005875,2,34
 refreshing,0.005783,2,32
 hillsides,0.005441,1,5
@@ -56,7 +55,6 @@ translucent,0.005017,1,3
 reactive,0.004967,2,62
 body,0.004946,40,3075
 quieting,0.004847,2,49
-samādhi,0.004734,2,213
 received,0.004734,2,54
 conversational,0.004717,1,6
 salient,0.004717,1,4
@@ -69,13 +67,14 @@ entryway,0.004484,1,7
 diamond,0.004484,1,12
 trees,0.004476,2,84
 factors,0.004476,2,90
+samadhi,0.004465,5,1513
 awakening,0.004367,3,280
 classic,0.004336,2,62
 gotten,0.004336,2,73
 bath,0.004294,1,7
 absorptions,0.004294,1,6
 safer,0.004294,1,6
-saññā,0.004294,1,10
+sanna,0.004294,1,12
 aches,0.004294,1,7
 state,0.004176,4,483
 betrayal,0.004133,1,10
@@ -132,7 +131,6 @@ almost,0.003177,6,551
 responsibilities,0.003147,1,23
 joyful,0.003147,1,29
 recognizes,0.003147,1,21
-samadhi,0.003109,3,1300
 trapped,0.003091,1,25
 energetic,0.003091,1,29
 occasionally,0.003037,1,26
@@ -168,8 +166,8 @@ excited,0.002763,1,38
 continuous,0.002763,1,53
 feels,0.002745,9,917
 field,0.002735,2,230
-san,0.002724,1,47
 emphasized,0.002724,1,37
+san,0.002686,1,49
 body's,0.002686,1,30
 peace,0.002683,4,619
 putting,0.002673,2,168
@@ -276,7 +274,6 @@ translated,0.001539,1,136
 release,0.001539,1,166
 deep,0.001537,4,1007
 present,0.001525,5,1142
-pali,0.001515,1,160
 control,0.001479,1,243
 won't,0.001479,1,134
 peaceful,0.001464,2,397
@@ -307,6 +304,7 @@ mindful,0.001277,1,255
 connection,0.001277,1,191
 pressure,0.001267,1,253
 soft,0.001267,1,214
+pali,0.001258,1,216
 spend,0.001258,1,162
 everything,0.001240,3,836
 reason,0.001239,1,165

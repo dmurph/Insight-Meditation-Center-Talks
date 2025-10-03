@@ -1,8 +1,8 @@
 word,tfidf_score,talk_frequency,global_frequency
 attentional,0.026203,9,47
 observing,0.024252,10,54
-vipassanā,0.018020,7,77
 sensing,0.017313,14,324
+vipassana,0.016512,7,87
 prefix,0.015970,4,11
 faculties,0.012673,5,56
 river,0.012589,7,330
@@ -34,15 +34,15 @@ clear,0.005953,11,504
 seeing,0.005809,12,800
 simple,0.005735,10,574
 visual,0.005710,2,24
-samadhi,0.005536,6,1300
 understanding,0.005006,7,476
 simplest,0.004921,2,43
 falls,0.004850,2,43
-anupassanā,0.004844,1,2
+anupassana,0.004844,1,2
 anu,0.004844,1,2
 greenery,0.004844,1,2
 well-practiced,0.004844,1,2
 leads,0.004826,3,165
+samadhi,0.004770,6,1513
 emphasis,0.004620,3,106
 oscillates,0.004467,1,3
 vibrates,0.004467,1,3
@@ -81,7 +81,7 @@ act,0.003888,3,204
 physicality,0.003823,1,8
 endlessly,0.003823,1,6
 divides,0.003823,1,10
-sampajañña,0.003823,1,8
+sampajanna,0.003823,1,8
 holdings,0.003823,1,6
 detached,0.003823,1,9
 awake,0.003743,2,73
@@ -299,7 +299,6 @@ delight,0.001382,1,193
 ground,0.001370,1,148
 translated,0.001370,1,136
 aspect,0.001359,1,114
-pali,0.001349,1,160
 practices,0.001349,1,153
 allowing,0.001345,2,465
 keeps,0.001338,1,136
@@ -329,6 +328,7 @@ clarity,0.001145,1,252
 within,0.001138,2,516
 brings,0.001137,1,190
 pressure,0.001128,1,253
+pali,0.001120,1,216
 number,0.001120,1,199
 alive,0.001120,1,182
 goes,0.001119,2,460

@@ -96,13 +96,13 @@ swam,0.005443,1,1
 river,0.005350,3,330
 qualities,0.005268,5,326
 santa,0.005188,2,31
-sangha,0.005054,3,206
 adjusting,0.005027,2,29
 grown,0.005027,2,29
 key,0.005007,3,87
 processes,0.004952,2,36
 inconstancy,0.004880,2,74
 embodied,0.004829,3,119
+sangha,0.004829,3,231
 earthly,0.004804,1,2
 fluidly,0.004804,1,2
 pelvis,0.004804,1,2
@@ -121,9 +121,7 @@ fixity,0.004804,1,2
 inspirational,0.004804,1,2
 michael,0.004804,1,3
 droplets,0.004804,1,2
-rahula,0.004804,1,2
 eroding,0.004804,1,2
-therigatha,0.004804,1,3
 uttara,0.004804,1,7
 slowed,0.004804,1,2
 rain,0.004743,2,61
@@ -156,11 +154,11 @@ moist,0.004165,1,4
 drunk,0.004165,1,5
 invade,0.004165,1,4
 adaptable,0.004165,1,4
+therigatha,0.004165,1,5
 dug,0.004165,1,6
 neal,0.003959,1,13
 graciously,0.003959,1,5
 gorgeous,0.003959,1,5
-anatta,0.003959,1,15
 absorptive,0.003959,1,6
 borrow,0.003959,1,5
 disagreeable,0.003959,1,11
@@ -192,9 +190,9 @@ ripples,0.003526,1,9
 typical,0.003526,1,12
 likened,0.003526,1,13
 melting,0.003526,1,8
-samyutta,0.003526,1,12
 cried,0.003526,1,10
 selves,0.003526,1,13
+rahula,0.003526,1,12
 stones,0.003526,1,10
 meanwhile,0.003418,1,10
 abdomen,0.003418,1,15
@@ -234,9 +232,11 @@ relates,0.003079,1,16
 appeared,0.003079,1,14
 ripple,0.003079,1,18
 announcement,0.003079,1,16
+anatta,0.003079,1,38
 evolution,0.003079,1,16
 scientist,0.003079,1,14
 climate,0.003079,1,17
+samyutta,0.003079,1,18
 lifetimes,0.003079,1,21
 gains,0.003079,1,15
 rigid,0.003079,1,19
@@ -276,7 +276,6 @@ sea,0.002779,1,26
 changes,0.002740,2,134
 throat,0.002729,1,29
 embodiment,0.002729,1,27
-nikaya,0.002729,1,26
 energetic,0.002729,1,29
 peacefulness,0.002682,1,22
 soil,0.002682,1,48
@@ -369,6 +368,7 @@ attention,0.001956,7,1243
 already,0.001956,2,255
 capacity,0.001956,2,316
 not-self,0.001955,1,162
+nikaya,0.001955,1,69
 later,0.001942,2,215
 basically,0.001934,1,94
 dependent,0.001934,1,84
@@ -378,7 +378,6 @@ constant,0.001914,1,70
 retreat,0.001899,2,316
 weren't,0.001894,1,77
 relaxation,0.001875,1,62
-metta,0.001875,1,304
 cultivation,0.001856,1,107
 included,0.001856,1,82
 picture,0.001837,1,103
@@ -410,6 +409,7 @@ humans,0.001610,1,112
 torso,0.001595,1,109
 loving-kindness,0.001595,1,182
 background,0.001581,1,110
+metta,0.001581,1,445
 dharma,0.001570,3,823
 chair,0.001567,1,96
 piece,0.001567,1,129
@@ -502,7 +502,6 @@ matter,0.000929,1,224
 mindfulness,0.000927,2,928
 topic,0.000922,1,229
 home,0.000915,1,245
-samadhi,0.000915,1,1300
 believe,0.000915,1,278
 either,0.000915,1,227
 natural,0.000908,1,318
@@ -523,6 +522,7 @@ movement,0.000806,1,356
 calm,0.000806,1,588
 true,0.000806,1,387
 holding,0.000800,1,371
+samadhi,0.000788,1,1513
 nature,0.000783,1,388
 let's,0.000777,1,389
 relationship,0.000777,1,386

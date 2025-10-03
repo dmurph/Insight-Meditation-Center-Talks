@@ -17,8 +17,7 @@ direct,0.007703,10,199
 priest,0.007577,3,28
 degrees,0.007367,4,23
 logic,0.007224,4,23
-dhānañjānī,0.006943,2,2
-anattā,0.006748,3,23
+dhananjani,0.006943,2,2
 satisfactory,0.006748,3,13
 biography,0.006540,3,13
 wisdom,0.006538,13,535
@@ -34,6 +33,7 @@ niggling,0.006128,2,3
 identifications,0.006128,2,3
 experiences,0.006056,10,323
 attained,0.005891,3,21
+anatta,0.005891,3,38
 insights,0.005801,5,124
 impermanence,0.005801,5,144
 teachings,0.005748,13,507
@@ -93,8 +93,7 @@ reasoners,0.003472,1,1
 logicians,0.003472,1,1
 experientialists,0.003472,1,1
 colder,0.003472,1,1
-yathābhūtañāṇadassana,0.003472,1,1
-paṇḍita,0.003472,1,1
+yathabhutananadassana,0.003472,1,1
 well-respected,0.003472,1,1
 controllable,0.003472,1,1
 fluctuations,0.003472,1,1
@@ -124,7 +123,7 @@ mondays,0.003064,1,2
 recovers,0.003064,1,2
 bhagavato,0.003064,1,2
 arahato,0.003064,1,2
-sammāsambuddhassa,0.003064,1,2
+sammasambuddhassa,0.003064,1,2
 questionable,0.003064,1,2
 shaves,0.003064,1,2
 paraphrased,0.003064,1,2
@@ -170,6 +169,7 @@ memorization,0.002657,1,5
 memorizing,0.002657,1,6
 intellectually,0.002657,1,5
 unattainable,0.002657,1,5
+pandita,0.002657,1,5
 lenses,0.002657,1,4
 frameworks,0.002657,1,4
 listen,0.002643,3,172
@@ -293,7 +293,6 @@ daily,0.001748,2,152
 heads,0.001741,1,25
 acknowledging,0.001741,1,22
 stretch,0.001711,1,26
-pali,0.001706,2,160
 read,0.001700,3,304
 else,0.001683,5,516
 foundations,0.001682,1,30
@@ -364,6 +363,7 @@ saying,0.001463,4,650
 religious,0.001434,1,71
 liked,0.001434,1,46
 starts,0.001427,2,188
+pali,0.001417,2,216
 arose,0.001416,1,49
 woman,0.001399,1,97
 monastic,0.001399,1,65

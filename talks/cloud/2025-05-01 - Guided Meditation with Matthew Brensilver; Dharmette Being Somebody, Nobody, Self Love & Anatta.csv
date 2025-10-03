@@ -1,6 +1,6 @@
 word,tfidf_score,talk_frequency,global_frequency
 self-love,0.099843,14,20
-anatta,0.044616,7,15
+anatta,0.034693,7,38
 metacognitive,0.030933,4,5
 engler,0.026285,3,3
 self,0.023422,17,1111
