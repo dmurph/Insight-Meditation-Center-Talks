@@ -44,13 +44,15 @@ def filter_numeric_strings(string_list):
 def preprocess_text(text):
     """Removes markdown, URLs, and other non-word content."""
     # Remove YAML frontmatter
-    text = re.sub(r'^---[\s\S]*?---', '', text)
+    text = re.sub(r'^---[\s\S]*?---', '', text, count=1)
     # Remove markdown links [text](url)
     text = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', text)
     # Remove URLs
     text = re.sub(r'https?://\S+', '', text)
     # Remove footnote definitions like [^1]: ...
     text = re.sub(r'\[\^\d+\]:.*', '', text)
+    # Remove 's
+    text = re.sub(r'\'s\b', '', text)
     # Remove speaker urls
     text = re.sub(r'\(https://www.audiodharma.org/speakers/\d+\)', '', text)
     return text
@@ -63,15 +65,23 @@ def tokenize(text):
     words = filter_numeric_strings(words)
 
     # Normalize words to their ASCII equivalent and lemmatize
-    normalized_words = [lemmatizer.lemmatize(unidecode(word)) for word in words]
-    normalized_words = [
-        word if word not in MANUAL_LEMMATIZER else MANUAL_LEMMATIZER[word]
-        for word in normalized_words
-    ]
+    lemmas = []
+    for word in words:
+        ascii_word = unidecode(word)
+        # First, lemmatize as a noun (default), then as a verb.
+        # This handles both plurals and verb tenses.
+        lemma = lemmatizer.lemmatize(ascii_word)
+        lemma = lemmatizer.lemmatize(lemma, pos='v')
+        lemma = lemmatizer.lemmatize(lemma, pos='a')
+        lemma = lemmatizer.lemmatize(lemma, pos='r')
+        lemma = lemmatizer.lemmatize(lemma, pos='s')
+        if lemma in MANUAL_LEMMATIZER:
+            lemma = MANUAL_LEMMATIZER[lemma]
+        lemmas.append(lemma)
 
     return [
         word
-        for word in normalized_words
+        for word in lemmas
         if word.lower() not in STOP_WORDS and not word.isdigit()
     ]
 
