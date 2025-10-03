@@ -4,7 +4,14 @@ import csv
 import math
 from collections import Counter, defaultdict
 from unidecode import unidecode
+import nltk
+from nltk.stem import WordNetLemmatizer
 
+lemmatizer = WordNetLemmatizer()
+
+MANUAL_LEMMATIZER = {
+    "jatakas": "jataka"
+}
 
 def load_stop_words(filepath="stopwords.txt"):
     """Loads stop words from a text file."""
@@ -48,18 +55,38 @@ def preprocess_text(text):
     text = re.sub(r'\(https://www.audiodharma.org/speakers/\d+\)', '', text)
     return text
 
+
 def tokenize(text):
     """Splits text into words, converts to lowercase, and removes punctuation."""
     processed_text = preprocess_text(text)
-    words = re.findall(r'\b[\w\'-]+\b', processed_text.lower())
+    words = re.findall(r"\b[\w\'-]+\b", processed_text.lower())
     words = filter_numeric_strings(words)
-    
-    # Normalize words to their ASCII equivalent
-    normalized_words = [unidecode(word) for word in words]
-    
-    return [word for word in normalized_words if word.lower() not in STOP_WORDS and not word.isdigit()]
+
+    # Normalize words to their ASCII equivalent and lemmatize
+    normalized_words = [lemmatizer.lemmatize(unidecode(word)) for word in words]
+    normalized_words = [
+        word if word not in MANUAL_LEMMATIZER else MANUAL_LEMMATIZER[word]
+        for word in normalized_words
+    ]
+
+    return [
+        word
+        for word in normalized_words
+        if word.lower() not in STOP_WORDS and not word.isdigit()
+    ]
+
 
 def main():
+    # Ensure NLTK data is downloaded
+    try:
+        nltk.data.find('corpora/wordnet.zip')
+    except LookupError:
+        nltk.download('wordnet')
+    try:
+        nltk.data.find('corpora/omw-1.4.zip')
+    except LookupError:
+        nltk.download('omw-1.4')
+
     talks_dir = 'talks'
     output_dir = os.path.join(talks_dir, 'cloud')
     os.makedirs(output_dir, exist_ok=True)
