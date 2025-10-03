@@ -9,9 +9,28 @@ def load_stop_words(filepath="stopwords.txt"):
     if not os.path.exists(filepath):
         return set()
     with open(filepath, 'r', encoding='utf-8') as f:
-        return {line.strip() for line in f}
+        return {line.strip().lower() for line in f}
 
 STOP_WORDS = load_stop_words()
+
+def filter_numeric_strings(string_list):
+    """
+    Filters a list of strings, removing those that can be parsed as a number.
+
+    Args:
+        string_list: A list of strings.
+
+    Returns:
+        A new list containing only the strings that cannot be parsed as a number.
+    """
+    filtered_list = []
+    for s in string_list:
+        try:
+            float(s)  # Attempt to convert to float (handles integers and floats)
+        except ValueError:
+            # If a ValueError occurs, the string cannot be parsed as a number
+            filtered_list.append(s)
+    return filtered_list
 
 def preprocess_text(text):
     """Removes markdown, URLs, and other non-word content."""
@@ -21,8 +40,6 @@ def preprocess_text(text):
     text = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', text)
     # Remove URLs
     text = re.sub(r'https?://\S+', '', text)
-    # Remove footnote references like [^1]
-    text = re.sub(r'\[\^\d+\]', '', text)
     # Remove footnote definitions like [^1]: ...
     text = re.sub(r'\[\^\d+\]:.*', '', text)
     # Remove speaker urls
@@ -32,8 +49,9 @@ def preprocess_text(text):
 def tokenize(text):
     """Splits text into words, converts to lowercase, and removes punctuation."""
     processed_text = preprocess_text(text)
-    words = re.findall(r'\b\w+\b', processed_text.lower())
-    return [word for word in words if word not in STOP_WORDS and not word.isdigit()]
+    words = re.findall(r'\b[\w\'-]+\b', processed_text.lower())
+    words = filter_numeric_strings(words)
+    return [word for word in words if word.lower() not in STOP_WORDS and not word.isdigit()]
 
 def main():
     talks_dir = 'talks'
@@ -121,37 +139,32 @@ def main():
     normalized_avg_tfidf = {word: score / max_avg_tfidf for word, score in avg_tfidf_scores.items()}
 
     total_global_words = sum(global_word_counts.values())
-    min_df_threshold = num_documents * 0.02
-    max_df_threshold = num_documents * 0.75
 
     filter_keywords = []
     for word, global_freq in global_word_counts.items():
         df = doc_frequency.get(word, 0)
         
-        if not (min_df_threshold <= df <= max_df_threshold):
-            continue
-
         global_percentage = global_freq / total_global_words
         global_freq_score = 1 - global_percentage
 
         df_percentage = df / num_documents
-        df_score = 1 - abs(0.3 - df_percentage)
+        df_score = 1 - abs(0.5 - df_percentage) * 2
 
         avg_tfidf_score = normalized_avg_tfidf.get(word, 0)
 
-        combined_score = (global_freq_score * df_score * df_score * avg_tfidf_score) ** (1/4)
+        combined_score =   (df_score * avg_tfidf_score) ** (1/2)
         
-        filter_keywords.append([word, global_freq, df, avg_tfidf_score, combined_score])
+        filter_keywords.append([word, global_percentage, df_percentage, global_freq_score, df_score, avg_tfidf_score, combined_score])
 
-    filter_keywords.sort(key=lambda x: x[4], reverse=True)
+    filter_keywords.sort(key=lambda x: x[6], reverse=True)
 
     filter_keywords_path = os.path.join(output_dir, 'filter_keywords.csv')
     print(f"Writing filter keywords to {filter_keywords_path}...")
     with open(filter_keywords_path, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
-        writer.writerow(['word', 'global_frequency', 'document_frequency', 'avg_tfidf_score', 'combined_score'])
+        writer.writerow(['word', 'global_frequency_percent', 'document_frequency_percent', 'global_freq_score', 'document_freq_score', 'avg_tfidf_score', 'combined_score'])
         for row in filter_keywords:
-            writer.writerow([row[0], row[1], row[2], f"{row[3]:.6f}", f"{row[4]:.6f}"])
+            writer.writerow([row[0], f"{row[1]:.3f}", f"{row[2]:.3f}", f"{row[3]:.3f}", f"{row[4]:.3f}", f"{row[5]:.3f}", f"{row[6]:.3f}"])
 
     print("Keyword generation complete.")
 
