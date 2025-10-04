@@ -90,6 +90,34 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23936/20251002-Gil_Fronsdal-IMC-guided_meditation_compassionate_accompaniment.mp3
+- youtube_id: noB_etL-dNE
+  talks:
+  - title: 'Guided Meditation: Mindfulness with Care'
+    id: 23943
+    date: '2025-10-03'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23943/20251003-Gil_Fronsdal-IMC-guided_meditation_mindfulness_with_care.mp3
+  - title: 'Dharmette: Sources of Care-Giving (5 of 5) Care'
+    id: 23944
+    date: '2025-10-03'
+    speaker_id: 1
+    start_time_seconds: 1818
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23944/20251003-Gil_Fronsdal-IMC-dharmette_sources_of_care-giving_5_of_5_care.mp3
+- youtube_id: L_QLNkJhQ5Q
+  talks:
+  - title: 'Dharmette: Sources for Care-Giving (4 of 5) Compassion'
+    id: 23937
+    date: '2025-10-02'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23937/20251002-Gil_Fronsdal-IMC-dharmette_sources_for_care-giving_4_of_5_compassion.mp3
+  - title: 'Guided Meditation: Compassionate Accompaniment'
+    id: 23936
+    date: '2025-10-02'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23936/20251002-Gil_Fronsdal-IMC-guided_meditation_compassionate_accompaniment.mp3
 - youtube_id: lf2XFEL4kQs
   talks:
   - title: 'Guided Meditation: How distant is freedom?'
@@ -104,6 +132,20 @@
     speaker_id: 231
     start_time_seconds: 1818
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23938/20251001-Matthew_Brensilver-IMC-dharmette_protect_empathy_at_all_costs_and_live_groovy_lives.mp3
+- youtube_id: 46qHdpkoVao
+  talks:
+  - title: 'Guided Meditation: Goodwill Informed Mindfulness'
+    id: 23929
+    date: '2025-10-01'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23929/20251001-Gil_Fronsdal-IMC-guided_meditation_goodwill_informed_mindfulness.mp3
+  - title: 'Dharmette: Sources for Caregiving (3 of 5) Goodwill and Friendliness'
+    id: 23930
+    date: '2025-10-01'
+    speaker_id: 1
+    start_time_seconds: 1789
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23930/20251001-Gil_Fronsdal-IMC-dharmette_sources_for_caregiving_3_of_5_goodwill_and_friendliness.mp3
 - youtube_id: 46qHdpkoVao
   talks:
   - title: 'Guided Meditation: Goodwill Informed Mindfulness'
@@ -154,6 +196,12 @@
     speaker_id: 240
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23922/20250929-Diana_Clark-IMC-climbing_the_mountain_following_the_footprints.mp3
+  - title: 'Dharmette: Sources for Caregiving (1 of 5) Non-Harming'
+    id: 23917
+    date: '2025-09-29'
+    speaker_id: 1
+    start_time_seconds: 1892
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23917/20250929-Gil_Fronsdal-IMC-dharmette_sources_for_caregiving_1_of_5_non-harming.mp3
 - youtube_id: yPqpffV_ga0
   talks:
   - title: Attachment, Clinging, & Grasping

@@ -57,6 +57,7 @@ def preprocess_text(text):
     text = re.sub(r'\(https://www.audiodharma.org/speakers/\d+\)', '', text)
     return text
 
+#### NEXT IS TO PROBBALY ALSO USE THE NLTK STOPWORDS, AND DOWNLOADING THEM AS PART OF THE GITHUB ACTION
 
 def tokenize(text):
     """Splits text into words, converts to lowercase, and removes punctuation."""

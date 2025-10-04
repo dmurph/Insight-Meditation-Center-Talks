@@ -4,10 +4,10 @@
 "speaker_url": "https://www.audiodharma.org/speakers/1"
 "talk_urls":
 - "https://www.audiodharma.org/talks/23916"
+- "https://www.audiodharma.org/talks/23917"
 "title": "Guided Meditation: Wholeness; Sources for Caregiving (1 of 5) Non-Harming"
 "video_url": "https://www.youtube.com/watch?v=BQ4aQ4FpdRs"
 ---
-
 
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Wholeness; Sources for Caregiving (1 of 5) Non-Harming](https://www.youtube.com/watch?v=BQ4aQ4FpdRs). It likely contains inaccuracies.*
 

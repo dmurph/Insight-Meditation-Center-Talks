@@ -30,6 +30,7 @@ by
 can
 can't
 come
+could
 deeply
 did
 do
@@ -38,6 +39,7 @@ doesn
 doesn't
 doing
 don
+don't
 down
 during
 each
@@ -56,6 +58,7 @@ further
 get
 go
 going
+ha
 had
 hard
 has
@@ -72,6 +75,7 @@ himself
 his
 how
 i
+i'll
 i'm
 i've
 if
@@ -106,6 +110,7 @@ not
 now
 of
 off
+oh
 on
 once
 one
@@ -126,6 +131,7 @@ refers
 s
 said
 same
+say
 says
 second
 see
@@ -153,6 +159,8 @@ there
 there's
 these
 they
+they'll
+they're
 things
 third
 this
@@ -168,9 +176,11 @@ up
 us
 ve
 very
+wa
 was
 way
 we
+we'll
 we're
 we've
 were
