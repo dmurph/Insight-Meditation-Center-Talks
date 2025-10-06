@@ -1,3 +1,11 @@
+- youtube_id: lk1nNPlvoQM
+  talks:
+  - title: Freedom From the Five Bundles - Cultivating Our Inner Capacities
+    id: 23952
+    date: '2025-10-05'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23952/20251005-Gil_Fronsdal-IMC-freedom_from_the_bundles_-_cultivating_our_inner_capacties.mp3
 - youtube_id: noB_etL-dNE
   talks:
   - title: 'Guided Meditation: Mindfulness with Care'
@@ -28,18 +36,18 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23936/20251002-Gil_Fronsdal-IMC-guided_meditation_compassionate_accompaniment.mp3
 - youtube_id: lf2XFEL4kQs
   talks:
-  - title: 'Dharmette: ''Protect Empathy at All Costs and Live Groovy Lives'''
-    id: 23938
-    date: '2025-10-01'
-    speaker_id: 231
-    start_time_seconds: 0
-    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23938/20251001-Matthew_Brensilver-IMC-dharmette_protect_empathy_at_all_costs_and_live_groovy_lives.mp3
   - title: 'Guided Meditation: How distant is freedom?'
     id: 23939
     date: '2025-10-01'
     speaker_id: 231
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23939/20251001-Matthew_Brensilver-IMC-guided_meditation_how_distant_is_freedom.mp3
+  - title: 'Dharmette: ''Protect Empathy at All Costs and Live Groovy Lives'''
+    id: 23938
+    date: '2025-10-01'
+    speaker_id: 231
+    start_time_seconds: 1818
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23938/20251001-Matthew_Brensilver-IMC-dharmette_protect_empathy_at_all_costs_and_live_groovy_lives.mp3
 - youtube_id: 46qHdpkoVao
   talks:
   - title: 'Guided Meditation: Goodwill Informed Mindfulness'
@@ -82,6 +90,14 @@
     speaker_id: 1
     start_time_seconds: 1892
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23917/20250929-Gil_Fronsdal-IMC-dharmette_sources_for_caregiving_1_of_5_non-harming.mp3
+- youtube_id: srsTcG8VnhA
+  talks:
+  - title: Climbing the Mountain, Following the Footprints
+    id: 23922
+    date: '2025-09-29'
+    speaker_id: 240
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23922/20250929-Diana_Clark-IMC-climbing_the_mountain_following_the_footprints.mp3
 - youtube_id: yPqpffV_ga0
   talks:
   - title: Attachment, Clinging, & Grasping
