@@ -3,13 +3,12 @@
 "speaker": "Matthew Brensilver"
 "speaker_url": "https://www.audiodharma.org/speakers/231"
 "talk_urls":
-- "https://www.audiodharma.org/talks/23938"
 - "https://www.audiodharma.org/talks/23939"
+- "https://www.audiodharma.org/talks/23938"
 "title": "Meditation: How far is freedom? Dharma talk: \"Protect Empathy as All Costs\
   \ and Live Groovy Lives\""
 "video_url": "https://www.youtube.com/watch?v=lf2XFEL4kQs"
 ---
-
 
 *This is an AI-generated transcript from auto-generated subtitles for the video [Meditation: How far is freedom? Dharma talk: "Protect Empathy as All Costs and Live Groovy Lives"](https://www.youtube.com/watch?v=lf2XFEL4kQs). It likely contains inaccuracies.*
 
