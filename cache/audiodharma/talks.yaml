@@ -1,3 +1,17 @@
+- youtube_id: GWKwoD2WoKU
+  talks:
+  - title: 'Guided Meditation: Clinging AND Freedom'
+    id: 23992
+    date: '2025-10-14'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23992/20251014-Gil_Fronsdal-IMC-guided_meditation_clinging_and_freedom.mp3
+  - title: 'Dharmette: Eightfold Path (2 of 10) Holistic View'
+    id: 23993
+    date: '2025-10-14'
+    speaker_id: 1
+    start_time_seconds: 1831
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23993/20251014-Gil_Fronsdal-IMC-dharmette_eightfold_path_2_of_10_wholistic_view.mp3
 - youtube_id: wQ2bYQdrTwE
   talks:
   - title: Eightfold Complete Path
@@ -6,6 +20,14 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23981/20251012-Gil_Fronsdal-IMC-eightfold_complete_path.mp3
+- youtube_id: vRSU1PgQVGg
+  talks:
+  - title: Caring for Anxious Minds – A Caregiver’s Experience as a Jail Chaplain
+    id: 23995
+    date: '2025-10-12'
+    speaker_id: 472
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23995/20251012-Ram_Appalaraju-sati-caring_for_anxious_minds_a_caregiver_s_experience_as_a_jail_chaplain.mp3
 - youtube_id: amJ7sy3wNSA
   talks:
   - title: 'Guided Meditation: Being Happy'
