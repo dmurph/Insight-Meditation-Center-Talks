@@ -1,3 +1,31 @@
+- youtube_id: _FEo9XSSWdU
+  talks:
+  - title: 'Dharmette: PR Campaign for Non-Hatred'
+    id: 24005
+    date: '2025-10-15'
+    speaker_id: 231
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24005/20251015-Matthew_Brensilver-IMC-dharmette_pr_campaign_for_non-hatred.mp3
+  - title: 'Guided Meditation: Relaxing all clinging'
+    id: 24004
+    date: '2025-10-15'
+    speaker_id: 231
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24004/20251015-Matthew_Brensilver-IMC-guided_meditation_relaxing_all_clinging.mp3
+- youtube_id: r7Is29siyZM
+  talks:
+  - title: 'Guided Meditation: Radiating Love'
+    id: 23998
+    date: '2025-10-15'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23998/20251015-Gil_Fronsdal-IMC-guided_meditation_radiating_love.mp3
+  - title: 'Dharmette: Eightfold Path (3 of 10) Holistic Orientation'
+    id: 23999
+    date: '2025-10-15'
+    speaker_id: 1
+    start_time_seconds: 1830
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23999/20251015-Gil_Fronsdal-IMC-dharmette_eightfold_path_3_of_10_holistic_orientation.mp3
 - youtube_id: GWKwoD2WoKU
   talks:
   - title: 'Guided Meditation: Clinging AND Freedom'
