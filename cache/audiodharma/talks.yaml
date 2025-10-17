@@ -40,6 +40,20 @@
     speaker_id: 1
     start_time_seconds: 1831
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23993/20251014-Gil_Fronsdal-IMC-dharmette_eightfold_path_2_of_10_wholistic_view.mp3
+- youtube_id: VgBZqUI5CZ4
+  talks:
+  - title: 'Guided Meditation: Wholeness'
+    id: 23984
+    date: '2025-10-13'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23984/20251013-Gil_Fronsdal-IMC-guided_meditation_wholeness.mp3
+  - title: 'Dharmette: Eightfold Path (1 of 10) Path of Wholeness'
+    id: 23985
+    date: '2025-10-13'
+    speaker_id: 1
+    start_time_seconds: 1847
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23985/20251013-Gil_Fronsdal-IMC-dharmette_eightfold_path_1_of_10_path_of_wholeness.mp3
 - youtube_id: wQ2bYQdrTwE
   talks:
   - title: Eightfold Complete Path
