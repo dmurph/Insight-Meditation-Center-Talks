@@ -1,3 +1,31 @@
+- youtube_id: EiViKPwgBN0
+  talks:
+  - title: 'Guided Meditation: Global Awareness'
+    id: 24013
+    date: '2025-10-17'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24013/20251017-Gil_Fronsdal-IMC-guided_meditation_global_awareness.mp3
+  - title: 'Dharmette: Eightfold Path (5 of 10) Holistic Action'
+    id: 24014
+    date: '2025-10-17'
+    speaker_id: 1
+    start_time_seconds: 1876
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24014/20251017-Gil_Fronsdal-IMC-dharmette_eightfold_path_5_of_10_holistic_action.mp3
+- youtube_id: u0MMt9DFUvc
+  talks:
+  - title: 'Guided Meditation: Don''t Give Yourself Away'
+    id: 24008
+    date: '2025-10-16'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24008/20251016-Gil_Fronsdal-IMC-guided_meditation_don_t_give_yourself_away.mp3
+  - title: 'Dharmette: Eightfold Path (4 of 10) Holistic Speech'
+    id: 24009
+    date: '2025-10-16'
+    speaker_id: 1
+    start_time_seconds: 1863
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24009/20251016-Gil_Fronsdal-IMC-dharmette_eightfold_path_4_of_10_holistic_speech.mp3
 - youtube_id: _FEo9XSSWdU
   talks:
   - title: 'Dharmette: PR Campaign for Non-Hatred'
