@@ -2,13 +2,19 @@ import logging
 import json
 from pathlib import Path
 import scrapetube
-from typing import List, Dict, Any
+import yt_dlp
+from youtube_transcript_api import (
+    YouTubeTranscriptApi,
+    NoTranscriptFound,
+    TranscriptsDisabled,
+)
+from typing import List, Dict, Any, Optional
 
 from ..models import SourceItem, SourceType
 
 class YouTubeSource:
     """
-    A source that discovers YouTube videos from a playlist.
+    A source that discovers YouTube videos from a playlist and can fetch their transcripts.
     """
     def __init__(self, config: Dict[str, Any], cache_dir: Path = Path("cache/youtube")):
         """
@@ -25,6 +31,12 @@ class YouTubeSource:
         self.cache_dir = cache_dir
         self.cache_dir.mkdir(parents=True, exist_ok=True)
         self.video_cache_path = self.cache_dir / f"{self.playlist_id}.json"
+        self.raw_transcripts_dir = self.cache_dir / "raw_transcripts"
+        self.raw_transcripts_dir.mkdir(parents=True, exist_ok=True)
+
+        # Initialize yt-dlp for metadata fetching if needed
+        ydl_opts = {"quiet": True, "no_warnings": True}
+        self._ydl = yt_dlp.YoutubeDL(ydl_opts)
 
     def discover_items(self, stop_after_cache_matches=10) -> List[SourceItem]:
         """
@@ -86,13 +98,63 @@ class YouTubeSource:
             # Continue with existing cache if fetching fails
         
         # Convert the raw video data into SourceItem objects
-        source_items = [
-            SourceItem(source_id=video["videoId"], source_type=SourceType.YOUTUBE_VIDEO)
-            for video in existing_videos
-        ]
+        source_items = []
+        for video in existing_videos:
+            item = SourceItem(
+                source_id=video["videoId"], 
+                source_type=SourceType.YOUTUBE_VIDEO,
+                intrinsic_metadata={
+                    "youtube_title": video.get("title", {}).get("runs", [{}])[0].get("text", "Unknown Title"),
+                    "youtube_playlist_id": self.playlist_id
+                }
+            )
+            source_items.append(item)
         
         logging.info(f"Discovered {len(source_items)} total items for playlist {self.playlist_id}.")
         return source_items
+
+    def get_transcript(self, source_item: SourceItem, force_redownload: bool = False) -> Optional[Path]:
+        """
+        Gets the path to the transcript file for a SourceItem, downloading it if necessary.
+
+        Args:
+            source_item: The SourceItem for which to get the transcript.
+            force_redownload: If True, will download the transcript even if a cached file exists.
+
+        Returns:
+            The Path to the transcript file (JSON), or None if no transcript is found.
+        """
+        if source_item.source_type != SourceType.YOUTUBE_VIDEO:
+            return None
+
+        video_id = source_item.source_id
+        json_path = self.raw_transcripts_dir / f"{video_id}.json"
+        srt_path = self.raw_transcripts_dir / f"{video_id}.srt"
+
+        # Check for existing JSON or SRT file
+        if not force_redownload:
+            if json_path.exists():
+                logging.info(f"Found cached raw transcript: {json_path}")
+                return json_path
+            if srt_path.exists():
+                logging.info(f"Found cached SRT transcript: {srt_path}")
+                return srt_path
+
+        try:
+            logging.info(f"Downloading raw transcript for: {video_id}")
+            transcript_list = YouTubeTranscriptApi.get_transcript(video_id, languages=["en"])
+
+            with open(json_path, "w", encoding="utf-8") as f:
+                json.dump(transcript_list, f, indent=2)
+            logging.info(f"Successfully saved raw transcript to: {json_path}")
+            return json_path
+        except (NoTranscriptFound, TranscriptsDisabled):
+            logging.warning(f"Skipped: No transcript found for video {video_id}.")
+            return None
+        except Exception:
+            logging.exception(f"An error occurred during transcript download for {video_id}")
+            return None
+
 
 if __name__ == '__main__':
     # Example usage and testing
@@ -108,9 +170,17 @@ if __name__ == '__main__':
 
     if discovered_items:
         print(f"\nSuccessfully discovered {len(discovered_items)} items.")
-        print("Here are the first 5:")
-        for item in discovered_items[:5]:
-            print(f"  - ID: {item.source_id}, Type: {item.source_type.value}")
+        print("--- Testing Transcript Download ---")
+        # Test with a known video that should have a transcript
+        test_item = next((item for item in discovered_items if item.source_id == '_FEo9XSSWdU'), None)
+        if test_item:
+            transcript_path = youtube_source.get_transcript(test_item)
+            if transcript_path and transcript_path.exists():
+                print(f"Successfully got transcript for {test_item.source_id} at: {transcript_path}")
+                # Clean up the downloaded file for subsequent clean test runs
+                transcript_path.unlink()
+            else:
+                print(f"Failed to get transcript for {_FEo9XSSWdU}")
     else:
         print("No items were discovered.")
 
