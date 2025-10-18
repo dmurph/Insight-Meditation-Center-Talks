@@ -1,0 +1,23 @@
+# The number of days to wait after a video is published before processing.
+# This allows time for metadata to appear in external sources.
+metadata_wait_days_delay: 2
+
+# A list of methods for discovering SourceItems. The orchestrator will
+# run all of these to compile a master list of items to process.
+discovery_sources:
+  - type: youtube_playlist
+    playlist_id: "UUGliqsod-tQoGiHahxS9Wig" # IMC uploads playlist
+
+  - type: audiodharma_scrape
+    # This source finds YouTube IDs from the audiodharma site itself.
+    # No extra config needed as it uses the cached data.
+
+# A list of metadata providers to query for each SourceItem.
+# They are queried in order; data from later providers can override earlier ones.
+metadata_providers:
+  - type: audiodharma
+    # No specific config needed, uses the cache.
+
+  - type: youtube_api
+    # Future enhancement: use the YouTube API as another metadata source.
+    api_key: "${YOUTUBE_API_KEY}" # Example of using env variables
