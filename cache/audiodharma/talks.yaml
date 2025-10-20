@@ -1,3 +1,11 @@
+- youtube_id: UrvYHq946Fs
+  talks:
+  - title: 10 Feet to Happiness
+    id: 24035
+    date: '2025-10-19'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24035/20251019-Gil_Fronsdal-IMC-10_feet_to_happiness.mp3
 - youtube_id: EiViKPwgBN0
   talks:
   - title: 'Guided Meditation: Global Awareness'
@@ -28,18 +36,18 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24009/20251016-Gil_Fronsdal-IMC-dharmette_eightfold_path_4_of_10_holistic_speech.mp3
 - youtube_id: _FEo9XSSWdU
   talks:
-  - title: 'Dharmette: PR Campaign for Non-Hatred'
-    id: 24005
-    date: '2025-10-15'
-    speaker_id: 231
-    start_time_seconds: 0
-    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24005/20251015-Matthew_Brensilver-IMC-dharmette_pr_campaign_for_non-hatred.mp3
   - title: 'Guided Meditation: Relaxing all clinging'
     id: 24004
     date: '2025-10-15'
     speaker_id: 231
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24004/20251015-Matthew_Brensilver-IMC-guided_meditation_relaxing_all_clinging.mp3
+  - title: 'Dharmette: PR Campaign for Non-Hatred'
+    id: 24005
+    date: '2025-10-15'
+    speaker_id: 231
+    start_time_seconds: 1753
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24005/20251015-Matthew_Brensilver-IMC-dharmette_pr_campaign_for_non-hatred.mp3
 - youtube_id: r7Is29siyZM
   talks:
   - title: 'Guided Meditation: Radiating Love'
