@@ -1,3 +1,31 @@
+- youtube_id: pH47jujKaXE
+  talks:
+  - title: 'Guided Meditaiton: Reassuring Breath'
+    id: 24074
+    date: '2025-10-24'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24074/20251024-Gil_Fronsdal-IMC-guided_meditaiton_reassuring_breath.mp3
+  - title: 'Dharmette: Eightfold Path (10 of 10) Holistic Knowledge and Release'
+    id: 24075
+    date: '2025-10-24'
+    speaker_id: 1
+    start_time_seconds: 1898
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24075/20251024-Gil_Fronsdal-IMC-dharmette_eightfold_path_10_of_10_holistic_knowledge_and_release.mp3
+- youtube_id: 07f_ur1WiPQ
+  talks:
+  - title: 'Guided Meditation: Awareness Including Everything'
+    id: 24069
+    date: '2025-10-23'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24069/20251023-Gil_Fronsdal-IMC-guided_meditation_awareness_including_everything.mp3
+  - title: 'Dharmette: Eightfold path (9 of 10) Holistic Samadhi'
+    id: 24070
+    date: '2025-10-23'
+    speaker_id: 1
+    start_time_seconds: 1898
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24070/20251023-Gil_Fronsdal-IMC-dharmette_eightfold_path_9_of_10_holistic_samadhi.mp3
 - youtube_id: _sbexdYdans
   talks:
   - title: 'Guided Meditation: Giving Time to Give Attention'
