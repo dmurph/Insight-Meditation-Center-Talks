@@ -1,0 +1,88 @@
+---
+"date": "2025-10-21"
+"speaker": "Gil Fronsdal"
+"speaker_url": "https://www.audiodharma.org/speakers/1"
+"talk_urls":
+- "https://www.audiodharma.org/talks/24057"
+- "https://www.audiodharma.org/talks/24058"
+"title": "Guided Meditation: Quality of Our Inner Life; Eightfold Path (7 of 10) Holistic\
+  \ Effort"
+"video_url": "https://www.youtube.com/watch?v=1eDe2YKvAtY"
+---
+
+
+*This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation: Quality of Our Inner Life; Eightfold Path (7 of 10) Holistic Effort](https://www.youtube.com/watch?v=1eDe2YKvAtY). It likely contains inaccuracies.*
+
+The following talk was given by [Gil Fronsdal](https://www.audiodharma.org/speakers/1) at the Insight Meditation Center in Redwood City, California. Please visit the website [www.audiodharma.org](https://www.audiodharma.org) for more information.
+
+
+# Guided Meditation: Quality of Our Inner Life; Eightfold Path (7 of 10) Holistic Effort
+
+## Guided Meditation: Quality of Our Inner Life ([link](https://www.audiodharma.org/talks/24057))
+
+Good morning and our good day. As we get ready for this meditation practice, I'd like to mention that one of the primary characteristics of doing insight meditation practice, Buddhist meditation practice, is that we are learning to care for, take primary responsibility for, the quality of our inner life. We don't contract that out to other people. We don't look towards others or circumstances in the world to caretake the quality of our inner life. Rather, we learn to do it for ourselves. We learn how to monitor our inner life. We learn how to care for it. We learn how to avoid the mental, emotional, inner activities that are harmful to ourselves, that lower the quality of our inner life.
+
+The inner life, the way we care for it, is understood in Buddhism to be how we act, how we mentally act. Just like there's action in body and speech, there are mental actions, mental doings that we do. Many people want to do meditation because they do it as a non-doing. Finally, they can rest and not be doing all the time. But we should be very careful to not then act on the potential, the capacity we have to directly care for our inner life by how we act with our mind or hearts.
+
+It's possible to learn to act with our minds as a wonderful artist, a craftsperson, someone who has trained themselves to do something very beautiful and quite lovely in a calm, adept way. Sometimes we enjoy watching someone who has become quite skilled in their art or craft and the simplicity, the calm, the clarity, the even the elegance somehow of how they act. So we're becoming craftspersons of our own mind.
+
+How we act is in our own hands, and we're learning to act calmly, peacefully, act in such a way that we ourselves are inspired by how we act. Many people find this hard because we identify so strongly with the thoughts, the impulses, the intentions, the mind, that we think that this is the way things are. But if you want to learn a physical skill that requires the hands, we can train the hands to become skilled and adept. And maybe it's easier because we don't identify with the hands as being the source, the one who's in control. The training of the hands begins in the mind, but we can also train the mind.
+
+So as we do this meditation, think of it this way: that you're becoming the caretaker of your own inner life by what you do with your mind, how you think, what you think about, what you're motivated by, what you're trying to accomplish, get rid of something, fix something, change something. If you're judging, if you're believing thoughts which are debilitating, these are all actions of the mind. And whether or not your mind is telling you the truth, how you hold the thoughts, how you speak the thoughts, how you know this can be done calmly, peacefully, slowly. It can be done with awareness, with presence.
+
+And this is what we add. We offer awareness, mindfulness to what's happening now, here and now. But we offer it calmly. We offer it so that we're actively monitoring, noticing when the mind starts doing the things which decrease the quality of the inner life, and we choose what increases it. Sometimes simply by calmly knowing what's happening. Sometimes by taking a step away from impulses and recognizing it. This is how it is without judgment, without being for and against.
+
+So to begin the doing of caring for the inner life from the inside out with the mind alert, sensitive, attentive, adjust your meditation posture calmly, caringly. Feel your body to see if there's ways to change your posture, small little adjustments.
+
+And if your eyes are open, then with care and love, maybe allow your eyes to close.
+
+And then engage. Engage yourself, the mind. Instruct your mind calmly, as if you have all the time in the world, for your body to take a few long, slow, deep breaths. And you calmly feel the body, the torso, as you do so. In a peaceful, unhurried way, as you exhale, relax your body.
+
+And I'll repeat the word calmly many times. It's a very significant thing to do, to do things in the mind calmly. Calmly let your breathing return to normal. And calmly scan your body to see if there are more places you can relax. Calmly relax.
+
+Then settle your awareness into the body's experience of breathing. As if you have all the time in the world, as if it's the only thing to do. Calmly experience the inhale. Calmly relax with the exhale.
+
+And whatever is happening in the present for you, whatever is happening in your mind or heart, can you know it calmly? And if what your mind is doing—thinking, urging you—if you believe it doesn't serve you well, in calmly knowing it, maybe you can step away from it, disengage. Maybe let go of what doesn't serve you, doesn't serve the quality of your inner life.
+
+Then, in a way that supports the quality of your inner life, begin again with breathing. Awareness of breathing. Kind awareness. Compassionate awareness. Generous awareness. So that practicing meditation is an ongoing training to meet the moment beautifully, calmly.
+
+Whatever your mind is up to right now, does it support a good quality inner life? Can you adjust what your mind does so the doing inspires the best in you to come out? So that caring for the quality of your inner life inspires you, moves you to wholesome mental actions.
+
+And as we come to the end of the sitting, similar to how you might put on clean and your best clothes if there was going to be a special visitor, with the calm or settledness you have now, can you awaken the best qualities of your inner life? What you're capable of, of kindness, of joy, peace, love. Not to make the mind busy, but the opposite. To bring forth aspects of your inner life which inspire a settledness, an openness, a calmness.
+
+And then with the eyes of goodwill, with a heart of goodwill, imagine yourself gazing upon this world kindly, calmly, gazing upon a suffering world and gazing upon it with love and compassion, with care, wishing everyone well.
+
+May everyone have a satisfying, inspiring, meaningful inner life. May everyone enjoy their inner life, their heart, their mind. May it be a refuge and a place of peace. May everyone find an inspiration in the goodness that's within.
+
+May all beings be happy. May all beings be safe. May all beings be peaceful. May all beings be free of suffering. May all beings be filled with goodness and wholesomeness.
+
+Thank you.
+
+## Dharmette: Eightfold path (7 of 10) Holistic Effort ([link](https://www.audiodharma.org/talks/24058))
+
+Hello and welcome to the seventh talk now on the Noble Eightfold Path. This time, it's the sixth factor, which is usually called Right Effort, and I'm calling it Holistic Effort. Here's where, for my mind, my love of words and wordplay, that in calling it holistic, it's related to what is for ourselves as a whole and the wholeness of ourselves.
+
+The primary, simple definition of holistic Right Effort is to engage in those activities, those actions which are wholesome, that are part of the whole, and to avoid those activities which are unwholesome, that are not part of the whole. It turns out that when there's anything we do with clinging, it cuts us off from the whole because of its preoccupation, the focus, the attention that's there. Anytime there is hatred, it cuts us off from the whole. Anytime there's greed, anytime there's delusion, ignorance of the whole, then we're cut off from the whole. But there are certain things that connect us to the whole, that are part of the whole. The Buddhist tradition calls that wholesome effort—to do what is wholesome, do what is healthy.
+
+This holistic effort, the effort we're talking about here primarily, is the activities of the mind, or if you prefer, the activities of our inner life. So that it's not just the mental in a sense; it's heart-full, it's belly-full, it's all of who we are on the inside. We can be the final, ultimate caretaker of our inner life. If we don't care for it, if we don't care for our inner life and support it to flower, to grow in satisfying, meaningful, happy ways, it maybe won't. Maybe then it just has to do with the vagaries of experience, how it feels on the inside. And maybe how we feel on the inside will be somewhat shallow. Winning lots and lots of money in a lottery might bring a lot of thrill, excitement, and a kind of joy and happiness, but it probably is not so deep. It's said that most people who win big lotteries are less happy a year later than they were before.
+
+But to discover how to win the inner lottery, how to tap into our capacity for a deep sense of well-being, an upwelling sense of well-being—that is what holistic effort is about. It is to be able to make that distinction, to see clearly: this is debilitating and this is enlivening. This is unhealthy; this is healthy. This undermines the quality of my inner life; this enhances it. There is a learning to make a distinction that's really important in the dharma. Some people might complain that this is dualistic, and maybe so, but sometimes having a very simple dichotomy to find our way with makes it a lot easier. If you're biking someplace, to make the biking easier, you want to bike where the asphalt is smooth and flat. If part of the road is all bumpy with potholes, to be able to distinguish between where it's smooth and where it's not just makes for good, safe biking. So that's all you need to know in the moment: where it's smooth and where it's really rough.
+
+So where is it smooth on the inside? Where is it calm? Where is it peaceful? Where is it inspiring? Where does it bring you joy? And where is it nourishing? Where does it fill you with a sense of goodness? This is what we're caretaking and learning how to do here. It's a hard thing to do because some people are so identified with their thoughts, their inner impulses, their emotions, their feelings, that they can't stand outside of them and see them as being contingent, as being adjustable, seeing that we can find a way to live from the wholesome. Some people are so embedded in fear or anger or aversion that they even have an aversion to their aversion, and so it just perpetuates itself.
+
+The idea in Buddhist practice is to discover how to meet experience in a healthy way, in a wholesome way. One way we do that is not to identify, not to define ourselves by anything in the inner life. It's part of us, for sure. We're taking responsibility, we're tracking it, we're knowing it. But we're stepping out of it so that the way we see the world isn't as if we're embedded in it, as if we are sadness or grief. We are anger. The language of the Buddha is that it isn't a mind that's angry; it's a mind *with* anger. Not a mind that is greedy; it's a mind *with* greed. As soon as you add the word "with," it's like stepping back and then seeing the whole picture from a place of awareness—but awareness that hopefully you can adjust just enough, calmly, clearly, so that it's enjoyable. It's healthy. It feels like medicine almost for you to be calmly and clearly knowing, "Oh, this is what's happening. There's a lot of fear. There's a lot of anger." The capacity to step away from it, to gaze upon it calmly, this is a phenomenal thing to do. And then maybe to evoke generosity, to evoke kindness, to evoke faith and confidence. There are a lot of positive inner qualities that are part of the whole.
+
+When I was young in Buddhism, I had this idea that it was best not to do anything at all but just to be aware. That anything else is manipulative, anything else is being too busy, anything else is a kind of greed for something. I think that idea served me well because I really learned to step away and not be reactive, not be caught in what I was trying to do. But a time came when I got to see clearly that I am the custodian of my inner life. And it's possible to bring forth wholesomeness. It's possible to recognize when there's goodness, when there's inner health, to recognize it and to support it, to let it grow, to expand it, to suffuse myself with it. Not because it's greedy, but because that's what it wants to do. The wholesome kind of wants to grow, wants to have its freedom to move through us and fill us, to become part of the whole, to be the whole.
+
+So part of this Noble Eightfold Path is to become the custodian of our inner life and to be able to distinguish the activities of the mind which are unhealthy or debilitating or drain us or make us tense, stress us. To see what they are and to be able to put them aside, or to be able to know they're coming and say, "Nope, no thank you, I don't need to do that." On the other side, to be able to recognize, "Oh, now look at that. Now there's a... it feels good in there. It's a nice place. It feels healthy and wholesome. It's not dramatic, it's not something good enough to tell my friends, but it's nice. Let's support this. Let's not get distracted from it. Let's not get pulled into all the things that I have to do and all the things that I have to react to, to not feel at home and settled in this wonderful way of being. Let me grow. Let me find a way of how to live from this healthy side of myself so that I can stay close to it. Can I take care of all my responsibilities from this healthy inner life? If I'm calm and peaceful, can I take care of everything from that place, or do I have to sacrifice it and get tense in order to take care of everything?" I hope that what you learn is you don't have to sacrifice your calm and peace. Nothing's worth doing that for, because you can do things better calmly and peacefully.
+
+The language here is "effort," "engagement," but it's a form of action or activity. "Action" maybe suggests too much willpower over it; "activity" is more what's happening on its own. But these two come together because we have some role in adjusting our inner life. If nothing else, maybe we can't change what is happening, but we can change how we're relating to it, how we meet it with awareness. And that can make the world of difference. That awareness meets it calmly. That awareness meets it stepping away and has a bird's-eye view of the situation. "This is me confused." That the awareness makes space for the experience. That awareness and mindfulness calmly know what it is without spinning out in a lot of thoughts. That's an action that we can do, and to do it in such a way that we feel nourished by it, feel inspired even by it.
+
+It is possible to do things in a beautiful way on the inside, in an artistic way, developing a craft. There's no reason why you can't develop your inner life in the same way as you develop a physical skill with your hands or your body. A lot of training, a lot of training, but you can develop something in the mind. You can develop the wholesome qualities of the mind, the wholesome activities of mind in order to meet the world, to encounter the next moment. This is not Pollyannaish[^1], it's not overriding what's going on here, but rather to learn how to meet whatever is happening in an honest and clear way, in a way that inspires you, that's healthy, and to train oneself so it becomes kind of second nature.
+
+I'm inspired by the people who do have physical limitations, but somehow the physical limitation doesn't limit them. I met a woman once whose right arm, I think, only went down to the elbow, and her left arm didn't really have a hand. It had something like a little thumb, like a little stub with a teeny thumb. I watched her write something with a pen with both arms. And she had beautiful handwriting. It was exquisite. So I commented, I just said, "That's beautiful handwriting." Maybe she's used to comments like that or something, surprises. But she just lovingly said to me, "It's all in the mind." I guess people say things like that to her because they don't expect someone with this handicap, with hands missing and arms missing, to be able to write well. Her explanation: "It's all in the mind. Your mind is a powerful thing. It's all your mind and how you care for it. You can care for it well."
+
+And that's what holistic effort is about, learning to do that work. So thank you very much. And we have two more factors of the Eightfold Path: Right Mindfulness and Right Concentration, or Wholesome Mindfulness and Wholesome Concentration. Thank you.
+
+---
+[^1]: **Pollyannaish:** The original transcript said "polyianish." This has been corrected to "Pollyannaish," which means having an irrepressibly optimistic and cheerful outlook, sometimes to the point of being naive.

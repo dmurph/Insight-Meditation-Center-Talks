@@ -1,3 +1,19 @@
+- youtube_id: v9VUIR2cnpc
+  talks:
+  - title: 'Stories & Buddhism: Sakka, The 5 Hindrances, and More'
+    id: 24079
+    date: '2025-10-26'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24079/20251026-Gil_Fronsdal-IMC-stories_buddhism_sakka_the_5_hindrances_and_more.mp3
+- youtube_id: MILcafn1tQg
+  talks:
+  - title: Buddhist Spiritual Care for Our Times
+    id: 24080
+    date: '2025-10-25'
+    speaker_id: 241
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24080/20251025-Dawn_Neal-sati-buddhist_spiritual_care_for_our_times.mp3
 - youtube_id: pH47jujKaXE
   talks:
   - title: 'Guided Meditaiton: Reassuring Breath'
@@ -54,6 +70,14 @@
     speaker_id: 1
     start_time_seconds: 1809
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24058/20251021-Gil_Fronsdal-IMC-dharmette_eightfold_path_7_of_10_holistic_effort.mp3
+- youtube_id: VV_LWpXxaAA
+  talks:
+  - title: 'Lean in Softly: Listening as Daily Practice'
+    id: 24056
+    date: '2025-10-20'
+    speaker_id: 240
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24056/20251020-Diana_Clark-IMC-lean_in_softly_listening_as_daily_practice.mp3
 - youtube_id: Be2OLaXT5v0
   talks:
   - title: 'Guided Meditation: Breathing with the Whole'
@@ -68,14 +92,6 @@
     speaker_id: 1
     start_time_seconds: 1782
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24053/20251020-Gil_Fronsdal-IMC-dharmette_eightfold_path_6_of_10_holistic_living.mp3
-- youtube_id: VV_LWpXxaAA
-  talks:
-  - title: 'Lean in Softly: Listening as Daily Practice'
-    id: 24056
-    date: '2025-10-20'
-    speaker_id: 240
-    start_time_seconds: 0
-    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24056/20251020-Diana_Clark-IMC-lean_in_softly_listening_as_daily_practice.mp3
 - youtube_id: UrvYHq946Fs
   talks:
   - title: The Ten Ways of Wholesome Action

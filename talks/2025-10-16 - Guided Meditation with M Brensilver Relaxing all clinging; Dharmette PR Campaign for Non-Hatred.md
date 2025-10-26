@@ -3,13 +3,12 @@
 "speaker": "Matthew Brensilver"
 "speaker_url": "https://www.audiodharma.org/speakers/231"
 "talk_urls":
-- "https://www.audiodharma.org/talks/24005"
 - "https://www.audiodharma.org/talks/24004"
+- "https://www.audiodharma.org/talks/24005"
 "title": "Guided Meditation with M Brensilver: Relaxing all clinging; Dharmette: PR\
   \ Campaign for Non-Hatred"
 "video_url": "https://www.youtube.com/watch?v=_FEo9XSSWdU"
 ---
-
 
 *This is an AI-generated transcript from auto-generated subtitles for the video [Guided Meditation with M Brensilver: Relaxing all clinging; Dharmette: PR Campaign for Non-Hatred](https://www.youtube.com/watch?v=_FEo9XSSWdU). It likely contains inaccuracies.*
 
