@@ -68,6 +68,14 @@
     speaker_id: 1
     start_time_seconds: 1782
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24053/20251020-Gil_Fronsdal-IMC-dharmette_eightfold_path_6_of_10_holistic_living.mp3
+- youtube_id: VV_LWpXxaAA
+  talks:
+  - title: 'Lean in Softly: Listening as Daily Practice'
+    id: 24056
+    date: '2025-10-20'
+    speaker_id: 240
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24056/20251020-Diana_Clark-IMC-lean_in_softly_listening_as_daily_practice.mp3
 - youtube_id: UrvYHq946Fs
   talks:
   - title: The Ten Ways of Wholesome Action
@@ -160,6 +168,14 @@
     speaker_id: 1
     start_time_seconds: 1847
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/23985/20251013-Gil_Fronsdal-IMC-dharmette_eightfold_path_1_of_10_path_of_wholeness.mp3
+- youtube_id: N8aUEk1A9O4
+  talks:
+  - title: Peach Dukkha
+    id: 23990
+    date: '2025-10-13'
+    speaker_id: 118
+    start_time_seconds: 0
+    mp3_url: null
 - youtube_id: wQ2bYQdrTwE
   talks:
   - title: Eightfold Complete Path
