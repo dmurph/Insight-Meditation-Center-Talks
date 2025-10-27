@@ -22,23 +22,25 @@ class PageResult(Enum):
     KNOWN = 3
 
 
+logger = logging.getLogger(__name__)
+
 def scrape_page(page_num, existing_data, speakers_data) -> PageResult:
     """Scrapes a single page of audiodharma.org and returns a status: 'new', 'updated', or 'known'."""
     time.sleep(random.uniform(0.05, 1.0))
     url = f"https://www.audiodharma.org/talks?page={page_num}"
-    logging.info(f"Scraping {url}...")
+    logger.info(f"Scraping {url}...")
     try:
         response = requests.get(url)
         response.raise_for_status()
     except requests.exceptions.RequestException as e:
-        logging.error(f"Error fetching page {page_num}: {e}")
+        logger.error(f"Error fetching page {page_num}: {e}")
         return PageResult.END
 
     response.encoding = "utf-8"
     soup = BeautifulSoup(response.text, "html5lib")
     rows = soup.find_all("tr")
     if not rows or len(rows) <= 1:
-        logging.warning("No data rows found in the table.")
+        logger.warning("No data rows found in the table.")
         return PageResult.END
 
     did_update = False
@@ -78,12 +80,12 @@ def scrape_page(page_num, existing_data, speakers_data) -> PageResult:
         try:
             speaker_id = int(speaker_url.split("/")[-1])
         except (ValueError, IndexError):
-            logging.warning(f"Could not parse speaker ID from URL: {speaker_url}")
+            logger.warning(f"Could not parse speaker ID from URL: {speaker_url}")
             continue
         try:
             talk_id = int(talk_url.split("/")[-1])
         except (ValueError, IndexError):
-            logging.warning(f"Could not parse talk ID from URL: {talk_url}")
+            logger.warning(f"Could not parse talk ID from URL: {talk_url}")
             continue
         talk_date = date_tag.text.strip().replace(".", "-")
 
@@ -125,13 +127,13 @@ def scrape_page(page_num, existing_data, speakers_data) -> PageResult:
                 talk_exists = True
                 if existing_talk != talk_entry:
                     existing_talks[i] = talk_entry
-                    logging.info(f"Updated talk: {talk_entry['title']}")
+                    logger.info(f"Updated talk: {talk_entry['title']}")
                     did_update = True
                 break
 
         if not talk_exists:
             existing_talks.append(talk_entry)
-            logging.info(f"Added talk: {talk_entry['title']}")
+            logger.info(f"Added talk: {talk_entry['title']}")
             did_append = True
 
     if not page_has_talks:
@@ -146,7 +148,7 @@ def save_talks_data(data, output_file):
     output_dir = os.path.dirname(output_file)
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
-        logging.info(f"Created output directory: {output_dir}")
+        logger.info(f"Created output directory: {output_dir}")
 
     # Sort talks within each video by start time
     for video_id in data:
@@ -157,7 +159,7 @@ def save_talks_data(data, output_file):
         list(data.values()), key=lambda x: x["talks"][0]["date"], reverse=True
     )
 
-    logging.info(f"Saving {output_file}")
+    logger.info(f"Saving {output_file}")
     with open(output_file, "w", encoding="utf-8") as f:
         yaml.safe_dump(
             sorted_data,
@@ -167,7 +169,7 @@ def save_talks_data(data, output_file):
             allow_unicode=True,
             encoding="utf-8",
         )
-    logging.info(f"Saved {output_file}")
+    logger.info(f"Saved {output_file}")
 
 
 def save_speakers_data(data, output_file):
@@ -176,7 +178,7 @@ def save_speakers_data(data, output_file):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    logging.info(f"Saving {output_file}")
+    logger.info(f"Saving {output_file}")
     with open(output_file, "w", encoding="utf-8") as f:
         yaml.safe_dump(
             data,
@@ -186,7 +188,7 @@ def save_speakers_data(data, output_file):
             allow_unicode=True,
             encoding="utf-8",
         )
-    logging.info(f"Saved {output_file}")
+    logger.info(f"Saved {output_file}")
 
 
 def run_scraper(
@@ -203,32 +205,32 @@ def run_scraper(
 
     pages_till_save = save_after_pages
     if os.path.exists(talks_output_file):
-        logging.info(f"Loading existing talks data from {talks_output_file}...")
+        logger.info(f"Loading existing talks data from {talks_output_file}...")
         with open(talks_output_file, "r", encoding="utf-8") as f:
             existing_yaml = yaml.safe_load(f)
             if existing_yaml:
                 for entry in existing_yaml:
                     all_talks_data[entry["youtube_id"]] = entry
     if os.path.exists(speakers_output_file):
-        logging.info(f"Loading existing speakers data from {speakers_output_file}...")
+        logger.info(f"Loading existing speakers data from {speakers_output_file}...")
         with open(speakers_output_file, "r", encoding="utf-8") as f:
             loaded_speakers = yaml.safe_load(f)
             if loaded_speakers:
                 speakers_data = {int(k): v for k, v in loaded_speakers.items()}
 
     assert stop_after_known_pages > 0
-    logging.info(
+    logger.info(
         f"Scraping pages until the end or {stop_after_known_pages} pages of known talks are processed"
     )
     for i in range(start_page, start_page + max_pages):
         page_status = scrape_page(i, all_talks_data, speakers_data)
         if page_status == PageResult.END:
-            logging.info("No more talks found.")
+            logger.info("No more talks found.")
             break
         if page_status == PageResult.KNOWN:
             stop_after_known_pages -= 1
             if stop_after_known_pages <= 0:
-                logging.info(
+                logger.info(
                     f"{stop_after_known_pages} pages of known data processed, stopping."
                 )
                 break
@@ -243,7 +245,7 @@ def run_scraper(
         save_talks_data(all_talks_data, talks_output_file)
         save_speakers_data(speakers_data, speakers_output_file)
 
-    logging.info(f"Scraped {len(all_talks_data)} unique video entries.")
-    logging.info(f"Final talks data saved to {talks_output_file}.")
-    logging.info(f"Final speakers data saved to {speakers_output_file}.")
-    logging.info("Done.")
+    logger.info(f"Scraped {len(all_talks_data)} unique video entries.")
+    logger.info(f"Final talks data saved to {talks_output_file}.")
+    logger.info(f"Final speakers data saved to {speakers_output_file}.")
+    logger.info("Done.")

@@ -1,6 +1,8 @@
 from dataclasses import dataclass, field
 from enum import Enum
-from typing import Any, Dict
+from typing import Any, Dict, Optional
+from pydantic import BaseModel, computed_field
+
 
 class SourceType(Enum):
     """Enum for the different types of primary content sources."""

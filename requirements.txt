@@ -19,4 +19,4 @@ yt-dlp==2025.6.30
 unidecode
 nltk
 thefuzz==0.22.1
-youtube_api_tools @ git+https://github.com/dmurph/YouTube-Data-API-v3-Tools@main
+pydantic
