@@ -36,6 +36,17 @@ class AudioDharmaScraper:
             if not title_tag or not speaker_tags or not date_tag:
                 continue
 
+            talk_href = title_tag["href"]
+            if "series" in talk_href.split("/"):
+                logging.error(f"Series are not supported yet: {talk_href}")
+                continue
+            try:
+                talk_id = int(talk_href.split("/")[-1])
+            except (ValueError, IndexError):
+                logging.warning(f"Could not parse talk ID from URL: {talk_href}")
+                continue
+            logging.info(f"Processing talk at {talk_href}");
+
             speaker_ids = []
             for speaker_tag in speaker_tags:
                 speaker_href = speaker_tag["href"]
@@ -67,13 +78,6 @@ class AudioDharmaScraper:
                 mobile_video_link = row.select_one('a.fa-video[href*="youtube.com"]')
                 youtube_url = mobile_video_link.get("href") if mobile_video_link else None
 
-            talk_href = title_tag["href"]
-            try:
-                talk_id = int(talk_href.split("/")[-1])
-            except (ValueError, IndexError):
-                logging.warning(f"Could not parse talk ID from URL: {talk_href}")
-                continue
-            logging.info(f"Processing talk at {talk_href}");
 
             if not youtube_url:
                 youtube_id = None
