@@ -12,6 +12,20 @@
     speaker_id: 240
     start_time_seconds: 1923
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24100/20251029-Diana_Clark-IMC-dharmette_practicing_off_the_cushion_on_purpose_3_5_monotasking.mp3
+- youtube_id: _xuRDYkncPI
+  talks:
+  - title: 'Dharmette: attention, awareness, mindfulness'
+    id: 24107
+    date: '2025-10-29'
+    speaker_id: 231
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24107/20251029-Matthew_Brensilver-IMC-dharmette_attention_awareness_mindfulness.mp3
+  - title: 'Guided Meditation: Relax and release'
+    id: 24106
+    date: '2025-10-29'
+    speaker_id: 231
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24106/20251029-Matthew_Brensilver-IMC-guided_meditation_relax_and_release.mp3
 - youtube_id: FZ3jEhDwA-E
   talks:
   - title: 'Guided Meditation: Being Embodied'
