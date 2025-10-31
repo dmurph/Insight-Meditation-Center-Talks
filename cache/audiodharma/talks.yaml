@@ -47,14 +47,14 @@
     date: '2025-10-27'
     speaker_id: 240
     start_time_seconds: 0
-    mp3_url: null
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24094/20251027-Diana_Clark-IMC-guided_meditation_letting_things_be.mp3
   - title: 'Dharmette: Practicing Off the Cushion, On Purpose (1/5): Curating Our
       Attention'
     id: 24095
     date: '2025-10-27'
     speaker_id: 240
     start_time_seconds: 1908
-    mp3_url: null
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24095/20251027-Diana_Clark-IMC-dharmette_practicing_off_the_cushion_on_purpose_1_5_curating_our_attention.mp3
 - youtube_id: v9VUIR2cnpc
   talks:
   - title: 'Stories & Buddhism: Sakka, The 5 Hindrances, and More'
