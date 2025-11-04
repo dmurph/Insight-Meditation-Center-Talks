@@ -1,3 +1,17 @@
+- youtube_id: yNSmqA9rNA0
+  talks:
+  - title: 'Guided Meditation: Here and Now, Onward Flow'
+    id: 24128
+    date: '2025-11-02'
+    speaker_id: 4
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24128/20251102-Kim_Allen-IMC-guided_meditation_here_and_now_onward_flow.mp3
+  - title: Qualities of the Dharma
+    id: 24129
+    date: '2025-11-02'
+    speaker_id: 4
+    start_time_seconds: 2067
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24129/20251102-Kim_Allen-IMC-qualities_of_the_dharma.mp3
 - youtube_id: 8cu3f3lEV7Y
   talks:
   - title: 'Guided Meditation: Hearing and Listening'
@@ -42,18 +56,18 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24100/20251029-Diana_Clark-IMC-dharmette_practicing_off_the_cushion_on_purpose_3_5_monotasking.mp3
 - youtube_id: _xuRDYkncPI
   talks:
-  - title: 'Dharmette: attention, awareness, mindfulness'
-    id: 24107
-    date: '2025-10-29'
-    speaker_id: 231
-    start_time_seconds: 0
-    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24107/20251029-Matthew_Brensilver-IMC-dharmette_attention_awareness_mindfulness.mp3
   - title: 'Guided Meditation: Relax and release'
     id: 24106
     date: '2025-10-29'
     speaker_id: 231
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24106/20251029-Matthew_Brensilver-IMC-guided_meditation_relax_and_release.mp3
+  - title: 'Dharmette: attention, awareness, mindfulness'
+    id: 24107
+    date: '2025-10-29'
+    speaker_id: 231
+    start_time_seconds: 1737
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24107/20251029-Matthew_Brensilver-IMC-dharmette_attention_awareness_mindfulness.mp3
 - youtube_id: FZ3jEhDwA-E
   talks:
   - title: 'Guided Meditation: Being Embodied'
@@ -83,6 +97,14 @@
     speaker_id: 240
     start_time_seconds: 1908
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24095/20251027-Diana_Clark-IMC-dharmette_practicing_off_the_cushion_on_purpose_1_5_curating_our_attention.mp3
+- youtube_id: Ovj20q5fw3M
+  talks:
+  - title: Faith in Nibbana
+    id: 24087
+    date: '2025-10-27'
+    speaker_id: 466
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24087/20251027-Ajahn_Kovilo-IMC-faith_in_nibbana.mp3
 - youtube_id: v9VUIR2cnpc
   talks:
   - title: 'Stories & Buddhism: Sakka, The 5 Hindrances, and More'
