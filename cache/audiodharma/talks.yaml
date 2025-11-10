@@ -82,6 +82,14 @@
     speaker_id: 1
     start_time_seconds: 1832
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24131/20251103-Gil_Fronsdal-IMC-dharmette_emptiness_1_of_5_introducing_emptiness.mp3
+- youtube_id: 93MQTKhXuQY
+  talks:
+  - title: What's In the Way Is the Way
+    id: 24133
+    date: '2025-11-03'
+    speaker_id: 240
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24133/20251103-Diana_Clark-IMC-what_s_in_the_way_is_the_way.mp3
 - youtube_id: yNSmqA9rNA0
   talks:
   - title: 'Guided Meditation: Here and Now, Onward Flow'
