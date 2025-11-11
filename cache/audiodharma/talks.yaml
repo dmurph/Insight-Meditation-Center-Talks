@@ -1,3 +1,11 @@
+- youtube_id: soF7Pn-0oPI
+  talks:
+  - title: Abiding in Metta
+    id: 24155
+    date: '2025-11-09'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24155/20251109-Gil_Fronsdal-IMC-making_space_for_an_abode_of_metta.mp3
 - youtube_id: baDflOSzWHI
   talks:
   - title: 'Guided Meditation: Vast Empty Awareness'
@@ -28,18 +36,18 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24143/20251106-Gil_Fronsdal-IMC-dharmette_emptiness_4_of_5_full_emptiness.mp3
 - youtube_id: YfXe_wulTAs
   talks:
-  - title: 'Dharmette: Empathic Resonance'
-    id: 24141
-    date: '2025-11-05'
-    speaker_id: 231
-    start_time_seconds: 0
-    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24141/20251105-Matthew_Brensilver-IMC-dharmette_empathic_resonance.mp3
   - title: 'Guided Meditation: Bright, Steady, Open'
     id: 24140
     date: '2025-11-05'
     speaker_id: 231
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24140/20251105-Matthew_Brensilver-IMC-guided_meditation_bright_steady_open.mp3
+  - title: 'Dharmette: Empathic Resonance'
+    id: 24141
+    date: '2025-11-05'
+    speaker_id: 231
+    start_time_seconds: 1748
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24141/20251105-Matthew_Brensilver-IMC-dharmette_empathic_resonance.mp3
 - youtube_id: hn4-8zurv4Q
   talks:
   - title: 'Guided Meditation: Full Awareness with No Thanks'
