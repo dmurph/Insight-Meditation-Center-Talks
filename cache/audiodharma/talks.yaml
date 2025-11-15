@@ -1,3 +1,17 @@
+- youtube_id: deCXDDQRXGQ
+  talks:
+  - title: 'Guided Meditation: Effortless'
+    id: 24189
+    date: '2025-11-14'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24189/20251114-Gil_Fronsdal-IMC-guided_meditation_effortless.mp3
+  - title: 'Dharmette: Doors of Liberation (5 of 5) In Harmony'
+    id: 24190
+    date: '2025-11-14'
+    speaker_id: 1
+    start_time_seconds: 1892
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24190/20251114-Gil_Fronsdal-IMC-dharmette_doors_of_liberation_5_of_5_in_harmony.mp3
 - youtube_id: d4751BsrVgE
   talks:
   - title: 'Guided Meditation: Harmonizing with Not-Self'
@@ -26,6 +40,20 @@
     speaker_id: 231
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24177/20251112-Matthew_Brensilver-IMC-guided_meditation_activity_and_receptivity.mp3
+- youtube_id: T4IcK5UJtmQ
+  talks:
+  - title: 'Guided Meditaton: Beyond Desire'
+    id: 24168
+    date: '2025-11-12'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24168/20251112-Gil_Fronsdal-IMC-guided_meditaton_beyond_desire.mp3
+  - title: 'Dharmette: Doors of Liberation (3 of 5) The Wishless'
+    id: 24169
+    date: '2025-11-12'
+    speaker_id: 1
+    start_time_seconds: 1850
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24169/20251112-Gil_Fronsdal-IMC-dharmette_doors_of_liberation_3_of_5_the_wishless.mp3
 - youtube_id: O4SjZE6QhcY
   talks:
   - title: 'Guided Meditation: Flowing with the Change'
