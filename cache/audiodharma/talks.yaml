@@ -82,6 +82,14 @@
     speaker_id: 1
     start_time_seconds: 1853
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24157/20251110-Gil_Fronsdal-IMC-dharmette_doors_of_liberation_1_of_5_in_harmony.mp3
+- youtube_id: ZlSmD4uh5Cs
+  talks:
+  - title: From Clinging to Clarity
+    id: 24160
+    date: '2025-11-10'
+    speaker_id: 240
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24160/20251120-Diana_Clark-IMC-from_clinging_to_clarity.mp3
 - youtube_id: soF7Pn-0oPI
   talks:
   - title: Abiding in Metta
