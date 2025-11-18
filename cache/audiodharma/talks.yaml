@@ -1,3 +1,33 @@
+- youtube_id: DrGy0Zul4Js
+  talks:
+  - title: 'Guided Meditation: A Gift to Yourself'
+    id: 24218
+    date: '2025-11-17'
+    speaker_id: 260
+    start_time_seconds: 0
+    mp3_url: null
+  - title: 'Dharmette: Step-by-Step Into the Dharma (1 of 5): Giving Comes First'
+    id: 24219
+    date: '2025-11-17'
+    speaker_id: 260
+    start_time_seconds: 1842
+    mp3_url: null
+- youtube_id: o6e4RuJHM34
+  talks:
+  - title: Metta as Strength
+    id: 24204
+    date: '2025-11-16'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24204/20251116-Gil_Fronsdal-IMC-metta_as_strength.mp3
+- youtube_id: kIuM4joPp6Y
+  talks:
+  - title: What I Wish I Had Known before I Started Chaplaincy Training
+    id: 24214
+    date: '2025-11-16'
+    speaker_id: 505
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24214/20251116-Keith_Wakefield-sati-what_i_wish_i_had_known_before_i_started_chaplaincy_training.mp3
 - youtube_id: deCXDDQRXGQ
   talks:
   - title: 'Guided Meditation: Effortless'
@@ -28,18 +58,18 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24179/20251113-Gil_Fronsdal-IMC-dharmette_doors_of_liberation_4_of_5_emptiness.mp3
 - youtube_id: qksbs2UO2no
   talks:
-  - title: The What and How of Investigation
-    id: 24176
-    date: '2025-11-12'
-    speaker_id: 231
-    start_time_seconds: 0
-    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24176/20251112-Matthew_Brensilver-IMC-the_what_and_how_of_investigation.mp3
   - title: 'Guided Meditation: Activity and Receptivity'
     id: 24177
     date: '2025-11-12'
     speaker_id: 231
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24177/20251112-Matthew_Brensilver-IMC-guided_meditation_activity_and_receptivity.mp3
+  - title: The What and How of Investigation
+    id: 24176
+    date: '2025-11-12'
+    speaker_id: 231
+    start_time_seconds: 1800
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24176/20251112-Matthew_Brensilver-IMC-the_what_and_how_of_investigation.mp3
 - youtube_id: T4IcK5UJtmQ
   talks:
   - title: 'Guided Meditaton: Beyond Desire'
