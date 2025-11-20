@@ -1,17 +1,31 @@
+- youtube_id: lNRuAAnjeyM
+  talks:
+  - title: 'Guided Meditation: Receptive, Awake, Relaxed'
+    id: 24233
+    date: '2025-11-19'
+    speaker_id: 260
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24233/20251119-Shelley_Gault-IMC-guided_meditation_receptive_awake_relaxed.mp3
+  - title: 'Dharmette: Step-By-Step Into the Dharma (3 of 5); Actions Ripple Out'
+    id: 24234
+    date: '2025-11-19'
+    speaker_id: 260
+    start_time_seconds: 1938
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24234/20251119-Shelley_Gault-IMC-dharmette_step-by-step_into_the_dharma_3_of_5_actions_ripple_out.mp3
 - youtube_id: 9oYnqoVDIXY
   talks:
-  - title: 'Guided meditation: Receptive, Awake, Relaxed'
+  - title: 'Guided Meditation: Knowing Experience As It Is'
     id: 24226
     date: '2025-11-18'
     speaker_id: 260
     start_time_seconds: 0
-    mp3_url: null
-  - title: 'Dharmette:  Step by Step Into the Dharma (2 of 5) Actions Ripple Out'
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24226/20251118-Shelley_Gault-IMC-guided_meditation_receptive_awake_relaxed.mp3
+  - title: 'Dharmette:  Step by Step Into the Dharma (2 of 5) Ethical Sensitivity'
     id: 24227
     date: '2025-11-18'
     speaker_id: 260
     start_time_seconds: 1850
-    mp3_url: null
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24227/20251118-Shelley_Gault-IMC-dharmette_step_by_step_into_the_dharma_2_of_5_actions_ripple_out.mp3
 - youtube_id: DrGy0Zul4Js
   talks:
   - title: 'Guided Meditation: A Gift to Yourself'
