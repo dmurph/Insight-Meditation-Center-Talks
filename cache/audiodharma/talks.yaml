@@ -12,6 +12,20 @@
     speaker_id: 260
     start_time_seconds: 1938
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24234/20251119-Shelley_Gault-IMC-dharmette_step-by-step_into_the_dharma_3_of_5_actions_ripple_out.mp3
+- youtube_id: bYvkoMDi6zs
+  talks:
+  - title: 'Dharmette: Rivers are just rivers'
+    id: 24242
+    date: '2025-11-19'
+    speaker_id: 231
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24242/20251119-Matthew_Brensilver-IMC-dharmette_rivers_are_just_rivers.mp3
+  - title: 'Guided Meditation: Ease Makes Letting Go Safer'
+    id: 24241
+    date: '2025-11-19'
+    speaker_id: 231
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24241/20251119-Matthew_Brensilver-IMC-guided_meditation_ease_makes_letting_go_safer.mp3
 - youtube_id: 9oYnqoVDIXY
   talks:
   - title: 'Guided Meditation: Knowing Experience As It Is'
