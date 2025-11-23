@@ -83,6 +83,14 @@
     speaker_id: 260
     start_time_seconds: 1842
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24219/20251117-Shelley_Gault-IMC-dharmette_step-by-step_into_the_dharma_1_of_5_giving_comes_first.mp3
+- youtube_id: 3wB5-yJ4I1U
+  talks:
+  - title: Trusting the Stillness
+    id: 24222
+    date: '2025-11-17'
+    speaker_id: 240
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24222/20251116-Diana_Clark-IMC-trusting_the_stillness.mp3
 - youtube_id: o6e4RuJHM34
   talks:
   - title: Metta as Strength
