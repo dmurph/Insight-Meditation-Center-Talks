@@ -1,3 +1,17 @@
+- youtube_id: QAL7jbZJzDg
+  talks:
+  - title: Exploring the Edges of the Wandering Mind
+    id: 24265
+    date: '2025-11-23'
+    speaker_id: 2
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24265/20251123-Andrea_Fella-IMC-exploring_the_edges_of_the_wandering_mind.mp3
+  - title: Guided Meditation - Exploring the Edges of the Wandering Mind
+    id: 24264
+    date: '2025-11-23'
+    speaker_id: 2
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24264/20251123-Andrea_Fella-IMC-guided_meditation_-_exploring_the_edges_of_the_wandering_mind.mp3
 - youtube_id: 0yne-mZcopU
   talks:
   - title: 'Guided Meditation: Resting in the Wholesome'
