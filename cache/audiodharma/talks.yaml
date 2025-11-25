@@ -1,17 +1,17 @@
 - youtube_id: QAL7jbZJzDg
   talks:
-  - title: Exploring the Edges of the Wandering Mind
-    id: 24265
-    date: '2025-11-23'
-    speaker_id: 2
-    start_time_seconds: 0
-    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24265/20251123-Andrea_Fella-IMC-exploring_the_edges_of_the_wandering_mind.mp3
   - title: Guided Meditation - Exploring the Edges of the Wandering Mind
     id: 24264
     date: '2025-11-23'
     speaker_id: 2
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24264/20251123-Andrea_Fella-IMC-guided_meditation_-_exploring_the_edges_of_the_wandering_mind.mp3
+  - title: Exploring the Edges of the Wandering Mind
+    id: 24265
+    date: '2025-11-23'
+    speaker_id: 2
+    start_time_seconds: 2280
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24265/20251123-Andrea_Fella-IMC-exploring_the_edges_of_the_wandering_mind.mp3
 - youtube_id: 0yne-mZcopU
   talks:
   - title: 'Guided Meditation: Resting in the Wholesome'
@@ -57,18 +57,18 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24234/20251119-Shelley_Gault-IMC-dharmette_step-by-step_into_the_dharma_3_of_5_actions_ripple_out.mp3
 - youtube_id: bYvkoMDi6zs
   talks:
-  - title: 'Dharmette: Rivers are just rivers'
-    id: 24242
-    date: '2025-11-19'
-    speaker_id: 231
-    start_time_seconds: 0
-    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24242/20251119-Matthew_Brensilver-IMC-dharmette_rivers_are_just_rivers.mp3
   - title: 'Guided Meditation: Ease Makes Letting Go Safer'
     id: 24241
     date: '2025-11-19'
     speaker_id: 231
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24241/20251119-Matthew_Brensilver-IMC-guided_meditation_ease_makes_letting_go_safer.mp3
+  - title: 'Dharmette: Rivers are just rivers'
+    id: 24242
+    date: '2025-11-19'
+    speaker_id: 231
+    start_time_seconds: 1702
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24242/20251119-Matthew_Brensilver-IMC-dharmette_rivers_are_just_rivers.mp3
 - youtube_id: 9oYnqoVDIXY
   talks:
   - title: 'Guided Meditation: Knowing Experience As It Is'
