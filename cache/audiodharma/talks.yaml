@@ -1,3 +1,31 @@
+- youtube_id: iXTUczpdwnk
+  talks:
+  - title: 'Guided Meditation: Just Sounds'
+    id: 24301
+    date: '2025-12-02'
+    speaker_id: 309
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24301/20251202-David_Lorey-IMC-guided_meditation_just_sounds.mp3
+  - title: 'Dharmette: Six Sense-Spheres (2 of 5): Seeing and Hearing'
+    id: 24307
+    date: '2025-12-02'
+    speaker_id: 309
+    start_time_seconds: 1779
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24307/20251202-David_Lorey-IMC-dharmette_six_sense-spheres_2_of_5_seeing_and_hearing.mp3
+- youtube_id: mWmGgSt2Zlw
+  talks:
+  - title: 'Guided Meditation: The Breath as Guide'
+    id: 24310
+    date: '2025-12-01'
+    speaker_id: 309
+    start_time_seconds: 0
+    mp3_url: null
+  - title: 'Dharmette: The Six Sense-Spheres (1 of 5): Introduction to the Practice'
+    id: 24311
+    date: '2025-12-01'
+    speaker_id: 309
+    start_time_seconds: 1913
+    mp3_url: null
 - youtube_id: 1i98LlaLXkg
   talks:
   - title: In the Seeing just the Seeing - Bahiya Sutta
