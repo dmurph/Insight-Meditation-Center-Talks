@@ -1,3 +1,17 @@
+- youtube_id: DpaQrncbf7c
+  talks:
+  - title: 'Guided Meditation: Keeping Freedom in Mind'
+    id: 24320
+    date: '2025-12-05'
+    speaker_id: 309
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24320/20251205-David_Lorey-IMC-guided_meditation_keeping_freedom_in_mind.mp3
+  - title: 'Dharmette: Six Sense-Spheres (5 of 5): The Sixth Sense'
+    id: 24321
+    date: '2025-12-05'
+    speaker_id: 309
+    start_time_seconds: 1938
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24321/20251205-David_Lorey-IMC-dharmette_six_sense-spheres_5_of_5_the_sixth_sense.mp3
 - youtube_id: KIeuJ_3qwOA
   talks:
   - title: 'Guided Meditation: Home for the Holidays'
@@ -33,13 +47,13 @@
     date: '2025-12-01'
     speaker_id: 309
     start_time_seconds: 0
-    mp3_url: null
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24310/20251201-David_Lorey-IMC-guided_meditation_the_breath_as_guide.mp3
   - title: 'Dharmette: The Six Sense-Spheres (1 of 5): Introduction to the Practice'
     id: 24311
     date: '2025-12-01'
     speaker_id: 309
-    start_time_seconds: 1913
-    mp3_url: null
+    start_time_seconds: 1773
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24311/20251201-David_Lorey-IMC-dharmette_the_six_sense-spheres_1_of_5_introduction_to_the_practice.mp3
 - youtube_id: 1i98LlaLXkg
   talks:
   - title: In the Seeing just the Seeing - Bahiya Sutta
