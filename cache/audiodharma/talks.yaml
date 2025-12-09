@@ -1,3 +1,11 @@
+- youtube_id: 7r9FCH3hDQ8
+  talks:
+  - title: 'Guided Meditaation: Mindfulness of Breathing'
+    id: 24381
+    date: '2025-12-08'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24381/20251208-Gil_Fronsdal-IMC-guided_meditaation_mindfulness_of_breathing.mp3
 - youtube_id: pu3pGkxT_vE
   talks:
   - title: What does it take to Make Peace in a Violent World? Wisdom and Lessons
@@ -77,6 +85,14 @@
     speaker_id: 309
     start_time_seconds: 1773
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24311/20251201-David_Lorey-IMC-dharmette_the_six_sense-spheres_1_of_5_introduction_to_the_practice.mp3
+- youtube_id: kHmx_OmJxMM
+  talks:
+  - title: 'Walking in the Wilderness: Working with Doubt'
+    id: 24298
+    date: '2025-12-01'
+    speaker_id: 240
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24298/20251201-Diana_Clark-IMC-walking_in_the_wilderness_working_with_doubt.mp3
 - youtube_id: 1i98LlaLXkg
   talks:
   - title: In the Seeing just the Seeing - Bahiya Sutta
