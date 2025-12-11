@@ -1,11 +1,31 @@
+- youtube_id: 1YW0FtCVGqI
+  talks:
+  - title: 'Guided Meditation: Mindfulness of Body Sensations'
+    id: 24385
+    date: '2025-12-09'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24385/20251209-Gil_Fronsdal-IMC-guided_meditation_mindfulness_of_body_sensations.mp3
+  - title: 'Dharmette: Introduction to Mindfuless (2 of 5) Body'
+    id: 24386
+    date: '2025-12-09'
+    speaker_id: 1
+    start_time_seconds: 1891
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24386/20251209-Gil_Fronsdal-IMC-dharmette_introduction_to_mindfuless_2_of_5_body.mp3
 - youtube_id: 7r9FCH3hDQ8
   talks:
-  - title: 'Guided Meditaation: Mindfulness of Breathing'
+  - title: 'Guided Meditation: Mindfulness of Breathing'
     id: 24381
     date: '2025-12-08'
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24381/20251208-Gil_Fronsdal-IMC-guided_meditaation_mindfulness_of_breathing.mp3
+  - title: 'Dharmette: Introduction to Mindfulness (1 of 5) Breathing'
+    id: 24382
+    date: '2025-12-08'
+    speaker_id: 1
+    start_time_seconds: 1842
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24382/20251208-Gil_Fronsdal-IMC-dharmette_introduction_to_mindfulness_1_of_5_breathing.mp3
 - youtube_id: pu3pGkxT_vE
   talks:
   - title: What does it take to Make Peace in a Violent World? Wisdom and Lessons
