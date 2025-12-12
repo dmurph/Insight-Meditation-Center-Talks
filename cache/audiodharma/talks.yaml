@@ -1,3 +1,45 @@
+- youtube_id: 95CUMWaPiQw
+  talks:
+  - title: 'Guided Meditation: Mindfulness of Thinking'
+    id: 24397
+    date: '2025-12-11'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24397/20251211-Gil_Fronsdal-IMC-guided_meditation_mindfulness_of_thinking.mp3
+  - title: 'Dharmette: Introduction to Mindfulness (4 of 5) Thinking'
+    id: 24398
+    date: '2025-12-11'
+    speaker_id: 1
+    start_time_seconds: 1784
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24398/20251211-Gil_Fronsdal-IMC-dharmette_introduction_to_mindfulness_4_of_5.mp3
+- youtube_id: BhObExe6_q4
+  talks:
+  - title: 'Dharmette: Very Condensed Overview of the Path'
+    id: 24400
+    date: '2025-12-10'
+    speaker_id: 231
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24400/20251210-Matthew_Brensilver-IMC-dharmette_very_condensed_overview_of_the_path.mp3
+  - title: 'Guided Meditation: Sound and Silence'
+    id: 24399
+    date: '2025-12-10'
+    speaker_id: 231
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24399/20251210-Matthew_Brensilver-IMC-guided_meditation_sound_and_silence.mp3
+- youtube_id: ppX1QvqWmHs
+  talks:
+  - title: 'Guided Meditation: Mindfulness of Emotions'
+    id: 24388
+    date: '2025-12-10'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24388/20251210-Gil_Fronsdal-IMC-guided_meditation_mindfulness_of_emotions.mp3
+  - title: 'Dharmette: Introduction to Mindfulness (3 of 5) Emotions.'
+    id: 24389
+    date: '2025-12-10'
+    speaker_id: 1
+    start_time_seconds: 1642
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24389/20251210-Gil_Fronsdal-IMC-dharmette_introduction_o_mindfulness_3_of_5_emotions.mp3
 - youtube_id: 1YW0FtCVGqI
   talks:
   - title: 'Guided Meditation: Mindfulness of Body Sensations'
