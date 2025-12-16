@@ -6,6 +6,14 @@
     speaker_id: 1
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24409/20251214-Gil_Fronsdal-IMC-mind_body_and_heart.mp3
+- youtube_id: HDEfjSOXFlc
+  talks:
+  - title: 'Grief, Loss, and Bereavement: From Foundations to Complexities'
+    id: 24419
+    date: '2025-12-14'
+    speaker_id: 508
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24419/20251214-Chris_Onderdonk-sati-grief_loss_and_bereavement_from_foundations_to_complexities.mp3
 - youtube_id: Dpl2-mvZ3Fc
   talks:
   - title: 'Guided Meditation: Mindfulness of it All'
@@ -36,18 +44,18 @@
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24398/20251211-Gil_Fronsdal-IMC-dharmette_introduction_to_mindfulness_4_of_5.mp3
 - youtube_id: BhObExe6_q4
   talks:
-  - title: 'Dharmette: Very Condensed Overview of the Path'
-    id: 24400
-    date: '2025-12-10'
-    speaker_id: 231
-    start_time_seconds: 0
-    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24400/20251210-Matthew_Brensilver-IMC-dharmette_very_condensed_overview_of_the_path.mp3
   - title: 'Guided Meditation: Sound and Silence'
     id: 24399
     date: '2025-12-10'
     speaker_id: 231
     start_time_seconds: 0
     mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24399/20251210-Matthew_Brensilver-IMC-guided_meditation_sound_and_silence.mp3
+  - title: 'Dharmette: Very Condensed Overview of the Path'
+    id: 24400
+    date: '2025-12-10'
+    speaker_id: 231
+    start_time_seconds: 1686
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24400/20251210-Matthew_Brensilver-IMC-dharmette_very_condensed_overview_of_the_path.mp3
 - youtube_id: ppX1QvqWmHs
   talks:
   - title: 'Guided Meditation: Mindfulness of Emotions'
