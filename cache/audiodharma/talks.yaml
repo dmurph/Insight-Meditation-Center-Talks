@@ -1,3 +1,17 @@
+- youtube_id: hD6H1_DoKIQ
+  talks:
+  - title: 'Guided Meditation: Allowing Breathing'
+    id: 24416
+    date: '2025-12-15'
+    speaker_id: 1
+    start_time_seconds: 1
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24416/20251215-Gil_Fronsdal-IMC-guided_meditation_allowing_breathing.mp3
+  - title: 'Dharmette: Introduction to Mindfulness Pt 2 (1 of 5) Trust Breathing'
+    id: 24417
+    date: '2025-12-15'
+    speaker_id: 1
+    start_time_seconds: 1761
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24417/20251215-Gil_Fronsdal-IMC-dharmette_introduction_to_mindfulness_pt_2_1_of_5_trust_breathing.mp3
 - youtube_id: 0fUJHdtOBwQ
   talks:
   - title: Mind, Body and Heart
