@@ -1,3 +1,31 @@
+- youtube_id: c--2S0jf5F8
+  talks:
+  - title: 'Guided Meditation: Harmony With Emotions'
+    id: 24440
+    date: '2025-12-17'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24440/20251217-Gil_Fronsdal-IMC-guided_meditation_harmony_with_emotions.mp3
+  - title: Dharmette Introduction to Mindfulness Pt 2 (3 of 5) Emotions
+    id: 24441
+    date: '2025-12-17'
+    speaker_id: 1
+    start_time_seconds: 1922
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24441/20251217-Gil_Fronsdal-IMC-dharmette_introduction_to_mindfulness_pt_2_3_of_5_emotions.mp3
+- youtube_id: tn5QdDrlkpU
+  talks:
+  - title: 'Guided Meditation: Posture of Mindfulness'
+    id: 24434
+    date: '2025-12-16'
+    speaker_id: 1
+    start_time_seconds: 0
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24434/20251216-Gil_Fronsdal-IMC-guided_meditation_posture_of_mindfulness.mp3
+  - title: 'Dharmette: Introduction to Mindfulness Pt 2 (2 of 5) Embodiment'
+    id: 24435
+    date: '2025-12-16'
+    speaker_id: 1
+    start_time_seconds: 1832
+    mp3_url: https://audiodharma.us-east-1.linodeobjects.com/talks/24435/20251216-Gil_Fronsdal-IMC-dharmette_introduction_to_mindfulness_pt_2_2_of_5_embodiment.mp3
 - youtube_id: hD6H1_DoKIQ
   talks:
   - title: 'Guided Meditation: Allowing Breathing'
