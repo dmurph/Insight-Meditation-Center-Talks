@@ -4,7 +4,7 @@ import tempfile
 import shutil
 import logging
 
-from uber_transcribe.metadata_providers.audiodharma import AudioDharmaProvider
+from uber_transcribe.metadata_providers.audiodharma.provider import AudioDharmaProvider
 from uber_transcribe.models import SourceItem, SourceType
 
 logging.basicConfig(level=logging.INFO)
@@ -15,7 +15,7 @@ class TestAudioDharmaProviderIntegration(unittest.TestCase):
         self.cache_dir = Path(self.temp_dir)
         self.provider = AudioDharmaProvider(cache_dir=self.cache_dir)
 
-        html_path = Path(__file__).parent / "AudioDharma - All Talks.html"
+        html_path = Path(__file__).parent / "audiodharma-page1.html"
         with open(html_path, "r", encoding="utf-8") as f:
             self.html_content = f.read()
 
